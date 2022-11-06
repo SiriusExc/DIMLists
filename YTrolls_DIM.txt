@@ -296,42 +296,56 @@ dimwishlist:item=1184309824&perks=1687452232,247725512,2173046394
 dimwishlist:item=1248372789&perks=3250034553,3142289711,2450788523,1890422124
 
 
-// Mechabre (god-pvp)
-//notes: tags:god-pvp
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (god-pvp)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:god-pvp
 dimwishlist:item=1280894514&perks=202670084,3142289711,957782887,47981717
 dimwishlist:item=1280894514&perks=202670084,3142289711,957782887,1546637391
 dimwishlist:item=1280894514&perks=202670084,3142289711,957782887,588594999
 
 
-// Mechabre (god-pve)
-//notes: tags:god-pve
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (god-pve)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:god-pve
 dimwishlist:item=1280894514&perks=202670084,1087426260,3400784728,1546637391
 dimwishlist:item=1280894514&perks=202670084,1087426260,3400784728,2213355989
 
 
-// Mechabre (pvp)
-//notes: tags:pvp
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (god-pvp)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:god-pvp
+dimwishlist:item=1280894514&perks=957782887,47981717
+dimwishlist:item=1280894514&perks=957782887,1546637391
+dimwishlist:item=1280894514&perks=957782887,588594999
+
+
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (god-pve)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:god-pve
+dimwishlist:item=1280894514&perks=3400784728,1546637391
+dimwishlist:item=1280894514&perks=3400784728,2213355989
+
+
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (pvp)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:pvp
 dimwishlist:item=1280894514&perks=202670084,3142289711,1428297954,588594999
 dimwishlist:item=1280894514&perks=202670084,3142289711,2866798147,588594999
 dimwishlist:item=1280894514&perks=202670084,3230963543,1428297954,588594999
 dimwishlist:item=1280894514&perks=202670084,3230963543,2866798147,588594999
 
 
-// Mechabre (pve)
-//notes: tags:pve
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (pve)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:pve
 dimwishlist:item=1280894514&perks=202670084,1087426260,2284787283,1546637391
 dimwishlist:item=1280894514&perks=202670084,1087426260,2284787283,2213355989
 dimwishlist:item=1280894514&perks=202670084,3230963543,2284787283,1546637391
 dimwishlist:item=1280894514&perks=202670084,3230963543,2284787283,2213355989
 
 
-// Mechabre (pve)
-//notes: tags:pve
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (pve)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:pve
 dimwishlist:item=1280894514&perks=202670084,1087426260,4082225868
 dimwishlist:item=1280894514&perks=202670084,3230963543,4082225868
 
 
-// Mechabre ()
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] ()
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling
 dimwishlist:item=1280894514&perks=3400784728,4082225868
 dimwishlist:item=1280894514&perks=3400784728,2213355989
 dimwishlist:item=1280894514&perks=3400784728,1546637391
@@ -341,6 +355,18 @@ dimwishlist:item=1280894514&perks=2284787283,1546637391
 dimwishlist:item=1280894514&perks=3300816228,4082225868
 dimwishlist:item=1280894514&perks=3300816228,2213355989
 dimwishlist:item=1280894514&perks=3300816228,1546637391
+
+
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (pvp)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:pvp
+dimwishlist:item=1280894514&perks=1428297954,588594999
+dimwishlist:item=1280894514&perks=2866798147,588594999
+
+
+// Mechabre - [Aztecross/CoolGuy S18 FotL Review] (pve)
+//notes: [Aztecross/CoolGuy S18 FotL Review] Range or Handling Barrel and Mag, MW Range or Handling tags:pve
+dimwishlist:item=1280894514&perks=2284787283,1546637391
+dimwishlist:item=1280894514&perks=2284787283,2213355989
 
 
 // PLUG ONE.1 - Pick stat-boosting barrels, not very important (Extended or Chambered recommended) (god-pvp)
@@ -765,8 +791,8 @@ dimwishlist:item=2591111628&perks=1300023272,1087426260,706527188,957782887
 dimwishlist:item=2591111628&perks=1300023272,106909392,706527188,957782887
 
 
-// Jurassic Green - More for PvE/6v6 than 3v3/Rumble (god-pve,god-pvp)
-//notes: More for PvE/6v6 than 3v3/Rumble tags:god-pve,god-pvp
+// Jurassic Green - [CoolGuy S18 Review] More for PvE/6v6 than 3v3/Rumble (god-pve,god-pvp)
+//notes: [CoolGuy S18 Review] More for PvE/6v6 than 3v3/Rumble, Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pve,god-pvp
 dimwishlist:item=2603335652&perks=839105230,1561002382,2450788523,2610012052
 dimwishlist:item=2603335652&perks=839105230,1561002382,2846385770,2610012052
 dimwishlist:item=2603335652&perks=839105230,1885400500,2450788523,2610012052
@@ -787,8 +813,14 @@ dimwishlist:item=2603335652&perks=1482024992,1087426260,2450788523,2610012052
 dimwishlist:item=2603335652&perks=1482024992,1087426260,2846385770,2610012052
 
 
-// Jurassic Green (god-pvp)
-//notes: tags:god-pvp
+// Jurassic Green - [CoolGuy S18 Review] More for PvE/6v6 than 3v3/Rumble (god-pve,god-pvp)
+//notes: [CoolGuy S18 Review] More for PvE/6v6 than 3v3/Rumble, Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pve,god-pvp
+dimwishlist:item=2603335652&perks=2450788523,2610012052
+dimwishlist:item=2603335652&perks=2846385770,2610012052
+
+
+// Jurassic Green - [CoolGuy S18 Review] (god-pvp)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pvp
 dimwishlist:item=2603335652&perks=839105230,1885400500,2846385770,2458213969
 dimwishlist:item=2603335652&perks=839105230,1561002382,2846385770,2458213969
 dimwishlist:item=2603335652&perks=1467527085,1885400500,2846385770,2458213969
@@ -797,8 +829,8 @@ dimwishlist:item=2603335652&perks=1482024992,1885400500,2846385770,2458213969
 dimwishlist:item=2603335652&perks=1482024992,1561002382,2846385770,2458213969
 
 
-// Jurassic Green - Bottomless magazine (god-pve)
-//notes: Bottomless magazine tags:god-pve
+// Jurassic Green - [CoolGuy S18 Review] Bottomless magazine (god-pve)
+//notes: [CoolGuy S18 Review] Bottomless magazine, Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pve
 dimwishlist:item=2603335652&perks=839105230,1885400500,1820235745,4293542123
 dimwishlist:item=2603335652&perks=839105230,1561002382,1820235745,4293542123
 dimwishlist:item=2603335652&perks=839105230,1087426260,1820235745,4293542123
@@ -810,8 +842,8 @@ dimwishlist:item=2603335652&perks=1482024992,1561002382,1820235745,4293542123
 dimwishlist:item=2603335652&perks=1482024992,1087426260,1820235745,4293542123
 
 
-// Jurassic Green (god-pve)
-//notes: tags:god-pve
+// Jurassic Green - [CoolGuy S18 Review] (god-pve)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pve
 dimwishlist:item=2603335652&perks=839105230,1885400500,1820235745,4104185692
 dimwishlist:item=2603335652&perks=839105230,1561002382,1820235745,4104185692
 dimwishlist:item=2603335652&perks=839105230,1087426260,1820235745,4104185692
@@ -823,8 +855,8 @@ dimwishlist:item=2603335652&perks=1482024992,1561002382,1820235745,4104185692
 dimwishlist:item=2603335652&perks=1482024992,1087426260,1820235745,4104185692
 
 
-// Jurassic Green (god-pvp)
-//notes: tags:god-pvp
+// Jurassic Green - [Aztecross S18 Review] (god-pvp)
+//notes: [Aztecross S18 Review] Smallbore with Hi-Cal or Appended tags:god-pvp
 dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,2458213969
 dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,2610012052
 dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,4293542123
@@ -845,8 +877,8 @@ dimwishlist:item=2603335652&perks=1482024992,1561002382,1428297954,2610012052
 dimwishlist:item=2603335652&perks=1482024992,1561002382,1428297954,4293542123
 
 
-// Jurassic Green (god-pve)
-//notes: tags:god-pve
+// Jurassic Green - [CoolGuy S18 Review] (god-pve)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pve
 dimwishlist:item=2603335652&perks=839105230,1885400500,1820235745,1048183818
 dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,1048183818
 dimwishlist:item=2603335652&perks=839105230,1885400500,509074078,1048183818
@@ -876,20 +908,51 @@ dimwishlist:item=2603335652&perks=1482024992,1087426260,1428297954,1048183818
 dimwishlist:item=2603335652&perks=1482024992,1087426260,509074078,1048183818
 
 
-// Jurassic Green ()
-dimwishlist:item=2603335652&perks=839105230,1885400500,11612903
-dimwishlist:item=2603335652&perks=839105230,1561002382,11612903
-dimwishlist:item=2603335652&perks=839105230,1087426260,11612903
-dimwishlist:item=2603335652&perks=1467527085,1885400500,11612903
-dimwishlist:item=2603335652&perks=1467527085,1561002382,11612903
-dimwishlist:item=2603335652&perks=1467527085,1087426260,11612903
-dimwishlist:item=2603335652&perks=1482024992,1885400500,11612903
-dimwishlist:item=2603335652&perks=1482024992,1561002382,11612903
-dimwishlist:item=2603335652&perks=1482024992,1087426260,11612903
+// Jurassic Green - [Aztecross S18 Review] (god-pvp)
+//notes: [Aztecross S18 Review] Smallbore with Hi-Cal or Appended tags:god-pvp
+dimwishlist:item=2603335652&perks=1428297954,2458213969
+dimwishlist:item=2603335652&perks=1428297954,2610012052
+dimwishlist:item=2603335652&perks=1428297954,4293542123
 
 
-// Jurassic Green (pvp)
-//notes: tags:pvp
+// Jurassic Green - [CoolGuy S18 Review] Bottomless magazine (god-pve)
+//notes: [CoolGuy S18 Review] Bottomless magazine, Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pve
+dimwishlist:item=2603335652&perks=1820235745,4293542123
+
+
+// Jurassic Green - [CoolGuy S18 Review] (god-pvp)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pvp
+dimwishlist:item=2603335652&perks=2846385770,2458213969
+
+
+// Jurassic Green - [CoolGuy S18 Review] (god-pve)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pve
+dimwishlist:item=2603335652&perks=2846385770,4104185692
+dimwishlist:item=2603335652&perks=1820235745,4104185692
+
+
+// Jurassic Green - [CoolGuy S18 Review] (god-pve)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:god-pve
+dimwishlist:item=2603335652&perks=1820235745,1048183818
+dimwishlist:item=2603335652&perks=1428297954,1048183818
+dimwishlist:item=2603335652&perks=509074078,1048183818
+
+
+// Jurassic Green - [CoolGuy S18 Review] ()
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range
+dimwishlist:item=2603335652&perks=839105230,1885400500
+dimwishlist:item=2603335652&perks=839105230,1561002382
+dimwishlist:item=2603335652&perks=839105230,1087426260
+dimwishlist:item=2603335652&perks=1467527085,1885400500
+dimwishlist:item=2603335652&perks=1467527085,1561002382
+dimwishlist:item=2603335652&perks=1467527085,1087426260
+dimwishlist:item=2603335652&perks=1482024992,1885400500
+dimwishlist:item=2603335652&perks=1482024992,1561002382
+dimwishlist:item=2603335652&perks=1482024992,1087426260
+
+
+// Jurassic Green - [CoolGuy S18 Review] (pvp)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:pvp
 dimwishlist:item=2603335652&perks=839105230,1885400500,2946784966,2458213969
 dimwishlist:item=2603335652&perks=839105230,1885400500,2450788523,2458213969
 dimwishlist:item=2603335652&perks=839105230,1561002382,2946784966,2458213969
@@ -916,8 +979,8 @@ dimwishlist:item=2603335652&perks=3250034553,1561002382,2946784966,2458213969
 dimwishlist:item=2603335652&perks=3250034553,1561002382,2450788523,2458213969
 
 
-// Jurassic Green (pve)
-//notes: tags:pve
+// Jurassic Green - [CoolGuy S18 Review] (pve)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:pve
 dimwishlist:item=2603335652&perks=839105230,1885400500,2846385770,4104185692
 dimwishlist:item=2603335652&perks=839105230,1561002382,2846385770,4104185692
 dimwishlist:item=2603335652&perks=839105230,1087426260,2846385770,4104185692
@@ -938,8 +1001,8 @@ dimwishlist:item=2603335652&perks=3250034553,1561002382,2846385770,4104185692
 dimwishlist:item=2603335652&perks=3250034553,1087426260,2846385770,4104185692
 
 
-// Jurassic Green (pve)
-//notes: tags:pve
+// Jurassic Green - [CoolGuy S18 Review] (pve)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:pve
 dimwishlist:item=2603335652&perks=839105230,1885400500,2450788523,4293542123
 dimwishlist:item=2603335652&perks=839105230,1561002382,2450788523,4293542123
 dimwishlist:item=2603335652&perks=839105230,1087426260,2450788523,4293542123
@@ -958,6 +1021,17 @@ dimwishlist:item=2603335652&perks=1482024992,1087426260,2450788523,4293542123
 dimwishlist:item=2603335652&perks=3250034553,1885400500,2450788523,4293542123
 dimwishlist:item=2603335652&perks=3250034553,1561002382,2450788523,4293542123
 dimwishlist:item=2603335652&perks=3250034553,1087426260,2450788523,4293542123
+
+
+// Jurassic Green - [CoolGuy S18 Review] (pvp)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:pvp
+dimwishlist:item=2603335652&perks=2946784966,2458213969
+dimwishlist:item=2603335652&perks=2450788523,2458213969
+
+
+// Jurassic Green - [CoolGuy S18 Review] (pve)
+//notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:pve
+dimwishlist:item=2603335652&perks=2450788523,4293542123
 
 
 // Pure Poetry (god-pvp)
@@ -1059,55 +1133,74 @@ dimwishlist:item=2852052802&perks=1820235745,4049631843
 dimwishlist:item=2852052802&perks=1583705720,4049631843
 
 
-// BrayTech Werewolf (god-pvp)
-//notes: tags:god-pvp
-dimwishlist:item=2869466318&perks=1392496348,1885400500,1359896290,1890422124
-dimwishlist:item=2869466318&perks=1392496348,1885400500,1359896290,4082225868
-
-
-// BrayTech Werewolf (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=2869466318&perks=1392496348,1885400500,1359896290,4082225868
-
-
-// BrayTech Werewolf (god-pvp)
-//notes: tags:god-pvp
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] (god-pvp)
+//notes: [CoolGuy S18 FotL Review] Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:god-pvp
 dimwishlist:item=2869466318&perks=202670084,1885400500,1359896290,1015611457
 dimwishlist:item=2869466318&perks=202670084,1885400500,1820235745,1015611457
 dimwishlist:item=2869466318&perks=202670084,1561002382,1359896290,1015611457
 dimwishlist:item=2869466318&perks=202670084,1561002382,1820235745,1015611457
 
 
-// BrayTech Werewolf - Double accuracy Dualling roll (god-pvp)
-//notes: Double accuracy Dualling roll tags:god-pvp
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] Double accuracy Dualling roll (god-pvp)
+//notes: [CoolGuy S18 FotL Review] Double accuracy Dualling roll, Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:god-pvp
 dimwishlist:item=2869466318&perks=202670084,1885400500,1359896290,1890422124
 dimwishlist:item=2869466318&perks=202670084,1885400500,3161816588,1890422124
 dimwishlist:item=2869466318&perks=202670084,1561002382,1359896290,1890422124
 dimwishlist:item=2869466318&perks=202670084,1561002382,3161816588,1890422124
 
 
-// BrayTech Werewolf (god-pve)
-//notes: tags:god-pve
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] (god-pve)
+//notes: [CoolGuy S18 FotL Review] Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:god-pve
 dimwishlist:item=2869466318&perks=202670084,1885400500,744594675,4082225868
 dimwishlist:item=2869466318&perks=202670084,1885400500,691659142,4082225868
 dimwishlist:item=2869466318&perks=202670084,1561002382,744594675,4082225868
 dimwishlist:item=2869466318&perks=202670084,1561002382,691659142,4082225868
 
 
-// BrayTech Werewolf - Use with dual targeting mods (pvp)
-//notes: Use with dual targeting mods tags:pvp
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] (god-pvp)
+//notes: [CoolGuy S18 FotL Review] Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:god-pvp
+dimwishlist:item=2869466318&perks=1359896290,1015611457
+dimwishlist:item=2869466318&perks=1820235745,1015611457
+
+
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] Double accuracy Dualling roll (god-pvp)
+//notes: [CoolGuy S18 FotL Review] Double accuracy Dualling roll, Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:god-pvp
+dimwishlist:item=2869466318&perks=1359896290,4082225868
+dimwishlist:item=2869466318&perks=3161816588,4082225868
+
+
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] (god-pve)
+//notes: [CoolGuy S18 FotL Review] Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:god-pve
+dimwishlist:item=2869466318&perks=744594675,4082225868
+dimwishlist:item=2869466318&perks=691659142,4082225868
+
+
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] Use with dual targeting mods (pvp)
+//notes: [CoolGuy S18 FotL Review] Use with dual targeting mods, Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:pvp
 dimwishlist:item=2869466318&perks=202670084,1885400500,1359896290,1365187766
 dimwishlist:item=2869466318&perks=202670084,1561002382,1359896290,1365187766
 
 
-// BrayTech Werewolf (pvp)
-//notes: tags:pvp
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] (pvp)
+//notes: [CoolGuy S18 FotL Review] Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:pvp
 dimwishlist:item=2869466318&perks=202670084,1561002382,3161816588,1015611457
 dimwishlist:item=2869466318&perks=202670084,1561002382,744594675,1015611457
 dimwishlist:item=2869466318&perks=202670084,1561002382,691659142,1015611457
 dimwishlist:item=2869466318&perks=202670084,1885400500,3161816588,1015611457
 dimwishlist:item=2869466318&perks=202670084,1885400500,744594675,1015611457
 dimwishlist:item=2869466318&perks=202670084,1885400500,691659142,1015611457
+
+
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] Use with dual targeting mods (pvp)
+//notes: [CoolGuy S18 FotL Review] Use with dual targeting mods, Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:pvp
+dimwishlist:item=2869466318&perks=1359896290,1365187766
+
+
+// BrayTech Werewolf - [CoolGuy S18 FotL Review] (pvp)
+//notes: [CoolGuy S18 FotL Review] Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:pvp
+dimwishlist:item=2869466318&perks=3161816588,1015611457
+dimwishlist:item=2869466318&perks=744594675,1015611457
+dimwishlist:item=2869466318&perks=691659142,1015611457
 
 
 // Out of Bounds (pve,pvp)
@@ -1309,38 +1402,57 @@ dimwishlist:item=3107853529&perks=1482024992,1087426260,280464955,588594999
 dimwishlist:item=3107853529&perks=
 
 
-// Horror Story (god-pvp)
-//notes: tags:god-pvp
+// Horror Story - [CoolGuy S18 FotL Review] (god-pvp)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:god-pvp
 dimwishlist:item=3829285960&perks=679077873,2450788523,588594999
 dimwishlist:item=3829285960&perks=679077872,2450788523,588594999
 dimwishlist:item=3829285960&perks=2405638014,2450788523,588594999
+dimwishlist:item=3829285960&perks=2405638015,2450788523,588594999
 
 
-// Horror Story (god-pve)
-//notes: tags:god-pve
+// Horror Story - [CoolGuy S18 FotL Review] (god-pve)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:god-pve
 dimwishlist:item=3829285960&perks=679077873,1820235745,3523296417
 dimwishlist:item=3829285960&perks=679077872,1820235745,3523296417
 dimwishlist:item=3829285960&perks=2405638014,1820235745,3523296417
+dimwishlist:item=3829285960&perks=2405638015,1820235745,3523296417
 
 
-// Horror Story - Max range roll (god-pvp)
-//notes: Max range roll tags:god-pvp
+// Horror Story - [CoolGuy S18 FotL Review] Max range roll (god-pvp)
+//notes: [CoolGuy S18 FotL Review] Max range roll, Recoil scope, Range mag, MW Range or Recoil tags:god-pvp
 dimwishlist:item=3829285960&perks=679077873,2450788523,957782887
 dimwishlist:item=3829285960&perks=679077872,2450788523,957782887
 
 
-// Horror Story (pvp)
-//notes: tags:pvp
+// Horror Story - [CoolGuy S18 FotL Review] (god-pvp)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:god-pvp
+dimwishlist:item=3829285960&perks=2450788523,588594999
+
+
+// Horror Story - [CoolGuy S18 FotL Review] (god-pve)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:god-pve
+dimwishlist:item=3829285960&perks=1820235745,3523296417
+
+
+// Horror Story - [CoolGuy S18 FotL Review] Max range roll (god-pvp)
+//notes: [CoolGuy S18 FotL Review] Max range roll, Recoil scope, Range mag, MW Range or Recoil tags:god-pvp
+dimwishlist:item=3829285960&perks=2450788523,957782887
+
+
+// Horror Story - [CoolGuy S18 FotL Review] (pvp)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:pvp
 dimwishlist:item=3829285960&perks=679077873,280464955,588594999
 dimwishlist:item=3829285960&perks=679077873,280464955,3523296417
 dimwishlist:item=3829285960&perks=679077872,280464955,588594999
 dimwishlist:item=3829285960&perks=679077872,280464955,3523296417
 dimwishlist:item=3829285960&perks=2405638014,280464955,588594999
 dimwishlist:item=3829285960&perks=2405638014,280464955,3523296417
+dimwishlist:item=3829285960&perks=2405638015,280464955,588594999
+dimwishlist:item=3829285960&perks=2405638015,280464955,3523296417
 
 
-// Horror Story (pve)
-//notes: tags:pve
+// Horror Story - [CoolGuy S18 FotL Review] (pve)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:pve
 dimwishlist:item=3829285960&perks=679077873,1820235745,1774574192
 dimwishlist:item=3829285960&perks=679077873,2010801679,1774574192
 dimwishlist:item=3829285960&perks=679077873,1168162263,1774574192
@@ -1350,10 +1462,13 @@ dimwishlist:item=3829285960&perks=679077872,1168162263,1774574192
 dimwishlist:item=3829285960&perks=2405638014,1820235745,1774574192
 dimwishlist:item=3829285960&perks=2405638014,2010801679,1774574192
 dimwishlist:item=3829285960&perks=2405638014,1168162263,1774574192
+dimwishlist:item=3829285960&perks=2405638015,1820235745,1774574192
+dimwishlist:item=3829285960&perks=2405638015,2010801679,1774574192
+dimwishlist:item=3829285960&perks=2405638015,1168162263,1774574192
 
 
-// Horror Story - Duelling roll (pvp)
-//notes: Duelling roll tags:pvp
+// Horror Story - [CoolGuy S18 FotL Review] Duelling roll (pvp)
+//notes: [CoolGuy S18 FotL Review] Duelling roll, Recoil scope, Range mag, MW Range or Recoil tags:pvp
 dimwishlist:item=3829285960&perks=679077873,280464955,957782887
 dimwishlist:item=3829285960&perks=679077873,280464955,2039302152
 dimwishlist:item=3829285960&perks=679077872,280464955,957782887
@@ -1362,14 +1477,41 @@ dimwishlist:item=3829285960&perks=2405638014,280464955,957782887
 dimwishlist:item=3829285960&perks=2405638014,280464955,2039302152
 
 
-// Horror Story (pve)
-//notes: tags:pve
+// Horror Story - [CoolGuy S18 FotL Review] (pve)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:pve
 dimwishlist:item=3829285960&perks=679077873,2010801679,3523296417
 dimwishlist:item=3829285960&perks=679077873,1168162263,3523296417
 dimwishlist:item=3829285960&perks=679077872,2010801679,3523296417
 dimwishlist:item=3829285960&perks=679077872,1168162263,3523296417
 dimwishlist:item=3829285960&perks=2405638014,2010801679,3523296417
 dimwishlist:item=3829285960&perks=2405638014,1168162263,3523296417
+dimwishlist:item=3829285960&perks=2405638015,2010801679,3523296417
+dimwishlist:item=3829285960&perks=2405638015,1168162263,3523296417
+
+
+// Horror Story - [CoolGuy S18 FotL Review] (pvp)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:pvp
+dimwishlist:item=3829285960&perks=280464955,588594999
+dimwishlist:item=3829285960&perks=280464955,3523296417
+
+
+// Horror Story - [CoolGuy S18 FotL Review] (pve)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:pve
+dimwishlist:item=3829285960&perks=1820235745,1774574192
+dimwishlist:item=3829285960&perks=2010801679,1774574192
+dimwishlist:item=3829285960&perks=1168162263,1774574192
+
+
+// Horror Story - [CoolGuy S18 FotL Review] Duelling roll (pvp)
+//notes: [CoolGuy S18 FotL Review] Duelling roll, Recoil scope, Range mag, MW Range or Recoil tags:pvp
+dimwishlist:item=3829285960&perks=280464955,957782887
+dimwishlist:item=3829285960&perks=280464955,2039302152
+
+
+// Horror Story - [CoolGuy S18 FotL Review] (pve)
+//notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:pve
+dimwishlist:item=3829285960&perks=2010801679,3523296417
+dimwishlist:item=3829285960&perks=1168162263,3523296417
 
 
 // Explosive Personality (god-pvp)

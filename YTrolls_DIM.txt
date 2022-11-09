@@ -62,6 +62,45 @@ dimwishlist:item=294129361&perks=3661387068,1885400500,1359896290,588594999
 dimwishlist:item=310708513&perks=2450788523,1015611457
 
 
+// Cantata-57 - [CoolGuy S16 Review] (god-pvp)
+//notes: [CoolGuy S16 Review] tags:god-pvp
+dimwishlist:item=372697604&perks=3250034553,3142289711,509074078,2846385770
+
+
+// Cantata-57 - [CoolGuy S16 Review] (god-pvp)
+//notes: [CoolGuy S16 Review] Duelling roll, double accuracy flinch-reducing, with Recoil barrel (AHB/Full Bore, or Smallbore/Fluted), range/mag size mags (Accurized or Light/Appended) tags:god-pvp
+dimwishlist:item=372697604&perks=839105230,3142289711,699525795,47981717
+dimwishlist:item=372697604&perks=839105230,1087426260,699525795,47981717
+dimwishlist:item=372697604&perks=202670084,3142289711,699525795,47981717
+dimwishlist:item=372697604&perks=202670084,1087426260,699525795,47981717
+dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,47981717
+dimwishlist:item=372697604&perks=1482024992,1087426260,699525795,47981717
+dimwishlist:item=372697604&perks=1840239774,3142289711,699525795,47981717
+dimwishlist:item=372697604&perks=1840239774,1087426260,699525795,47981717
+
+
+// Cantata-57 - [CoolGuy S16 Review] (god-pvp)
+//notes: [CoolGuy S16 Review] Reloading roll, uses intrinsic trait, use with HC loaders and targeting mods, with Recoil barrel (AHB/Full Bore, or Smallbore/Fluted), range/mag size mags (Accurized or Light/Appended) tags:god-pvp
+dimwishlist:item=372697604&perks=839105230,3142289711,671806388,588594999
+dimwishlist:item=372697604&perks=839105230,1087426260,671806388,588594999
+dimwishlist:item=372697604&perks=202670084,3142289711,671806388,588594999
+dimwishlist:item=372697604&perks=202670084,1087426260,671806388,588594999
+dimwishlist:item=372697604&perks=1482024992,3142289711,671806388,588594999
+dimwishlist:item=372697604&perks=1482024992,1087426260,671806388,588594999
+dimwishlist:item=372697604&perks=1840239774,3142289711,671806388,588594999
+dimwishlist:item=372697604&perks=1840239774,1087426260,671806388,588594999
+
+
+// Cantata-57 - [CoolGuy S16 Review] (god-pvp)
+//notes: [CoolGuy S16 Review] Duelling roll, double accuracy flinch-reducing, with Recoil barrel (AHB/Full Bore, or Smallbore/Fluted), range/mag size mags (Accurized or Light/Appended) tags:god-pvp
+dimwishlist:item=372697604&perks=699525795,47981717
+
+
+// Cantata-57 - [CoolGuy S16 Review] (god-pvp)
+//notes: [CoolGuy S16 Review] Reloading roll, uses intrinsic trait, use with HC loaders and targeting mods, with Recoil barrel (AHB/Full Bore, or Smallbore/Fluted), range/mag size mags (Accurized or Light/Appended) tags:god-pvp
+dimwishlist:item=372697604&perks=671806388,588594999
+
+
 // PLUG ONE.1 (Adept) - Pick stat-boosting barrels, not very important (Extended or Chambered recommended) (god-pvp)
 //notes: Pick stat-boosting barrels, not very important (Extended or Chambered recommended) tags:god-pvp
 dimwishlist:item=534775659&perks=3868766766,1570042021,1799762209
@@ -427,6 +466,31 @@ dimwishlist:item=1298815317&perks=3250034553,3142289711,4082225868
 //notes: PvP (low range, not recommended) tags:pvp
 dimwishlist:item=1298815317&perks=1482024992,3142289711,2450788523,2846385770
 dimwishlist:item=1298815317&perks=202670084,3142289711,2450788523,2846385770
+
+
+// Silicon Neuroma (Adept) - [Aztecross S16 Review] (god-pvp)
+//notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pvp
+dimwishlist:item=1387987271&perks=1968497646,957782887,47981717
+dimwishlist:item=1387987271&perks=1968497646,280464955,47981717
+dimwishlist:item=1387987271&perks=1087426260,957782887,47981717
+dimwishlist:item=1387987271&perks=1087426260,280464955,47981717
+
+
+// Silicon Neuroma (Adept) - [Aztecross S16 Review] (god-pve)
+//notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pve
+dimwishlist:item=1387987271&perks=1968497646,3400784728,1771339417
+dimwishlist:item=1387987271&perks=1087426260,3400784728,1771339417
+
+
+// Silicon Neuroma (Adept) - [Aztecross S16 Review] (god-pvp)
+//notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pvp
+dimwishlist:item=1387987271&perks=957782887,47981717
+dimwishlist:item=1387987271&perks=280464955,47981717
+
+
+// Silicon Neuroma (Adept) - [Aztecross S16 Review] (god-pve)
+//notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pve
+dimwishlist:item=1387987271&perks=3400784728,1771339417
 
 
 // Blood Feud ()
@@ -1400,6 +1464,46 @@ dimwishlist:item=3107853529&perks=1482024992,1087426260,280464955,588594999
 // Beloved - Ad clear (pve)
 //notes: Ad clear tags:pve
 dimwishlist:item=3107853529&perks=
+
+
+// Silicon Neuroma - [Aztecross S16 Review] (god-pvp)
+//notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pvp
+dimwishlist:item=3355385170&perks=1968497646,957782887,47981717
+dimwishlist:item=3355385170&perks=1968497646,280464955,47981717
+dimwishlist:item=3355385170&perks=1087426260,957782887,47981717
+dimwishlist:item=3355385170&perks=1087426260,280464955,47981717
+
+
+// Silicon Neuroma - [Aztecross S16 Review] (god-pvp)
+//notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pvp
+dimwishlist:item=3355385170&perks=957782887,47981717
+dimwishlist:item=3355385170&perks=280464955,47981717
+
+
+// Silicon Neuroma - [Aztecross S16 Review] (god-pve)
+//notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pve
+dimwishlist:item=3355385170&perks=1968497646,3400784728,1771339417
+dimwishlist:item=3355385170&perks=1087426260,3400784728,1771339417
+
+
+// Silicon Neuroma - [Aztecross S16 Review] (god-pve)
+//notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pve
+dimwishlist:item=3355385170&perks=3400784728,1771339417
+
+
+// Typhon GL5 - [Aztecross S16 WQ overview] ()
+//notes: [Aztecross S16 WQ overview]
+dimwishlist:item=3568377122&perks=951095735,2978966579
+
+
+// Typhon GL5 - [Aztecross S16 WQ overview] ()
+//notes: [Aztecross S16 WQ overview] (anything with Explosive Light)
+dimwishlist:item=3568377122&perks=951095735,3194351027
+dimwishlist:item=3568377122&perks=509074078,3194351027
+dimwishlist:item=3568377122&perks=3096702027,3194351027
+dimwishlist:item=3568377122&perks=3523296417,3194351027
+dimwishlist:item=3568377122&perks=1583705720,3194351027
+dimwishlist:item=3568377122&perks=3108830275,3194351027
 
 
 // Horror Story - [CoolGuy S18 FotL Review] (god-pvp)

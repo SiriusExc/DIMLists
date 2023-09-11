@@ -1,6 +1,33 @@
 title:YT rolls wishlist
 description:Rolls from CoolGuy, Aztecross, FalloutPlays, Demonjoe, KackisHD, and others
 
+// Word of Crota - [Datto Crota's End God Rolls] (pve)
+//notes: [Datto Crota's End God Rolls] Rampage x3/AJunkie x5 same as Sword Logic x3 but easier to proc tags:pve
+dimwishlist:item=120706239&perks=1820235745,3425386926
+dimwishlist:item=120706239&perks=1820235745,11612903
+dimwishlist:item=120706239&perks=1820235745,4104185692
+dimwishlist:item=120706239&perks=2848615171,3425386926
+dimwishlist:item=120706239&perks=2848615171,11612903
+dimwishlist:item=120706239&perks=2848615171,4104185692
+dimwishlist:item=120706239&perks=3828510309,3425386926
+dimwishlist:item=120706239&perks=3828510309,11612903
+dimwishlist:item=120706239&perks=3828510309,4104185692
+dimwishlist:item=120706239&perks=3523296417,3425386926
+dimwishlist:item=120706239&perks=3523296417,11612903
+dimwishlist:item=120706239&perks=3523296417,4104185692
+
+
+// Word of Crota - [Datto Crota's End God Rolls] (pve)
+//notes: [Datto Crota's End God Rolls] tags:pve
+dimwishlist:item=120706239&perks=776531651,2048641572
+
+
+// Word of Crota - [Datto Crota's End God Rolls] (pvp)
+//notes: [Datto Crota's End God Rolls] tags:pvp
+dimwishlist:item=120706239&perks=1820235745,31345821
+dimwishlist:item=120706239&perks=3828510309,31345821
+
+
 // Under Your Skin - Speedshot (god-pve,god-pvp)
 //notes: Speedshot tags:god-pve,god-pvp
 dimwishlist:item=232928045&perks=2801223209,16392701,201365942,2652708987
@@ -272,6 +299,45 @@ dimwishlist:item=617501162&perks=1392496348,2420895100,2621346526,2896038713
 dimwishlist:item=617501162&perks=1392496348,2420895100,2621346526,2610012052
 
 
+// Abyss Defiant - [Datto Crota's End God Rolls] (pve)
+//notes: [Datto Crota's End God Rolls] Reconstruction not a good general perk as requires not firing your primary weapon; Target Lock/Sword Logic not too useful on primary ammo weapon either, use special or heavy for that tags:pve
+dimwishlist:item=833898322&perks=1820235745,4293542123
+dimwishlist:item=833898322&perks=1168162263,4293542123
+
+
+// Abyss Defiant - [Datto Crota's End God Rolls] (pve,pvp)
+//notes: [Datto Crota's End God Rolls] Reconstruction not a good general PvE perk as requires not firing your primary weapon; Target Lock/Sword Logic not too useful on primary ammo weapon either, use special or heavy for that tags:pve,pvp
+dimwishlist:item=833898322&perks=1168162263,1015611457
+
+
+// Abyss Defiant - [Datto Crota's End God Rolls] (pvp)
+//notes: [Datto Crota's End God Rolls] Can also consider Ammit AR2, 360rpm not that good tags:pvp
+dimwishlist:item=833898322&perks=1523832109,31345821
+dimwishlist:item=833898322&perks=1168162263,31345821
+
+
+// Abyss Defiant - [demonjoe Crota's End God Rolls] (pve)
+//notes: [demonjoe Crota's End God Rolls] Bad archetype and likely won't craft, but if I do, Heal Clip or Recon with Incandescent would be it tags:pve
+dimwishlist:item=833898322&perks=3017780555,4293542123
+dimwishlist:item=833898322&perks=1523832109,4293542123
+
+
+// Oversoul Edict - [Datto Crota's End God Rolls] (pve)
+//notes: [Datto Crota's End God Rolls] Pair Voltshot with reload perks tags:pve
+dimwishlist:item=1098171824&perks=3523296417,2173046394
+dimwishlist:item=1098171824&perks=3523296417,11612903
+dimwishlist:item=1098171824&perks=3828510309,2173046394
+dimwishlist:item=1098171824&perks=3828510309,11612903
+
+
+// Oversoul Edict - [Datto Crota's End God Rolls] (pvp)
+//notes: [Datto Crota's End God Rolls] tags:pvp
+dimwishlist:item=1098171824&perks=1428297954,460017080
+dimwishlist:item=1098171824&perks=1428297954,31345821
+dimwishlist:item=1098171824&perks=3619207468,460017080
+dimwishlist:item=1098171824&perks=3619207468,31345821
+
+
 // Yesteryear (god-pve,god-pvp)
 //notes: tags:god-pve,god-pvp
 dimwishlist:item=1141927949&perks=839105230,1885400500,1570042021,2610012052
@@ -491,6 +557,24 @@ dimwishlist:item=1387987271&perks=280464955,47981717
 // Silicon Neuroma (Adept) - [Aztecross S16 Review] (god-pve)
 //notes: [Aztecross S16 Review] Armor-piercing/Appended mags, Adept Targeting/Icarus mod tags:god-pve
 dimwishlist:item=1387987271&perks=3400784728,1771339417
+
+
+// Fang of Ir Yût - [Datto Crota's End God Rolls] (pve,pvp)
+//notes: [Datto Crota's End God Rolls] Sword Logic doesn't make sense on primary ammo weapons tags:pve,pvp
+dimwishlist:item=1432682459&perks=247725512,555281244
+dimwishlist:item=1432682459&perks=247725512,1015611457
+dimwishlist:item=1432682459&perks=247725512,831391274
+dimwishlist:item=1432682459&perks=3418782618,555281244
+dimwishlist:item=1432682459&perks=3418782618,1015611457
+dimwishlist:item=1432682459&perks=3418782618,831391274
+dimwishlist:item=1432682459&perks=3619207468,555281244
+dimwishlist:item=1432682459&perks=3619207468,1015611457
+dimwishlist:item=1432682459&perks=3619207468,831391274
+
+
+// Fang of Ir Yût - [demonjoe Crota's End God Rolls] (pve)
+//notes: [demonjoe Crota's End God Rolls] Would probably only use it for champion damage, won't otherwise craft it in this sandbox, especially considering melee origin trait with a long-range scout rifle tags:pve
+dimwishlist:item=1432682459&perks=3418782618,555281244
 
 
 // Blood Feud ()
@@ -1175,19 +1259,44 @@ dimwishlist:item=2671639706&perks=1840239774,3230963543,1631667848,4082225868
 dimwishlist:item=2778013407&perks=1392496348,1885400500,2451262963,3673922083
 
 
-// Krait - Damage build (god-pvp)
-//notes: Damage build tags:god-pvp
-dimwishlist:item=2852052802&perks=
+// Song of Ir Yût - [Datto Crota's End God Rolls] (pve)
+//notes: [Datto Crota's End God Rolls] Reconstruction/BnS is like arc version of Recon/Killing Tally Commemoration; Voltshot is a bit of a bait as LMG reloads too slowly unless you're Amplified tags:pve
+dimwishlist:item=2828278545&perks=1523832109,3751912585
+dimwishlist:item=2828278545&perks=1523832109,31345821
+dimwishlist:item=2828278545&perks=1523832109,3078487919
+dimwishlist:item=2828278545&perks=1523832109,2173046394
+dimwishlist:item=2828278545&perks=3418782618,3751912585
+dimwishlist:item=2828278545&perks=3418782618,31345821
+dimwishlist:item=2828278545&perks=3418782618,3078487919
+dimwishlist:item=2828278545&perks=3418782618,2173046394
+dimwishlist:item=2828278545&perks=3523296417,3751912585
+dimwishlist:item=2828278545&perks=3523296417,31345821
+dimwishlist:item=2828278545&perks=3523296417,3078487919
+dimwishlist:item=2828278545&perks=3523296417,2173046394
+dimwishlist:item=2828278545&perks=3108830275,3751912585
+dimwishlist:item=2828278545&perks=3108830275,31345821
+dimwishlist:item=2828278545&perks=3108830275,3078487919
+dimwishlist:item=2828278545&perks=3108830275,2173046394
+
+
+// Song of Ir Yût - [Datto Crota's End God Rolls] (pve)
+//notes: [Datto Crota's End God Rolls] Consider a rocket launcher for boss damage instead of Target Lock tags:pve
+dimwishlist:item=2828278545&perks=3418782618,365154968
+dimwishlist:item=2828278545&perks=1523832109,365154968
+
+
+// Krait - Damage build (god-pvp,god-pve)
+//notes: Damage build tags:god-pvp,god-pve
+dimwishlist:item=2852052802&perks=3643424744,2896038713
 
 
 // Krait - Duelling build (god-pvp)
 //notes: Duelling build tags:god-pvp
-dimwishlist:item=2852052802&perks=
+dimwishlist:item=2852052802&perks=3643424744,588594999
 
 
 // Krait (god-pve)
 //notes: tags:god-pve
-dimwishlist:item=2852052802&perks=3643424744,2896038713
 dimwishlist:item=2852052802&perks=3643424744,124408337
 
 
@@ -1195,6 +1304,11 @@ dimwishlist:item=2852052802&perks=3643424744,124408337
 //notes: tags:god-pve
 dimwishlist:item=2852052802&perks=1820235745,4049631843
 dimwishlist:item=2852052802&perks=1583705720,4049631843
+
+
+// Krait - Damage build (god-pvp)
+//notes: Damage build tags:god-pvp
+dimwishlist:item=2852052802&perks=3643424744,3673922083
 
 
 // BrayTech Werewolf - [CoolGuy S18 FotL Review] (god-pvp)
@@ -1464,6 +1578,39 @@ dimwishlist:item=3107853529&perks=1482024992,1087426260,280464955,588594999
 // Beloved - Ad clear (pve)
 //notes: Ad clear tags:pve
 dimwishlist:item=3107853529&perks=
+
+
+// Swordbreaker - [Datto Crota's End God Rolls] (pve)
+//notes: [Datto Crota's End God Rolls] tags:pve
+dimwishlist:item=3163900678&perks=691659142,2679249093
+dimwishlist:item=3163900678&perks=691659142,2610012052
+dimwishlist:item=3163900678&perks=691659142,31345821
+dimwishlist:item=3163900678&perks=691659142,3708227201
+dimwishlist:item=3163900678&perks=3523296417,2679249093
+dimwishlist:item=3163900678&perks=3523296417,2610012052
+dimwishlist:item=3163900678&perks=3523296417,31345821
+dimwishlist:item=3163900678&perks=3523296417,3708227201
+dimwishlist:item=3163900678&perks=1820235745,2679249093
+dimwishlist:item=3163900678&perks=1820235745,2610012052
+dimwishlist:item=3163900678&perks=1820235745,31345821
+dimwishlist:item=3163900678&perks=1820235745,3708227201
+dimwishlist:item=3163900678&perks=4071163871,2679249093
+dimwishlist:item=3163900678&perks=4071163871,2610012052
+dimwishlist:item=3163900678&perks=4071163871,31345821
+dimwishlist:item=3163900678&perks=4071163871,3708227201
+
+
+// Swordbreaker - [Datto Crota's End God Rolls] (pvp)
+//notes: [Datto Crota's End God Rolls] Lightweight shotguns not currently (S22) it for Crucible tags:pvp
+dimwishlist:item=3163900678&perks=2451262963,47981717
+dimwishlist:item=3163900678&perks=3161816588,47981717
+dimwishlist:item=3163900678&perks=4071163871,47981717
+
+
+// Swordbreaker - [demonjoe Crota's End God Rolls] (pve)
+//notes: [demonjoe Crota's End God Rolls] tags:pve
+dimwishlist:item=3163900678&perks=3161816588,2679249093
+dimwishlist:item=3163900678&perks=4071163871,2679249093
 
 
 // Silicon Neuroma - [Aztecross S16 Review] (god-pvp)

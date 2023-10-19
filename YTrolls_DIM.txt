@@ -28,6 +28,13 @@ dimwishlist:item=120706239&perks=1820235745,31345821
 dimwishlist:item=120706239&perks=3828510309,31345821
 
 
+// Horror Story - [Fallout's S22 FotL Preview] (pvp)
+//notes: [Fallout's S22 FotL Preview] Best used with stasis for kills-not-required Stasis Shards from grenade. Use with Mask of Bakris for 6%/11s buff to damage after a dodge tags:pvp
+dimwishlist:item=177568179&perks=3523296417,3324494224,2509860981
+dimwishlist:item=177568179&perks=1359896290,3324494224,2509860981
+dimwishlist:item=177568179&perks=3511092054,3324494224,2509860981
+
+
 // Under Your Skin - Speedshot (god-pve,god-pvp)
 //notes: Speedshot tags:god-pve,god-pvp
 dimwishlist:item=232928045&perks=2801223209,16392701,201365942,2652708987
@@ -1545,6 +1552,23 @@ dimwishlist:item=2988121501&perks=3250034553,679225683,1428297954,1890422124
 dimwishlist:item=2988121501&perks=3250034553,679225683,1428297954,1015611457
 
 
+// Jurassic Green - [Fallout's S22 FotL Preview] (pvp)
+//notes: [Fallout's S22 FotL Preview] tags:pvp
+dimwishlist:item=3103255595&perks=3619207468,460017080,2120661319
+dimwishlist:item=3103255595&perks=2846385770,460017080,2120661319
+
+
+// Jurassic Green - [Fallout's S22 FotL Preview] (pvp)
+//notes: [Fallout's S22 FotL Preview] Athrys's Embrace build: 1) Get JG kill; 2) Use knife to get kill; 3) 50% more damage for 10s (3rd col perk not specified) tags:pvp
+dimwishlist:item=3103255595&perks=1119449540,2610012052
+dimwishlist:item=3103255595&perks=1820235745,2610012052
+dimwishlist:item=3103255595&perks=1428297954,2610012052
+dimwishlist:item=3103255595&perks=2846385770,2610012052
+dimwishlist:item=3103255595&perks=2450788523,2610012052
+dimwishlist:item=3103255595&perks=3619207468,2610012052
+dimwishlist:item=3103255595&perks=3017780555,2610012052
+
+
 // Beloved - Max handling (god-pvp)
 //notes: Max handling tags:god-pvp
 dimwishlist:item=3107853529&perks=1840239774,1885400500,957782887,706527188
@@ -1763,6 +1787,11 @@ dimwishlist:item=3829285960&perks=280464955,2039302152
 //notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:pve
 dimwishlist:item=3829285960&perks=2010801679,3523296417
 dimwishlist:item=3829285960&perks=1168162263,3523296417
+
+
+// Mechabre - [Fallout's S22 FotL Preview] (pvp)
+//notes: [Fallout's S22 FotL Preview] tags:pvp
+dimwishlist:item=3871226707&perks=957782887,47981717
 
 
 // Explosive Personality (god-pvp)

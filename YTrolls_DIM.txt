@@ -35,6 +35,18 @@ dimwishlist:item=177568179&perks=1359896290,3324494224,2509860981
 dimwishlist:item=177568179&perks=3511092054,3324494224,2509860981
 
 
+// Horror Story - [Duqk's S22 FotL God Rolls] (pve)
+//notes: [Duqk's S22 FotL God Rolls] Stasis is 10% less damage than kinetic but has Stasis synergy tags:pve
+dimwishlist:item=177568179&perks=3523296417,124408337
+dimwishlist:item=177568179&perks=3523296417,4104185692
+
+
+// Horror Story - [Duqk's S22 FotL God Rolls] [Aztecross' S22 Horror Story Review] (pvp)
+//notes: [Duqk's S22 FotL God Rolls] Stasis is 10% less damage than kinetic but has Stasis synergy
+[Aztecross' S22 Horror Story Review] Nadir Focus is like DSR, Search Party is like Snapshot tags:pvp
+dimwishlist:item=177568179&perks=1359896290,365154968
+
+
 // Under Your Skin - Speedshot (god-pve,god-pvp)
 //notes: Speedshot tags:god-pve,god-pvp
 dimwishlist:item=232928045&perks=2801223209,16392701,201365942,2652708987
@@ -133,6 +145,17 @@ dimwishlist:item=372697604&perks=699525795,47981717
 // Cantata-57 - [CoolGuy S16 Review] (god-pvp)
 //notes: [CoolGuy S16 Review] Reloading roll, uses intrinsic trait, use with HC loaders and targeting mods, with Recoil barrel (AHB/Full Bore, or Smallbore/Fluted), range/mag size mags (Accurized or Light/Appended) tags:god-pvp
 dimwishlist:item=372697604&perks=671806388,588594999
+
+
+// Acosmic - [Duqk's S22 FotL God Rolls] (pve)
+//notes: [Duqk's S22 FotL God Rolls] Bad archetype and weapon in this sandbox. High Ground is unique but not enough to save the weapon tags:pve
+dimwishlist:item=413901114&perks=2869569095,3194351027
+dimwishlist:item=413901114&perks=2869569095,2319119708
+
+
+// Acosmic - [Duqk's S22 FotL God Rolls] (pvp)
+//notes: [Duqk's S22 FotL God Rolls] tags:pvp
+dimwishlist:item=413901114&perks=951095735,3194351027
 
 
 // PLUG ONE.1 (Adept) - Pick stat-boosting barrels, not very important (Extended or Chambered recommended) (god-pvp)
@@ -1552,10 +1575,11 @@ dimwishlist:item=2988121501&perks=3250034553,679225683,1428297954,1890422124
 dimwishlist:item=2988121501&perks=3250034553,679225683,1428297954,1015611457
 
 
-// Jurassic Green - [Fallout's S22 FotL Preview] (pvp)
-//notes: [Fallout's S22 FotL Preview] tags:pvp
-dimwishlist:item=3103255595&perks=3619207468,460017080,2120661319
-dimwishlist:item=3103255595&perks=2846385770,460017080,2120661319
+// Jurassic Green - [Fallout's S22 FotL Preview] [Duqk's S22 FotL God Rolls] (pvp)
+//notes: [Fallout's S22 FotL Preview]
+[Duqk's S22 FotL God Rolls] Reliable, but better options out there tags:pvp
+dimwishlist:item=3103255595&perks=3619207468,460017080
+dimwishlist:item=3103255595&perks=2846385770,460017080
 
 
 // Jurassic Green - [Fallout's S22 FotL Preview] (pvp)
@@ -1567,6 +1591,16 @@ dimwishlist:item=3103255595&perks=2846385770,2610012052
 dimwishlist:item=3103255595&perks=2450788523,2610012052
 dimwishlist:item=3103255595&perks=3619207468,2610012052
 dimwishlist:item=3103255595&perks=3017780555,2610012052
+
+
+// Jurassic Green - [Duqk's S22 FotL God Rolls] (pve)
+//notes: [Duqk's S22 FotL God Rolls] Pulses need a buff, this will be nice after that, though better alternatives exist tags:pve
+dimwishlist:item=3103255595&perks=1820235745,4104185692
+
+
+// Jurassic Green - [Duqk's S22 FotL God Rolls] (pve)
+//notes: [Duqk's S22 FotL God Rolls] Pulses need a buff, this will be nice after that, though better alternatives exist tags:pve
+dimwishlist:item=3103255595&perks=3017780555,4293542123
 
 
 // Beloved - Max handling (god-pvp)
@@ -1789,8 +1823,9 @@ dimwishlist:item=3829285960&perks=2010801679,3523296417
 dimwishlist:item=3829285960&perks=1168162263,3523296417
 
 
-// Mechabre - [Fallout's S22 FotL Preview] (pvp)
-//notes: [Fallout's S22 FotL Preview] tags:pvp
+// Mechabre - [Fallout's S22 FotL Preview] [Duqk's S22 FotL God Rolls] (pvp)
+//notes: [Fallout's S22 FotL Preview]
+[Duqk's S22 FotL God Rolls] tags:pvp
 dimwishlist:item=3871226707&perks=957782887,47981717
 
 

@@ -35,21 +35,88 @@ dimwishlist:item=177568179&perks=1359896290,3324494224,2509860981
 dimwishlist:item=177568179&perks=3511092054,3324494224,2509860981
 
 
-// Horror Story - [Duqk's S22 FotL God Rolls] (pve)
-//notes: [Duqk's S22 FotL God Rolls] Stasis is 10% less damage than kinetic but has Stasis synergy tags:pve
+// Horror Story - [Duqk's S22 FotL God Rolls] [CoolGuy's S22 Horror Story Review] (pve)
+//notes: [Duqk's S22 FotL God Rolls] Stasis is 10% less damage than kinetic but has Stasis synergy
+[CoolGuy's S22 Horror Story Review] Kills grant grenade energy, Headstone shatters add to it, then use grenade to reload. Range or Stability MW, Arrowhead Brake, Accurized (or Flared/Appended, or Extended with Counterbalance mod) tags:pve
 dimwishlist:item=177568179&perks=3523296417,124408337
 dimwishlist:item=177568179&perks=3523296417,4104185692
 
 
-// Horror Story - [Duqk's S22 FotL God Rolls] [Aztecross' S22 Horror Story Review] (pvp)
+// Horror Story - [Duqk's S22 FotL God Rolls] [Aztecross' S22 Horror Story Review] [CoolGuy's S22 Horror Story Review] (pvp)
 //notes: [Duqk's S22 FotL God Rolls] Stasis is 10% less damage than kinetic but has Stasis synergy
-[Aztecross' S22 Horror Story Review] Nadir Focus is like DSR, Search Party is like Snapshot tags:pvp
+[Aztecross' S22 Horror Story Review] Nadir Focus is like DSR, Search Party is like Snapshot
+[CoolGuy's S22 Horror Story Review] tags:pvp
 dimwishlist:item=177568179&perks=1359896290,365154968
+
+
+// Horror Story - [CoolGuy's S22 Horror Story Review] (pvp)
+//notes: [CoolGuy's S22 Horror Story Review] Best on Void/Arc/Stasis, paired with Search Party for good movement tags:pvp
+dimwishlist:item=177568179&perks=3511092054,2250679103
+
+
+// Horror Story - [CoolGuy's S22 Horror Story Review] (pvp)
+//notes: [CoolGuy's S22 Horror Story Review] Good for strafe speed tags:pvp
+dimwishlist:item=177568179&perks=1359896290,2509860981
+
+
+// Horror Story - [CoolGuy's S22 Horror Story Review] (pvp)
+//notes: [CoolGuy's S22 Horror Story Review] Great synergy to chain duels. Range or Stability MW, Arrowhead Brake, Accurized (or Flared/Appended, or Extended with Counterbalance mod) tags:pvp
+dimwishlist:item=177568179&perks=3978468247,3751912585
+
+
+// Horror Story - [CoolGuy's S22 Horror Story Review] (pvp)
+//notes: [CoolGuy's S22 Horror Story Review] Feels better than DSR/Target Lock, with 100 recoil. Range or Stability MW, Arrowhead Brake, Accurized (or Flared/Appended, or Extended with Counterbalance mod) tags:pvp
+dimwishlist:item=177568179&perks=3828510309,365154968
+
+
+// Pre Astyanax IV - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Get Draw Time MW. Tyranny Dragonfly/Incandescent better for ad clear tags:pve
+dimwishlist:item=192784503&perks=2801223209,16392701,201365942,555281244,1050127423
+dimwishlist:item=192784503&perks=2801223209,16392701,201365942,4293542123,1050127423
+dimwishlist:item=192784503&perks=2801223209,16392701,3828510309,555281244,1050127423
+dimwishlist:item=192784503&perks=2801223209,16392701,3828510309,4293542123,1050127423
+
+
+// Pre Astyanax IV - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Get Draw Time MW. Tyranny Dragonfly/Incandescent better for ad clear tags:pve
+dimwishlist:item=192784503&perks=2801223209,16392701,3700496672,3365897133,1050127423
+
+
+// Pre Astyanax IV - [CoolGuy's S22 Review] (pvp)
+//notes: [CoolGuy's S22 Review] Get Draw Time MW tags:pvp
+dimwishlist:item=192784503&perks=2801223209,16392701,201365942,2652708987,1050127423
+dimwishlist:item=192784503&perks=2801223209,16392701,3828510309,2652708987,1050127423
 
 
 // Under Your Skin - Speedshot (god-pve,god-pvp)
 //notes: Speedshot tags:god-pve,god-pvp
 dimwishlist:item=232928045&perks=2801223209,16392701,201365942,2652708987
+
+
+// Warden's Law (Adept) - [Aztecross' S22 Warden's Law Deep Dive] (god-pvp,pvp)
+//notes: [Aztecross' S22 Warden's Law Deep Dive] Rampage is good but Zen Moment gives needed consistency (aim at neck to land both shots in the burst). Go for range perks to go against Igneous Hammer tags:god-pvp,pvp
+dimwishlist:item=267089201&perks=588594999,2387244414
+dimwishlist:item=267089201&perks=588594999,3425386926
+
+
+// Warden's Law (Adept) - [Aztecross' S22 Warden's Law Deep Dive] (god-pve)
+//notes: [Aztecross' S22 Warden's Law Deep Dive] Good for Lucky Pants builds, with high-mag perks (Appended, Extended) tags:god-pve
+dimwishlist:item=267089201&perks=1087426260,1354429876,1546637391
+dimwishlist:item=267089201&perks=106909392,1354429876,1546637391
+dimwishlist:item=267089201&perks=2420895100,1354429876,1546637391
+
+
+// Warden's Law (Adept) - [Aztecross' S22 Warden's Law Deep Dive] (pve)
+//notes: [Aztecross' S22 Warden's Law Deep Dive] Good for Lucky Pants builds, with high-mag perks (Appended, Extended) tags:pve
+dimwishlist:item=267089201&perks=1087426260,1354429876,3425386926
+dimwishlist:item=267089201&perks=1087426260,1354429876,4104185692
+dimwishlist:item=267089201&perks=1087426260,1354429876,1015611457
+dimwishlist:item=267089201&perks=2420895100,1354429876,3425386926
+dimwishlist:item=267089201&perks=2420895100,1354429876,4104185692
+dimwishlist:item=267089201&perks=2420895100,1354429876,1015611457
+dimwishlist:item=267089201&perks=106909392,1354429876,3425386926
+dimwishlist:item=267089201&perks=106909392,1354429876,4104185692
+dimwishlist:item=267089201&perks=106909392,1354429876,1015611457
 
 
 // The Title (god-pve)
@@ -108,6 +175,29 @@ dimwishlist:item=294129361&perks=3661387068,1885400500,1359896290,588594999
 dimwishlist:item=310708513&perks=2450788523,1015611457
 
 
+// Psi Hermetic V - [CoolGuy's S22 Review] (god-pvp)
+//notes: [CoolGuy's S22 Review] Messenger replacement if you don't have one tags:god-pvp
+dimwishlist:item=358788212&perks=1482024992,3142289711,1195158366,2610012052
+dimwishlist:item=358788212&perks=839105230,3142289711,1195158366,2610012052
+
+
+// Psi Hermetic V - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Great for Shadebinder or Revenant builds, to make shards that provides grenade energy or overshields. Can also use on Strand to auto-trigger tangles tags:pve
+dimwishlist:item=358788212&perks=839105230,3142289711,124408337,1050127423
+
+
+// Psi Hermetic V - [CoolGuy's S22 Review] (pvp)
+//notes: [CoolGuy's S22 Review] Comparable to Messenger tags:pvp
+dimwishlist:item=358788212&perks=839105230,3142289711,1195158366,460017080
+dimwishlist:item=358788212&perks=839105230,3142289711,1570042021,460017080
+
+
+// Psi Hermetic V - [CoolGuy's S22 Review] (pvp)
+//notes: [CoolGuy's S22 Review] Comparable to Messenger tags:pvp
+dimwishlist:item=358788212&perks=839105230,3142289711,1195158366,1015611457
+dimwishlist:item=358788212&perks=1482024992,3142289711,1195158366,1015611457
+
+
 // Cantata-57 - [CoolGuy S16 Review] (god-pvp)
 //notes: [CoolGuy S16 Review] tags:god-pvp
 dimwishlist:item=372697604&perks=3250034553,3142289711,509074078,2846385770
@@ -156,6 +246,36 @@ dimwishlist:item=413901114&perks=2869569095,2319119708
 // Acosmic - [Duqk's S22 FotL God Rolls] (pvp)
 //notes: [Duqk's S22 FotL God Rolls] tags:pvp
 dimwishlist:item=413901114&perks=951095735,3194351027
+
+
+// Acosmic - [Aztecross' S22 Acosmic Deep Dive] (pve)
+//notes: [Aztecross' S22 Acosmic Deep Dive] Spike for DPS, Hard Launch for reduced blast radius to maximise damage tags:pve
+dimwishlist:item=413901114&perks=981914802,3301904089,2284787283,3194351027
+dimwishlist:item=413901114&perks=981914802,3301904089,2284787283,3751912585
+
+
+// Acosmic - [Aztecross' S22 Acosmic Deep Dive] (pve)
+//notes: [Aztecross' S22 Acosmic Deep Dive] Spike for DPS, Hard Launch for reduced blast radius to maximise damage tags:pve
+dimwishlist:item=413901114&perks=981914802,3301904089,1119449540,2048641572
+
+
+// Pre Astyanax IV (Adept) - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Use with Adept Draw Time mod and Draw Time MW. Tyranny Dragonfly/Incandescent better for ad clear tags:pve
+dimwishlist:item=496556698&perks=2801223209,16392701,201365942,555281244,1050127423
+dimwishlist:item=496556698&perks=2801223209,16392701,201365942,4293542123,1050127423
+dimwishlist:item=496556698&perks=2801223209,16392701,3828510309,555281244,1050127423
+dimwishlist:item=496556698&perks=2801223209,16392701,3828510309,4293542123,1050127423
+
+
+// Pre Astyanax IV (Adept) - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Use with Adept Draw Time mod and Draw Time MW. Tyranny Dragonfly/Incandescent better for ad clear tags:pve
+dimwishlist:item=496556698&perks=2801223209,16392701,3700496672,3365897133,1050127423
+
+
+// Pre Astyanax IV (Adept) - [CoolGuy's S22 Review] (pvp)
+//notes: [CoolGuy's S22 Review] Use with Adept Draw Time mod and Draw Time MW tags:pvp
+dimwishlist:item=496556698&perks=2801223209,16392701,201365942,2652708987,1050127423
+dimwishlist:item=496556698&perks=2801223209,16392701,3828510309,2652708987,1050127423
 
 
 // PLUG ONE.1 (Adept) - Pick stat-boosting barrels, not very important (Extended or Chambered recommended) (god-pvp)
@@ -870,6 +990,20 @@ dimwishlist:item=1916287826&perks=1840239774,1885400500,1821614984,1365187766
 dimwishlist:item=1916287826&perks=1840239774,1561002382,1821614984,1365187766
 
 
+// Nightshade - [CoolGuy's S22 Review] (pvp)
+//notes: [CoolGuy's S22 Review] Needs range but otherwise average, pair it with Strand subclass tags:pvp
+dimwishlist:item=1974641289&perks=1570042021,1015611457,2509860981
+dimwishlist:item=1974641289&perks=1570042021,1195158366,2509860981
+dimwishlist:item=1974641289&perks=3619207468,1015611457,2509860981
+dimwishlist:item=1974641289&perks=3619207468,1195158366,2509860981
+
+
+// Nightshade - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Hatchling with Vanguard's Vindication gives some extra health bumps, but generally outclassed tags:pve
+dimwishlist:item=1974641289&perks=3828510309,831391274,744217850
+dimwishlist:item=1974641289&perks=3619207468,831391274,744217850
+
+
 // Ammit AR2 (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=2119346509&perks=1482024992,1561002382,3436462433,4293542123
@@ -927,6 +1061,30 @@ dimwishlist:item=2233545123&perks=1087426260,1556840489
 // Sorrow's Verse (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=2496875173&perks=3250034553,3142289711,2450788523,2458213969
+
+
+// Unending Tempest - [CoolGuy's S22 Review] (god-pvp)
+//notes: [CoolGuy's S22 Review] Kills give handling and helps chain duels tags:god-pvp
+dimwishlist:item=2510526114&perks=3978468247,3751912585
+
+
+// Unending Tempest - [CoolGuy's S22 Review] (god-pve)
+//notes: [CoolGuy's S22 Review] Headshots give shards and grenade energy tags:god-pve
+dimwishlist:item=2510526114&perks=3523296417,124408337
+
+
+// Unending Tempest - [CoolGuy's S22 Review] (pvp)
+//notes: [CoolGuy's S22 Review] Target Lock not as good as expected, missing a headshot brings TTK back down tags:pvp
+dimwishlist:item=2510526114&perks=1428297954,365154968
+dimwishlist:item=2510526114&perks=3828510309,365154968
+dimwishlist:item=2510526114&perks=1359896290,365154968
+dimwishlist:item=2510526114&perks=1365187766,365154968
+
+
+// Unending Tempest - [CoolGuy's S22 Review] (pvp)
+//notes: [CoolGuy's S22 Review] Needs range tags:pvp
+dimwishlist:item=2510526114&perks=2450788523,2458213969
+dimwishlist:item=2510526114&perks=2450788523,1890422124
 
 
 // Lunulata-4b (god-pve,god-pvp)
@@ -1823,10 +1981,56 @@ dimwishlist:item=3829285960&perks=2010801679,3523296417
 dimwishlist:item=3829285960&perks=1168162263,3523296417
 
 
-// Mechabre - [Fallout's S22 FotL Preview] [Duqk's S22 FotL God Rolls] (pvp)
+// Mechabre - [Fallout's S22 FotL Preview] [Duqk's S22 FotL God Rolls] [CoolGuy's S22 Mechabre Review] (pvp)
 //notes: [Fallout's S22 FotL Preview]
-[Duqk's S22 FotL God Rolls] tags:pvp
-dimwishlist:item=3871226707&perks=957782887,47981717
+[Duqk's S22 FotL God Rolls]
+[CoolGuy's S22 Mechabre Review] tags:pvp
+dimwishlist:item=3871226707&perks=839105230,1087426260,957782887,47981717,2250679103
+
+
+// Mechabre - [CoolGuy's S22 Mechabre Review] (pvp)
+//notes: [CoolGuy's S22 Mechabre Review] High handling and ADS speed roll tags:pvp
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717,2250679103
+
+
+// Mechabre - [CoolGuy's S22 Mechabre Review] (pve)
+//notes: [CoolGuy's S22 Mechabre Review] Cheeky PvE rolls if you don't have it on other snipers tags:pve
+dimwishlist:item=3871226707&perks=1087426260,3400784728,1546637391
+dimwishlist:item=3871226707&perks=1087426260,3400784728,2319119708
+dimwishlist:item=3871226707&perks=1087426260,3300816228,1546637391
+dimwishlist:item=3871226707&perks=1087426260,3300816228,2319119708
+dimwishlist:item=3871226707&perks=1087426260,2284787283,1546637391
+dimwishlist:item=3871226707&perks=1087426260,2284787283,2319119708
+
+
+// Mechabre - [CoolGuy's S22 Mechabre Review] (pve)
+//notes: [CoolGuy's S22 Mechabre Review] Cheeky PvE rolls if you don't have it on other snipers. Good combined DPS/ad clear roll (Triple Tap for boss, Discord for ad clear) tags:pve
+dimwishlist:item=3871226707&perks=3400784728,3978468247
+
+
+// Heliocentric QSc - [CoolGuy's S22 Review] (pvp)
+//notes: [CoolGuy's S22 Review] Great squirting spray bottle tags:pvp
+dimwishlist:item=3998080529&perks=1087426260,1428297954,1015611457
+dimwishlist:item=3998080529&perks=1087426260,3828510309,1015611457
+dimwishlist:item=3998080529&perks=1087426260,588594999,1015611457
+dimwishlist:item=3998080529&perks=1087426260,3017780555,1015611457
+dimwishlist:item=3998080529&perks=1087426260,3523296417,1015611457
+
+
+// Heliocentric QSc - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Great squirting spray bottle tags:pve
+dimwishlist:item=3998080529&perks=1087426260,3523296417,11612903
+dimwishlist:item=3998080529&perks=1087426260,3523296417,4293542123
+
+
+// Heliocentric QSc - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Great squirting spray bottle tags:pve
+dimwishlist:item=3998080529&perks=1087426260,3017780555,4293542123
+
+
+// Heliocentric QSc - [CoolGuy's S22 Review] (pve)
+//notes: [CoolGuy's S22 Review] Great squirting spray bottle tags:pve
+dimwishlist:item=3998080529&perks=1087426260,3828510309,3708227201
 
 
 // Explosive Personality (god-pvp)

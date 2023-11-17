@@ -778,6 +778,23 @@ dimwishlist:item=1601177201&perks=202670084,3177308360,1195158366,2458213969
 dimwishlist:item=1601177201&perks=202670084,3177308360,509074078,2458213969
 
 
+// New Purpose - [Duqk's S22 Duality God Rolls] (pve)
+//notes: [Duqk's S22 Duality God Rolls] There are better pulses that are easier to grind tags:pve
+dimwishlist:item=1780464822&perks=2779035018,124408337
+
+
+// New Purpose - [Duqk's S22 Duality God Rolls] (pvp)
+//notes: [Duqk's S22 Duality God Rolls] 0.67s TTK at base. Desperado only viable damage perk (Focused Fury requires 14 crits) tags:pvp
+dimwishlist:item=1780464822&perks=1428297954,3047969693
+
+
+// New Purpose - [demonjoe's S17 Duality God Rolls] (pve)
+//notes: [demonjoe's S17 Duality God Rolls] Only kinetic weapon with Adaptive Munitions tags:pve
+dimwishlist:item=1780464822&perks=1428297954,3047969693
+dimwishlist:item=1780464822&perks=1428297954,124408337
+dimwishlist:item=1780464822&perks=1428297954,1048183818
+
+
 // Something New (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1856262127&perks=839105230,2420895100,3592538738,3523296417
@@ -1004,6 +1021,25 @@ dimwishlist:item=1974641289&perks=3828510309,831391274,744217850
 dimwishlist:item=1974641289&perks=3619207468,831391274,744217850
 
 
+// Lingering Dread - [Duqk's S22 Duality God Rolls] (god-pve)
+//notes: [Duqk's S22 Duality God Rolls] Blind and slow on any subclass, extra synergy with Stasis builds tags:god-pve
+dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
+
+
+// Lingering Dread - [Duqk's S22 Duality God Rolls] (pvp)
+//notes: [Duqk's S22 Duality God Rolls] Column 4 not that useful for PvP tags:pvp
+dimwishlist:item=2026087437&perks=409831596,3300816228,438098033
+dimwishlist:item=2026087437&perks=409831596,3300816228,960810156
+
+
+// Lingering Dread - [demonjoe's S17 Duality God Rolls] (pve)
+//notes: [demonjoe's S17 Duality God Rolls] Offensive roll with Stasis synergy. Handling MW tags:pve
+dimwishlist:item=2026087437&perks=3032599245,3108830275,2978966579
+dimwishlist:item=2026087437&perks=3032599245,3108830275,3523296417
+dimwishlist:item=2026087437&perks=3032599245,2010801679,2978966579
+dimwishlist:item=2026087437&perks=3032599245,2010801679,3523296417
+
+
 // Ammit AR2 (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=2119346509&perks=1482024992,1561002382,3436462433,4293542123
@@ -1024,6 +1060,30 @@ dimwishlist:item=2119346509&perks=3436462433,1890422124
 // Ammit AR2 (pve)
 //notes: tags:pve
 dimwishlist:item=2119346509&perks=3436462433,4293542123
+
+
+// Fixed Odds - [Duqk's S22 Duality God Rolls] (pve)
+//notes: [Duqk's S22 Duality God Rolls] Good solar LMG, unless you have an Unwavering Duty. Incandescent for ad clearing. Field Prep for reserves and reload speed. tags:pve
+dimwishlist:item=2194955522&perks=2869569095,4293542123
+dimwishlist:item=2194955522&perks=2869569095,2675184851
+dimwishlist:item=2194955522&perks=2308090567,4293542123
+dimwishlist:item=2194955522&perks=2308090567,2675184851
+
+
+// Fixed Odds - [Duqk's S22 Duality God Rolls] (pve)
+//notes: [Duqk's S22 Duality God Rolls] Good solar LMG, unless you have an Unwavering Duty. Killing Tally for general use. tags:pve
+dimwishlist:item=2194955522&perks=2869569095,557221067
+dimwishlist:item=2194955522&perks=2869569095,2896748467
+dimwishlist:item=2194955522&perks=2308090567,557221067
+dimwishlist:item=2194955522&perks=2308090567,2896748467
+
+
+// Fixed Odds - [Duqk's S22 Duality God Rolls] (pvp)
+//notes: [Duqk's S22 Duality God Rolls] 360s are a bit sluggish in PvP tags:pvp
+dimwishlist:item=2194955522&perks=706527188,557221067
+dimwishlist:item=2194955522&perks=706527188,2896748467
+dimwishlist:item=2194955522&perks=1961144892,557221067
+dimwishlist:item=2194955522&perks=1961144892,2896748467
 
 
 // Tarnished Mettle (god-pve,god-pvp)
@@ -1056,6 +1116,22 @@ dimwishlist:item=2233545123&perks=1087426260,1354429876,1546637391
 // Fugue-55 ()
 dimwishlist:item=2233545123&perks=1087426260,3300816228
 dimwishlist:item=2233545123&perks=1087426260,1556840489
+
+
+// The Epicurean - [Duqk's S22 Duality God Rolls] (pve)
+//notes: [Duqk's S22 Duality God Rolls] Not really useful tags:pve
+dimwishlist:item=2263839058&perks=3436462433,4082225868
+dimwishlist:item=2263839058&perks=3436462433,1161469972
+dimwishlist:item=2263839058&perks=2658083589,4082225868
+dimwishlist:item=2263839058&perks=2658083589,1161469972
+
+
+// The Epicurean - [Duqk's S22 Duality God Rolls] (pvp)
+//notes: [Duqk's S22 Duality God Rolls] Reliable fusion for PvP. Rangefinder still helps with accuracy and some range. Surplus for stability and handling. Charge Time MW tags:pvp
+dimwishlist:item=2263839058&perks=3436462433,2846385770
+dimwishlist:item=2263839058&perks=3436462433,509594246
+dimwishlist:item=2263839058&perks=2658083589,2846385770
+dimwishlist:item=2263839058&perks=2658083589,509594246
 
 
 // Sorrow's Verse (god-pvp)
@@ -1733,6 +1809,41 @@ dimwishlist:item=2988121501&perks=3250034553,679225683,1428297954,1890422124
 dimwishlist:item=2988121501&perks=3250034553,679225683,1428297954,1015611457
 
 
+// Unforgiven - [Duqk's S22 Duality God Rolls] (pve)
+//notes: [Duqk's S22 Duality God Rolls] Good ability regen, stats, and damage tags:pve
+dimwishlist:item=3000847393&perks=3523296417,4104185692
+
+
+// Unforgiven - [Duqk's S22 Duality God Rolls] (pve)
+//notes: [Duqk's S22 Duality God Rolls] Maximum damage with void subclasses (Gyrfalcons, Contraverse) tags:pve
+dimwishlist:item=3000847393&perks=2779035018,2610012052
+
+
+// Unforgiven - [Duqk's S22 Duality God Rolls] (pvp)
+//notes: [Duqk's S22 Duality God Rolls] Fragile Focus gives max range at expense of some other stats. Outranked by No Survivors or the IKELOS SMG tags:pvp
+dimwishlist:item=3000847393&perks=2451262963,2610012052
+
+
+// Unforgiven - [demonjoe's S17 Duality God Rolls] (pve)
+//notes: [demonjoe's S17 Duality God Rolls] Needs a near-5/5 roll to be good due to bad stability and reload, though Bitterspite helps. Reload MW tags:pve
+dimwishlist:item=3000847393&perks=3250034553,3230963543,3523296417,2610012052
+dimwishlist:item=3000847393&perks=3250034553,3230963543,3523296417,4104185692
+dimwishlist:item=3000847393&perks=3250034553,3230963543,2779035018,2610012052
+dimwishlist:item=3000847393&perks=3250034553,3230963543,2779035018,4104185692
+dimwishlist:item=3000847393&perks=3250034553,679225683,3523296417,2610012052
+dimwishlist:item=3000847393&perks=3250034553,679225683,3523296417,4104185692
+dimwishlist:item=3000847393&perks=3250034553,679225683,2779035018,2610012052
+dimwishlist:item=3000847393&perks=3250034553,679225683,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1482024992,3230963543,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1482024992,3230963543,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1482024992,3230963543,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1482024992,3230963543,2779035018,4104185692
+dimwishlist:item=3000847393&perks=1482024992,679225683,3523296417,2610012052
+dimwishlist:item=3000847393&perks=1482024992,679225683,3523296417,4104185692
+dimwishlist:item=3000847393&perks=1482024992,679225683,2779035018,2610012052
+dimwishlist:item=3000847393&perks=1482024992,679225683,2779035018,4104185692
+
+
 // Jurassic Green - [Fallout's S22 FotL Preview] [Duqk's S22 FotL God Rolls] (pvp)
 //notes: [Fallout's S22 FotL Preview]
 [Duqk's S22 FotL God Rolls] Reliable, but better options out there tags:pvp
@@ -1867,6 +1978,25 @@ dimwishlist:item=3568377122&perks=3096702027,3194351027
 dimwishlist:item=3568377122&perks=3523296417,3194351027
 dimwishlist:item=3568377122&perks=1583705720,3194351027
 dimwishlist:item=3568377122&perks=3108830275,3194351027
+
+
+// Stormchaser - [Duqk's S22 Duality God Rolls] (pve)
+//notes: [Duqk's S22 Duality God Rolls] Frenzy for solo, Firing Line for groups, best for Arc linears tags:pve
+dimwishlist:item=3652506829&perks=247725512,4104185692
+dimwishlist:item=3652506829&perks=247725512,1771339417
+
+
+// Stormchaser - [demonjoe's S17 Duality God Rolls] (pve)
+//notes: [demonjoe's S17 Duality God Rolls] tags:pve
+dimwishlist:item=3652506829&perks=247725512,4104185692
+dimwishlist:item=3652506829&perks=247725512,1771339417
+dimwishlist:item=3652506829&perks=247725512,1546637391
+dimwishlist:item=3652506829&perks=2284787283,4104185692
+dimwishlist:item=3652506829&perks=2284787283,1771339417
+dimwishlist:item=3652506829&perks=2284787283,1546637391
+dimwishlist:item=3652506829&perks=3300816228,4104185692
+dimwishlist:item=3652506829&perks=3300816228,1771339417
+dimwishlist:item=3652506829&perks=3300816228,1546637391
 
 
 // Horror Story - [CoolGuy S18 FotL Review] (god-pvp)

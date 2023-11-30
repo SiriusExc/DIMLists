@@ -38,6 +38,28 @@ dimwishlist:item=45643573&perks=2840833776,3365897133,1823011807
 dimwishlist:item=45643573&perks=2840833776,1551736345,1823011807
 
 
+// Supercluster - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Strand loses 15% damage over Kinetic, also have Until Its Return, but nice perks here tags:pve
+dimwishlist:item=92459755&perks=1523832109,1546637391
+dimwishlist:item=92459755&perks=1523832109,3418165135
+dimwishlist:item=92459755&perks=1523832109,3708227201
+dimwishlist:item=92459755&perks=1523832109,781192741
+dimwishlist:item=92459755&perks=1523832109,3751912585
+dimwishlist:item=92459755&perks=1523832109,331667533
+dimwishlist:item=92459755&perks=461595545,1546637391
+dimwishlist:item=92459755&perks=461595545,3418165135
+dimwishlist:item=92459755&perks=461595545,3708227201
+dimwishlist:item=92459755&perks=461595545,781192741
+dimwishlist:item=92459755&perks=461595545,3751912585
+dimwishlist:item=92459755&perks=461595545,331667533
+
+
+// Double-Edged Answer - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Wide perk pool but not too interesting, add clear sword but LMGs do that better right now, basically a Geodetic HSM tags:pve
+dimwishlist:item=105164264&perks=776531651,2048641572,2509860981
+dimwishlist:item=105164264&perks=776531651,3708227201,2509860981
+
+
 // Eleatic Principle - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 21/21 tags:pve
 dimwishlist:item=105306149&perks=2621346526,2610012052,2565067140
@@ -928,6 +950,13 @@ dimwishlist:item=664109750&perks=2621346526,2360754333,2120661319
 dimwishlist:item=664109750&perks=2621346526,3751912585,2120661319
 
 
+// Undercurrent (Adept) - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] 3rd column is absolutely loaded, best Nightfall weapon to grind for in years, gives Forbearance a run for its money; BnS, AJ, High Ground are troll perks tags:pve
+dimwishlist:item=672957262&perks=1556840489,2173046394
+dimwishlist:item=672957262&perks=2010801679,2173046394
+dimwishlist:item=672957262&perks=3523296417,2173046394
+
+
 // Albruna-D - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 11/39 tags:god-pve
 dimwishlist:item=676270382&perks=2284787283,3751912585,1607056502
@@ -1259,6 +1288,13 @@ dimwishlist:item=1141927949&perks=3250034553,1561002382,2946784966,2458213969
 dimwishlist:item=1150492185&perks=1556840489,1771339417,1004814308
 dimwishlist:item=1150492185&perks=1556840489,1546637391,1004814308
 dimwishlist:item=1150492185&perks=1556840489,2173046394,1004814308
+
+
+// Undercurrent - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] 3rd column is absolutely loaded, best Nightfall weapon to grind for in years, gives Forbearance a run for its money; BnS, AJ, High Ground are troll perks tags:pve
+dimwishlist:item=1151688091&perks=1556840489,2173046394
+dimwishlist:item=1151688091&perks=2010801679,2173046394
+dimwishlist:item=1151688091&perks=3523296417,2173046394
 
 
 // IKELOS_SG_v1.0.3 - [Aegis S22 Endgame Analysis] (god-pve)
@@ -1626,6 +1662,11 @@ dimwishlist:item=1387987271&perks=3400784728,3523296417,1281216113
 dimwishlist:item=1399243961&perks=3400784728,1771339417,3988215619
 
 
+// Eye of Sol - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Basically a PvP weapon, all 3rd column perks are PvP, Firing Line, Precision Instrument, Vorpal are only kind of PvE perks tags:pve
+dimwishlist:item=1401300690&perks=
+
+
 // Retrofuturist - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 32/42 tags:pve
 dimwishlist:item=1402766122&perks=25606670,2360754333
@@ -1652,6 +1693,14 @@ dimwishlist:item=1432682459&perks=3619207468,831391274
 // Fang of Ir Yût - [demonjoe Crota's End God Rolls] (pve)
 //notes: [demonjoe Crota's End God Rolls] Would probably only use it for champion damage, won't otherwise craft it in this sandbox, especially considering melee origin trait with a long-range scout rifle tags:pve
 dimwishlist:item=1432682459&perks=3418782618,555281244
+
+
+// Subjunctive - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Not quite an IKELOS replacement, though it's a lightweight, but missing Frenzy. Origin trait is Restoration Ritual-lite, decent but needs more experience tags:pve
+dimwishlist:item=1447836603&perks=4071163871,2173046394,19542588
+dimwishlist:item=1447836603&perks=4071163871,1720528630,19542588
+dimwishlist:item=1447836603&perks=494941759,2173046394,19542588
+dimwishlist:item=1447836603&perks=494941759,1720528630,19542588
 
 
 // Nasreddin - [Aegis S22 Endgame Analysis] (god-pve)
@@ -1686,6 +1735,26 @@ dimwishlist:item=1491665733&perks=3418782618,3708227201,3186078099
 dimwishlist:item=1491665733&perks=3418782618,781192741,3186078099
 dimwishlist:item=1491665733&perks=1563455254,3708227201,3186078099
 dimwishlist:item=1491665733&perks=1563455254,781192741,3186078099
+
+
+// Doomed Petitioner - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Best non-Surrounded Agg frame, but beat by Briar's with Surrounded. Precision Instrument buffed and procs per hit, max stacks in 2 bursts for 30% buff tags:pve
+dimwishlist:item=1501688142&perks=968510818,3708227201
+dimwishlist:item=1501688142&perks=968510818,781192741
+dimwishlist:item=1501688142&perks=968510818,555281244
+dimwishlist:item=1501688142&perks=968510818,332733060
+dimwishlist:item=1501688142&perks=424370782,3708227201
+dimwishlist:item=1501688142&perks=424370782,781192741
+dimwishlist:item=1501688142&perks=424370782,555281244
+dimwishlist:item=1501688142&perks=424370782,332733060
+dimwishlist:item=1501688142&perks=1523832109,3708227201
+dimwishlist:item=1501688142&perks=1523832109,781192741
+dimwishlist:item=1501688142&perks=1523832109,555281244
+dimwishlist:item=1501688142&perks=1523832109,332733060
+dimwishlist:item=1501688142&perks=461595545,3708227201
+dimwishlist:item=1501688142&perks=461595545,781192741
+dimwishlist:item=1501688142&perks=461595545,555281244
+dimwishlist:item=1501688142&perks=461595545,332733060
 
 
 // Blood Feud ()
@@ -1772,6 +1841,16 @@ dimwishlist:item=1606497639&perks=3592538738,2048641572,2120661319
 dimwishlist:item=1606497639&perks=3592538738,776531651,2120661319
 
 
+// Retrofuturist - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Pretty good picks for Tractor swapping, but not much use outside of that or speed running tags:pve
+dimwishlist:item=1612781792&perks=3300816228,4104185692
+dimwishlist:item=1612781792&perks=3300816228,1546637391
+dimwishlist:item=1612781792&perks=3300816228,2360754333
+dimwishlist:item=1612781792&perks=706527188,4104185692
+dimwishlist:item=1612781792&perks=706527188,1546637391
+dimwishlist:item=1612781792&perks=706527188,2360754333
+
+
 // Abide the Return - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 13/25 tags:god-pve
 dimwishlist:item=1644160541&perks=1749209109,3913600130
@@ -1812,6 +1891,22 @@ dimwishlist:item=1679868061&perks=536173722,1546637391,1260401931
 dimwishlist:item=1679868061&perks=536173722,3418165135,1260401931
 
 
+// Crux Termination IV - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Best in slot for Arc RL. Not a full Apex replacement (not craftable/enhanceable), but completely replaces Hothead: Bipod replaces Clown Cartridge (which this also has), has Explosive Light, Surrounded, Envious, Reconstruction. Slideshot can dump full mag of 10 without reloading if sliding optimally, but risky in group play tags:pve
+dimwishlist:item=1719687748&perks=2284787283,1439600632
+dimwishlist:item=1719687748&perks=2284787283,3194351027
+dimwishlist:item=1719687748&perks=2284787283,3708227201
+dimwishlist:item=1719687748&perks=968510818,1439600632
+dimwishlist:item=1719687748&perks=968510818,3194351027
+dimwishlist:item=1719687748&perks=968510818,3708227201
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+dimwishlist:item=1719687748&perks=1523832109,3194351027
+dimwishlist:item=1719687748&perks=1523832109,3708227201
+dimwishlist:item=1719687748&perks=3161816588,1439600632
+dimwishlist:item=1719687748&perks=3161816588,3194351027
+dimwishlist:item=1719687748&perks=3161816588,3708227201
+
+
 // Royal Executioner - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 3/29 tags:god-pve
 dimwishlist:item=1720503118&perks=968510818,1427256713,1823011807
@@ -1848,6 +1943,11 @@ dimwishlist:item=1757202961&perks=3800201097,2224838837,398661035
 dimwishlist:item=1757202961&perks=3800201097,4293542123,398661035
 dimwishlist:item=1757202961&perks=1556840489,2224838837,398661035
 dimwishlist:item=1757202961&perks=1556840489,4293542123,398661035
+
+
+// Riiswalker - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Lightweight good for double swapping but Quickdraw gone, Slickdraw is a replacement but not as good tags:pve
+dimwishlist:item=1764868900&perks=1821614984,1546637391
 
 
 // Thermal Erosion - [Aegis S22 Endgame Analysis] (pve)
@@ -2294,6 +2394,22 @@ dimwishlist:item=2026087437&perks=3032599245,2010801679,2978966579
 dimwishlist:item=2026087437&perks=3032599245,2010801679,3523296417
 
 
+// Breakneck - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Onslaught needs testing, seems PvP perk. KT is buffed and may beat Rufus, otherwise not that good tags:pve
+dimwishlist:item=2026755633&perks=3828510309,3891536761
+dimwishlist:item=2026755633&perks=3700496672,3891536761
+
+
+// Imperative - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] High Impact makes it bad, KT takes longer to proc tags:pve
+dimwishlist:item=2045811635&perks=
+
+
+// Eye of Sol (Adept) - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Basically a PvP weapon, all 3rd column perks are PvP, Firing Line, Precision Instrument, Vorpal are only kind of PvE perks tags:pve
+dimwishlist:item=2059255495&perks=
+
+
 // Salvager's Salvo - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 7/15 tags:god-pve
 dimwishlist:item=2060863616&perks=3523296417,2396489472
@@ -2377,6 +2493,12 @@ dimwishlist:item=2171478765&perks=3038247973,4104185692
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 16/21 tags:pve
 dimwishlist:item=2187717691&perks=968510818,2610012052,164468655
 dimwishlist:item=2187717691&perks=968510818,3523296417,164468655
+
+
+// Lethal Abundance - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] More a PvP weapon, outclassed mostly by Rufus tags:pve
+dimwishlist:item=2189073092&perks=3828510309,831391274
+dimwishlist:item=2189073092&perks=923806249,831391274
 
 
 // Fixed Odds - [Aegis S22 Endgame Analysis] (god-pve)
@@ -2540,6 +2662,16 @@ dimwishlist:item=2306182339&perks=3301904089,776531651,4104185692,2437618208
 dimwishlist:item=2306182339&perks=3301904089,776531651,1556840489,2437618208
 
 
+// Belisarius-D - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Chattering Bone seems better, this seems more PvP tags:pve
+dimwishlist:item=2313726158&perks=
+
+
+// Incisor (Adept) - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Appetence better, this is mostly PvP tags:pve
+dimwishlist:item=2421180981&perks=
+
+
 // Shattered Cipher - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 11/21 tags:god-pve
 dimwishlist:item=2434225986&perks=3300816228,11612903
@@ -2569,6 +2701,14 @@ dimwishlist:item=2448907086&perks=3300816228,3927722942,744217850
 dimwishlist:item=2450917538&perks=1354429876,1546637391
 dimwishlist:item=2450917538&perks=1556840489,1546637391
 dimwishlist:item=2450917538&perks=2284787283,1546637391
+
+
+// Uzume RR4 - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Adaptive not too good, not that important for endgame tags:pve
+dimwishlist:item=2450917538&perks=957782887,1546637391
+dimwishlist:item=2450917538&perks=957782887,3038247973
+dimwishlist:item=2450917538&perks=3978468247,1546637391
+dimwishlist:item=2450917538&perks=3978468247,3038247973
 
 
 // Blast Battue - [Aegis S22 Endgame Analysis] (pve)
@@ -2668,9 +2808,22 @@ dimwishlist:item=2534546147&perks=1172098417,2224838837,3363267119
 dimwishlist:item=2534546147&perks=1172098417,3102670337,3363267119
 
 
+// Scatter Signal - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Rapid Fire with Controlled Burst, quite solid, outclasses Nox Perennial as fusions not usually a DPS/Total Dmg option anyway tags:pve
+dimwishlist:item=2558925366&perks=3643424744,2594592626
+dimwishlist:item=2558925366&perks=3643424744,2037312142
+dimwishlist:item=2558925366&perks=2682205016,2594592626
+dimwishlist:item=2558925366&perks=2682205016,2037312142
+
+
 // Matador 64 - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 33/42 tags:pve
 dimwishlist:item=2563012876&perks=1556840489,2679249093
+
+
+// Scalar Potential - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Against Insidious/Oversoul Edict, not beating them in either tags:pve
+dimwishlist:item=2563668388&perks=
 
 
 // Basso Ostinato - [Aegis S22 Endgame Analysis] (god-pve)
@@ -3138,6 +3291,18 @@ dimwishlist:item=2807687156&perks=1556840489,1771339417
 // Stay Frosty - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Role: Champs tags:god-pve
 dimwishlist:item=2812100428&perks=588594999,1048183818,4264904777
+
+
+// Optative - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Has Under-Over but no Adaptive Munitions (like IKELOS has), Demo in 3rd column is rare tags:pve
+dimwishlist:item=2817683783&perks=3523296417,1870851715,19542588
+dimwishlist:item=2817683783&perks=3523296417,183938251,19542588
+dimwishlist:item=2817683783&perks=1906147653,1870851715,19542588
+dimwishlist:item=2817683783&perks=1906147653,183938251,19542588
+dimwishlist:item=2817683783&perks=247725512,1870851715,19542588
+dimwishlist:item=2817683783&perks=247725512,183938251,19542588
+dimwishlist:item=2817683783&perks=2938480696,1870851715,19542588
+dimwishlist:item=2817683783&perks=2938480696,183938251,19542588
 
 
 // Fortissimo-11 - [Aegis S22 Endgame Analysis] (god-pve)
@@ -3627,6 +3792,14 @@ dimwishlist:item=2990047042&perks=1906147653,1771339417,766321425
 dimwishlist:item=2990047042&perks=1906147653,395388285,766321425
 dimwishlist:item=2990047042&perks=1906147653,1774574192,766321425
 dimwishlist:item=2990047042&perks=1906147653,777774560,766321425
+
+
+// Adhortative - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Shoot to Loot pulse is rare, only one in energy slot tags:pve
+dimwishlist:item=2993554824&perks=3700496672,4293542123
+dimwishlist:item=2993554824&perks=3700496672,2675184851
+dimwishlist:item=2993554824&perks=2840833776,4293542123
+dimwishlist:item=2993554824&perks=2840833776,2675184851
 
 
 // Unforgiven - [Duqk's S22 Duality God Rolls] (pve)
@@ -4148,6 +4321,11 @@ dimwishlist:item=3428521585&perks=2938480696,1048183818,3363267119
 dimwishlist:item=3428521585&perks=2938480696,3431277734,3363267119
 
 
+// Chivalric Fire - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Probably only good for quirky builds like Gyrfalcons tags:pve
+dimwishlist:item=3438139008&perks=776531651,2048641572
+
+
 // Unwavering Duty (Adept) - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier S Rank 3/21 tags:god-pve
 dimwishlist:item=3444632029&perks=3300816228,4293542123,2988596335
@@ -4240,6 +4418,11 @@ dimwishlist:item=3568377122&perks=1583705720,3194351027
 dimwishlist:item=3568377122&perks=3108830275,3194351027
 
 
+// Ros Arago IV - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Tough going against Abyss Defiant. Need to check how Onslaught works. No splash damage perks though tags:pve
+dimwishlist:item=3583275737&perks=3418782618,95528736,1050127423
+
+
 // First In, Last Out - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 26/42 tags:pve
 dimwishlist:item=3616586446&perks=3300816228,1546637391
@@ -4318,6 +4501,11 @@ dimwishlist:item=3669616453&perks=3300816228,3523296417
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 10/19 tags:pve
 dimwishlist:item=3690523502&perks=3300816228,2888557110
 dimwishlist:item=3690523502&perks=2284787283,2888557110
+
+
+// Lethophobia - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] No Archer's Tempo, Shoot to Loot. Surrounded is funny though tags:pve
+dimwishlist:item=3710082365&perks=
 
 
 // Dead Weight - [Aegis S22 Endgame Analysis] (god-pve)
@@ -4591,6 +4779,11 @@ dimwishlist:item=3920310144&perks=424370782,1771339417,164468655
 dimwishlist:item=3920310144&perks=424370782,395388285,164468655
 
 
+// Parabellum - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Adaptive frame not that good in PvE tags:pve
+dimwishlist:item=3926811686&perks=3700496672,4104185692
+
+
 // Midha's Reckoning - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 14/29 tags:pve
 dimwishlist:item=3969066556&perks=2869569095,1427256713,120721526
@@ -4780,6 +4973,18 @@ dimwishlist:item=4132072834&perks=906981559,395388285,2565067140
 dimwishlist:item=4146702548&perks=3300816228,706527188
 
 
+// Appetence - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] No Shoot to Loot on either S23 kinetic traces, but Demo is good (especially in 3rd column) tags:pve
+dimwishlist:item=4153087276&perks=3523296417,124408337
+dimwishlist:item=4153087276&perks=3523296417,1171887445
+dimwishlist:item=4153087276&perks=3523296417,243981275
+dimwishlist:item=4153087276&perks=3523296417,984655331
+dimwishlist:item=4153087276&perks=1906147653,124408337
+dimwishlist:item=4153087276&perks=1906147653,1171887445
+dimwishlist:item=4153087276&perks=1906147653,243981275
+dimwishlist:item=4153087276&perks=1906147653,984655331
+
+
 // The Third Axiom (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=4156253727&perks=3250034553,1561002382,3436462433,2458213969
@@ -4866,6 +5071,11 @@ dimwishlist:item=4230965989&perks=848860060,2541826827,766321425
 dimwishlist:item=4230993599&perks=1749209109,3913600130
 
 
+// Marcato-45 - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Demo/Tricorn LMG is interesting but this is on Strand, mostly useful for Titans only tags:pve
+dimwishlist:item=4233375372&perks=3523296417,2610012052
+
+
 // Heritage - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier S Rank 3/42 tags:god-pve
 dimwishlist:item=4248569242&perks=1523832109,469285294,766321425
@@ -4876,6 +5086,11 @@ dimwishlist:item=4248569242&perks=3523296417,469285294,766321425
 dimwishlist:item=4248569242&perks=3523296417,3335686050,766321425
 dimwishlist:item=4248569242&perks=1906147653,469285294,766321425
 dimwishlist:item=4248569242&perks=1906147653,3335686050,766321425
+
+
+// Incisor - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Appetence better, this is mostly PvP tags:pve
+dimwishlist:item=4248997900&perks=
 
 
 // The Hothead - [Aegis S22 Endgame Analysis] (god-pve)

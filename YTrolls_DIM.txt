@@ -6,6 +6,11 @@ description:Rolls from CoolGuy, Aztecross, FalloutPlays, Demonjoe, KackisHD, and
 dimwishlist:item=2290416&perks=509074078,1546637391,3989629871
 
 
+// Senuna SI6 - [CoolGuy S22 Rare Rolls] (pvp)
+//notes: [CoolGuy S22 Rare Rolls] Headseeker two-burst sidearms (no 3rd column perk specified) tags:pvp
+dimwishlist:item=5159537&perks=460017080,2839173408
+
+
 // Temptation's Hook - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 23/25 tags:pve
 dimwishlist:item=35794111&perks=1749209109,3708227201
@@ -52,6 +57,34 @@ dimwishlist:item=92459755&perks=461595545,3708227201
 dimwishlist:item=92459755&perks=461595545,781192741
 dimwishlist:item=92459755&perks=461595545,3751912585
 dimwishlist:item=92459755&perks=461595545,331667533
+
+
+// Supercluster - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] Slugs not part of general player-base meta, not a priority. tags:pve
+dimwishlist:item=92459755&perks=1523832109,1546637391
+dimwishlist:item=92459755&perks=1523832109,3418165135
+dimwishlist:item=92459755&perks=1523832109,3708227201
+dimwishlist:item=92459755&perks=1523832109,781192741
+dimwishlist:item=92459755&perks=1523832109,3751912585
+dimwishlist:item=92459755&perks=1523832109,331667533
+dimwishlist:item=92459755&perks=461595545,1546637391
+dimwishlist:item=92459755&perks=461595545,3418165135
+dimwishlist:item=92459755&perks=461595545,3708227201
+dimwishlist:item=92459755&perks=461595545,781192741
+dimwishlist:item=92459755&perks=461595545,3751912585
+dimwishlist:item=92459755&perks=461595545,331667533
+dimwishlist:item=92459755&perks=1354429876,1546637391
+dimwishlist:item=92459755&perks=1354429876,3418165135
+dimwishlist:item=92459755&perks=1354429876,3708227201
+dimwishlist:item=92459755&perks=1354429876,781192741
+dimwishlist:item=92459755&perks=1354429876,3751912585
+dimwishlist:item=92459755&perks=1354429876,331667533
+dimwishlist:item=92459755&perks=848860060,1546637391
+dimwishlist:item=92459755&perks=848860060,3418165135
+dimwishlist:item=92459755&perks=848860060,3708227201
+dimwishlist:item=92459755&perks=848860060,781192741
+dimwishlist:item=92459755&perks=848860060,3751912585
+dimwishlist:item=92459755&perks=848860060,331667533
 
 
 // Double-Edged Answer - [Aegis S23 Weapon Meta Update] (pve)
@@ -484,6 +517,12 @@ dimwishlist:item=358788212&perks=839105230,3142289711,1570042021,460017080
 //notes: [CoolGuy's S22 Review] Comparable to Messenger tags:pvp
 dimwishlist:item=358788212&perks=839105230,3142289711,1195158366,1015611457
 dimwishlist:item=358788212&perks=1482024992,3142289711,1195158366,1015611457
+
+
+// Psi Hermetic V - [CoolGuy S22 Rare Rolls] (pve,pvp)
+//notes: [CoolGuy S22 Rare Rolls] tags:pve,pvp
+dimwishlist:item=358788212&perks=2610012052,1050127423
+dimwishlist:item=358788212&perks=124408337,1050127423
 
 
 // Cantata-57 - [CoolGuy S16 Review] (god-pvp)
@@ -968,6 +1007,12 @@ dimwishlist:item=676270382&perks=2284787283,1771339417,1607056502
 dimwishlist:item=679281855&perks=3161816588,1546637391
 
 
+// Exile's Curse - [CoolGuy S22 Rare Rolls] (pvp,pve)
+//notes: [CoolGuy S22 Rare Rolls] High impact Disruption Break fusion (no 3rd column perks specified) tags:pvp,pve
+dimwishlist:item=679281855&perks=1683379515,905869860
+dimwishlist:item=679281855&perks=1683379515,3244015567
+
+
 // Ascendancy - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 20/22 tags:pve
 dimwishlist:item=725408022&perks=951095735,3194351027
@@ -1029,6 +1074,31 @@ dimwishlist:item=833898322&perks=1168162263,31345821
 //notes: [demonjoe Crota's End God Rolls] Bad archetype and likely won't craft, but if I do, Heal Clip or Recon with Incandescent would be it tags:pve
 dimwishlist:item=833898322&perks=3017780555,4293542123
 dimwishlist:item=833898322&perks=1523832109,4293542123
+
+
+// Vengeful Whisper - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] Nothing too special, just a standard bow with Strand (-15% damage). Has Precision Instrument but not doing bow DPS. tags:pve
+dimwishlist:item=839344841&perks=3365897133,2652708987
+dimwishlist:item=839344841&perks=3365897133,555281244
+dimwishlist:item=839344841&perks=3365897133,831391274
+dimwishlist:item=839344841&perks=201365942,2652708987
+dimwishlist:item=839344841&perks=201365942,555281244
+dimwishlist:item=839344841&perks=201365942,831391274
+dimwishlist:item=839344841&perks=3828510309,2652708987
+dimwishlist:item=839344841&perks=3828510309,555281244
+dimwishlist:item=839344841&perks=3828510309,831391274
+
+
+// Vengeful Whisper - [demonjoe S23 Warlord's Ruin Godrolls] (pve)
+//notes: [demonjoe S23 Warlord's Ruin Godrolls] tags:pve
+dimwishlist:item=839344841&perks=3365897133,555281244
+dimwishlist:item=839344841&perks=3365897133,831391274
+
+
+// Vengeful Whisper - [demonjoe S23 Warlord's Ruin Godrolls] (pve)
+//notes: [demonjoe S23 Warlord's Ruin Godrolls] tags:pve
+dimwishlist:item=839344841&perks=201365942,2652708987
+dimwishlist:item=839344841&perks=201365942,555281244
 
 
 // Cold Comfort - [Aegis S22 Endgame Analysis] (god-pve)
@@ -1325,6 +1395,14 @@ dimwishlist:item=1168625549&perks=494941759,2679249093,566815328
 dimwishlist:item=1168625549&perks=494941759,788178929,566815328
 
 
+// IKELOS_SG_v1.0.3 - [CoolGuy S22 Rare Rolls] (pve)
+//notes: [CoolGuy S22 Rare Rolls] Rare Turnabout/Trench shotguns tags:pve
+dimwishlist:item=1168625549&perks=2209918983,2360754333
+dimwishlist:item=1168625549&perks=2209918983,2459015849
+dimwishlist:item=1168625549&perks=2000295559,2360754333
+dimwishlist:item=1168625549&perks=2000295559,2459015849
+
+
 // Felwinter's Lie - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 24/42 tags:pve
 dimwishlist:item=1179141605&perks=3436462433,1546637391
@@ -1362,6 +1440,12 @@ dimwishlist:item=1184692845&perks=1183436451,2848615171,120721526
 dimwishlist:item=1184692845&perks=1183436451,169755979,120721526
 dimwishlist:item=1184692845&perks=1183436451,4104185692,120721526
 dimwishlist:item=1184692845&perks=1183436451,3007133316,120721526
+
+
+// High Albedo - [CoolGuy S22 Rare Rolls] (pvp)
+//notes: [CoolGuy S22 Rare Rolls] Headseeker two-burst sidearms (no 3rd column perk specified) tags:pvp
+dimwishlist:item=1197486957&perks=460017080,2302094943
+dimwishlist:item=1197486957&perks=460017080,38912240
 
 
 // Fatebringer (Timelost) - [Aegis S22 Endgame Analysis] (god-pve)
@@ -1619,6 +1703,12 @@ dimwishlist:item=1321506184&perks=855168139,557221067,120721526
 dimwishlist:item=1321506184&perks=855168139,2896748467,120721526
 
 
+// Combined Action - [CoolGuy S22 Rare Rolls] (pvp)
+//notes: [CoolGuy S22 Rare Rolls] Adagio 120 hand cannons, 2-shot once perk procced tags:pvp
+dimwishlist:item=1331824604&perks=2866798147,3673922083
+dimwishlist:item=1331824604&perks=2272927194,3673922083
+
+
 // Tomorrow's Answer (Adept) - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 14/22 tags:pve
 dimwishlist:item=1366917989&perks=3300816228,3927722942
@@ -1703,6 +1793,34 @@ dimwishlist:item=1447836603&perks=494941759,2173046394,19542588
 dimwishlist:item=1447836603&perks=494941759,1720528630,19542588
 
 
+// Subjunctive - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] Good if you don't have the IKELOS SMG or prefer a 900rpm instead. Subsistence/Voltshot rolls need a reloader arm mod. tags:pve
+dimwishlist:item=1447836603&perks=1583705720,2173046394
+dimwishlist:item=1447836603&perks=1583705720,1720528630
+dimwishlist:item=1447836603&perks=1583705720,4049631843
+dimwishlist:item=1447836603&perks=1583705720,859780267
+dimwishlist:item=1447836603&perks=1409206216,2173046394
+dimwishlist:item=1447836603&perks=1409206216,1720528630
+dimwishlist:item=1447836603&perks=1409206216,4049631843
+dimwishlist:item=1447836603&perks=1409206216,859780267
+dimwishlist:item=1447836603&perks=4071163871,2173046394
+dimwishlist:item=1447836603&perks=4071163871,1720528630
+dimwishlist:item=1447836603&perks=4071163871,4049631843
+dimwishlist:item=1447836603&perks=4071163871,859780267
+dimwishlist:item=1447836603&perks=494941759,2173046394
+dimwishlist:item=1447836603&perks=494941759,1720528630
+dimwishlist:item=1447836603&perks=494941759,4049631843
+dimwishlist:item=1447836603&perks=494941759,859780267
+dimwishlist:item=1447836603&perks=1820235745,2173046394
+dimwishlist:item=1447836603&perks=1820235745,1720528630
+dimwishlist:item=1447836603&perks=1820235745,4049631843
+dimwishlist:item=1447836603&perks=1820235745,859780267
+dimwishlist:item=1447836603&perks=4245865861,2173046394
+dimwishlist:item=1447836603&perks=4245865861,1720528630
+dimwishlist:item=1447836603&perks=4245865861,4049631843
+dimwishlist:item=1447836603&perks=4245865861,859780267
+
+
 // Nasreddin - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 6/25 tags:god-pve
 dimwishlist:item=1456017061&perks=1749209109,3708227201,2120661319
@@ -1755,6 +1873,26 @@ dimwishlist:item=1501688142&perks=461595545,3708227201
 dimwishlist:item=1501688142&perks=461595545,781192741
 dimwishlist:item=1501688142&perks=461595545,555281244
 dimwishlist:item=1501688142&perks=461595545,332733060
+
+
+// Doomed Petitioner - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] People drawn to this as it's three-burst and raid quality from a seasonal weapon. tags:pve
+dimwishlist:item=1501688142&perks=1523832109,555281244
+dimwishlist:item=1501688142&perks=1523832109,332733060
+dimwishlist:item=1501688142&perks=1523832109,3708227201
+dimwishlist:item=1501688142&perks=1523832109,781192741
+dimwishlist:item=1501688142&perks=461595545,555281244
+dimwishlist:item=1501688142&perks=461595545,332733060
+dimwishlist:item=1501688142&perks=461595545,3708227201
+dimwishlist:item=1501688142&perks=461595545,781192741
+dimwishlist:item=1501688142&perks=968510818,555281244
+dimwishlist:item=1501688142&perks=968510818,332733060
+dimwishlist:item=1501688142&perks=968510818,3708227201
+dimwishlist:item=1501688142&perks=968510818,781192741
+dimwishlist:item=1501688142&perks=424370782,555281244
+dimwishlist:item=1501688142&perks=424370782,332733060
+dimwishlist:item=1501688142&perks=424370782,3708227201
+dimwishlist:item=1501688142&perks=424370782,781192741
 
 
 // Blood Feud ()
@@ -1907,6 +2045,29 @@ dimwishlist:item=1719687748&perks=3161816588,3194351027
 dimwishlist:item=1719687748&perks=3161816588,3708227201
 
 
+// Crux Termination IV - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] Clown Cartridge probably better than Reconstruction or Envious, so you can always get more in the chamber to shoot out faster. tags:pve
+dimwishlist:item=1719687748&perks=2284787283,3194351027
+dimwishlist:item=1719687748&perks=2284787283,1439600632
+dimwishlist:item=1719687748&perks=2284787283,3708227201
+
+
+// Crux Termination IV - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] tags:pve
+dimwishlist:item=1719687748&perks=1523832109,3194351027
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+dimwishlist:item=1719687748&perks=1523832109,3977735242
+dimwishlist:item=1719687748&perks=1523832109,3708227201
+dimwishlist:item=1719687748&perks=968510818,3194351027
+dimwishlist:item=1719687748&perks=968510818,1439600632
+dimwishlist:item=1719687748&perks=968510818,3977735242
+dimwishlist:item=1719687748&perks=968510818,3708227201
+dimwishlist:item=1719687748&perks=3161816588,3194351027
+dimwishlist:item=1719687748&perks=3161816588,1439600632
+dimwishlist:item=1719687748&perks=3161816588,3977735242
+dimwishlist:item=1719687748&perks=3161816588,3708227201
+
+
 // Royal Executioner - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 3/29 tags:god-pve
 dimwishlist:item=1720503118&perks=968510818,1427256713,1823011807
@@ -1943,6 +2104,11 @@ dimwishlist:item=1757202961&perks=3800201097,2224838837,398661035
 dimwishlist:item=1757202961&perks=3800201097,4293542123,398661035
 dimwishlist:item=1757202961&perks=1556840489,2224838837,398661035
 dimwishlist:item=1757202961&perks=1556840489,4293542123,398661035
+
+
+// Greasy Luck - [CoolGuy S22 Rare Rolls] (pve)
+//notes: [CoolGuy S22 Rare Rolls] (From commenter) Range attack to break shields, target takes +50% damage (5.5s or until dead), plus +30% melee damage for 10s, pair with Synthoceps, Triton Vice, Winter's Guile, Wormgod Caress tags:pve
+dimwishlist:item=1757202961&perks=1683379515,1782407750
 
 
 // Riiswalker - [Aegis S23 Weapon Meta Update] (pve)
@@ -2160,6 +2326,51 @@ dimwishlist:item=1866778462&perks=3796465595,3977735242,3194351027
 dimwishlist:item=1866778462&perks=3796465595,3977735242,2284787283
 
 
+// Stay Frosty - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] Enlightened Action much better reloader perk than Perpetual Motion. Good for Anti-barrier stuns if Under-over can 2-burst stun champions. tags:pve
+dimwishlist:item=1891321753&perks=3828510309,1870851715
+
+
+// Stay Frosty - [Aztecross S23 Dawning Godrolls] (pvp)
+//notes: [Aztecross S23 Dawning Godrolls] tags:pvp
+dimwishlist:item=1891321753&perks=588594999,1015611457
+dimwishlist:item=1891321753&perks=588594999,460017080
+dimwishlist:item=1891321753&perks=1570042021,1015611457
+dimwishlist:item=1891321753&perks=1570042021,460017080
+
+
+// Stay Frosty - [Aztecross S23 Dawning Godrolls] (pve)
+//notes: [Aztecross S23 Dawning Godrolls] Stasis synergy, mainly. Attrition Orb may become useful as orb generation gets nerfed more. tags:pve
+dimwishlist:item=1891321753&perks=124408337,4264904777
+dimwishlist:item=1891321753&perks=124408337,2839173408
+dimwishlist:item=1891321753&perks=3324494224,4264904777
+dimwishlist:item=1891321753&perks=3324494224,2839173408
+
+
+// Stay Frosty - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] tags:pve
+dimwishlist:item=1891321753&perks=3828510309,3324494224
+dimwishlist:item=1891321753&perks=3828510309,3047969693
+dimwishlist:item=1891321753&perks=3828510309,124408337
+dimwishlist:item=1891321753&perks=3828510309,1015611457
+
+
+// Stay Frosty - [Ebontis S23 Best Dawning Rolls] (pvp)
+//notes: [Ebontis S23 Best Dawning Rolls] Nice consistent package but subjective. tags:pvp
+dimwishlist:item=1891321753&perks=839105230,3142289711,2450788523,1015611457
+dimwishlist:item=1891321753&perks=839105230,3142289711,2450788523,460017080
+dimwishlist:item=1891321753&perks=839105230,3142289711,588594999,1015611457
+dimwishlist:item=1891321753&perks=839105230,3142289711,588594999,460017080
+dimwishlist:item=1891321753&perks=839105230,3142289711,3828510309,1015611457
+dimwishlist:item=1891321753&perks=839105230,3142289711,3828510309,460017080
+dimwishlist:item=1891321753&perks=839105230,106909392,2450788523,1015611457
+dimwishlist:item=1891321753&perks=839105230,106909392,2450788523,460017080
+dimwishlist:item=1891321753&perks=839105230,106909392,588594999,1015611457
+dimwishlist:item=1891321753&perks=839105230,106909392,588594999,460017080
+dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,1015611457
+dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,460017080
+
+
 // Blowout - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 4/22 tags:god-pve
 dimwishlist:item=1903182562&perks=2869569095,3194351027,4091460919
@@ -2172,6 +2383,40 @@ dimwishlist:item=1911060537&perks=3400784728,1771339417,3988215619
 dimwishlist:item=1911060537&perks=3400784728,395388285,3988215619
 dimwishlist:item=1911060537&perks=573122728,1771339417,3988215619
 dimwishlist:item=1911060537&perks=573122728,395388285,3988215619
+
+
+// Zephyr - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] Not much changed, still Cold Steel. tags:pve
+dimwishlist:item=1911078836&perks=3650930298,4264904777
+
+
+// Zephyr - [Aztecross S23 Dawning Godrolls] (pve)
+//notes: [Aztecross S23 Dawning Godrolls] tags:pve
+dimwishlist:item=1911078836&perks=1749209109,3650930298
+dimwishlist:item=1911078836&perks=1749209109,3708227201
+dimwishlist:item=1911078836&perks=1749209109,2396489472
+
+
+// Zephyr - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] tags:pve
+dimwishlist:item=1911078836&perks=1749209109,3650930298
+
+
+// Zephyr - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] tags:pve
+dimwishlist:item=1911078836&perks=3592538738,2396489472
+dimwishlist:item=1911078836&perks=3108830275,2396489472
+
+
+// Zephyr - [Ebontis S23 Best Dawning Rolls] (pve)
+//notes: [Ebontis S23 Best Dawning Rolls] Slow is anti-champion. tags:pve
+dimwishlist:item=1911078836&perks=1749209109,3913600130
+dimwishlist:item=1911078836&perks=1749209109,3650930298
+
+
+// Zephyr - [Ebontis S23 Best Dawning Rolls] (pve)
+//notes: [Ebontis S23 Best Dawning Rolls] Might be fun for whaling at an enemy. tags:pve
+dimwishlist:item=1911078836&perks=3108830275,243981275
 
 
 // Boudica-C (god-pvp)
@@ -2369,6 +2614,12 @@ dimwishlist:item=2002522739&perks=1428297954,2978966579,2988596335
 dimwishlist:item=2002522739&perks=1428297954,1546637391,2988596335
 
 
+// The Last Dance - [CoolGuy S22 Rare Rolls] ()
+//notes: [CoolGuy S22 Rare Rolls] Rare TTT on burst sidearms (no 3rd column perk specified)
+dimwishlist:item=2009277538&perks=1890422124,905869860
+dimwishlist:item=2009277538&perks=1890422124,3244015567
+
+
 // Lingering Dread - [Duqk's S22 Duality God Rolls] (god-pve)
 //notes: [Duqk's S22 Duality God Rolls] Blind and slow on any subclass, extra synergy with Stasis builds tags:god-pve
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
@@ -2400,9 +2651,42 @@ dimwishlist:item=2026755633&perks=3828510309,3891536761
 dimwishlist:item=2026755633&perks=3700496672,3891536761
 
 
+// Breakneck - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] tags:pve
+dimwishlist:item=2026755633&perks=1820235745,95528736
+
+
 // Imperative - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] High Impact makes it bad, KT takes longer to proc tags:pve
 dimwishlist:item=2045811635&perks=
+
+
+// Imperative - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] 150rpm is so hard to love. tags:pve
+dimwishlist:item=2045811635&perks=247725512,3891536761
+dimwishlist:item=2045811635&perks=247725512,1549370717
+dimwishlist:item=2045811635&perks=247725512,3038247973
+dimwishlist:item=2045811635&perks=247725512,64866129
+dimwishlist:item=2045811635&perks=2938480696,3891536761
+dimwishlist:item=2045811635&perks=2938480696,1549370717
+dimwishlist:item=2045811635&perks=2938480696,3038247973
+dimwishlist:item=2045811635&perks=2938480696,64866129
+dimwishlist:item=2045811635&perks=1820235745,3891536761
+dimwishlist:item=2045811635&perks=1820235745,1549370717
+dimwishlist:item=2045811635&perks=1820235745,3038247973
+dimwishlist:item=2045811635&perks=1820235745,64866129
+dimwishlist:item=2045811635&perks=4245865861,3891536761
+dimwishlist:item=2045811635&perks=4245865861,1549370717
+dimwishlist:item=2045811635&perks=4245865861,3038247973
+dimwishlist:item=2045811635&perks=4245865861,64866129
+dimwishlist:item=2045811635&perks=3400784728,3891536761
+dimwishlist:item=2045811635&perks=3400784728,1549370717
+dimwishlist:item=2045811635&perks=3400784728,3038247973
+dimwishlist:item=2045811635&perks=3400784728,64866129
+dimwishlist:item=2045811635&perks=573122728,3891536761
+dimwishlist:item=2045811635&perks=573122728,1549370717
+dimwishlist:item=2045811635&perks=573122728,3038247973
+dimwishlist:item=2045811635&perks=573122728,64866129
 
 
 // Eye of Sol (Adept) - [Aegis S23 Weapon Meta Update] (pve)
@@ -2816,6 +3100,22 @@ dimwishlist:item=2558925366&perks=2682205016,2594592626
 dimwishlist:item=2558925366&perks=2682205016,2037312142
 
 
+// Scatter Signal - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] Overflow/Controlled Burst best, but Slice is useful utility (40% damage debuff), or Enlightened Action. tags:pve
+dimwishlist:item=2558925366&perks=839105230,2680121939,3643424744,2594592626
+dimwishlist:item=2558925366&perks=839105230,2680121939,3643424744,2037312142
+dimwishlist:item=2558925366&perks=839105230,2680121939,2682205016,2594592626
+dimwishlist:item=2558925366&perks=839105230,2680121939,2682205016,2037312142
+dimwishlist:item=2558925366&perks=839105230,2680121939,923806249,2594592626
+dimwishlist:item=2558925366&perks=839105230,2680121939,923806249,2037312142
+dimwishlist:item=2558925366&perks=839105230,2680121939,3422796781,2594592626
+dimwishlist:item=2558925366&perks=839105230,2680121939,3422796781,2037312142
+dimwishlist:item=2558925366&perks=839105230,2680121939,3828510309,2594592626
+dimwishlist:item=2558925366&perks=839105230,2680121939,3828510309,2037312142
+dimwishlist:item=2558925366&perks=839105230,2680121939,1771736209,2594592626
+dimwishlist:item=2558925366&perks=839105230,2680121939,1771736209,2037312142
+
+
 // Matador 64 - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 33/42 tags:pve
 dimwishlist:item=2563012876&perks=1556840489,2679249093
@@ -2824,6 +3124,16 @@ dimwishlist:item=2563012876&perks=1556840489,2679249093
 // Scalar Potential - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] Against Insidious/Oversoul Edict, not beating them in either tags:pve
 dimwishlist:item=2563668388&perks=
+
+
+// Scalar Potential - [Datto S23 Godrolls] (pvp)
+//notes: [Datto S23 Godrolls] Mainly PvP pulse, not much to offer for PvE (use Insidious or BXR). tags:pvp
+dimwishlist:item=2563668388&perks=839105230,3142289711,3619207468,460017080
+
+
+// Fioritura-59 - [CoolGuy S22 Rare Rolls] (pvp)
+//notes: [CoolGuy S22 Rare Rolls] Massive hipfire perks tags:pvp
+dimwishlist:item=2566006935&perks=1866048759,2416023159
 
 
 // Basso Ostinato - [Aegis S22 Endgame Analysis] (god-pve)
@@ -2863,6 +3173,11 @@ dimwishlist:item=2591111628&perks=4090651448,1087426260,706527188,957782887
 dimwishlist:item=2591111628&perks=4090651448,106909392,706527188,957782887
 dimwishlist:item=2591111628&perks=1300023272,1087426260,706527188,957782887
 dimwishlist:item=2591111628&perks=1300023272,106909392,706527188,957782887
+
+
+// Compass Rose - [CoolGuy S22 Rare Rolls] (pve)
+//notes: [CoolGuy S22 Rare Rolls] Rare Turnabout/Trench shotguns tags:pve
+dimwishlist:item=2591111628&perks=2209918983,2360754333
 
 
 // The Enigma - [Aegis S22 Endgame Analysis] (god-pve)
@@ -3210,6 +3525,177 @@ dimwishlist:item=2673925403&perks=1354429876,1771339417,3988215619
 dimwishlist:item=2673925403&perks=3700496672,1771339417,3988215619
 
 
+// Albedo Wing - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] New aggressive frame glaive with Grave Robber, good for use with Wormgod Caress. If melee kills proc Dawning Surprise then all the better. tags:pve
+dimwishlist:item=2680976411&perks=1631667848,1782407750
+
+
+// Albedo Wing - [Aztecross S23 Dawning Godrolls] (pve)
+//notes: [Aztecross S23 Dawning Godrolls] tags:pve
+dimwishlist:item=2680976411&perks=2859149211,1782407750
+dimwishlist:item=2680976411&perks=2859149211,3523296417
+dimwishlist:item=2680976411&perks=2859149211,2610012052
+
+
+// Albedo Wing - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] Field Prep/Close To Melee on Strand Synthoceps Titan could be fun. tags:pve
+dimwishlist:item=2680976411&perks=1631667848,1782407750
+dimwishlist:item=2680976411&perks=1631667848,243981275
+dimwishlist:item=2680976411&perks=1631667848,3523296417
+dimwishlist:item=2680976411&perks=1631667848,1556840489
+dimwishlist:item=2680976411&perks=1966281507,1782407750
+dimwishlist:item=2680976411&perks=1966281507,243981275
+dimwishlist:item=2680976411&perks=1966281507,3523296417
+dimwishlist:item=2680976411&perks=1966281507,1556840489
+dimwishlist:item=2680976411&perks=2284787283,1782407750
+dimwishlist:item=2680976411&perks=2284787283,243981275
+dimwishlist:item=2680976411&perks=2284787283,3523296417
+dimwishlist:item=2680976411&perks=2284787283,1556840489
+dimwishlist:item=2680976411&perks=2869569095,1782407750
+dimwishlist:item=2680976411&perks=2869569095,243981275
+dimwishlist:item=2680976411&perks=2869569095,3523296417
+dimwishlist:item=2680976411&perks=2869569095,1556840489
+
+
+// Albedo Wing - [Ebontis S23 Best Dawning Rolls] (pve)
+//notes: [Ebontis S23 Best Dawning Rolls] Mainly Close To Melee, others are personal picks. tags:pve
+dimwishlist:item=2680976411&perks=1934171651,679225683,2859149211,1782407750
+dimwishlist:item=2680976411&perks=1934171651,679225683,2859149211,243981275
+dimwishlist:item=2680976411&perks=1934171651,679225683,2859149211,3523296417
+dimwishlist:item=2680976411&perks=1934171651,679225683,3619207468,1782407750
+dimwishlist:item=2680976411&perks=1934171651,679225683,3619207468,243981275
+dimwishlist:item=2680976411&perks=1934171651,679225683,3619207468,3523296417
+dimwishlist:item=2680976411&perks=1934171651,679225683,1966281507,1782407750
+dimwishlist:item=2680976411&perks=1934171651,679225683,1966281507,243981275
+dimwishlist:item=2680976411&perks=1934171651,679225683,1966281507,3523296417
+dimwishlist:item=2680976411&perks=1934171651,679225683,2284787283,1782407750
+dimwishlist:item=2680976411&perks=1934171651,679225683,2284787283,243981275
+dimwishlist:item=2680976411&perks=1934171651,679225683,2284787283,3523296417
+dimwishlist:item=2680976411&perks=1934171651,679225683,1631667848,1782407750
+dimwishlist:item=2680976411&perks=1934171651,679225683,1631667848,243981275
+dimwishlist:item=2680976411&perks=1934171651,679225683,1631667848,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3142289711,2859149211,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3142289711,2859149211,243981275
+dimwishlist:item=2680976411&perks=1934171651,3142289711,2859149211,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3142289711,3619207468,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3142289711,3619207468,243981275
+dimwishlist:item=2680976411&perks=1934171651,3142289711,3619207468,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3142289711,1966281507,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3142289711,1966281507,243981275
+dimwishlist:item=2680976411&perks=1934171651,3142289711,1966281507,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3142289711,2284787283,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3142289711,2284787283,243981275
+dimwishlist:item=2680976411&perks=1934171651,3142289711,2284787283,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3142289711,1631667848,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3142289711,1631667848,243981275
+dimwishlist:item=2680976411&perks=1934171651,3142289711,1631667848,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3721627275,2859149211,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3721627275,2859149211,243981275
+dimwishlist:item=2680976411&perks=1934171651,3721627275,2859149211,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3721627275,3619207468,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3721627275,3619207468,243981275
+dimwishlist:item=2680976411&perks=1934171651,3721627275,3619207468,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3721627275,1966281507,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3721627275,1966281507,243981275
+dimwishlist:item=2680976411&perks=1934171651,3721627275,1966281507,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3721627275,2284787283,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3721627275,2284787283,243981275
+dimwishlist:item=2680976411&perks=1934171651,3721627275,2284787283,3523296417
+dimwishlist:item=2680976411&perks=1934171651,3721627275,1631667848,1782407750
+dimwishlist:item=2680976411&perks=1934171651,3721627275,1631667848,243981275
+dimwishlist:item=2680976411&perks=1934171651,3721627275,1631667848,3523296417
+dimwishlist:item=2680976411&perks=1263609309,679225683,2859149211,1782407750
+dimwishlist:item=2680976411&perks=1263609309,679225683,2859149211,243981275
+dimwishlist:item=2680976411&perks=1263609309,679225683,2859149211,3523296417
+dimwishlist:item=2680976411&perks=1263609309,679225683,3619207468,1782407750
+dimwishlist:item=2680976411&perks=1263609309,679225683,3619207468,243981275
+dimwishlist:item=2680976411&perks=1263609309,679225683,3619207468,3523296417
+dimwishlist:item=2680976411&perks=1263609309,679225683,1966281507,1782407750
+dimwishlist:item=2680976411&perks=1263609309,679225683,1966281507,243981275
+dimwishlist:item=2680976411&perks=1263609309,679225683,1966281507,3523296417
+dimwishlist:item=2680976411&perks=1263609309,679225683,2284787283,1782407750
+dimwishlist:item=2680976411&perks=1263609309,679225683,2284787283,243981275
+dimwishlist:item=2680976411&perks=1263609309,679225683,2284787283,3523296417
+dimwishlist:item=2680976411&perks=1263609309,679225683,1631667848,1782407750
+dimwishlist:item=2680976411&perks=1263609309,679225683,1631667848,243981275
+dimwishlist:item=2680976411&perks=1263609309,679225683,1631667848,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3142289711,2859149211,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3142289711,2859149211,243981275
+dimwishlist:item=2680976411&perks=1263609309,3142289711,2859149211,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3142289711,3619207468,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3142289711,3619207468,243981275
+dimwishlist:item=2680976411&perks=1263609309,3142289711,3619207468,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3142289711,1966281507,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3142289711,1966281507,243981275
+dimwishlist:item=2680976411&perks=1263609309,3142289711,1966281507,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3142289711,2284787283,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3142289711,2284787283,243981275
+dimwishlist:item=2680976411&perks=1263609309,3142289711,2284787283,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3142289711,1631667848,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3142289711,1631667848,243981275
+dimwishlist:item=2680976411&perks=1263609309,3142289711,1631667848,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3721627275,2859149211,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3721627275,2859149211,243981275
+dimwishlist:item=2680976411&perks=1263609309,3721627275,2859149211,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3721627275,3619207468,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3721627275,3619207468,243981275
+dimwishlist:item=2680976411&perks=1263609309,3721627275,3619207468,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3721627275,1966281507,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3721627275,1966281507,243981275
+dimwishlist:item=2680976411&perks=1263609309,3721627275,1966281507,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3721627275,2284787283,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3721627275,2284787283,243981275
+dimwishlist:item=2680976411&perks=1263609309,3721627275,2284787283,3523296417
+dimwishlist:item=2680976411&perks=1263609309,3721627275,1631667848,1782407750
+dimwishlist:item=2680976411&perks=1263609309,3721627275,1631667848,243981275
+dimwishlist:item=2680976411&perks=1263609309,3721627275,1631667848,3523296417
+dimwishlist:item=2680976411&perks=580685494,679225683,2859149211,1782407750
+dimwishlist:item=2680976411&perks=580685494,679225683,2859149211,243981275
+dimwishlist:item=2680976411&perks=580685494,679225683,2859149211,3523296417
+dimwishlist:item=2680976411&perks=580685494,679225683,3619207468,1782407750
+dimwishlist:item=2680976411&perks=580685494,679225683,3619207468,243981275
+dimwishlist:item=2680976411&perks=580685494,679225683,3619207468,3523296417
+dimwishlist:item=2680976411&perks=580685494,679225683,1966281507,1782407750
+dimwishlist:item=2680976411&perks=580685494,679225683,1966281507,243981275
+dimwishlist:item=2680976411&perks=580685494,679225683,1966281507,3523296417
+dimwishlist:item=2680976411&perks=580685494,679225683,2284787283,1782407750
+dimwishlist:item=2680976411&perks=580685494,679225683,2284787283,243981275
+dimwishlist:item=2680976411&perks=580685494,679225683,2284787283,3523296417
+dimwishlist:item=2680976411&perks=580685494,679225683,1631667848,1782407750
+dimwishlist:item=2680976411&perks=580685494,679225683,1631667848,243981275
+dimwishlist:item=2680976411&perks=580685494,679225683,1631667848,3523296417
+dimwishlist:item=2680976411&perks=580685494,3142289711,2859149211,1782407750
+dimwishlist:item=2680976411&perks=580685494,3142289711,2859149211,243981275
+dimwishlist:item=2680976411&perks=580685494,3142289711,2859149211,3523296417
+dimwishlist:item=2680976411&perks=580685494,3142289711,3619207468,1782407750
+dimwishlist:item=2680976411&perks=580685494,3142289711,3619207468,243981275
+dimwishlist:item=2680976411&perks=580685494,3142289711,3619207468,3523296417
+dimwishlist:item=2680976411&perks=580685494,3142289711,1966281507,1782407750
+dimwishlist:item=2680976411&perks=580685494,3142289711,1966281507,243981275
+dimwishlist:item=2680976411&perks=580685494,3142289711,1966281507,3523296417
+dimwishlist:item=2680976411&perks=580685494,3142289711,2284787283,1782407750
+dimwishlist:item=2680976411&perks=580685494,3142289711,2284787283,243981275
+dimwishlist:item=2680976411&perks=580685494,3142289711,2284787283,3523296417
+dimwishlist:item=2680976411&perks=580685494,3142289711,1631667848,1782407750
+dimwishlist:item=2680976411&perks=580685494,3142289711,1631667848,243981275
+dimwishlist:item=2680976411&perks=580685494,3142289711,1631667848,3523296417
+dimwishlist:item=2680976411&perks=580685494,3721627275,2859149211,1782407750
+dimwishlist:item=2680976411&perks=580685494,3721627275,2859149211,243981275
+dimwishlist:item=2680976411&perks=580685494,3721627275,2859149211,3523296417
+dimwishlist:item=2680976411&perks=580685494,3721627275,3619207468,1782407750
+dimwishlist:item=2680976411&perks=580685494,3721627275,3619207468,243981275
+dimwishlist:item=2680976411&perks=580685494,3721627275,3619207468,3523296417
+dimwishlist:item=2680976411&perks=580685494,3721627275,1966281507,1782407750
+dimwishlist:item=2680976411&perks=580685494,3721627275,1966281507,243981275
+dimwishlist:item=2680976411&perks=580685494,3721627275,1966281507,3523296417
+dimwishlist:item=2680976411&perks=580685494,3721627275,2284787283,1782407750
+dimwishlist:item=2680976411&perks=580685494,3721627275,2284787283,243981275
+dimwishlist:item=2680976411&perks=580685494,3721627275,2284787283,3523296417
+dimwishlist:item=2680976411&perks=580685494,3721627275,1631667848,1782407750
+dimwishlist:item=2680976411&perks=580685494,3721627275,1631667848,243981275
+dimwishlist:item=2680976411&perks=580685494,3721627275,1631667848,3523296417
+
+
 // Corsair's Wrath - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 11/11 tags:pve
 dimwishlist:item=2714022207&perks=588594999,2213355989
@@ -3234,6 +3720,59 @@ dimwishlist:item=2721157927&perks=2284787283,4049631843,79448657
 dimwishlist:item=2721157927&perks=2284787283,859780267,79448657
 dimwishlist:item=2721157927&perks=3563868667,4049631843,79448657
 dimwishlist:item=2721157927&perks=3563868667,859780267,79448657
+
+
+// Glacioclasm - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] There are better high-impact fusions (Eremite, Loaded Question), but not horrible. Expecting it to be replaced with reprised GoS fusion soon. tags:pve
+dimwishlist:item=2728851518&perks=3161816588,1427256713
+dimwishlist:item=2728851518&perks=1820235745,1427256713
+
+
+// Glacioclasm - [Aztecross S23 Dawning Godrolls] (pve)
+//notes: [Aztecross S23 Dawning Godrolls] Good for damage use. tags:pve
+dimwishlist:item=2728851518&perks=3643424744,2594592626
+
+
+// Glacioclasm - [Aztecross S23 Dawning Godrolls] (pve)
+//notes: [Aztecross S23 Dawning Godrolls] tags:pve
+dimwishlist:item=2728851518&perks=3161816588,1427256713
+
+
+// Glacioclasm - [Aztecross S23 Dawning Godrolls] (pvp)
+//notes: [Aztecross S23 Dawning Godrolls] Long range damage. tags:pvp
+dimwishlist:item=2728851518&perks=1645158859,2451262963
+
+
+// Glacioclasm - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] Boss damage. tags:pve
+dimwishlist:item=2728851518&perks=3643424744,2594592626
+dimwishlist:item=2728851518&perks=3643424744,1427256713
+
+
+// Glacioclasm - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] Ad-clear (but why?) tags:pve
+dimwishlist:item=2728851518&perks=3161816588,1427256713
+dimwishlist:item=2728851518&perks=1820235745,1427256713
+
+
+// Glacioclasm - [Ebontis S23 Best Dawning Rolls] (pve)
+//notes: [Ebontis S23 Best Dawning Rolls] tags:pve
+dimwishlist:item=2728851518&perks=1482024992,689005463,3643424744,2594592626
+dimwishlist:item=2728851518&perks=1482024992,689005463,3643424744,1427256713
+dimwishlist:item=2728851518&perks=1482024992,689005463,1820235745,2594592626
+dimwishlist:item=2728851518&perks=1482024992,689005463,1820235745,1427256713
+dimwishlist:item=2728851518&perks=1840239774,689005463,3643424744,2594592626
+dimwishlist:item=2728851518&perks=1840239774,689005463,3643424744,1427256713
+dimwishlist:item=2728851518&perks=1840239774,689005463,1820235745,2594592626
+dimwishlist:item=2728851518&perks=1840239774,689005463,1820235745,1427256713
+
+
+// Glacioclasm - [Ebontis S23 Best Dawning Rolls] (pvp)
+//notes: [Ebontis S23 Best Dawning Rolls] tags:pvp
+dimwishlist:item=2728851518&perks=1482024992,689005463,1645158859,2213355989
+dimwishlist:item=2728851518&perks=1482024992,689005463,3161816588,2213355989
+dimwishlist:item=2728851518&perks=1840239774,689005463,1645158859,2213355989
+dimwishlist:item=2728851518&perks=1840239774,689005463,3161816588,2213355989
 
 
 // Cataphract GL3 - [Aegis S22 Endgame Analysis] (god-pve)
@@ -3282,6 +3821,17 @@ dimwishlist:item=2782325302&perks=1749209109,3913600130
 dimwishlist:item=2782847179&perks=1354429876,4082225868
 
 
+// Naeem's Lance - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] Seems to be a utility sniper with unusual perk positioning but largely mediocre. Demolitionist more useful on higher damage snipers. tags:pve
+dimwishlist:item=2806569825&perks=3978468247,3993379141,220689851
+
+
+// Naeem's Lance - [demonjoe S23 Warlord's Ruin Godrolls] (pve)
+//notes: [demonjoe S23 Warlord's Ruin Godrolls] Overshadowed by The Supremacy, otherwise got Strand synergy. tags:pve
+dimwishlist:item=2806569825&perks=1523832109,555281244
+dimwishlist:item=2806569825&perks=1523832109,2319119708
+
+
 // Distant Tumulus - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier S Rank 4/39 tags:god-pve
 dimwishlist:item=2807687156&perks=2284787283,1771339417
@@ -3303,6 +3853,46 @@ dimwishlist:item=2817683783&perks=247725512,1870851715,19542588
 dimwishlist:item=2817683783&perks=247725512,183938251,19542588
 dimwishlist:item=2817683783&perks=2938480696,1870851715,19542588
 dimwishlist:item=2817683783&perks=2938480696,183938251,19542588
+
+
+// Optative - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] Unremarkable. tags:pve
+dimwishlist:item=2817683783&perks=247725512,1015611457
+dimwishlist:item=2817683783&perks=247725512,2923251173
+dimwishlist:item=2817683783&perks=247725512,2610012052
+dimwishlist:item=2817683783&perks=247725512,4290541820
+dimwishlist:item=2817683783&perks=247725512,2387244414
+dimwishlist:item=2817683783&perks=247725512,1748774930
+dimwishlist:item=2817683783&perks=2938480696,1015611457
+dimwishlist:item=2817683783&perks=2938480696,2923251173
+dimwishlist:item=2817683783&perks=2938480696,2610012052
+dimwishlist:item=2817683783&perks=2938480696,4290541820
+dimwishlist:item=2817683783&perks=2938480696,2387244414
+dimwishlist:item=2817683783&perks=2938480696,1748774930
+dimwishlist:item=2817683783&perks=3523296417,1015611457
+dimwishlist:item=2817683783&perks=3523296417,2923251173
+dimwishlist:item=2817683783&perks=3523296417,2610012052
+dimwishlist:item=2817683783&perks=3523296417,4290541820
+dimwishlist:item=2817683783&perks=3523296417,2387244414
+dimwishlist:item=2817683783&perks=3523296417,1748774930
+dimwishlist:item=2817683783&perks=1906147653,1015611457
+dimwishlist:item=2817683783&perks=1906147653,2923251173
+dimwishlist:item=2817683783&perks=1906147653,2610012052
+dimwishlist:item=2817683783&perks=1906147653,4290541820
+dimwishlist:item=2817683783&perks=1906147653,2387244414
+dimwishlist:item=2817683783&perks=1906147653,1748774930
+dimwishlist:item=2817683783&perks=3619207468,1015611457
+dimwishlist:item=2817683783&perks=3619207468,2923251173
+dimwishlist:item=2817683783&perks=3619207468,2610012052
+dimwishlist:item=2817683783&perks=3619207468,4290541820
+dimwishlist:item=2817683783&perks=3619207468,2387244414
+dimwishlist:item=2817683783&perks=3619207468,1748774930
+dimwishlist:item=2817683783&perks=3198323828,1015611457
+dimwishlist:item=2817683783&perks=3198323828,2923251173
+dimwishlist:item=2817683783&perks=3198323828,2610012052
+dimwishlist:item=2817683783&perks=3198323828,4290541820
+dimwishlist:item=2817683783&perks=3198323828,2387244414
+dimwishlist:item=2817683783&perks=3198323828,1748774930
 
 
 // Fortissimo-11 - [Aegis S22 Endgame Analysis] (god-pve)
@@ -3802,6 +4392,18 @@ dimwishlist:item=2993554824&perks=2840833776,4293542123
 dimwishlist:item=2993554824&perks=2840833776,2675184851
 
 
+// Adhortative - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] BXR still a better Solar pulse. tags:pve
+dimwishlist:item=2993554824&perks=3017780555,4293542123
+dimwishlist:item=2993554824&perks=3017780555,2675184851
+dimwishlist:item=2993554824&perks=4223976499,4293542123
+dimwishlist:item=2993554824&perks=4223976499,2675184851
+dimwishlist:item=2993554824&perks=2779035018,4293542123
+dimwishlist:item=2993554824&perks=2779035018,2675184851
+dimwishlist:item=2993554824&perks=1171147302,4293542123
+dimwishlist:item=2993554824&perks=1171147302,2675184851
+
+
 // Unforgiven - [Duqk's S22 Duality God Rolls] (pve)
 //notes: [Duqk's S22 Duality God Rolls] Good ability regen, stats, and damage tags:pve
 dimwishlist:item=3000847393&perks=3523296417,4104185692
@@ -3976,6 +4578,12 @@ dimwishlist:item=3125454907&perks=3523296417,2594592626,1281216113
 dimwishlist:item=3125454907&perks=3523296417,1427256713,1281216113
 
 
+// Liminal Vigil - [CoolGuy S22 Rare Rolls] (pvp)
+//notes: [CoolGuy S22 Rare Rolls] Rare TTT on burst sidearms, and Desperado sidearm tags:pvp
+dimwishlist:item=3138208275&perks=1890422124,1015611457
+dimwishlist:item=3138208275&perks=1890422124,3047969693
+
+
 // Swordbreaker - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 7/42 tags:god-pve
 dimwishlist:item=3163900678&perks=3523296417,2679249093,1156201379
@@ -4071,6 +4679,41 @@ dimwishlist:item=3197270240&perks=3436462433,4104185692
 dimwishlist:item=3197270240&perks=3436462433,3523296417
 dimwishlist:item=3197270240&perks=3300816228,4104185692
 dimwishlist:item=3197270240&perks=3300816228,3523296417
+
+
+// Cold Front - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] Perpetual Motion not useful, Subsistence doesn't scale into endgame. Enlightened Action/Frenzy might be good. Need to compensate for poor base stats. tags:pve
+dimwishlist:item=3206190066&perks=3828510309,4104185692
+dimwishlist:item=3206190066&perks=3828510309,3751912585
+
+
+// Cold Front - [Aztecross S23 Dawning Godrolls] (pvp)
+//notes: [Aztecross S23 Dawning Godrolls] Use Energy slot waveframe GL and swap to Cold Front for cleanup. tags:pvp
+dimwishlist:item=3206190066&perks=1890422124,3751912585
+
+
+// Cold Front - [Aztecross S23 Dawning Godrolls] (pve)
+//notes: [Aztecross S23 Dawning Godrolls] Rewind Rounds better than Subsistence in higher-level content. tags:pve
+dimwishlist:item=3206190066&perks=3418782618,4104185692
+
+
+// Cold Front - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] tags:pve
+dimwishlist:item=3206190066&perks=3108830275,4049631843
+dimwishlist:item=3206190066&perks=3108830275,4104185692
+dimwishlist:item=3206190066&perks=1820235745,4049631843
+dimwishlist:item=3206190066&perks=1820235745,4104185692
+dimwishlist:item=3206190066&perks=1583705720,4049631843
+dimwishlist:item=3206190066&perks=1583705720,4104185692
+dimwishlist:item=3206190066&perks=3828510309,4049631843
+dimwishlist:item=3206190066&perks=3828510309,4104185692
+dimwishlist:item=3206190066&perks=3418782618,4049631843
+dimwishlist:item=3206190066&perks=3418782618,4104185692
+
+
+// Cold Front - [Ebontis S23 Best Dawning Rolls] (pve)
+//notes: [Ebontis S23 Best Dawning Rolls] Kinetic SMG is just not it, especially without Kinetic Tremors. Sub/Frenzy is oxymoronic, Rampage is old news. tags:pve
+dimwishlist:item=3206190066&perks=
 
 
 // Reckless Endangerment - [Aegis S22 Endgame Analysis] (pve)
@@ -4313,6 +4956,22 @@ dimwishlist:item=3371413059&perks=1646437399,3708227201,1905044254
 dimwishlist:item=3371413059&perks=1646437399,781192741,1905044254
 
 
+// Indebted Kindness - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] New frame, like legendary Forerunner (damage is similar with Surrounded). Good for Anti-barrier, ammo efficient, but damage similar to rapid-fire snipers without FTTC/ammo regen and high DPS. Case for using with Mechaneer's Tricksleeves. tags:pve
+dimwishlist:item=3381450498&perks=2173046394,220689851
+dimwishlist:item=3381450498&perks=3708227201,220689851
+
+
+// Indebted Kindness - [demonjoe S23 Warlord's Ruin Godrolls] (pve)
+//notes: [demonjoe S23 Warlord's Ruin Godrolls] tags:pve
+dimwishlist:item=3381450498&perks=1556840489,3708227201
+dimwishlist:item=3381450498&perks=1556840489,2173046394
+dimwishlist:item=3381450498&perks=951095735,3708227201
+dimwishlist:item=3381450498&perks=951095735,2173046394
+dimwishlist:item=3381450498&perks=2859149211,3708227201
+dimwishlist:item=3381450498&perks=2859149211,2173046394
+
+
 // Insidious - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Role: Champs tags:god-pve
 dimwishlist:item=3428521585&perks=247725512,1048183818,3363267119
@@ -4423,6 +5082,12 @@ dimwishlist:item=3568377122&perks=3108830275,3194351027
 dimwishlist:item=3583275737&perks=3418782618,95528736,1050127423
 
 
+// Ros Arago IV - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] tags:pve
+dimwishlist:item=3583275737&perks=1820235745,95528736
+dimwishlist:item=3583275737&perks=3418782618,95528736
+
+
 // First In, Last Out - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 26/42 tags:pve
 dimwishlist:item=3616586446&perks=3300816228,1546637391
@@ -4489,6 +5154,31 @@ dimwishlist:item=3667553455&perks=2869569095,1439600632,744217850
 dimwishlist:item=3667553455&perks=2869569095,4104185692,744217850
 
 
+// Dragoncult Sickle - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] First caster frame sword in a while, still nothing too crazy. tags:pve
+dimwishlist:item=3668817296&perks=3523296417,3708227201
+
+
+// Dragoncult Sickle - [demonjoe S23 Warlord's Ruin Godrolls] (pve)
+//notes: [demonjoe S23 Warlord's Ruin Godrolls] Caster frames really need a buff. tags:pve
+dimwishlist:item=3668817296&perks=923806249,3913600130
+dimwishlist:item=3668817296&perks=923806249,3708227201
+dimwishlist:item=3668817296&perks=923806249,2396489472
+dimwishlist:item=3668817296&perks=923806249,2610012052
+dimwishlist:item=3668817296&perks=3108830275,3913600130
+dimwishlist:item=3668817296&perks=3108830275,3708227201
+dimwishlist:item=3668817296&perks=3108830275,2396489472
+dimwishlist:item=3668817296&perks=3108830275,2610012052
+dimwishlist:item=3668817296&perks=3523296417,3913600130
+dimwishlist:item=3668817296&perks=3523296417,3708227201
+dimwishlist:item=3668817296&perks=3523296417,2396489472
+dimwishlist:item=3668817296&perks=3523296417,2610012052
+dimwishlist:item=3668817296&perks=2590710093,3913600130
+dimwishlist:item=3668817296&perks=2590710093,3708227201
+dimwishlist:item=3668817296&perks=2590710093,2396489472
+dimwishlist:item=3668817296&perks=2590710093,2610012052
+
+
 // Hoosegow - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 10/22 tags:god-pve
 dimwishlist:item=3669616453&perks=2869569095,1275731761
@@ -4506,6 +5196,11 @@ dimwishlist:item=3690523502&perks=2284787283,2888557110
 // Lethophobia - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] No Archer's Tempo, Shoot to Loot. Surrounded is funny though tags:pve
 dimwishlist:item=3710082365&perks=
+
+
+// Lethophobia - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] Please use an exotic bow. tags:pve
+dimwishlist:item=3710082365&perks=951095735,3365897133
 
 
 // Dead Weight - [Aegis S22 Endgame Analysis] (god-pve)
@@ -4985,6 +5680,18 @@ dimwishlist:item=4153087276&perks=1906147653,243981275
 dimwishlist:item=4153087276&perks=1906147653,984655331
 
 
+// Appetence - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] Whisper of Shards keeps Demo/KT roll going. tags:pve
+dimwishlist:item=4153087276&perks=3523296417,557221067
+dimwishlist:item=4153087276&perks=3523296417,2896748467
+dimwishlist:item=4153087276&perks=3523296417,124408337
+dimwishlist:item=4153087276&perks=3523296417,1171887445
+dimwishlist:item=4153087276&perks=1906147653,557221067
+dimwishlist:item=4153087276&perks=1906147653,2896748467
+dimwishlist:item=4153087276&perks=1906147653,124408337
+dimwishlist:item=4153087276&perks=1906147653,1171887445
+
+
 // The Third Axiom (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=4156253727&perks=3250034553,1561002382,3436462433,2458213969
@@ -5038,6 +5745,44 @@ dimwishlist:item=4164201232&perks=3400784728,2610012052
 dimwishlist:item=4184808992&perks=3400784728,1546637391
 
 
+// Avalanche - [Aegis S23 WR/Dawning Update] (pve)
+//notes: [Aegis S23 WR/Dawning Update] Not much changed, still decent but worse than Unwavering Duty. tags:pve
+dimwishlist:item=4220529694&perks=3300816228,4293542123
+dimwishlist:item=4220529694&perks=1820235745,4293542123
+dimwishlist:item=4220529694&perks=3418782618,4293542123
+
+
+// Avalanche - [Aztecross S23 Dawning Godrolls] (pve)
+//notes: [Aztecross S23 Dawning Godrolls] tags:pve
+dimwishlist:item=4220529694&perks=3418782618,365154968
+dimwishlist:item=4220529694&perks=3418782618,3751912585
+dimwishlist:item=4220529694&perks=3418782618,4293542123
+
+
+// Avalanche - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] tags:pve
+dimwishlist:item=4220529694&perks=3418782618,1546637391
+dimwishlist:item=4220529694&perks=3418782618,365154968
+
+
+// Avalanche - [demonjoe S23 Dawning Godrolls] (pve)
+//notes: [demonjoe S23 Dawning Godrolls] tags:pve
+dimwishlist:item=4220529694&perks=1820235745,4293542123
+dimwishlist:item=4220529694&perks=1583705720,4293542123
+
+
+// Avalanche - [Ebontis S23 Best Dawning Rolls] (pve)
+//notes: [Ebontis S23 Best Dawning Rolls] For ad-clearing tags:pve
+dimwishlist:item=4220529694&perks=839105230,1087426260,1820235745,4293542123
+dimwishlist:item=4220529694&perks=839105230,106909392,1820235745,4293542123
+
+
+// Avalanche - [Ebontis S23 Best Dawning Rolls] (pve)
+//notes: [Ebontis S23 Best Dawning Rolls] For DPS tags:pve
+dimwishlist:item=4220529694&perks=839105230,1087426260,3418782618,365154968
+dimwishlist:item=4220529694&perks=839105230,106909392,3418782618,365154968
+
+
 // Ragnhild-D - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 17/42 tags:god-pve
 dimwishlist:item=4225322581&perks=3300816228,4104185692,1607056502
@@ -5074,6 +5819,16 @@ dimwishlist:item=4230993599&perks=1749209109,3913600130
 // Marcato-45 - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] Demo/Tricorn LMG is interesting but this is on Strand, mostly useful for Titans only tags:pve
 dimwishlist:item=4233375372&perks=3523296417,2610012052
+
+
+// Marcato-45 - [Datto S23 Godrolls] (pve)
+//notes: [Datto S23 Godrolls] Not too sure about Onslaught here, unless you can stack kills and shift to bigger targets. tags:pve
+dimwishlist:item=4233375372&perks=3523296417,3708227201
+dimwishlist:item=4233375372&perks=3523296417,2610012052
+dimwishlist:item=4233375372&perks=923806249,3708227201
+dimwishlist:item=4233375372&perks=923806249,2610012052
+dimwishlist:item=4233375372&perks=3400784728,3708227201
+dimwishlist:item=4233375372&perks=3400784728,2610012052
 
 
 // Heritage - [Aegis S22 Endgame Analysis] (god-pve)

@@ -11,6 +11,21 @@ dimwishlist:item=2290416&perks=509074078,1546637391,3989629871
 dimwishlist:item=5159537&perks=460017080,2839173408
 
 
+// Senuna SI6 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=5159537&perks=1645158859,460017080
+
+
+// Senuna SI6 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=5159537&perks=968510818,124408337
+dimwishlist:item=5159537&perks=968510818,2610012052
+dimwishlist:item=5159537&perks=1631667848,124408337
+dimwishlist:item=5159537&perks=1631667848,2610012052
+dimwishlist:item=5159537&perks=2779035018,124408337
+dimwishlist:item=5159537&perks=2779035018,2610012052
+
+
 // Temptation's Hook - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 23/25 tags:pve
 dimwishlist:item=35794111&perks=1749209109,3708227201
@@ -243,6 +258,19 @@ dimwishlist:item=217140611&perks=1631667848,2679249093
 dimwishlist:item=217140611&perks=1631667848,3523296417
 dimwishlist:item=217140611&perks=1556840489,2679249093
 dimwishlist:item=217140611&perks=1556840489,3523296417
+
+
+// Glissando-47 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=222606050&perks=3619207468,2551157718
+
+
+// Glissando-47 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=222606050&perks=3643424744,831391274
+dimwishlist:item=222606050&perks=3643424744,4049631843
+dimwishlist:item=222606050&perks=1523832109,831391274
+dimwishlist:item=222606050&perks=1523832109,4049631843
 
 
 // Mykel's Reverence - [Aegis S22 Endgame Analysis] (god-pve)
@@ -496,6 +524,17 @@ dimwishlist:item=346136302&perks=3161816588,3523296417
 dimwishlist:item=346136302&perks=3161816588,3708227201
 
 
+// Coronach-22 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=355382946&perks=2779035018,4293542123
+dimwishlist:item=355382946&perks=968510818,4293542123
+
+
+// Coronach-22 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=355382946&perks=2387244414,365154968
+
+
 // Psi Hermetic V - [CoolGuy's S22 Review] (god-pvp)
 //notes: [CoolGuy's S22 Review] Messenger replacement if you don't have one tags:god-pvp
 dimwishlist:item=358788212&perks=1482024992,3142289711,1195158366,2610012052
@@ -523,6 +562,21 @@ dimwishlist:item=358788212&perks=1482024992,3142289711,1195158366,1015611457
 //notes: [CoolGuy S22 Rare Rolls] tags:pve,pvp
 dimwishlist:item=358788212&perks=2610012052,1050127423
 dimwishlist:item=358788212&perks=124408337,1050127423
+
+
+// Psi Hermetic V - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] Get high range and maxed recoil direction. tags:pvp
+dimwishlist:item=358788212&perks=588594999,460017080
+
+
+// Psi Hermetic V - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=358788212&perks=1168162263,2610012052,1050127423
+dimwishlist:item=358788212&perks=1168162263,4104185692,1050127423
+dimwishlist:item=358788212&perks=1168162263,124408337,1050127423
+dimwishlist:item=358788212&perks=3828510309,2610012052,1050127423
+dimwishlist:item=358788212&perks=3828510309,4104185692,1050127423
+dimwishlist:item=358788212&perks=3828510309,124408337,1050127423
 
 
 // Cantata-57 - [CoolGuy S16 Review] (god-pvp)
@@ -562,6 +616,16 @@ dimwishlist:item=372697604&perks=699525795,47981717
 // Cantata-57 - [CoolGuy S16 Review] (god-pvp)
 //notes: [CoolGuy S16 Review] Reloading roll, uses intrinsic trait, use with HC loaders and targeting mods, with Recoil barrel (AHB/Full Bore, or Smallbore/Fluted), range/mag size mags (Accurized or Light/Appended) tags:god-pvp
 dimwishlist:item=372697604&perks=671806388,588594999
+
+
+// Cantata-57 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=372697604&perks=247725512,1954620775
+dimwishlist:item=372697604&perks=247725512,47981717
+dimwishlist:item=372697604&perks=247725512,1546637391
+dimwishlist:item=372697604&perks=699525795,1954620775
+dimwishlist:item=372697604&perks=699525795,47981717
+dimwishlist:item=372697604&perks=699525795,1546637391
 
 
 // Zephyr - [Aegis S22 Endgame Analysis] (god-pve)
@@ -975,6 +1039,17 @@ dimwishlist:item=617501162&perks=1392496348,2420895100,2621346526,2610012052
 dimwishlist:item=617501162&perks=3700496672,957782887,2839173408
 
 
+// Gallu RR3 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] Nothing crazy but feels really good. tags:pvp
+dimwishlist:item=617501162&perks=2866798147,957782887
+dimwishlist:item=617501162&perks=1570042021,957782887
+
+
+// Gallu RR3 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] Other snipers are better. tags:pve
+dimwishlist:item=617501162&perks=2610012052,2839173408
+
+
 // Found Verdict (Timelost) - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 25/42 tags:pve
 dimwishlist:item=631439337&perks=3436462433,4104185692
@@ -987,6 +1062,17 @@ dimwishlist:item=631439337&perks=3300816228,3523296417
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 22/42 tags:god-pve
 dimwishlist:item=664109750&perks=2621346526,2360754333,2120661319
 dimwishlist:item=664109750&perks=2621346526,3751912585,2120661319
+
+
+// Hand in Hand - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=664109750&perks=3161816588,3511092054
+
+
+// Hand in Hand - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] (No 3rd column perks specified) tags:pve
+dimwishlist:item=664109750&perks=2679249093,2120661319
+dimwishlist:item=664109750&perks=3751912585,2120661319
 
 
 // Undercurrent (Adept) - [Aegis S23 Weapon Meta Update] (pve)
@@ -1124,6 +1210,13 @@ dimwishlist:item=854379020&perks=4071163871,3751912585,2988596335
 dimwishlist:item=867154247&perks=968510818,3751912585,1607056502
 
 
+// Marsilion-C - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=867154247&perks=968510818,4293542123
+dimwishlist:item=867154247&perks=968510818,3194351027
+dimwishlist:item=867154247&perks=968510818,3751912585
+
+
 // Cataphract GL3 (Adept) - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier S Rank 1/19 tags:god-pve
 dimwishlist:item=874623537&perks=968510818,3078487919,2988596335
@@ -1182,6 +1275,16 @@ dimwishlist:item=958384347&perks=3300816228,1275731761
 dimwishlist:item=963710795&perks=1523832109,2978966579,2839173408
 
 
+// Aurvandil FR6 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=963710795&perks=1523832109,2978966579
+
+
+// Aurvandil FR6 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=963710795&perks=280464955,3511092054
+
+
 // Deafening Whisper - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 9/15 tags:god-pve
 dimwishlist:item=981718087&perks=2010801679,3592538738
@@ -1208,6 +1311,21 @@ dimwishlist:item=999767358&perks=848860060,3744057135,3363267119
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 10/42 tags:god-pve
 dimwishlist:item=1016668089&perks=3300816228,2679249093
 dimwishlist:item=1016668089&perks=1556840489,2679249093
+
+
+// Perses-D - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=1019000888&perks=247725512,3038247973
+
+
+// Perses-D - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1019000888&perks=3700496672,124408337
+
+
+// Perses-D - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1019000888&perks=1583705720,4049631843
 
 
 // The Comedian - [Aegis S22 Endgame Analysis] (god-pve)
@@ -1274,6 +1392,13 @@ dimwishlist:item=1106635211&perks=968510818,3751912585,2120661319
 dimwishlist:item=1106635211&perks=968510818,2896038713,2120661319
 dimwishlist:item=1106635211&perks=1556840489,3751912585,2120661319
 dimwishlist:item=1106635211&perks=1556840489,2896038713,2120661319
+
+
+// Last Foray - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1106635211&perks=968510818,2896038713
+dimwishlist:item=1106635211&perks=968510818,3751912585
+dimwishlist:item=1106635211&perks=968510818,4293542123
 
 
 // New Pacific Epitaph - [Aegis S22 Endgame Analysis] (god-pve)
@@ -1709,6 +1834,17 @@ dimwishlist:item=1331824604&perks=2866798147,3673922083
 dimwishlist:item=1331824604&perks=2272927194,3673922083
 
 
+// Combined Action - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=1331824604&perks=2387244414,1015611457
+dimwishlist:item=1331824604&perks=2946784966,1015611457
+
+
+// Combined Action - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1331824604&perks=684456054,2173046394
+
+
 // Tomorrow's Answer (Adept) - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 14/22 tags:pve
 dimwishlist:item=1366917989&perks=3300816228,3927722942
@@ -1825,6 +1961,11 @@ dimwishlist:item=1447836603&perks=4245865861,859780267
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 6/25 tags:god-pve
 dimwishlist:item=1456017061&perks=1749209109,3708227201,2120661319
 dimwishlist:item=1456017061&perks=1749209109,3913600130,2120661319
+
+
+// Nasreddin - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1456017061&perks=1749209109,3708227201
 
 
 // Without Remorse - [Aegis S22 Endgame Analysis] (god-pve)
@@ -1971,12 +2112,35 @@ dimwishlist:item=1601177201&perks=202670084,3177308360,1195158366,2458213969
 dimwishlist:item=1601177201&perks=202670084,3177308360,509074078,2458213969
 
 
+// Enyo-D - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=1601177201&perks=2451262963,2458213969
+dimwishlist:item=1601177201&perks=1195158366,2458213969
+
+
+// Enyo-D - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1601177201&perks=2779035018,1546637391
+dimwishlist:item=1601177201&perks=2779035018,3708227201
+
+
 // Harsh Language - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 8/15 tags:god-pve
 dimwishlist:item=1606497639&perks=968510818,2048641572,2120661319
 dimwishlist:item=1606497639&perks=968510818,776531651,2120661319
 dimwishlist:item=1606497639&perks=3592538738,2048641572,2120661319
 dimwishlist:item=1606497639&perks=3592538738,776531651,2120661319
+
+
+// Harsh Language - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1606497639&perks=968510818,2048641572
+dimwishlist:item=1606497639&perks=1583705720,2048641572
+
+
+// Harsh Language - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=1606497639&perks=4071163871,1683379515
 
 
 // Retrofuturist - [Aegis S23 Weapon Meta Update] (pve)
@@ -2029,6 +2193,17 @@ dimwishlist:item=1679868061&perks=536173722,1546637391,1260401931
 dimwishlist:item=1679868061&perks=536173722,3418165135,1260401931
 
 
+// Redback-5si - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=1687353095&perks=1428297954,47981717
+dimwishlist:item=1687353095&perks=1428297954,3708227201
+
+
+// Redback-5si - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=1687353095&perks=1583705720,4049631843
+
+
 // Crux Termination IV - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] Best in slot for Arc RL. Not a full Apex replacement (not craftable/enhanceable), but completely replaces Hothead: Bipod replaces Clown Cartridge (which this also has), has Explosive Light, Surrounded, Envious, Reconstruction. Slideshot can dump full mag of 10 without reloading if sliding optimally, but risky in group play tags:pve
 dimwishlist:item=1719687748&perks=2284787283,1439600632
@@ -2066,6 +2241,12 @@ dimwishlist:item=1719687748&perks=3161816588,3194351027
 dimwishlist:item=1719687748&perks=3161816588,1439600632
 dimwishlist:item=1719687748&perks=3161816588,3977735242
 dimwishlist:item=1719687748&perks=3161816588,3708227201
+
+
+// Crux Termination IV - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1719687748&perks=968510818,1439600632
+dimwishlist:item=1719687748&perks=2284787283,1439600632
 
 
 // Royal Executioner - [Aegis S22 Endgame Analysis] (god-pve)
@@ -2158,6 +2339,17 @@ dimwishlist:item=1821724780&perks=3300816228,1546637391
 dimwishlist:item=1821724780&perks=3300816228,2360754333
 dimwishlist:item=1821724780&perks=1556840489,1546637391
 dimwishlist:item=1821724780&perks=1556840489,2360754333
+
+
+// Jararaca-3sr - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=1851521408&perks=247725512,1015611457
+
+
+// Jararaca-3sr - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1851521408&perks=1354429876,124408337
+dimwishlist:item=1851521408&perks=247725512,124408337
 
 
 // Wendigo GL3 - [Aegis S22 Endgame Analysis] (god-pve)
@@ -2385,6 +2577,22 @@ dimwishlist:item=1911060537&perks=573122728,1771339417,3988215619
 dimwishlist:item=1911060537&perks=573122728,395388285,3988215619
 
 
+// Taipan-4fr - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] Take Triple Tap/Firing Line any day. tags:pve
+dimwishlist:item=1911060537&perks=2869569095,1771339417
+dimwishlist:item=1911060537&perks=2869569095,395388285
+dimwishlist:item=1911060537&perks=2308090567,1771339417
+dimwishlist:item=1911060537&perks=2308090567,395388285
+dimwishlist:item=1911060537&perks=3400784728,1771339417
+dimwishlist:item=1911060537&perks=3400784728,395388285
+dimwishlist:item=1911060537&perks=573122728,1771339417
+dimwishlist:item=1911060537&perks=573122728,395388285
+dimwishlist:item=1911060537&perks=2284787283,1771339417
+dimwishlist:item=1911060537&perks=2284787283,395388285
+dimwishlist:item=1911060537&perks=3563868667,1771339417
+dimwishlist:item=1911060537&perks=3563868667,395388285
+
+
 // Zephyr - [Aegis S23 WR/Dawning Update] (pve)
 //notes: [Aegis S23 WR/Dawning Update] Not much changed, still Cold Steel. tags:pve
 dimwishlist:item=1911078836&perks=3650930298,4264904777
@@ -2481,6 +2689,24 @@ dimwishlist:item=1916287826&perks=1482024992,1885400500,1821614984,1365187766
 dimwishlist:item=1916287826&perks=1482024992,1561002382,1821614984,1365187766
 dimwishlist:item=1916287826&perks=1840239774,1885400500,1821614984,1365187766
 dimwishlist:item=1916287826&perks=1840239774,1561002382,1821614984,1365187766
+
+
+// Boudica-C - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=1916287826&perks=588594999,4082225868
+dimwishlist:item=1916287826&perks=588594999,2458213969
+dimwishlist:item=1916287826&perks=4071163871,4082225868
+dimwishlist:item=1916287826&perks=4071163871,2458213969
+
+
+// Boudica-C - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=1916287826&perks=1583705720,4049631843
+dimwishlist:item=1916287826&perks=1583705720,3708227201
+dimwishlist:item=1916287826&perks=1583705720,4104185692
+dimwishlist:item=1916287826&perks=4071163871,4049631843
+dimwishlist:item=1916287826&perks=4071163871,3708227201
+dimwishlist:item=1916287826&perks=4071163871,4104185692
 
 
 // Hezen Vengeance (Timelost) - [Aegis S22 Endgame Analysis] (god-pve)
@@ -2717,6 +2943,16 @@ dimwishlist:item=2073794990&perks=3978468247,1546637391
 dimwishlist:item=2074041946&perks=4071163871,1546637391,1281216113
 
 
+// Battle Scar - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=2099894368&perks=3619207468,460017080
+
+
+// Battle Scar - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2099894368&perks=3700496672,3891536761
+
+
 // Orewing's Maul - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 15/15 tags:pve
 dimwishlist:item=2108920981&perks=2869569095,3300816228
@@ -2743,6 +2979,26 @@ dimwishlist:item=2119346509&perks=3436462433,1890422124
 // Ammit AR2 (pve)
 //notes: tags:pve
 dimwishlist:item=2119346509&perks=3436462433,4293542123
+
+
+// Ammit AR2 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=2119346509&perks=1359896290,1890422124
+dimwishlist:item=2119346509&perks=1359896290,1523649716
+dimwishlist:item=2119346509&perks=1359896290,1365187766
+dimwishlist:item=2119346509&perks=1359896290,4200236906
+dimwishlist:item=2119346509&perks=3060983774,1890422124
+dimwishlist:item=2119346509&perks=3060983774,1523649716
+dimwishlist:item=2119346509&perks=3060983774,1365187766
+dimwishlist:item=2119346509&perks=3060983774,4200236906
+
+
+// Ammit AR2 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2119346509&perks=1583705720,4293542123
+dimwishlist:item=2119346509&perks=1583705720,2675184851
+dimwishlist:item=2119346509&perks=1409206216,4293542123
+dimwishlist:item=2119346509&perks=1409206216,2675184851
 
 
 // Hero of Ages - [Aegis S22 Endgame Analysis] (pve)
@@ -2884,6 +3140,16 @@ dimwishlist:item=2233545123&perks=1087426260,3300816228
 dimwishlist:item=2233545123&perks=1087426260,1556840489
 
 
+// Fugue-55 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] For fireteam plays tags:pve
+dimwishlist:item=2233545123&perks=1354429876,1771339417
+
+
+// Fugue-55 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] For solo plays tags:pve
+dimwishlist:item=2233545123&perks=1354429876,1546637391
+
+
 // Interference VI - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 9/19 tags:pve
 dimwishlist:item=2257180473&perks=3300816228,2888557110
@@ -2949,6 +3215,31 @@ dimwishlist:item=2306182339&perks=3301904089,776531651,1556840489,2437618208
 // Belisarius-D - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] Chattering Bone seems better, this seems more PvP tags:pve
 dimwishlist:item=2313726158&perks=
+
+
+// Lodbrok-C - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] Also consider Lethal Abundance, which out-classes almost all other 360s. tags:pvp
+dimwishlist:item=2328531378&perks=1359896290,365154968
+dimwishlist:item=2328531378&perks=1359896290,3751912585
+dimwishlist:item=2328531378&perks=2451262963,365154968
+dimwishlist:item=2328531378&perks=2451262963,3751912585
+
+
+// Lodbrok-C - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2328531378&perks=3523296417,11612903
+dimwishlist:item=2328531378&perks=3523296417,365154968
+dimwishlist:item=2328531378&perks=3523296417,1015611457
+
+
+// Ogma PR6 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2342054803&perks=3523296417,3592538738
+
+
+// Ogma PR6 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2342054803&perks=1583705720,4049631843
 
 
 // Incisor (Adept) - [Aegis S23 Weapon Meta Update] (pve)
@@ -3064,6 +3355,12 @@ dimwishlist:item=2513965917&perks=852209214,3429800428,3700496672,124408337
 dimwishlist:item=2513965917&perks=852209214,3429800428,3700496672,11612903
 
 
+// Lunulata-4b - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2513965917&perks=3700496672,124408337
+dimwishlist:item=2513965917&perks=3700496672,2610012052
+
+
 // No Reprieve ()
 dimwishlist:item=2531963421&perks=3400784728,2896038713
 
@@ -3134,6 +3431,24 @@ dimwishlist:item=2563668388&perks=839105230,3142289711,3619207468,460017080
 // Fioritura-59 - [CoolGuy S22 Rare Rolls] (pvp)
 //notes: [CoolGuy S22 Rare Rolls] Massive hipfire perks tags:pvp
 dimwishlist:item=2566006935&perks=1866048759,2416023159
+
+
+// Fioritura-59 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2566006935&perks=4071163871,776531651
+
+
+// Fioritura-59 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=2566006935&perks=2946784966,1015611457
+
+
+// Fioritura-59 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=2566006935&perks=4071163871,588594999
+dimwishlist:item=2566006935&perks=4071163871,4082225868
+dimwishlist:item=2566006935&perks=2387244414,588594999
+dimwishlist:item=2566006935&perks=2387244414,4082225868
 
 
 // Basso Ostinato - [Aegis S22 Endgame Analysis] (god-pve)
@@ -3525,6 +3840,17 @@ dimwishlist:item=2673925403&perks=1354429876,1771339417,3988215619
 dimwishlist:item=2673925403&perks=3700496672,1771339417,3988215619
 
 
+// Irukandji - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] Has bad flinch, no-go. tags:pvp
+dimwishlist:item=2673925403&perks=1645158859,47981717
+
+
+// Irukandji - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] Only for Stasis surge, otherwise use The Supremacy. tags:pve
+dimwishlist:item=2673925403&perks=968510818,1771339417
+dimwishlist:item=2673925403&perks=1354429876,1771339417
+
+
 // Albedo Wing - [Aegis S23 WR/Dawning Update] (pve)
 //notes: [Aegis S23 WR/Dawning Update] New aggressive frame glaive with Grave Robber, good for use with Wormgod Caress. If melee kills proc Dawning Surprise then all the better. tags:pve
 dimwishlist:item=2680976411&perks=1631667848,1782407750
@@ -3795,6 +4121,16 @@ dimwishlist:item=2767393525&perks=968510818,2594592626,1050127423
 dimwishlist:item=2767393525&perks=1556840489,2594592626,1050127423
 
 
+// Nox Perennial V - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2767393525&perks=968510818,2594592626
+dimwishlist:item=2767393525&perks=968510818,1754714824
+dimwishlist:item=2767393525&perks=1645158859,2594592626
+dimwishlist:item=2767393525&perks=1645158859,1754714824
+dimwishlist:item=2767393525&perks=2451262963,2594592626
+dimwishlist:item=2767393525&perks=2451262963,1754714824
+
+
 // Firefright (god-pve,god-pvp)
 //notes: tags:god-pve,god-pvp
 dimwishlist:item=2778013407&perks=1392496348,1885400500,2451262963,3673922083
@@ -3985,9 +4321,48 @@ dimwishlist:item=2852052802&perks=1583705720,4049631843
 dimwishlist:item=2852052802&perks=3643424744,3673922083
 
 
+// Krait - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2852052802&perks=1583705720,4049631843
+
+
+// Krait - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=2852052802&perks=3643424744,1546637391
+dimwishlist:item=2852052802&perks=3643424744,124408337
+
+
 // A Sudden Death - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 28/42 tags:pve
 dimwishlist:item=2855157553&perks=4071163871,4104185692
+
+
+// Syncopation-53 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=2856514843&perks=2387244414,460017080
+dimwishlist:item=2856514843&perks=2387244414,4045335048
+dimwishlist:item=2856514843&perks=1748774930,460017080
+dimwishlist:item=2856514843&perks=1748774930,4045335048
+dimwishlist:item=2856514843&perks=588594999,460017080
+dimwishlist:item=2856514843&perks=588594999,4045335048
+dimwishlist:item=2856514843&perks=2717805783,460017080
+dimwishlist:item=2856514843&perks=2717805783,4045335048
+
+
+// Syncopation-53 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] Frenzy better than Focused Fury tags:pve
+dimwishlist:item=2856514843&perks=1168162263,4104185692
+dimwishlist:item=2856514843&perks=1168162263,3007133316
+dimwishlist:item=2856514843&perks=1168162263,124408337
+dimwishlist:item=2856514843&perks=1168162263,1171887445
+dimwishlist:item=2856514843&perks=1168162263,2896038713
+dimwishlist:item=2856514843&perks=1168162263,2402480669
+dimwishlist:item=2856514843&perks=1347741687,4104185692
+dimwishlist:item=2856514843&perks=1347741687,3007133316
+dimwishlist:item=2856514843&perks=1347741687,124408337
+dimwishlist:item=2856514843&perks=1347741687,1171887445
+dimwishlist:item=2856514843&perks=1347741687,2896038713
+dimwishlist:item=2856514843&perks=1347741687,2402480669
 
 
 // Honor's Edge - [Aegis S22 Endgame Analysis] (god-pve)
@@ -4859,6 +5234,11 @@ dimwishlist:item=3326850591&perks=3643424744,4104185692
 dimwishlist:item=3335343363&perks=2869569095,2551157718
 
 
+// Funnelweb - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=3341893443&perks=1820235745,4104185692
+
+
 // The Eremite - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 2/29 tags:god-pve
 dimwishlist:item=3347946548&perks=968510818,2594592626,2565067140
@@ -5019,6 +5399,18 @@ dimwishlist:item=3489657138&perks=3528046508,3194351027,1607056502
 dimwishlist:item=3489657138&perks=3528046508,2275087323,1607056502
 
 
+// Palmyra-B - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] Apex, Cold Comfort, Hothead are all better tags:pve
+dimwishlist:item=3489657138&perks=3300816228,3927722942
+dimwishlist:item=3489657138&perks=3300816228,1167468626
+dimwishlist:item=3489657138&perks=3300816228,2978966579
+dimwishlist:item=3489657138&perks=3300816228,344235611
+dimwishlist:item=3489657138&perks=3528046508,3927722942
+dimwishlist:item=3489657138&perks=3528046508,1167468626
+dimwishlist:item=3489657138&perks=3528046508,2978966579
+dimwishlist:item=3489657138&perks=3528046508,344235611
+
+
 // Defiance of Yasmin (Harrowed) - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 6/39 tags:god-pve
 dimwishlist:item=3503019618&perks=1556840489,1771339417,120721526
@@ -5077,6 +5469,16 @@ dimwishlist:item=3568377122&perks=1583705720,3194351027
 dimwishlist:item=3568377122&perks=3108830275,3194351027
 
 
+// Typhon GL5 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] (No 3rd column perks specified) tags:pvp
+dimwishlist:item=3568377122&perks=409831596,951095735
+
+
+// Typhon GL5 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=3568377122&perks=3523296417,3194351027
+
+
 // Ros Arago IV - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] Tough going against Abyss Defiant. Need to check how Onslaught works. No splash damage perks though tags:pve
 dimwishlist:item=3583275737&perks=3418782618,95528736,1050127423
@@ -5085,6 +5487,14 @@ dimwishlist:item=3583275737&perks=3418782618,95528736,1050127423
 // Ros Arago IV - [Datto S23 Godrolls] (pve)
 //notes: [Datto S23 Godrolls] tags:pve
 dimwishlist:item=3583275737&perks=1820235745,95528736
+dimwishlist:item=3583275737&perks=3418782618,95528736
+
+
+// Ros Arago IV - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=3583275737&perks=1820235745,2610012052
+dimwishlist:item=3583275737&perks=1820235745,95528736
+dimwishlist:item=3583275737&perks=3418782618,2610012052
 dimwishlist:item=3583275737&perks=3418782618,95528736
 
 
@@ -5109,6 +5519,11 @@ dimwishlist:item=3637570176&perks=2621346526,1546637391,2988596335
 // Geodetic HSm - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 9/25 tags:god-pve
 dimwishlist:item=3637669759&perks=1749209109,3913600130,2509860981
+
+
+// Geodetic HSm - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=3637669759&perks=776531651,2048641572
 
 
 // Stormchaser - [Aegis S22 Endgame Analysis] (god-pve)
@@ -5185,6 +5600,18 @@ dimwishlist:item=3669616453&perks=2869569095,1275731761
 dimwishlist:item=3669616453&perks=2869569095,3523296417
 dimwishlist:item=3669616453&perks=3300816228,1275731761
 dimwishlist:item=3669616453&perks=3300816228,3523296417
+
+
+// Old Sterling - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=3678653083&perks=3418782618,4104185692
+dimwishlist:item=3678653083&perks=3418782618,3523296417
+dimwishlist:item=3678653083&perks=3418782618,831391274
+
+
+// Old Sterling - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] Not very good 4th column perks. tags:pvp
+dimwishlist:item=3678653083&perks=3436462433,3673922083
 
 
 // Love and Death - [Aegis S22 Endgame Analysis] (pve)
@@ -5479,6 +5906,16 @@ dimwishlist:item=3920310144&perks=424370782,395388285,164468655
 dimwishlist:item=3926811686&perks=3700496672,4104185692
 
 
+// Parabellum - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] (No 3rd column perks specified) tags:pvp
+dimwishlist:item=3926811686&perks=1359896290,43555494
+
+
+// Parabellum - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=3926811686&perks=3418782618,4104185692
+
+
 // Midha's Reckoning - [Aegis S22 Endgame Analysis] (pve)
 //notes: [Aegis S22 Endgame Analysis] Tier C Rank 14/29 tags:pve
 dimwishlist:item=3969066556&perks=2869569095,1427256713,120721526
@@ -5520,6 +5957,23 @@ dimwishlist:item=3998080529&perks=1087426260,3017780555,4293542123
 dimwishlist:item=3998080529&perks=1087426260,3828510309,3708227201
 
 
+// Heliocentric QSc - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=3998080529&perks=588594999,1015611457
+dimwishlist:item=3998080529&perks=1428297954,1015611457
+
+
+// Heliocentric QSc - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=3998080529&perks=3017780555,4293542123
+dimwishlist:item=3998080529&perks=3017780555,3708227201
+
+
+// Heliocentric QSc - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=3998080529&perks=3523296417,11612903
+
+
 // Unexpected Resurgence - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier A Rank 2/7 tags:god-pve
 dimwishlist:item=4005780578&perks=3300816228,4104185692,2988596335
@@ -5528,6 +5982,19 @@ dimwishlist:item=4005780578&perks=3300816228,2173046394,2988596335
 dimwishlist:item=4005780578&perks=1966281507,4104185692,2988596335
 dimwishlist:item=4005780578&perks=1966281507,2224838837,2988596335
 dimwishlist:item=4005780578&perks=1966281507,2173046394,2988596335
+
+
+// Staccato-46 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=4019668921&perks=3700496672,4293542123
+dimwishlist:item=4019668921&perks=3700496672,3038247973
+dimwishlist:item=4019668921&perks=3700496672,2848615171
+dimwishlist:item=4019668921&perks=3400784728,4293542123
+dimwishlist:item=4019668921&perks=3400784728,3038247973
+dimwishlist:item=4019668921&perks=3400784728,2848615171
+dimwishlist:item=4019668921&perks=1168162263,4293542123
+dimwishlist:item=4019668921&perks=1168162263,3038247973
+dimwishlist:item=4019668921&perks=1168162263,2848615171
 
 
 // Prophet of Doom - [Aegis S22 Endgame Analysis] (pve)
@@ -5632,6 +6099,11 @@ dimwishlist:item=4096943616&perks=981914802,3108830275
 dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2846385770
 
 
+// Pizzicato-22 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pvp
+dimwishlist:item=4100775158&perks=2451262963,4071163871
+
+
 // Snorri FR5 (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=4114929480&perks=1467527085,1687452232,280464955,2652708987
@@ -5649,6 +6121,17 @@ dimwishlist:item=4114929480&perks=4090651448,2969185026,280464955,2652708987
 //notes: [Aegis S22 Endgame Analysis] Tier D Rank 24/29 tags:pve
 dimwishlist:item=4114929480&perks=3436462433,4104185692,2839173408
 dimwishlist:item=4114929480&perks=3436462433,1427256713,2839173408
+
+
+// Snorri FR5 - [Aztecross S23 World Drop Godrolls] (pvp)
+//notes: [Aztecross S23 World Drop Godrolls] Ability cool down nerfs may make Surplus less useful. tags:pvp
+dimwishlist:item=4114929480&perks=280464955,2213355989
+dimwishlist:item=4114929480&perks=280464955,2652708987
+
+
+// Snorri FR5 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] Glaciocasm is a better Resevoir Burst fusion with Slideshot. tags:pve
+dimwishlist:item=4114929480&perks=1427256713,2839173408
 
 
 // Locus Locutus - [Aegis S22 Endgame Analysis] (god-pve)
@@ -5791,6 +6274,14 @@ dimwishlist:item=4225322581&perks=3528046508,4104185692,1607056502
 dimwishlist:item=4225322581&perks=3528046508,3007133316,1607056502
 
 
+// Ragnhild-D - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=4225322581&perks=3300816228,2679249093
+dimwishlist:item=4225322581&perks=3300816228,788178929
+dimwishlist:item=4225322581&perks=3528046508,2679249093
+dimwishlist:item=4225322581&perks=3528046508,788178929
+
+
 // Commemoration - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier S Rank 1/21 tags:god-pve
 dimwishlist:item=4230965989&perks=1820235745,557221067,766321425
@@ -5829,6 +6320,11 @@ dimwishlist:item=4233375372&perks=923806249,3708227201
 dimwishlist:item=4233375372&perks=923806249,2610012052
 dimwishlist:item=4233375372&perks=3400784728,3708227201
 dimwishlist:item=4233375372&perks=3400784728,2610012052
+
+
+// Marcato-45 - [Aztecross S23 World Drop Godrolls] (pve)
+//notes: [Aztecross S23 World Drop Godrolls] tags:pve
+dimwishlist:item=4233375372&perks=923806249,95528736
 
 
 // Heritage - [Aegis S22 Endgame Analysis] (god-pve)

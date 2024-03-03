@@ -807,6 +807,22 @@ dimwishlist:item=358788212&perks=3828510309,4104185692,1050127423
 dimwishlist:item=358788212&perks=3828510309,124408337,1050127423
 
 
+// Psi Hermetic V - [Fallout S23 Lost Sector Farms] (pvp)
+//notes: [Fallout S23 Lost Sector Farms] Moving Target + Kill Clip the best. tags:pvp
+dimwishlist:item=358788212&perks=3511092054,124408337,1050127423
+dimwishlist:item=358788212&perks=3511092054,1015611457,1050127423
+dimwishlist:item=358788212&perks=3511092054,460017080,1050127423
+dimwishlist:item=358788212&perks=3511092054,2610012052,1050127423
+dimwishlist:item=358788212&perks=588594999,124408337,1050127423
+dimwishlist:item=358788212&perks=588594999,1015611457,1050127423
+dimwishlist:item=358788212&perks=588594999,460017080,1050127423
+dimwishlist:item=358788212&perks=588594999,2610012052,1050127423
+dimwishlist:item=358788212&perks=1570042021,124408337,1050127423
+dimwishlist:item=358788212&perks=1570042021,1015611457,1050127423
+dimwishlist:item=358788212&perks=1570042021,460017080,1050127423
+dimwishlist:item=358788212&perks=1570042021,2610012052,1050127423
+
+
 // The Messenger (Adept) - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Stay Frosty; Role: Champs tags:pve
 dimwishlist:item=364665267&perks=1870851715,3891536761
@@ -1463,6 +1479,12 @@ dimwishlist:item=672957262&perks=2010801679,2173046394
 dimwishlist:item=672957262&perks=3523296417,2173046394
 
 
+// Undercurrent (Adept) - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Being Amplified helps keep Eddy Current proc'd. Ambitious Assassin works against Voltshot. Demolitionist helps with ability spam along with Ionic Traces. tags:pve
+dimwishlist:item=672957262&perks=3523296417,2173046394
+dimwishlist:item=672957262&perks=684456054,2173046394
+
+
 // Albruna-D - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier C Rank 25/40 tags:pve
 dimwishlist:item=676270382&perks=2284787283,3751912585,1607056502
@@ -1732,6 +1754,11 @@ dimwishlist:item=874623537&perks=951095735,3078487919
 dimwishlist:item=874623537&perks=968510818,3078487919
 dimwishlist:item=874623537&perks=2869569095,3078487919
 dimwishlist:item=874623537&perks=3300816228,3078487919
+
+
+// Rose - [Aztecross S23 Random Drop Tryout] (god-pvp)
+//notes: [Aztecross S23 Random Drop Tryout] Range MW. This one's protected in gambas, never deleting it. tags:god-pvp
+dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,3038247973,862848869
 
 
 // Far Future - [Aegis S23 Endgame Analysis] (pve)
@@ -2045,6 +2072,12 @@ dimwishlist:item=1151688091&perks=2869569095,2173046394
 dimwishlist:item=1151688091&perks=1583705720,2173046394
 dimwishlist:item=1151688091&perks=2010801679,2173046394
 dimwishlist:item=1151688091&perks=3523296417,2173046394
+
+
+// Undercurrent - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Being Amplified helps keep Eddy Current proc'd. Ambitious Assassin works against Voltshot. Demolitionist helps with ability spam along with Ionic Traces. tags:pve
+dimwishlist:item=1151688091&perks=3523296417,2173046394
+dimwishlist:item=1151688091&perks=684456054,2173046394
 
 
 // IKELOS_SG_v1.0.3 - [Aegis S23 Endgame Analysis] (god-pve)
@@ -2401,6 +2434,13 @@ dimwishlist:item=1331824604&perks=2946784966,1015611457
 dimwishlist:item=1331824604&perks=684456054,2173046394
 
 
+// Combined Action - [Fallout S23 Lost Sector Farms] (pvp)
+//notes: [Fallout S23 Lost Sector Farms] Adagio can 2-tap at 10 Resilience. tags:pvp
+dimwishlist:item=1331824604&perks=2387244414,3673922083
+dimwishlist:item=1331824604&perks=2946784966,3673922083
+dimwishlist:item=1331824604&perks=2866798147,3673922083
+
+
 // Tomorrow's Answer (Adept) - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier C Rank 16/23 tags:pve
 dimwishlist:item=1366917989&perks=3300816228,3927722942
@@ -2722,6 +2762,18 @@ dimwishlist:item=1447836603&perks=1840239774,3142289711,4071163871,4290541820,19
 dimwishlist:item=1447836603&perks=1840239774,3142289711,4071163871,2610012052,19542588
 
 
+// Subjunctive - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Subsistence not needed due to Nano-munitions, and conflicts with Voltshot. Compared to IKELOS, Subjunctive has lower Range and Impact, but rpm makes up for the latter, adding the Lightweight bonuses. In PvP Agg and Precision frames are better. tags:pve
+dimwishlist:item=1447836603&perks=494941759,1720528630,19542588
+dimwishlist:item=1447836603&perks=494941759,2173046394,19542588
+dimwishlist:item=1447836603&perks=4071163871,1720528630,19542588
+dimwishlist:item=1447836603&perks=4071163871,2173046394,19542588
+dimwishlist:item=1447836603&perks=1409206216,1720528630,19542588
+dimwishlist:item=1447836603&perks=1409206216,2173046394,19542588
+dimwishlist:item=1447836603&perks=1583705720,1720528630,19542588
+dimwishlist:item=1447836603&perks=1583705720,2173046394,19542588
+
+
 // Nasreddin - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier A Rank 8/28 tags:god-pve
 dimwishlist:item=1456017061&perks=1749209109,3708227201,2120661319
@@ -2837,6 +2889,18 @@ dimwishlist:item=1501688142&perks=1523832109,781192741,3978094547
 dimwishlist:item=1501688142&perks=1523832109,3708227201,3978094547
 dimwishlist:item=1501688142&perks=1523832109,332733060,3978094547
 dimwishlist:item=1501688142&perks=1523832109,555281244,3978094547
+
+
+// Doomed Petitioner - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Precision Instrument beats out Focused Fury on Briar's Contempt, though Harmonic Resonance and Solar works out in certain situations and seasons. tags:god-pve
+dimwishlist:item=1501688142&perks=1483536627,461595545,781192741,3978094547
+dimwishlist:item=1501688142&perks=1483536627,461595545,3708227201,3978094547
+dimwishlist:item=1501688142&perks=1483536627,461595545,332733060,3978094547
+dimwishlist:item=1501688142&perks=1483536627,461595545,555281244,3978094547
+dimwishlist:item=1501688142&perks=1483536627,1523832109,781192741,3978094547
+dimwishlist:item=1501688142&perks=1483536627,1523832109,3708227201,3978094547
+dimwishlist:item=1501688142&perks=1483536627,1523832109,332733060,3978094547
+dimwishlist:item=1501688142&perks=1483536627,1523832109,555281244,3978094547
 
 
 // Doomed Petitioner - [Datto S23 Godrolls] (pve)
@@ -3007,6 +3071,11 @@ dimwishlist:item=1606497639&perks=1583705720,776531651
 dimwishlist:item=1606497639&perks=1583705720,3108830275
 
 
+// Harsh Language - [Fallout S23 Lost Sector Farms] (pve)
+//notes: [Fallout S23 Lost Sector Farms] tags:pve
+dimwishlist:item=1606497639&perks=968510818,2048641572
+
+
 // Retrofuturist - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier A Rank 8/43 Pretty good picks for Tractor swapping, but not much use outside of that or speed running tags:god-pve
 dimwishlist:item=1612781792&perks=706527188,4104185692,4091460919
@@ -3108,6 +3177,12 @@ dimwishlist:item=1719687748&perks=3525010810,3796465595,968510818,3708227201
 dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,1439600632
 dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,3194351027
 dimwishlist:item=1719687748&perks=3525010810,3796465595,1523832109,3708227201
+
+
+// Crux Termination IV - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Slideshot gives 48rpm, with Surrounded and Impact Casing is heads and shoulders above any other legendary rocket launcher in DPS. High skill floor for this roll though. tags:god-pve
+dimwishlist:item=1719687748&perks=3796465595,3161816588,3708227201
+dimwishlist:item=1719687748&perks=3796465595,3161816588,3194351027
 
 
 // Crux Termination IV - [Datto S23 Godrolls] (pve)
@@ -3879,6 +3954,11 @@ dimwishlist:item=2026755633&perks=679225683,3828510309,95528736
 dimwishlist:item=2026755633&perks=1467527085,679225683,1195158366,3673922083
 
 
+// Breakneck - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Onslaught and Adagio both decent, Onslaught slightly better though. Encore makes it feel good. tags:pvp
+dimwishlist:item=2026755633&perks=1195158366,95528736
+
+
 // Imperative - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] High Impact makes it bad, KT takes longer to proc tags:pve
 dimwishlist:item=2045811635&perks=
@@ -4112,6 +4192,12 @@ dimwishlist:item=2189073092&perks=3828510309,831391274
 dimwishlist:item=2189073092&perks=923806249,831391274
 
 
+// Lethal Abundance - [Aztecross S23 Review] (pvp,pve)
+//notes: [Aztecross S23 Review] Sight and feel is decent, don't need TTT. Target Lock doesn't proc fast enough. Works well with Radiant builds and Torch artifact mod. tags:pvp,pve
+dimwishlist:item=2189073092&perks=3250034553,1885400500,923806249,95528736
+dimwishlist:item=2189073092&perks=3250034553,1561002382,923806249,95528736
+
+
 // Fixed Odds - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier B Rank 11/22 tags:god-pve
 dimwishlist:item=2194955522&perks=2308090567,2675184851,1905044254
@@ -4316,6 +4402,11 @@ dimwishlist:item=2306182339&perks=3300816228,1546637391
 dimwishlist:item=2313726158&perks=247725512,2387244414
 
 
+// Belisarius-D - [Aztecross S23 Review] (god-pvp)
+//notes: [Aztecross S23 Review] Rare Agg frame Pulse, first Strand one. Gets stocks which is an advantage over Disparity and Veles-X. 4-burst so max stacks of Rapid Hit in a single burst. tags:god-pvp
+dimwishlist:item=2313726158&perks=247725512,2387244414,4259401308
+
+
 // Belisarius-D - [CoolGuy S23 Review] (pve)
 //notes: [CoolGuy S23 Review] Recoil Direction between 89-99 best for control. Good damage (about double) against vehicles and constructs, plus free ammo. Can also check out Lethal Abundance, that's slightly better. tags:pve
 dimwishlist:item=2313726158&perks=1546637391,3993379141,1607056502
@@ -4335,6 +4426,24 @@ dimwishlist:item=2313726158&perks=247725512,1015611457
 // Belisarius-D - [CoolGuy S23 Review] (pvp)
 //notes: [CoolGuy S23 Review] Recoil Direction between 89-99 best for control. Good for duelling. tags:pvp
 dimwishlist:item=2313726158&perks=923806249,460017080
+
+
+// Belisarius-D - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Rare Agg frame Pulse, first Strand one. Gets stocks which is an advantage over Disparity and Veles-X. tags:pvp
+dimwishlist:item=2313726158&perks=3619207468,460017080,4259401308
+dimwishlist:item=2313726158&perks=3619207468,1015611457,4259401308
+dimwishlist:item=2313726158&perks=247725512,460017080,4259401308
+dimwishlist:item=2313726158&perks=247725512,1015611457,4259401308
+
+
+// Belisarius-D - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Rare Agg frame Pulse, first Strand one. Gets stocks which is an advantage over Disparity and Veles-X. Slice with Radiant hits hard. tags:pvp
+dimwishlist:item=2313726158&perks=923806249,460017080,4259401308
+
+
+// Belisarius-D - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Rare Agg frame Pulse, first Strand one. Gets stocks which is an advantage over Disparity and Veles-X, as well as origin trait. Slice with Radiant hits hard, and Hatchling proc getting buffed in 7.3.5. Only downside is Pulses being in a bad place right now. tags:pve
+dimwishlist:item=2313726158&perks=923806249,831391274,1607056502
 
 
 // Belisarius-D - [Aegis S23 Weapon Meta Update] (pve)
@@ -4394,6 +4503,12 @@ dimwishlist:item=2342054803&perks=839105230,3230963543,1583705720,2848615171
 dimwishlist:item=2342054803&perks=839105230,3230963543,1583705720,11612903
 
 
+// Incisor (Adept) - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Highest overall base stats of all legendary Trace Rifles. Killing Tally pairs with Subsistence, Target Lock pairs with Envious Assassin. tags:god-pve
+dimwishlist:item=2421180981&perks=1820235745,557221067
+dimwishlist:item=2421180981&perks=923806249,557221067
+
+
 // Incisor (Adept) - [CoolGuy S23 Review] (pve)
 //notes: [CoolGuy S23 Review] Use with Cenotaph Mask, put down a rift beforehand, can do damage in between marking. tags:pve
 dimwishlist:item=2421180981&perks=923806249,365154968
@@ -4421,6 +4536,18 @@ dimwishlist:item=2421180981&perks=2387244414,1890422124
 dimwishlist:item=2421180981&perks=2387244414,831391274
 dimwishlist:item=2421180981&perks=2387244414,557221067
 dimwishlist:item=2421180981&perks=2387244414,1015611457
+
+
+// Incisor (Adept) - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Highest overall base stats of all legendary Trace Rifles. Killing Tally pairs with Subsistence, Target Lock pairs with Envious Assassin. tags:pve
+dimwishlist:item=2421180981&perks=968510818,365154968
+dimwishlist:item=2421180981&perks=923806249,365154968
+
+
+// Incisor (Adept) - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Highest overall base stats of all legendary Trace Rifles. Use Slice with Radiant Frostees and Torch artifact mod, but Traces struggle in current meta. tags:pvp
+dimwishlist:item=2421180981&perks=923806249,365154968
+dimwishlist:item=2421180981&perks=923806249,1015611457
 
 
 // Incisor (Adept) - [Aegis S23 Weapon Meta Update] (pve)
@@ -4466,6 +4593,25 @@ dimwishlist:item=2453357042&perks=2284787283,2396489472
 dimwishlist:item=2453357042&perks=2284787283,3300816228
 dimwishlist:item=2453357042&perks=706527188,2396489472
 dimwishlist:item=2453357042&perks=706527188,3300816228
+
+
+// Tigerspite - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Armor-piercing Rounds for anti-barrier seasons, Subsistence as a backup to Overflow. tags:god-pve
+dimwishlist:item=2465372924&perks=839105230,1087426260,3643424744,3891536761
+dimwishlist:item=2465372924&perks=839105230,1087426260,1820235745,3891536761
+dimwishlist:item=2465372924&perks=839105230,1968497646,3643424744,3891536761
+dimwishlist:item=2465372924&perks=839105230,1968497646,1820235745,3891536761
+
+
+// Tigerspite - [Aztecross S23 Review] (god-pvp)
+//notes: [Aztecross S23 Review] Great feeling gun that edges out some of the other popular Autos. Go for Range. tags:god-pvp
+dimwishlist:item=2465372924&perks=1467527085,1561002382,588594999,699525795,930692523
+dimwishlist:item=2465372924&perks=1467527085,1885400500,588594999,699525795,930692523
+
+
+// Tigerspite - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Great gun for 6s. Needs some Range. tags:pvp
+dimwishlist:item=2465372924&perks=588594999,1015611457
 
 
 // Reed's Regret (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
@@ -4572,6 +4718,14 @@ dimwishlist:item=2558925366&perks=3643424744,2037312142,3978094547
 dimwishlist:item=2558925366&perks=3643424744,2594592626,3978094547
 
 
+// Scatter Signal - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Controlled Burst with Dragon's Vengeance brings Charge Time down to 427ms. Beats out Riptide's damage (Riptide still has utility though). Rapid Fire Fusions are a tough sell in PvP though. tags:god-pve
+dimwishlist:item=2558925366&perks=2680121939,2682205016,2037312142,3978094547
+dimwishlist:item=2558925366&perks=2680121939,2682205016,2594592626,3978094547
+dimwishlist:item=2558925366&perks=2680121939,3643424744,2037312142,3978094547
+dimwishlist:item=2558925366&perks=2680121939,3643424744,2594592626,3978094547
+
+
 // Scatter Signal - [Datto S23 Godrolls] (pve)
 //notes: [Datto S23 Godrolls] Overflow/Controlled Burst best, but Slice is useful utility (40% damage debuff), or Enlightened Action. tags:pve
 dimwishlist:item=2558925366&perks=839105230,2680121939,3643424744,2594592626
@@ -4601,14 +4755,22 @@ dimwishlist:item=2558925366&perks=3643424744,2594592626
 dimwishlist:item=2563012876&perks=1556840489,2679249093
 
 
-// Scalar Potential - [Aegis S23 Weapon Meta Update] (pve)
-//notes: [Aegis S23 Weapon Meta Update] Against Insidious/Oversoul Edict, not beating them in either tags:pve
-dimwishlist:item=2563668388&perks=
+// Scalar Potential - [Aztecross S23 Review] (god-pvp)
+//notes: [Aztecross S23 Review] Cleaner sights than Oversoul Edict, best Rapid Fire Pulse for PvP. tags:god-pvp
+dimwishlist:item=2563668388&perks=839105230,3142289711,3198323828,4045335048,3978094547
+dimwishlist:item=2563668388&perks=839105230,3142289711,3198323828,460017080,3978094547
+dimwishlist:item=2563668388&perks=839105230,3142289711,3619207468,4045335048,3978094547
+dimwishlist:item=2563668388&perks=839105230,3142289711,3619207468,460017080,3978094547
 
 
 // Scalar Potential - [Datto S23 Godrolls] (pvp)
 //notes: [Datto S23 Godrolls] Mainly PvP pulse, not much to offer for PvE (use Insidious or BXR). tags:pvp
 dimwishlist:item=2563668388&perks=839105230,3142289711,3619207468,460017080
+
+
+// Scalar Potential - [Aegis S23 Weapon Meta Update] (pve)
+//notes: [Aegis S23 Weapon Meta Update] Against Insidious/Oversoul Edict, not beating them in either tags:pve
+dimwishlist:item=2563668388&perks=
 
 
 // Fioritura-59 - [CoolGuy S22 Rare Rolls] (pvp)
@@ -5269,6 +5431,11 @@ dimwishlist:item=2728851518&perks=3643424744,2594592626,4264904777
 dimwishlist:item=2728851518&perks=3643424744,1427256713,4264904777
 
 
+// Glacioclasm - [Aztecross S23 Review] (god-pvp)
+//notes: [Aztecross S23 Review] For 1v1s need to reduce Charge Time. tags:god-pvp
+dimwishlist:item=2728851518&perks=1645158859,2213355989
+
+
 // Glacioclasm - [Aztecross S23 Dawning Godrolls] (pve)
 //notes: [Aztecross S23 Dawning Godrolls] Good for damage use. tags:pve
 dimwishlist:item=2728851518&perks=3643424744,2594592626
@@ -5322,6 +5489,16 @@ dimwishlist:item=2728851518&perks=3643424744,1427256713
 dimwishlist:item=2728851518&perks=3643424744,2594592626
 
 
+// Glacioclasm - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] For 6s tags:pvp
+dimwishlist:item=2728851518&perks=3161816588,2652708987
+
+
+// Glacioclasm - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Reservoir Burst doesn't work for long DPS phases, but you're not DPSing with High-impact frames anyway. tags:pve
+dimwishlist:item=2728851518&perks=3643424744,2594592626
+
+
 // Cataphract GL3 - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier S Rank 1/19 tags:god-pve
 dimwishlist:item=2738601016&perks=968510818,3078487919,2988596335
@@ -5363,6 +5540,11 @@ dimwishlist:item=2767393525&perks=1645158859,2594592626
 dimwishlist:item=2767393525&perks=1645158859,1754714824
 dimwishlist:item=2767393525&perks=2451262963,2594592626
 dimwishlist:item=2767393525&perks=2451262963,1754714824
+
+
+// Nox Perennial V - [Fallout S23 Lost Sector Farms] (pve)
+//notes: [Fallout S23 Lost Sector Farms] tags:pve
+dimwishlist:item=2767393525&perks=968510818,2594592626
 
 
 // Firefright (god-pve,god-pvp)
@@ -6914,12 +7096,31 @@ dimwishlist:item=3381450498&perks=1478423395,1087426260,3828510309,2428997981
 dimwishlist:item=3381450498&perks=1478423395,1087426260,951095735,2428997981
 
 
+// Indebted Kindness - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] tags:pve
+dimwishlist:item=3381450498&perks=951095735,2173046394
+dimwishlist:item=3381450498&perks=951095735,3708227201
+dimwishlist:item=3381450498&perks=951095735,3673922083
+
+
 // Tyranny of Heaven - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Tripwire Canary (Dragonfly + Explosive Head) tags:god-pve
 dimwishlist:item=3388655311&perks=169755979,2675184851,1489048135
 dimwishlist:item=3388655311&perks=169755979,4293542123,1489048135
 dimwishlist:item=3388655311&perks=2848615171,2675184851,1489048135
 dimwishlist:item=3388655311&perks=2848615171,4293542123,1489048135
+
+
+// Tyranny of Heaven - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Dragonfly (especially with Incandescent) good for at-level and slightly-under content, but Explosive Head (with Minor mod) better for harder content. Incandescent great with Dawn Chorus. tags:god-pve
+dimwishlist:item=3388655311&perks=852209214,16392701,169755979,2675184851
+dimwishlist:item=3388655311&perks=852209214,16392701,169755979,4293542123
+dimwishlist:item=3388655311&perks=852209214,16392701,2848615171,2675184851
+dimwishlist:item=3388655311&perks=852209214,16392701,2848615171,4293542123
+dimwishlist:item=3388655311&perks=852209214,16392701,1551736345,2675184851
+dimwishlist:item=3388655311&perks=852209214,16392701,1551736345,4293542123
+dimwishlist:item=3388655311&perks=852209214,16392701,3365897133,2675184851
+dimwishlist:item=3388655311&perks=852209214,16392701,3365897133,4293542123
 
 
 // Insidious - [Aegis S23 Endgame Analysis] (god-pve)
@@ -7124,6 +7325,16 @@ dimwishlist:item=3583275737&perks=1820235745,2610012052
 //notes: [CoolGuy S23 Review] PvE 4.5/5, PvP 2.5/5. Repulsor Brace for Void subclasses. tags:pvp
 dimwishlist:item=3583275737&perks=1359896290,95528736
 dimwishlist:item=3583275737&perks=776531651,95528736
+
+
+// Ros Arago IV - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Subsistence for casual content, Rewind Rounds for GMs. Repulsor Brace great for Void subclass synergy (especially Gyrfalcon's), Surrounded is ok. Golden Tricorn hard to keep going. tags:pve
+dimwishlist:item=3583275737&perks=1820235745,95528736,1050127423
+dimwishlist:item=3583275737&perks=1820235745,3708227201,1050127423
+dimwishlist:item=3583275737&perks=3418782618,95528736,1050127423
+dimwishlist:item=3583275737&perks=3418782618,3708227201,1050127423
+dimwishlist:item=3583275737&perks=776531651,95528736,1050127423
+dimwishlist:item=3583275737&perks=776531651,3708227201,1050127423
 
 
 // Techeun Force - [Aegis S23 Endgame Analysis] (god-pve)
@@ -7692,6 +7903,11 @@ dimwishlist:item=3998080529&perks=3828510309,4104185692,2509860981
 dimwishlist:item=3998080529&perks=3828510309,4293542123,2509860981
 
 
+// Heliocentric QSc - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Small Cure is good, but tying in with Benevolence, and adding Incandescent with Singeing brings back abilities very quickly. Makes it competitive with Drang. tags:god-pve
+dimwishlist:item=3998080529&perks=3017780555,4293542123,2509860981
+
+
 // Heliocentric QSc - [CoolGuy's S22 Review] (pvp)
 //notes: [CoolGuy's S22 Review] Great squirting spray bottle tags:pvp
 dimwishlist:item=3998080529&perks=1087426260,1428297954,1015611457
@@ -7796,6 +8012,12 @@ dimwishlist:item=3998080529&perks=3250034553,3142289711,3523296417,11612903
 dimwishlist:item=3998080529&perks=3250034553,3142289711,3523296417,3708227201
 dimwishlist:item=3998080529&perks=3250034553,3142289711,3523296417,555281244
 dimwishlist:item=3998080529&perks=3250034553,3142289711,3523296417,4104185692
+
+
+// Heliocentric QSc - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Wouldn't use it over Enhanced Moving Target + Zen Moment Drang, but it's here. tags:pvp
+dimwishlist:item=3998080529&perks=3250034553,3142289711,588594999,555281244,2509860981
+dimwishlist:item=3998080529&perks=3250034553,3142289711,588594999,1015611457,2509860981
 
 
 // Unexpected Resurgence - [Aegis S23 Endgame Analysis] (god-pve)
@@ -7990,6 +8212,18 @@ dimwishlist:item=4153087276&perks=3523296417,1171887445
 dimwishlist:item=4153087276&perks=3523296417,124408337
 
 
+// Appetence - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Origin trait helps with Killing Tally. tags:god-pve
+dimwishlist:item=4153087276&perks=1906147653,2896748467,3978094547
+dimwishlist:item=4153087276&perks=1906147653,557221067,3978094547
+dimwishlist:item=4153087276&perks=3523296417,2896748467,3978094547
+dimwishlist:item=4153087276&perks=3523296417,557221067,3978094547
+dimwishlist:item=4153087276&perks=2682205016,2896748467,3978094547
+dimwishlist:item=4153087276&perks=2682205016,557221067,3978094547
+dimwishlist:item=4153087276&perks=3643424744,2896748467,3978094547
+dimwishlist:item=4153087276&perks=3643424744,557221067,3978094547
+
+
 // Appetence - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] No Shoot to Loot on either S23 kinetic traces, but Demo is good (especially in 3rd column) tags:pve
 dimwishlist:item=4153087276&perks=3523296417,124408337
@@ -8068,6 +8302,34 @@ dimwishlist:item=4153087276&perks=2682205016,2896748467
 dimwishlist:item=4153087276&perks=2682205016,557221067
 dimwishlist:item=4153087276&perks=3643424744,2896748467
 dimwishlist:item=4153087276&perks=3643424744,557221067
+
+
+// Appetence - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Ability spam build, great for Osmio Shadebinder. Headstone may be a bit hard to proc on Traces. One For All works in some situations for high up-time damage boost. tags:pve
+dimwishlist:item=4153087276&perks=1906147653,2675361166,3978094547
+dimwishlist:item=4153087276&perks=1906147653,3592538738,3978094547
+dimwishlist:item=4153087276&perks=1906147653,1171887445,3978094547
+dimwishlist:item=4153087276&perks=1906147653,124408337,3978094547
+dimwishlist:item=4153087276&perks=1906147653,859780267,3978094547
+dimwishlist:item=4153087276&perks=1906147653,4049631843,3978094547
+dimwishlist:item=4153087276&perks=3523296417,2675361166,3978094547
+dimwishlist:item=4153087276&perks=3523296417,3592538738,3978094547
+dimwishlist:item=4153087276&perks=3523296417,1171887445,3978094547
+dimwishlist:item=4153087276&perks=3523296417,124408337,3978094547
+dimwishlist:item=4153087276&perks=3523296417,859780267,3978094547
+dimwishlist:item=4153087276&perks=3523296417,4049631843,3978094547
+
+
+// Appetence - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Not the best for PvP but works. Feels better than Incisor but loses out on PvP perk selection. tags:pvp
+dimwishlist:item=4153087276&perks=1392496348,732557052,1771736209,2140591236
+dimwishlist:item=4153087276&perks=1392496348,732557052,1771736209,2319119708
+dimwishlist:item=4153087276&perks=1392496348,732557052,3828510309,2140591236
+dimwishlist:item=4153087276&perks=1392496348,732557052,3828510309,2319119708
+dimwishlist:item=4153087276&perks=1392496348,732557052,2396422520,2140591236
+dimwishlist:item=4153087276&perks=1392496348,732557052,2396422520,2319119708
+dimwishlist:item=4153087276&perks=1392496348,732557052,2039302152,2140591236
+dimwishlist:item=4153087276&perks=1392496348,732557052,2039302152,2319119708
 
 
 // The Third Axiom (god-pvp)
@@ -8308,6 +8570,12 @@ dimwishlist:item=4248569242&perks=3523296417,3335686050,766321425
 dimwishlist:item=4248569242&perks=3523296417,469285294,766321425
 
 
+// Incisor - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Highest overall base stats of all legendary Trace Rifles. Killing Tally pairs with Subsistence, Target Lock pairs with Envious Assassin. tags:god-pve
+dimwishlist:item=4248997900&perks=1820235745,557221067
+dimwishlist:item=4248997900&perks=923806249,557221067
+
+
 // Incisor - [CoolGuy S23 Review] (pve)
 //notes: [CoolGuy S23 Review] Use with Cenotaph Mask, put down a rift beforehand, can do damage in between marking. tags:pve
 dimwishlist:item=4248997900&perks=923806249,365154968
@@ -8335,6 +8603,18 @@ dimwishlist:item=4248997900&perks=2387244414,1890422124
 dimwishlist:item=4248997900&perks=2387244414,831391274
 dimwishlist:item=4248997900&perks=2387244414,557221067
 dimwishlist:item=4248997900&perks=2387244414,1015611457
+
+
+// Incisor - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Highest overall base stats of all legendary Trace Rifles. Killing Tally pairs with Subsistence, Target Lock pairs with Envious Assassin. tags:pve
+dimwishlist:item=4248997900&perks=968510818,365154968
+dimwishlist:item=4248997900&perks=923806249,365154968
+
+
+// Incisor - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Highest overall base stats of all legendary Trace Rifles. Use Slice with Radiant Frostees and Torch artifact mod, but Traces struggle in current meta. tags:pvp
+dimwishlist:item=4248997900&perks=923806249,365154968
+dimwishlist:item=4248997900&perks=923806249,1015611457
 
 
 // Incisor - [Aegis S23 Weapon Meta Update] (pve)

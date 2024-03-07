@@ -992,6 +992,80 @@ dimwishlist:item=435216110&perks=671806388,1546637391,1281216113
 dimwishlist:item=435216110&perks=671806388,4104185692,1281216113
 
 
+// Darkest Before - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Decent weapon but there are better choices like Oversoul Edict. Crossing Over looks interesting though not that useful on Primaries since you're not damaging with them. tags:pve
+dimwishlist:item=435821040&perks=3017780555,4293542123
+
+
+// Darkest Before - [Aztecross S23 Prophecy Guide] (pve)
+//notes: [Aztecross S23 Prophecy Guide] tags:pve
+dimwishlist:item=435821040&perks=3017780555,4293542123
+dimwishlist:item=435821040&perks=3017780555,1015611457
+
+
+// Darkest Before - [Aztecross S23 Prophecy Guide] (pvp)
+//notes: [Aztecross S23 Prophecy Guide] Hard to beat other Pulses for PvP. tags:pvp
+dimwishlist:item=435821040&perks=3511092054,460017080
+
+
+// Darkest Before - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=435821040&perks=3017780555,4293542123
+
+
+// Darkest Before - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=435821040&perks=1820235745,4049631843
+
+
+// Darkest Before - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Incandescent is a Grenader Jake recommendation. Deconstruct may be a play against constant Titan Barricades. tags:pvp
+dimwishlist:item=435821040&perks=3511092054,1015611457
+dimwishlist:item=435821040&perks=3511092054,4293542123
+dimwishlist:item=435821040&perks=3017780555,1015611457
+dimwishlist:item=435821040&perks=3017780555,4293542123
+dimwishlist:item=435821040&perks=3993379141,1015611457
+dimwishlist:item=435821040&perks=3993379141,4293542123
+
+
+// Relentless - [Aztecross S23 Prophecy Guide] (god-pvp)
+//notes: [Aztecross S23 Prophecy Guide] ([Aztecross Random Drop Tryout] Best High Impact Pulse in the game, better than NTTE, Messenger, Phyllotactic, doesn't even feel like a High Impact.) tags:god-pvp
+dimwishlist:item=435821041&perks=839105230,1885400500,3619207468,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1885400500,247725512,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,2420895100,3619207468,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,2420895100,247725512,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1431678320,3619207468,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1431678320,247725512,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1087426260,3619207468,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1087426260,247725512,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1968497646,3619207468,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1968497646,247725512,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1561002382,3619207468,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,1561002382,247725512,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,3230963543,3619207468,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,3230963543,247725512,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,679225683,3619207468,460017080,4129855581
+dimwishlist:item=435821041&perks=839105230,679225683,247725512,460017080,4129855581
+
+
+// Relentless - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Has some Strand synergy but not worth investing into. Crossing Over looks interesting though not that useful on Primaries since you're not damaging with them. tags:pve
+dimwishlist:item=435821041&perks=247725512,4104185692
+
+
+// Relentless - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] High Impact Pulses are great in PvP. Keep Away + Zen Moment probably greatest, but Headseeker sounds promising for two taps. Outlaw + Desperado is a niche roll. tags:pvp
+dimwishlist:item=435821041&perks=3619207468,460017080
+dimwishlist:item=435821041&perks=3619207468,588594999
+dimwishlist:item=435821041&perks=3619207468,2387244414
+dimwishlist:item=435821041&perks=247725512,460017080
+dimwishlist:item=435821041&perks=247725512,588594999
+dimwishlist:item=435821041&perks=247725512,2387244414
+dimwishlist:item=435821041&perks=2039302152,460017080
+dimwishlist:item=435821041&perks=2039302152,588594999
+dimwishlist:item=435821041&perks=2039302152,2387244414
+
+
 // Corrective Measure - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier S Rank 4/22 tags:god-pve
 dimwishlist:item=471518543&perks=3523296417,3824105627
@@ -1443,6 +1517,91 @@ dimwishlist:item=631439337&perks=3300816228,4104185692
 dimwishlist:item=631439337&perks=3300816228,3523296417
 
 
+// The Title - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Pretty disappointing like last year. Threat Detector to get over low Reload. There are better SMGs around. tags:pve
+dimwishlist:item=655712834&perks=4071163871,3708227201
+dimwishlist:item=655712834&perks=4071163871,2048641572
+dimwishlist:item=655712834&perks=776531651,3708227201
+dimwishlist:item=655712834&perks=776531651,2048641572
+dimwishlist:item=655712834&perks=243981275,3708227201
+dimwishlist:item=655712834&perks=243981275,2048641572
+
+
+// The Title - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] Great PvE chase, SMG nerfs in Crucible means not much for PvP rolls. tags:pve
+dimwishlist:item=655712834&perks=776531651,2048641572
+
+
+// The Title - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Great PvE chase, SMG nerfs in Crucible means not much for PvP rolls. tags:pvp
+dimwishlist:item=655712834&perks=1359896290,2846385770
+
+
+// The Title - [Datto S23 Guardian Games Cook or Cope] (pve)
+//notes: [Datto S23 Guardian Games Cook or Cope] Attrition Orbs needs more testing. tags:pve
+dimwishlist:item=655712834&perks=776531651,2048641572
+dimwishlist:item=655712834&perks=776531651,3708227201
+dimwishlist:item=655712834&perks=243981275,2048641572
+dimwishlist:item=655712834&perks=243981275,3708227201
+dimwishlist:item=655712834&perks=1428297954,2048641572
+dimwishlist:item=655712834&perks=1428297954,3708227201
+dimwishlist:item=655712834&perks=4071163871,2048641572
+dimwishlist:item=655712834&perks=4071163871,3708227201
+
+
+// Hullabaloo - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Probably won't be meta for damage but interesting for add clear, especially with the reserves buff. Better than Dimensional Hypotrochoid. tags:pve
+dimwishlist:item=657927352&perks=2869569095,3751912585
+dimwishlist:item=657927352&perks=2869569095,2396489472
+dimwishlist:item=657927352&perks=3300816228,3751912585
+dimwishlist:item=657927352&perks=3300816228,2396489472
+dimwishlist:item=657927352&perks=968510818,3751912585
+dimwishlist:item=657927352&perks=968510818,2396489472
+dimwishlist:item=657927352&perks=2173046394,3751912585
+dimwishlist:item=657927352&perks=2173046394,2396489472
+
+
+// Hullabaloo - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Chain Reaction nerf upcoming in TFS, a One For All roll may be good to keep. Reload speed ok on this, Voltshot viable, though damage doesn't scale up compared to Special GLs (Forbearance). Voltshot + Chain Reaction still the chase though. tags:pve
+dimwishlist:item=657927352&perks=2173046394,2396489472
+dimwishlist:item=657927352&perks=2173046394,4049631843
+dimwishlist:item=657927352&perks=2869569095,2396489472
+dimwishlist:item=657927352&perks=2869569095,4049631843
+dimwishlist:item=657927352&perks=968510818,2396489472
+dimwishlist:item=657927352&perks=968510818,4049631843
+
+
+// Hullabaloo - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] Great crowd control on Arc subclasses. tags:pve
+dimwishlist:item=657927352&perks=2173046394,2396489472
+
+
+// Hullabaloo - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] Envious + Cascade may be a good Major/Boss burning roll, or try One For All or Golden Tricorn. tags:pve
+dimwishlist:item=657927352&perks=968510818,3751912585
+dimwishlist:item=657927352&perks=968510818,4049631843
+dimwishlist:item=657927352&perks=968510818,2610012052
+
+
+// Hullabaloo - [Datto S23 Guardian Games Cook or Cope] (pve)
+//notes: [Datto S23 Guardian Games Cook or Cope] tags:pve
+dimwishlist:item=657927352&perks=968510818,2396489472
+dimwishlist:item=657927352&perks=2173046394,2396489472
+
+
+// Hullabaloo - [Datto S23 Guardian Games Cook or Cope] (pve)
+//notes: [Datto S23 Guardian Games Cook or Cope] tags:pve
+dimwishlist:item=657927352&perks=968510818,4049631843
+dimwishlist:item=657927352&perks=3300816228,4049631843
+dimwishlist:item=657927352&perks=2869569095,4049631843
+
+
+// Hullabaloo - [Datto S23 Guardian Games Cook or Cope] (pve)
+//notes: [Datto S23 Guardian Games Cook or Cope] May be something for future bosses coming down the pipeline. tags:pve
+dimwishlist:item=657927352&perks=968510818,3751912585
+dimwishlist:item=657927352&perks=968510818,1546637391
+
+
 // Hand in Hand - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier B Rank 24/43 tags:god-pve
 dimwishlist:item=664109750&perks=2621346526,2360754333,2120661319
@@ -1748,6 +1907,12 @@ dimwishlist:item=874623537&perks=3300816228,3078487919,2988596335
 dimwishlist:item=874623537&perks=3300816228,3751912585,2988596335
 
 
+// Cataphract GL3 (Adept) - [gmeiners S23 Mid-Season Review] (god-pve)
+//notes: [gmeiners S23 Mid-Season Review] Reserves boost gives 29 rounds, higher DPS than Rockets now. Spike no longer best, go for increased mag size. Use with Izi/Special GL swap rotations. tags:god-pve
+dimwishlist:item=874623537&perks=1771897777,968510818,3078487919
+dimwishlist:item=874623537&perks=1771897777,3300816228,3078487919
+
+
 // Cataphract GL3 (Adept) - [demonjoe 30 Best PVE Weapons of 2023] (pve)
 //notes: [demonjoe 30 Best PVE Weapons of 2023] tags:pve
 dimwishlist:item=874623537&perks=951095735,3078487919
@@ -1823,6 +1988,24 @@ dimwishlist:item=958384347&perks=3300816228,3927722942
 dimwishlist:item=958384347&perks=3300816228,1275731761
 
 
+// Wild Style (Adept) - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Unfortunate, no auto loading perks (ALH, Reconstruction), only Envious (though you only usually do 3 shots in a proper Rocket dump rotation anyway). No identity in the 4th column perks. tags:pve
+dimwishlist:item=959037361&perks=968510818,4293542123
+dimwishlist:item=959037361&perks=968510818,243981275
+dimwishlist:item=959037361&perks=3828510309,4293542123
+dimwishlist:item=959037361&perks=3828510309,243981275
+
+
+// Wild Style (Adept) - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=959037361&perks=1583705720,4049631843
+
+
+// Wild Style (Adept) - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=959037361&perks=968510818,4293542123
+
+
 // Aurvandil FR6 - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier C Rank 18/30 tags:pve
 dimwishlist:item=963710795&perks=1523832109,2978966579,2839173408
@@ -1860,6 +2043,41 @@ dimwishlist:item=999767358&perks=848860060,3744057135,3363267119
 dimwishlist:item=999767358&perks=848860060,3078487919,3363267119
 dimwishlist:item=999767358&perks=1354429876,3744057135,3363267119
 dimwishlist:item=999767358&perks=1354429876,3078487919,3363267119
+
+
+// Adjudicator - [Aztecross S23 Prophecy Guide] (god-pvp)
+//notes: [Aztecross S23 Prophecy Guide] Target Lock nerfed on SMGs. tags:god-pvp
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,95528736,4129855581
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,2451262963,4129855581
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1359896290,95528736,4129855581
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1359896290,2451262963,4129855581
+
+
+// Adjudicator - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] OK SMG, has Subsistence + Onslaught too. Crossing Over looks interesting though not that useful on Primaries since you're not damaging with them. tags:pve
+dimwishlist:item=1013434963&perks=1820235745,4104185692
+dimwishlist:item=1013434963&perks=1820235745,3891536761
+dimwishlist:item=1013434963&perks=1820235745,95528736
+dimwishlist:item=1013434963&perks=4071163871,4104185692
+dimwishlist:item=1013434963&perks=4071163871,3891536761
+dimwishlist:item=1013434963&perks=4071163871,95528736
+
+
+// Adjudicator - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Don't get Target Lock, it's nerfed. tags:pvp
+dimwishlist:item=1013434963&perks=1359896290,95528736
+dimwishlist:item=1013434963&perks=2846385770,95528736
+dimwishlist:item=1013434963&perks=4071163871,95528736
+
+
+// Adjudicator - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1013434963&perks=2779035018,95528736
+
+
+// Adjudicator - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1013434963&perks=1820235745,3425386926
 
 
 // One Small Step - [Aegis S23 Endgame Analysis] (god-pve)
@@ -2167,6 +2385,22 @@ dimwishlist:item=1216319404&perks=3038247973,3824105627
 dimwishlist:item=1216319404&perks=3038247973,4104185692
 
 
+// Tusk of the Boar - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Chain Reaction on a Waveframe always good, Deconstruct sounds interesting, 3 enemy hits within 6 seconds gives free ammo AND reload. Looks decent. tags:pve
+dimwishlist:item=1218113510&perks=3828510309,2396489472
+dimwishlist:item=1218113510&perks=3828510309,3993379141
+dimwishlist:item=1218113510&perks=923806249,2396489472
+dimwishlist:item=1218113510&perks=923806249,3993379141
+dimwishlist:item=1218113510&perks=2039302152,2396489472
+dimwishlist:item=1218113510&perks=2039302152,3993379141
+
+
+// Tusk of the Boar - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1218113510&perks=2039302152,2396489472
+dimwishlist:item=1218113510&perks=968510818,2396489472
+
+
 // Swordbreaker (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier A Rank 9/43 tags:god-pve
 dimwishlist:item=1239700299&perks=1906147653,788178929,1156201379
@@ -2300,6 +2534,52 @@ dimwishlist:item=1289796511&perks=1556840489,1720528630,164468655
 dimwishlist:item=1289796511&perks=1556840489,2173046394,164468655
 dimwishlist:item=1289796511&perks=1556840489,1906147653,164468655
 dimwishlist:item=1289796511&perks=1556840489,3523296417,164468655
+
+
+// The Summoner (Adept) - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Better than previous Summoners. Subsistence is great on Autos and SMGs, gets Enhanced levels of Subsistence while not Enhanced. Good for add clear. tags:pve
+dimwishlist:item=1292594730&perks=3017780555,4293542123,1050127423
+dimwishlist:item=1292594730&perks=3017780555,95528736,1050127423
+dimwishlist:item=1292594730&perks=1820235745,4293542123,1050127423
+dimwishlist:item=1292594730&perks=1820235745,95528736,1050127423
+dimwishlist:item=1292594730&perks=3643424744,4293542123,1050127423
+dimwishlist:item=1292594730&perks=3643424744,95528736,1050127423
+
+
+// The Summoner (Adept) - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1292594730&perks=3017780555,4293542123
+
+
+// The Summoner (Adept) - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1292594730&perks=3643424744,95528736
+dimwishlist:item=1292594730&perks=1820235745,95528736
+
+
+// The Summoner (Adept) - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] tags:pvp
+dimwishlist:item=1292594730&perks=3511092054,365154968
+dimwishlist:item=1292594730&perks=3511092054,1890422124
+dimwishlist:item=1292594730&perks=3511092054,1015611457
+dimwishlist:item=1292594730&perks=3511092054,95528736
+dimwishlist:item=1292594730&perks=2387244414,365154968
+dimwishlist:item=1292594730&perks=2387244414,1890422124
+dimwishlist:item=1292594730&perks=2387244414,1015611457
+dimwishlist:item=1292594730&perks=2387244414,95528736
+dimwishlist:item=1292594730&perks=1359896290,365154968
+dimwishlist:item=1292594730&perks=1359896290,1890422124
+dimwishlist:item=1292594730&perks=1359896290,1015611457
+dimwishlist:item=1292594730&perks=1359896290,95528736
+dimwishlist:item=1292594730&perks=1428297954,365154968
+dimwishlist:item=1292594730&perks=1428297954,1890422124
+dimwishlist:item=1292594730&perks=1428297954,1015611457
+dimwishlist:item=1292594730&perks=1428297954,95528736
+
+
+// The Summoner (Adept) - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Solely for Athrys's Embrace. tags:pvp
+dimwishlist:item=1292594730&perks=2387244414,2610012052
 
 
 // Deadpan Delivery - [Aegis S23 Endgame Analysis] (god-pve)
@@ -2439,6 +2719,40 @@ dimwishlist:item=1331824604&perks=684456054,2173046394
 dimwishlist:item=1331824604&perks=2387244414,3673922083
 dimwishlist:item=1331824604&perks=2946784966,3673922083
 dimwishlist:item=1331824604&perks=2866798147,3673922083
+
+
+// Wild Style - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Unfortunate, no auto loading perks (ALH, Reconstruction), only Envious (though you only usually do 3 shots in a proper Rocket dump rotation anyway). No identity in the 4th column perks. tags:pve
+dimwishlist:item=1332123064&perks=968510818,4293542123
+dimwishlist:item=1332123064&perks=968510818,243981275
+dimwishlist:item=1332123064&perks=3828510309,4293542123
+dimwishlist:item=1332123064&perks=3828510309,243981275
+
+
+// Wild Style - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1332123064&perks=1583705720,4049631843
+
+
+// Wild Style - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1332123064&perks=968510818,4293542123
+
+
+// The Slammer (Adept) - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Has Eager Edge; not craftable but Vortex frames propel you further than Adaptive frames, and Bungie may yet make non-raid Adepts become Enhanceable. Also has Cold Steel. tags:pve
+dimwishlist:item=1354727549&perks=2077819806,3650930298
+dimwishlist:item=1354727549&perks=2077819806,3523296417
+
+
+// The Slammer (Adept) - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] Love Vortex frames like Falling Guillotine. Eager Edge + Bait And Switch for DPS, Relentless + Cold Steel for Stasis builds. tags:pve
+dimwishlist:item=1354727549&perks=1749209109,3650930298
+dimwishlist:item=1354727549&perks=1749209109,3078487919
+dimwishlist:item=1354727549&perks=2077819806,3650930298
+dimwishlist:item=1354727549&perks=2077819806,3078487919
+dimwishlist:item=1354727549&perks=2396489472,3650930298
+dimwishlist:item=1354727549&perks=2396489472,3078487919
 
 
 // Tomorrow's Answer (Adept) - [Aegis S23 Endgame Analysis] (pve)
@@ -3299,6 +3613,52 @@ dimwishlist:item=1780464822&perks=1428297954,1048183818
 dimwishlist:item=1796949035&perks=1749209109,4104185692,3989629871
 
 
+// The Summoner - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Better than previous Summoners. Subsistence is great on Autos and SMGs, gets Enhanced levels of Subsistence while not Enhanced. Good for add clear. tags:pve
+dimwishlist:item=1820994983&perks=3017780555,4293542123,1050127423
+dimwishlist:item=1820994983&perks=3017780555,95528736,1050127423
+dimwishlist:item=1820994983&perks=1820235745,4293542123,1050127423
+dimwishlist:item=1820994983&perks=1820235745,95528736,1050127423
+dimwishlist:item=1820994983&perks=3643424744,4293542123,1050127423
+dimwishlist:item=1820994983&perks=3643424744,95528736,1050127423
+
+
+// The Summoner - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1820994983&perks=3017780555,4293542123
+
+
+// The Summoner - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=1820994983&perks=3643424744,95528736
+dimwishlist:item=1820994983&perks=1820235745,95528736
+
+
+// The Summoner - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] tags:pvp
+dimwishlist:item=1820994983&perks=3511092054,365154968
+dimwishlist:item=1820994983&perks=3511092054,1890422124
+dimwishlist:item=1820994983&perks=3511092054,1015611457
+dimwishlist:item=1820994983&perks=3511092054,95528736
+dimwishlist:item=1820994983&perks=2387244414,365154968
+dimwishlist:item=1820994983&perks=2387244414,1890422124
+dimwishlist:item=1820994983&perks=2387244414,1015611457
+dimwishlist:item=1820994983&perks=2387244414,95528736
+dimwishlist:item=1820994983&perks=1359896290,365154968
+dimwishlist:item=1820994983&perks=1359896290,1890422124
+dimwishlist:item=1820994983&perks=1359896290,1015611457
+dimwishlist:item=1820994983&perks=1359896290,95528736
+dimwishlist:item=1820994983&perks=1428297954,365154968
+dimwishlist:item=1820994983&perks=1428297954,1890422124
+dimwishlist:item=1820994983&perks=1428297954,1015611457
+dimwishlist:item=1820994983&perks=1428297954,95528736
+
+
+// The Summoner - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Solely for Athrys's Embrace. tags:pvp
+dimwishlist:item=1820994983&perks=2387244414,2610012052
+
+
 // Warden's Law - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Fatebringer; Role: Add clear, Champs tags:pve
 dimwishlist:item=1821529912&perks=3828510309,1546637391
@@ -3807,6 +4167,34 @@ dimwishlist:item=1959650777&perks=2869569095,2978966579,1250481499
 //notes: [Aegis S23 Endgame Analysis] Tier C Rank 19/22 tags:pve
 dimwishlist:item=1967303408&perks=3300816228,3425386926,3989629871
 dimwishlist:item=1967303408&perks=2869569095,3425386926,3989629871
+
+
+// The Prophet - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Agg Scouts not really good for PvE, but here are some perks for it. tags:pve
+dimwishlist:item=1968410628&perks=3828510309,3038247973
+dimwishlist:item=1968410628&perks=3828510309,124408337
+dimwishlist:item=1968410628&perks=3523296417,3038247973
+dimwishlist:item=1968410628&perks=3523296417,124408337
+dimwishlist:item=1968410628&perks=247725512,3038247973
+dimwishlist:item=1968410628&perks=247725512,124408337
+
+
+// The Prophet - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] "I'm allergic to ADS" roll. tags:pvp
+dimwishlist:item=1968410628&perks=1866048759,2416023159,2437618208
+
+
+// The Prophet - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] tags:pvp
+dimwishlist:item=1968410628&perks=3619207468,1015611457
+dimwishlist:item=1968410628&perks=3619207468,3751912585
+dimwishlist:item=1968410628&perks=3619207468,555281244
+dimwishlist:item=1968410628&perks=247725512,1015611457
+dimwishlist:item=1968410628&perks=247725512,3751912585
+dimwishlist:item=1968410628&perks=247725512,555281244
+dimwishlist:item=1968410628&perks=3978468247,1015611457
+dimwishlist:item=1968410628&perks=3978468247,3751912585
+dimwishlist:item=1968410628&perks=3978468247,555281244
 
 
 // Nightshade - [CoolGuy's S22 Review] (pvp)
@@ -5507,6 +5895,12 @@ dimwishlist:item=2738601016&perks=3300816228,3078487919,2988596335
 dimwishlist:item=2738601016&perks=3300816228,3751912585,2988596335
 
 
+// Cataphract GL3 - [gmeiners S23 Mid-Season Review] (god-pve)
+//notes: [gmeiners S23 Mid-Season Review] Reserves boost gives 29 rounds, higher DPS than Rockets now. Spike no longer best, go for increased mag size. Use with Izi/Special GL swap rotations. tags:god-pve
+dimwishlist:item=2738601016&perks=1771897777,968510818,3078487919
+dimwishlist:item=2738601016&perks=1771897777,3300816228,3078487919
+
+
 // Cataphract GL3 - [demonjoe 30 Best PVE Weapons of 2023] (pve)
 //notes: [demonjoe 30 Best PVE Weapons of 2023] tags:pve
 dimwishlist:item=2738601016&perks=951095735,3078487919
@@ -6017,6 +6411,22 @@ dimwishlist:item=2886339027&perks=1354429876,3744057135,3363267119
 dimwishlist:item=2886339027&perks=1354429876,3078487919,3363267119
 
 
+// The Slammer - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Has Eager Edge; not craftable but Vortex frames propel you further than Adaptive frames, and Bungie may yet make non-raid Adepts become Enhanceable. Also has Cold Steel. tags:pve
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+dimwishlist:item=2889501828&perks=2077819806,3523296417
+
+
+// The Slammer - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] Love Vortex frames like Falling Guillotine. Eager Edge + Bait And Switch for DPS, Relentless + Cold Steel for Stasis builds. tags:pve
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+dimwishlist:item=2889501828&perks=2077819806,3078487919
+dimwishlist:item=2889501828&perks=1749209109,3650930298
+dimwishlist:item=2889501828&perks=1749209109,3078487919
+dimwishlist:item=2889501828&perks=2396489472,3650930298
+dimwishlist:item=2889501828&perks=2396489472,3078487919
+
+
 // Briar's Contempt (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier A Rank 3/12 tags:god-pve
 dimwishlist:item=2890082420&perks=1563455254,781192741,3186078099
@@ -6126,6 +6536,47 @@ dimwishlist:item=2943293195&perks=3523296417,2978966579,3363267119
 // Toil and Trouble - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier D Rank 40/43 tags:pve
 dimwishlist:item=2957367743&perks=4071163871,3300816228
+
+
+// Judgment - [Aztecross S23 Prophecy Guide] (god-pvp)
+//notes: [Aztecross S23 Prophecy Guide] tags:god-pvp
+dimwishlist:item=2969415423&perks=1926090092,3142289711,588594999,1954620775,4129855581
+dimwishlist:item=2969415423&perks=1926090092,3142289711,3161816588,1954620775,4129855581
+dimwishlist:item=2969415423&perks=1926090093,3142289711,588594999,1954620775,4129855581
+dimwishlist:item=2969415423&perks=1926090093,3142289711,3161816588,1954620775,4129855581
+
+
+// Judgment - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Not sure if downgrade or upgrade, probably take Eyasluna over it. Crossing Over looks interesting though not that useful on Primaries since you're not damaging with them. tags:pve
+dimwishlist:item=2969415423&perks=3828510309,1954620775
+
+
+// Judgment - [Aztecross S23 Prophecy Guide] (pve)
+//notes: [Aztecross S23 Prophecy Guide] tags:pve
+dimwishlist:item=2969415423&perks=1926090093,106909392,124408337,1546637391
+dimwishlist:item=2969415423&perks=1926090093,1087426260,124408337,1546637391
+
+
+// Judgment - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=2969415423&perks=124408337,11612903
+dimwishlist:item=2969415423&perks=3523296417,11612903
+
+
+// Judgment - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Slideshot + Eye Of The Storm is boring but hard to argue with. tags:pvp
+dimwishlist:item=2969415423&perks=1195158366,699525795
+dimwishlist:item=2969415423&perks=1195158366,2458213969
+dimwishlist:item=2969415423&perks=1195158366,47981717
+dimwishlist:item=2969415423&perks=1195158366,1954620775
+dimwishlist:item=2969415423&perks=588594999,699525795
+dimwishlist:item=2969415423&perks=588594999,2458213969
+dimwishlist:item=2969415423&perks=588594999,47981717
+dimwishlist:item=2969415423&perks=588594999,1954620775
+dimwishlist:item=2969415423&perks=3161816588,699525795
+dimwishlist:item=2969415423&perks=3161816588,2458213969
+dimwishlist:item=2969415423&perks=3161816588,47981717
+dimwishlist:item=2969415423&perks=3161816588,1954620775
 
 
 // Koraxis's Distress - [Aegis S23 Endgame Analysis] (god-pve)
@@ -6496,6 +6947,112 @@ dimwishlist:item=3001205424&perks=3800201097,1782407750,4091460919
 dimwishlist:item=3001205424&perks=1966281507,1782407750,4091460919
 
 
+// Taraxippos - [Legoleflash S23 Review] (god-pvp)
+//notes: [Legoleflash S23 Review] This is a Sidearm, not a Scout, Range and Zoom sucks but all other stats are better. Mid range engagements rule, Range is just a bonus. Lightweight gives 50% speed boost that Arc gives. Go for Stability MW (with Counterbalance Mod). tags:god-pvp
+dimwishlist:item=3007479950&perks=3661387068,3142289711,699525795,3751912585,2839173408
+dimwishlist:item=3007479950&perks=3661387068,3142289711,588594999,3751912585,2839173408
+dimwishlist:item=3007479950&perks=3661387068,3142289711,3619207468,3751912585,2839173408
+dimwishlist:item=3007479950&perks=4090651448,3142289711,699525795,3751912585,2839173408
+dimwishlist:item=3007479950&perks=4090651448,3142289711,588594999,3751912585,2839173408
+dimwishlist:item=3007479950&perks=4090651448,3142289711,3619207468,3751912585,2839173408
+dimwishlist:item=3007479950&perks=3250034553,3142289711,699525795,3751912585,2839173408
+dimwishlist:item=3007479950&perks=3250034553,3142289711,588594999,3751912585,2839173408
+dimwishlist:item=3007479950&perks=3250034553,3142289711,3619207468,3751912585,2839173408
+dimwishlist:item=3007479950&perks=1482024992,3142289711,699525795,3751912585,2839173408
+dimwishlist:item=3007479950&perks=1482024992,3142289711,588594999,3751912585,2839173408
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3619207468,3751912585,2839173408
+
+
+// Taraxippos - [Legoleflash S23 Review] (god-pve)
+//notes: [Legoleflash S23 Review] If using it as an actual Scout. Go for Range MW. Gives 100 Handling and Reload Speed with boosted Range and Stability. tags:god-pve
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3828510309,3751912585
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3828510309,555281244
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3828510309,1015611457
+dimwishlist:item=3007479950&perks=839105230,3142289711,3828510309,3751912585
+dimwishlist:item=3007479950&perks=839105230,3142289711,3828510309,555281244
+dimwishlist:item=3007479950&perks=839105230,3142289711,3828510309,1015611457
+
+
+// Taraxippos - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Not much change from last year. Lightweights are decent and got buffed recently, but not enough to save it not being Kinetic. tags:pve
+dimwishlist:item=3007479950&perks=3828510309,3038247973
+dimwishlist:item=3007479950&perks=1354429876,3038247973
+dimwishlist:item=3007479950&perks=1365187766,3038247973
+
+
+// Taraxippos - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Zen Moment makes for a very stable roll for PvP. tags:pvp
+dimwishlist:item=3007479950&perks=2387244414,1015611457,2839173408
+dimwishlist:item=3007479950&perks=699525795,1015611457,2839173408
+dimwishlist:item=3007479950&perks=588594999,1015611457,2839173408
+
+
+// Taraxippos - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] Not that interesting for PvE. tags:pve
+dimwishlist:item=3007479950&perks=1354429876,2896038713
+dimwishlist:item=3007479950&perks=1354429876,831391274
+
+
+// Taraxippos - [Legoleflash S23 Review] (pvp)
+//notes: [Legoleflash S23 Review] This is a Sidearm, not a Scout, Range and Zoom sucks but all other stats are better. Mid range engagements rule, Range is just a bonus. Lightweight gives 50% speed boost that Arc gives. Go for Stability MW (with Counterbalance Mod). Bodyshot roll to balance out sandbox changes. tags:pvp
+dimwishlist:item=3007479950&perks=3661387068,3142289711,1365187766,3751912585,2839173408
+dimwishlist:item=3007479950&perks=4090651448,3142289711,1365187766,3751912585,2839173408
+dimwishlist:item=3007479950&perks=3250034553,3142289711,1365187766,3751912585,2839173408
+dimwishlist:item=3007479950&perks=1482024992,3142289711,1365187766,3751912585,2839173408
+
+
+// Taraxippos - [Legoleflash S23 Review] (pvp)
+//notes: [Legoleflash S23 Review] This is a Sidearm, not a Scout, Range and Zoom sucks but all other stats are better. Mid range engagements rule, Range is just a bonus. Lightweight gives 50% speed boost that Arc gives. Go for Stability MW (with Counterbalance Mod). 0.6 TTK 3-tap Radiant roll. tags:pvp
+dimwishlist:item=3007479950&perks=3661387068,3142289711,2387244414,555281244,2839173408
+dimwishlist:item=3007479950&perks=3661387068,3142289711,3619207468,555281244,2839173408
+dimwishlist:item=3007479950&perks=3661387068,3142289711,588594999,555281244,2839173408
+
+
+// Taraxippos - [Legoleflash S23 Review] (pve)
+//notes: [Legoleflash S23 Review] If using it as an actual Scout. Go for Reload MW. Flat 38% damage buff. tags:pve
+dimwishlist:item=3007479950&perks=1840239774,3230963543,1365187766,3038247973,2839173408
+
+
+// Taraxippos - [Datto S23 Guardian Games Cook or Cope] (pve)
+//notes: [Datto S23 Guardian Games Cook or Cope] Still just a legendary Scout. tags:pve
+dimwishlist:item=3007479950&perks=1365187766,3038247973
+
+
+// Taraxippos - [Datto S23 Guardian Games Cook or Cope] (pve)
+//notes: [Datto S23 Guardian Games Cook or Cope] Still just a legendary Scout. tags:pve
+dimwishlist:item=3007479950&perks=1354429876,555281244
+dimwishlist:item=3007479950&perks=3619207468,555281244
+dimwishlist:item=3007479950&perks=3828510309,555281244
+
+
+// The Prophet (Adept) - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Agg Scouts not really good for PvE, but here are some perks for it. tags:pve
+dimwishlist:item=3019024381&perks=3828510309,3038247973
+dimwishlist:item=3019024381&perks=3828510309,124408337
+dimwishlist:item=3019024381&perks=3523296417,3038247973
+dimwishlist:item=3019024381&perks=3523296417,124408337
+dimwishlist:item=3019024381&perks=247725512,3038247973
+dimwishlist:item=3019024381&perks=247725512,124408337
+
+
+// The Prophet (Adept) - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] "I'm allergic to ADS" roll. tags:pvp
+dimwishlist:item=3019024381&perks=1866048759,2416023159,2437618208
+
+
+// The Prophet (Adept) - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] tags:pvp
+dimwishlist:item=3019024381&perks=3619207468,1015611457
+dimwishlist:item=3019024381&perks=3619207468,3751912585
+dimwishlist:item=3019024381&perks=3619207468,555281244
+dimwishlist:item=3019024381&perks=247725512,1015611457
+dimwishlist:item=3019024381&perks=247725512,3751912585
+dimwishlist:item=3019024381&perks=247725512,555281244
+dimwishlist:item=3019024381&perks=3978468247,1015611457
+dimwishlist:item=3019024381&perks=3978468247,3751912585
+dimwishlist:item=3019024381&perks=3978468247,555281244
+
+
 // Iota Draconis - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier C Rank 19/30 tags:pve
 dimwishlist:item=3044460004&perks=1556840489,4104185692
@@ -6778,6 +7335,32 @@ dimwishlist:item=3206190066&perks=3418782618,4104185692
 // Cold Front - [Ebontis S23 Best Dawning Rolls] (pve)
 //notes: [Ebontis S23 Best Dawning Rolls] Kinetic SMG is just not it, especially without Kinetic Tremors. Sub/Frenzy is oxymoronic, Rampage is old news. tags:pve
 dimwishlist:item=3206190066&perks=
+
+
+// Multimach CCX - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Decent Kinetic SMG. tags:pve
+dimwishlist:item=3211624072&perks=243981275,4104185692
+dimwishlist:item=3211624072&perks=243981275,3891536761
+dimwishlist:item=3211624072&perks=1870851715,4104185692
+dimwishlist:item=3211624072&perks=1870851715,3891536761
+
+
+// Multimach CCX - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Target Lock got nerfed. tags:pvp
+dimwishlist:item=3211624072&perks=202670084,3142289711,1359896290,1015611457
+
+
+// Multimach CCX - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Target Lock got nerfed. tags:pvp
+dimwishlist:item=3211624072&perks=1359896290,1890422124
+dimwishlist:item=3211624072&perks=1359896290,1015611457
+dimwishlist:item=3211624072&perks=1359896290,591790007
+dimwishlist:item=3211624072&perks=2846385770,1890422124
+dimwishlist:item=3211624072&perks=2846385770,1015611457
+dimwishlist:item=3211624072&perks=2846385770,591790007
+dimwishlist:item=3211624072&perks=588594999,1890422124
+dimwishlist:item=3211624072&perks=588594999,1015611457
+dimwishlist:item=3211624072&perks=588594999,591790007
 
 
 // Reckless Endangerment - [Aegis S23 Endgame Analysis] (pve)
@@ -7172,6 +7755,38 @@ dimwishlist:item=3473290087&perks=3300816228,1546637391,4091460919
 dimwishlist:item=3473290087&perks=3300816228,3523296417,4091460919
 dimwishlist:item=3473290087&perks=1556840489,1546637391,4091460919
 dimwishlist:item=3473290087&perks=1556840489,3523296417,4091460919
+
+
+// Prosecutor - [Aztecross S23 Prophecy Guide] (god-pvp)
+//notes: [Aztecross S23 Prophecy Guide] Target Lock nerf is only for SMGs. tags:god-pvp
+dimwishlist:item=3483591058&perks=3250034553,1885400500,2387244414,365154968,4129855581
+dimwishlist:item=3483591058&perks=3250034553,1885400500,2387244414,1890422124,4129855581
+dimwishlist:item=3483591058&perks=3250034553,1885400500,3619207468,365154968,4129855581
+dimwishlist:item=3483591058&perks=3250034553,1885400500,3619207468,1890422124,4129855581
+
+
+// Prosecutor - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Dragonfly + Voltshot/Frenzy nice to have but not worth farming for. Crossing Over looks interesting though not that useful on Primaries since you're not damaging with them. tags:pve
+dimwishlist:item=3483591058&perks=2848615171,4104185692
+dimwishlist:item=3483591058&perks=2848615171,2173046394
+dimwishlist:item=3483591058&perks=3418782618,4104185692
+dimwishlist:item=3483591058&perks=3418782618,2173046394
+
+
+// Prosecutor - [Aztecross S23 Prophecy Guide] (pvp)
+//notes: [Aztecross S23 Prophecy Guide] Designed for PvP, usable in PvE. tags:pvp
+dimwishlist:item=3483591058&perks=2848615171,2173046394
+
+
+// Prosecutor - [Fallout S23 Mid Season Patch] (pve)
+//notes: [Fallout S23 Mid Season Patch] tags:pve
+dimwishlist:item=3483591058&perks=2848615171,2173046394
+
+
+// Prosecutor - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Target Lock and Crossing Over MAY reduce TTK. tags:pvp
+dimwishlist:item=3483591058&perks=2387244414,365154968,4129855581
+dimwishlist:item=3483591058&perks=2387244414,1890422124,4129855581
 
 
 // Palmyra-B - [Aegis S23 Endgame Analysis] (pve)
@@ -8145,6 +8760,44 @@ dimwishlist:item=4096943616&perks=981914802,4071163871,1683379515
 // Explosive Personality (pve)
 //notes: tags:pve
 dimwishlist:item=4096943616&perks=981914802,3108830275
+
+
+// A Sudden Death - [Aztecross S23 Prophecy Guide] (god-pvp)
+//notes: [Aztecross S23 Prophecy Guide] Crossing Over increases damage on low ammo (Crucible). tags:god-pvp
+dimwishlist:item=4097972038&perks=1332244541,3142289711,3161816588,47981717,4129855581
+
+
+// A Sudden Death - [Aegis S23 Mid-Season Patch] (pve)
+//notes: [Aegis S23 Mid-Season Patch] Competes with Comedian, has Trench but no Vorpal. Crossing Over looks interesting. tags:pve
+dimwishlist:item=4097972038&perks=4071163871,3751912585
+dimwishlist:item=4097972038&perks=4071163871,2679249093
+dimwishlist:item=4097972038&perks=4071163871,2360754333
+dimwishlist:item=4097972038&perks=3978468247,3751912585
+dimwishlist:item=4097972038&perks=3978468247,2679249093
+dimwishlist:item=4097972038&perks=3978468247,2360754333
+dimwishlist:item=4097972038&perks=968510818,3751912585
+dimwishlist:item=4097972038&perks=968510818,2679249093
+dimwishlist:item=4097972038&perks=968510818,2360754333
+
+
+// A Sudden Death - [Aztecross S23 Prophecy Guide] (pve)
+//notes: [Aztecross S23 Prophecy Guide] tags:pve
+dimwishlist:item=4097972038&perks=968510818,2048641572
+dimwishlist:item=4097972038&perks=968510818,3751912585
+dimwishlist:item=4097972038&perks=968510818,2360754333
+dimwishlist:item=4097972038&perks=3978468247,2048641572
+dimwishlist:item=4097972038&perks=3978468247,3751912585
+dimwishlist:item=4097972038&perks=3978468247,2360754333
+dimwishlist:item=4097972038&perks=776531651,2048641572
+dimwishlist:item=4097972038&perks=776531651,3751912585
+dimwishlist:item=4097972038&perks=776531651,2360754333
+
+
+// A Sudden Death - [Fallout S23 Mid Season Patch] (pvp)
+//notes: [Fallout S23 Mid Season Patch] Elemental if you play Arc/Strand. Crossing Over helps with damage dropoff. tags:pvp
+dimwishlist:item=4097972038&perks=4071163871,47981717,4129855581
+dimwishlist:item=4097972038&perks=3511092054,47981717,4129855581
+dimwishlist:item=4097972038&perks=3161816588,47981717,4129855581
 
 
 // Pizzicato-22 (god-pvp)

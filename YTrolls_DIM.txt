@@ -2080,6 +2080,38 @@ dimwishlist:item=1013434963&perks=2779035018,95528736
 dimwishlist:item=1013434963&perks=1820235745,3425386926
 
 
+// Adjudicator - [CoolGuy S23 Prophecy Refresh Review] (pve)
+//notes: [CoolGuy S23 Prophecy Refresh Review] PvE: 4/5; PvP: 2.5/5. Good base stats but weak on Handling and Reload Speed. Doesn't need Recoil help, 93-100 is good. Onslaught falls over in mid-/high-level content. Overall there are better SMGs and better weapon types depending on what content you do. tags:pve
+dimwishlist:item=1013434963&perks=2779035018,95528736
+dimwishlist:item=1013434963&perks=2779035018,3891536761
+dimwishlist:item=1013434963&perks=2779035018,365154968
+dimwishlist:item=1013434963&perks=4071163871,95528736
+dimwishlist:item=1013434963&perks=4071163871,3891536761
+dimwishlist:item=1013434963&perks=4071163871,365154968
+dimwishlist:item=1013434963&perks=1820235745,95528736
+dimwishlist:item=1013434963&perks=1820235745,3891536761
+dimwishlist:item=1013434963&perks=1820235745,365154968
+
+
+// Adjudicator - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] A bit behind in the stats department compared to Unending Tempest and Shayura's Wrath. Onslaught better for Autos, Target Lock nerfed. tags:pve
+dimwishlist:item=1013434963&perks=1820235745,3891536761
+dimwishlist:item=1013434963&perks=2779035018,3891536761
+dimwishlist:item=1013434963&perks=4071163871,3891536761
+
+
+// Adjudicator - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] A bit behind in the stats department compared to Unending Tempest and Shayura's Wrath. tags:pvp
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,95528736,4129855581
+dimwishlist:item=1013434963&perks=3250034553,3142289711,4071163871,95528736,4129855581
+
+
+// Adjudicator - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] A bit behind in the stats department compared to Unending Tempest and Shayura's Wrath. High Range roll, go for some Handling. tags:pvp
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1359896290,2451262963,4129855581
+dimwishlist:item=1013434963&perks=1482024992,3142289711,4071163871,2451262963,4129855581
+
+
 // One Small Step - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier A Rank 10/43 tags:god-pve
 dimwishlist:item=1016668089&perks=3300816228,2679249093
@@ -2385,6 +2417,19 @@ dimwishlist:item=1216319404&perks=3038247973,3824105627
 dimwishlist:item=1216319404&perks=3038247973,4104185692
 
 
+// Tusk of the Boar - [Llama S23 Testing] (god-pve)
+//notes: [Llama S23 Testing] Chain Reaction still best perk, Slice is good and maybe even great on RDM Hunters with Marksmen Dodge. https://youtu.be/CXtKKUKEYsM tags:god-pve
+dimwishlist:item=1218113510&perks=923806249,2396489472,2120661319
+
+
+// Tusk of the Boar - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Great this season with Artefact mod, but Forbearance is still great generally. https://youtu.be/khgxHA5LcOo tags:god-pve
+dimwishlist:item=1218113510&perks=2039302152,2396489472,2120661319
+dimwishlist:item=1218113510&perks=2039302152,831391274,2120661319
+dimwishlist:item=1218113510&perks=923806249,2396489472,2120661319
+dimwishlist:item=1218113510&perks=923806249,831391274,2120661319
+
+
 // Tusk of the Boar - [Aegis S23 Mid-Season Patch] (pve)
 //notes: [Aegis S23 Mid-Season Patch] Chain Reaction on a Waveframe always good, Deconstruct sounds interesting, 3 enemy hits within 6 seconds gives free ammo AND reload. Looks decent. tags:pve
 dimwishlist:item=1218113510&perks=3828510309,2396489472
@@ -2399,6 +2444,16 @@ dimwishlist:item=1218113510&perks=2039302152,3993379141
 //notes: [Fallout S23 Mid Season Patch] tags:pve
 dimwishlist:item=1218113510&perks=2039302152,2396489472
 dimwishlist:item=1218113510&perks=968510818,2396489472
+
+
+// Tusk of the Boar - [Llama S23 Testing] (pve)
+//notes: [Llama S23 Testing] Deconstruct may be bugged, should be refunding ammo without cooldown. Threadling may be good for specific builds without relying on Artefact mods. Enlightened Action and Pulse Monitor are situational and the Field-tested origin perk may be better. Slideways is not Slideshot but can work if you swap weapons before sliding. https://youtu.be/CXtKKUKEYsM tags:pve
+dimwishlist:item=1218113510&perks=2039302152,3993379141,2120661319
+dimwishlist:item=1218113510&perks=2039302152,831391274,2120661319
+dimwishlist:item=1218113510&perks=972757866,3993379141,2120661319
+dimwishlist:item=1218113510&perks=972757866,831391274,2120661319
+dimwishlist:item=1218113510&perks=3828510309,3993379141,2120661319
+dimwishlist:item=1218113510&perks=3828510309,831391274,2120661319
 
 
 // Swordbreaker (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
@@ -2536,6 +2591,17 @@ dimwishlist:item=1289796511&perks=1556840489,1906147653,164468655
 dimwishlist:item=1289796511&perks=1556840489,3523296417,164468655
 
 
+// The Summoner (Adept) - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] tags:god-pve
+dimwishlist:item=1292594730&perks=3017780555,4293542123
+
+
+// The Summoner (Adept) - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] tags:god-pve
+dimwishlist:item=1292594730&perks=1820235745,95528736
+dimwishlist:item=1292594730&perks=3643424744,95528736
+
+
 // The Summoner (Adept) - [Aegis S23 Mid-Season Patch] (pve)
 //notes: [Aegis S23 Mid-Season Patch] Better than previous Summoners. Subsistence is great on Autos and SMGs, gets Enhanced levels of Subsistence while not Enhanced. Good for add clear. tags:pve
 dimwishlist:item=1292594730&perks=3017780555,4293542123,1050127423
@@ -2580,6 +2646,41 @@ dimwishlist:item=1292594730&perks=1428297954,95528736
 // The Summoner (Adept) - [Fallout S23 Mid Season Patch] (pvp)
 //notes: [Fallout S23 Mid Season Patch] Solely for Athrys's Embrace. tags:pvp
 dimwishlist:item=1292594730&perks=2387244414,2610012052
+
+
+// The Summoner (Adept) - [CoolGuy S23 Mid Season Review] (pvp,pve)
+//notes: [CoolGuy S23 Mid Season Review] Recoil doesn't matter too much, it's a laser after first 7-9 shots, even with 34 Stability. Aim for high Range, helps with accuracy and getting crits. Target Lock doesn't help much due to mag details. tags:pvp,pve
+dimwishlist:item=1292594730&perks=3017780555,1015611457,1050127423
+dimwishlist:item=1292594730&perks=3017780555,95528736,1050127423
+dimwishlist:item=1292594730&perks=3017780555,4293542123,1050127423
+dimwishlist:item=1292594730&perks=3017780555,2610012052,1050127423
+dimwishlist:item=1292594730&perks=3017780555,1890422124,1050127423
+dimwishlist:item=1292594730&perks=2387244414,1015611457,1050127423
+dimwishlist:item=1292594730&perks=2387244414,95528736,1050127423
+dimwishlist:item=1292594730&perks=2387244414,4293542123,1050127423
+dimwishlist:item=1292594730&perks=2387244414,2610012052,1050127423
+dimwishlist:item=1292594730&perks=2387244414,1890422124,1050127423
+dimwishlist:item=1292594730&perks=1820235745,1015611457,1050127423
+dimwishlist:item=1292594730&perks=1820235745,95528736,1050127423
+dimwishlist:item=1292594730&perks=1820235745,4293542123,1050127423
+dimwishlist:item=1292594730&perks=1820235745,2610012052,1050127423
+dimwishlist:item=1292594730&perks=1820235745,1890422124,1050127423
+dimwishlist:item=1292594730&perks=1359896290,1015611457,1050127423
+dimwishlist:item=1292594730&perks=1359896290,95528736,1050127423
+dimwishlist:item=1292594730&perks=1359896290,4293542123,1050127423
+dimwishlist:item=1292594730&perks=1359896290,2610012052,1050127423
+dimwishlist:item=1292594730&perks=1359896290,1890422124,1050127423
+dimwishlist:item=1292594730&perks=1428297954,1015611457,1050127423
+dimwishlist:item=1292594730&perks=1428297954,95528736,1050127423
+dimwishlist:item=1292594730&perks=1428297954,4293542123,1050127423
+dimwishlist:item=1292594730&perks=1428297954,2610012052,1050127423
+dimwishlist:item=1292594730&perks=1428297954,1890422124,1050127423
+
+
+// The Summoner (Adept) - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Use with Radiant build. Onslaught better for 6v6 (easier to proc). Go for Range perks. tags:pvp
+dimwishlist:item=1292594730&perks=2387244414,95528736
+dimwishlist:item=1292594730&perks=2387244414,365154968
 
 
 // Deadpan Delivery - [Aegis S23 Endgame Analysis] (god-pve)
@@ -2719,6 +2820,32 @@ dimwishlist:item=1331824604&perks=684456054,2173046394
 dimwishlist:item=1331824604&perks=2387244414,3673922083
 dimwishlist:item=1331824604&perks=2946784966,3673922083
 dimwishlist:item=1331824604&perks=2866798147,3673922083
+
+
+// Combined Action - [CoolGuy S22 Review] (pvp)
+//notes: [CoolGuy S22 Review] tags:pvp
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2866798147,3673922083
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2946784966,3673922083
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2272927194,3673922083
+
+
+// Combined Action - [CoolGuy S22 Review] (pve)
+//notes: [CoolGuy S22 Review] tags:pve
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2946784966,1954620775,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2946784966,3673922083,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2946784966,2173046394,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2866798147,1954620775,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2866798147,3673922083,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2866798147,2173046394,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2272927194,1954620775,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2272927194,3673922083,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2272927194,2173046394,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2387244414,1954620775,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2387244414,3673922083,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,2387244414,2173046394,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,684456054,1954620775,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,684456054,3673922083,2120661319
+dimwishlist:item=1331824604&perks=1482024992,3142289711,684456054,2173046394,2120661319
 
 
 // Wild Style - [Aegis S23 Mid-Season Patch] (pve)
@@ -3613,6 +3740,17 @@ dimwishlist:item=1780464822&perks=1428297954,1048183818
 dimwishlist:item=1796949035&perks=1749209109,4104185692,3989629871
 
 
+// The Summoner - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] tags:god-pve
+dimwishlist:item=1820994983&perks=3017780555,4293542123
+
+
+// The Summoner - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] tags:god-pve
+dimwishlist:item=1820994983&perks=1820235745,95528736
+dimwishlist:item=1820994983&perks=3643424744,95528736
+
+
 // The Summoner - [Aegis S23 Mid-Season Patch] (pve)
 //notes: [Aegis S23 Mid-Season Patch] Better than previous Summoners. Subsistence is great on Autos and SMGs, gets Enhanced levels of Subsistence while not Enhanced. Good for add clear. tags:pve
 dimwishlist:item=1820994983&perks=3017780555,4293542123,1050127423
@@ -3657,6 +3795,41 @@ dimwishlist:item=1820994983&perks=1428297954,95528736
 // The Summoner - [Fallout S23 Mid Season Patch] (pvp)
 //notes: [Fallout S23 Mid Season Patch] Solely for Athrys's Embrace. tags:pvp
 dimwishlist:item=1820994983&perks=2387244414,2610012052
+
+
+// The Summoner - [CoolGuy S23 Mid Season Review] (pvp,pve)
+//notes: [CoolGuy S23 Mid Season Review] Recoil doesn't matter too much, it's a laser after first 7-9 shots, even with 34 Stability. Aim for high Range, helps with accuracy and getting crits. Target Lock doesn't help much due to mag details. tags:pvp,pve
+dimwishlist:item=1820994983&perks=3017780555,1015611457,1050127423
+dimwishlist:item=1820994983&perks=3017780555,95528736,1050127423
+dimwishlist:item=1820994983&perks=3017780555,4293542123,1050127423
+dimwishlist:item=1820994983&perks=3017780555,2610012052,1050127423
+dimwishlist:item=1820994983&perks=3017780555,1890422124,1050127423
+dimwishlist:item=1820994983&perks=2387244414,1015611457,1050127423
+dimwishlist:item=1820994983&perks=2387244414,95528736,1050127423
+dimwishlist:item=1820994983&perks=2387244414,4293542123,1050127423
+dimwishlist:item=1820994983&perks=2387244414,2610012052,1050127423
+dimwishlist:item=1820994983&perks=2387244414,1890422124,1050127423
+dimwishlist:item=1820994983&perks=1820235745,1015611457,1050127423
+dimwishlist:item=1820994983&perks=1820235745,95528736,1050127423
+dimwishlist:item=1820994983&perks=1820235745,4293542123,1050127423
+dimwishlist:item=1820994983&perks=1820235745,2610012052,1050127423
+dimwishlist:item=1820994983&perks=1820235745,1890422124,1050127423
+dimwishlist:item=1820994983&perks=1359896290,1015611457,1050127423
+dimwishlist:item=1820994983&perks=1359896290,95528736,1050127423
+dimwishlist:item=1820994983&perks=1359896290,4293542123,1050127423
+dimwishlist:item=1820994983&perks=1359896290,2610012052,1050127423
+dimwishlist:item=1820994983&perks=1359896290,1890422124,1050127423
+dimwishlist:item=1820994983&perks=1428297954,1015611457,1050127423
+dimwishlist:item=1820994983&perks=1428297954,95528736,1050127423
+dimwishlist:item=1820994983&perks=1428297954,4293542123,1050127423
+dimwishlist:item=1820994983&perks=1428297954,2610012052,1050127423
+dimwishlist:item=1820994983&perks=1428297954,1890422124,1050127423
+
+
+// The Summoner - [Aztecross S23 Review] (pvp)
+//notes: [Aztecross S23 Review] Use with Radiant build. Onslaught better for 6v6 (easier to proc). Go for Range perks. tags:pvp
+dimwishlist:item=1820994983&perks=2387244414,95528736
+dimwishlist:item=1820994983&perks=2387244414,365154968
 
 
 // Warden's Law - [Aegis S23 Endgame Analysis] (pve)
@@ -4169,6 +4342,19 @@ dimwishlist:item=1967303408&perks=3300816228,3425386926,3989629871
 dimwishlist:item=1967303408&perks=2869569095,3425386926,3989629871
 
 
+// The Prophet - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Stat monster, better than all other 120rpm Scouts in just about everything. tags:god-pve
+dimwishlist:item=1968410628&perks=3523296417,124408337
+
+
+// The Prophet - [Aztecross S23 Review] (god-pvp)
+//notes: [Aztecross S23 Review] Stat monster, better than all other 120rpm Scouts in just about everything. Not a hip-fire machine like DMT despite origin trait buff. Precision Instrument needs x4 to move the needle, probably not worth it. tags:god-pvp
+dimwishlist:item=1968410628&perks=1482024992,3142289711,3619207468,1015611457,2437618208
+dimwishlist:item=1968410628&perks=1482024992,3177308360,3619207468,1015611457,2437618208
+dimwishlist:item=1968410628&perks=1840239774,3142289711,3619207468,1015611457,2437618208
+dimwishlist:item=1968410628&perks=1840239774,3177308360,3619207468,1015611457,2437618208
+
+
 // The Prophet - [Aegis S23 Mid-Season Patch] (pve)
 //notes: [Aegis S23 Mid-Season Patch] Agg Scouts not really good for PvE, but here are some perks for it. tags:pve
 dimwishlist:item=1968410628&perks=3828510309,3038247973
@@ -4195,6 +4381,45 @@ dimwishlist:item=1968410628&perks=247725512,555281244
 dimwishlist:item=1968410628&perks=3978468247,1015611457
 dimwishlist:item=1968410628&perks=3978468247,3751912585
 dimwishlist:item=1968410628&perks=3978468247,555281244
+
+
+// The Prophet - [CoolGuy S23 Mid Season Review] (pve,pvp)
+//notes: [CoolGuy S23 Mid Season Review] Don't try to use as discount DMT, it can hip-fire to open with but it's its own thing. Shatterdive into grenade crystal easily procs Golden Tricorn. tags:pve,pvp
+dimwishlist:item=1968410628&perks=3828510309,3038247973,2437618208
+dimwishlist:item=1968410628&perks=3828510309,1015611457,2437618208
+dimwishlist:item=1968410628&perks=3828510309,555281244,2437618208
+dimwishlist:item=1968410628&perks=3828510309,124408337,2437618208
+dimwishlist:item=1968410628&perks=3828510309,2610012052,2437618208
+dimwishlist:item=1968410628&perks=3828510309,3751912585,2437618208
+dimwishlist:item=1968410628&perks=3523296417,3038247973,2437618208
+dimwishlist:item=1968410628&perks=3523296417,1015611457,2437618208
+dimwishlist:item=1968410628&perks=3523296417,555281244,2437618208
+dimwishlist:item=1968410628&perks=3523296417,124408337,2437618208
+dimwishlist:item=1968410628&perks=3523296417,2610012052,2437618208
+dimwishlist:item=1968410628&perks=3523296417,3751912585,2437618208
+dimwishlist:item=1968410628&perks=3978468247,3038247973,2437618208
+dimwishlist:item=1968410628&perks=3978468247,1015611457,2437618208
+dimwishlist:item=1968410628&perks=3978468247,555281244,2437618208
+dimwishlist:item=1968410628&perks=3978468247,124408337,2437618208
+dimwishlist:item=1968410628&perks=3978468247,2610012052,2437618208
+dimwishlist:item=1968410628&perks=3978468247,3751912585,2437618208
+dimwishlist:item=1968410628&perks=1866048759,3038247973,2437618208
+dimwishlist:item=1968410628&perks=1866048759,1015611457,2437618208
+dimwishlist:item=1968410628&perks=1866048759,555281244,2437618208
+dimwishlist:item=1968410628&perks=1866048759,124408337,2437618208
+dimwishlist:item=1968410628&perks=1866048759,2610012052,2437618208
+dimwishlist:item=1968410628&perks=1866048759,3751912585,2437618208
+dimwishlist:item=1968410628&perks=3619207468,3038247973,2437618208
+dimwishlist:item=1968410628&perks=3619207468,1015611457,2437618208
+dimwishlist:item=1968410628&perks=3619207468,555281244,2437618208
+dimwishlist:item=1968410628&perks=3619207468,124408337,2437618208
+dimwishlist:item=1968410628&perks=3619207468,2610012052,2437618208
+dimwishlist:item=1968410628&perks=3619207468,3751912585,2437618208
+
+
+// The Prophet - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Stat monster, better than all other 120rpm Scouts in just about everything. tags:pve
+dimwishlist:item=1968410628&perks=3978468247,3751912585
 
 
 // Nightshade - [CoolGuy's S22 Review] (pvp)
@@ -7025,6 +7250,19 @@ dimwishlist:item=3007479950&perks=3619207468,555281244
 dimwishlist:item=3007479950&perks=3828510309,555281244
 
 
+// The Prophet (Adept) - [Aztecross S23 Review] (god-pve)
+//notes: [Aztecross S23 Review] Stat monster, better than all other 120rpm Scouts in just about everything. tags:god-pve
+dimwishlist:item=3019024381&perks=3523296417,124408337
+
+
+// The Prophet (Adept) - [Aztecross S23 Review] (god-pvp)
+//notes: [Aztecross S23 Review] Stat monster, better than all other 120rpm Scouts in just about everything. Not a hip-fire machine like DMT despite origin trait buff. Precision Instrument needs x4 to move the needle, probably not worth it. tags:god-pvp
+dimwishlist:item=3019024381&perks=1482024992,3142289711,3619207468,1015611457,2437618208
+dimwishlist:item=3019024381&perks=1482024992,3177308360,3619207468,1015611457,2437618208
+dimwishlist:item=3019024381&perks=1840239774,3142289711,3619207468,1015611457,2437618208
+dimwishlist:item=3019024381&perks=1840239774,3177308360,3619207468,1015611457,2437618208
+
+
 // The Prophet (Adept) - [Aegis S23 Mid-Season Patch] (pve)
 //notes: [Aegis S23 Mid-Season Patch] Agg Scouts not really good for PvE, but here are some perks for it. tags:pve
 dimwishlist:item=3019024381&perks=3828510309,3038247973
@@ -7051,6 +7289,45 @@ dimwishlist:item=3019024381&perks=247725512,555281244
 dimwishlist:item=3019024381&perks=3978468247,1015611457
 dimwishlist:item=3019024381&perks=3978468247,3751912585
 dimwishlist:item=3019024381&perks=3978468247,555281244
+
+
+// The Prophet (Adept) - [CoolGuy S23 Mid Season Review] (pve,pvp)
+//notes: [CoolGuy S23 Mid Season Review] Don't try to use as discount DMT, it can hip-fire to open with but it's its own thing. Shatterdive into grenade crystal easily procs Golden Tricorn. tags:pve,pvp
+dimwishlist:item=3019024381&perks=3828510309,3038247973,2437618208
+dimwishlist:item=3019024381&perks=3828510309,1015611457,2437618208
+dimwishlist:item=3019024381&perks=3828510309,555281244,2437618208
+dimwishlist:item=3019024381&perks=3828510309,124408337,2437618208
+dimwishlist:item=3019024381&perks=3828510309,2610012052,2437618208
+dimwishlist:item=3019024381&perks=3828510309,3751912585,2437618208
+dimwishlist:item=3019024381&perks=3523296417,3038247973,2437618208
+dimwishlist:item=3019024381&perks=3523296417,1015611457,2437618208
+dimwishlist:item=3019024381&perks=3523296417,555281244,2437618208
+dimwishlist:item=3019024381&perks=3523296417,124408337,2437618208
+dimwishlist:item=3019024381&perks=3523296417,2610012052,2437618208
+dimwishlist:item=3019024381&perks=3523296417,3751912585,2437618208
+dimwishlist:item=3019024381&perks=3978468247,3038247973,2437618208
+dimwishlist:item=3019024381&perks=3978468247,1015611457,2437618208
+dimwishlist:item=3019024381&perks=3978468247,555281244,2437618208
+dimwishlist:item=3019024381&perks=3978468247,124408337,2437618208
+dimwishlist:item=3019024381&perks=3978468247,2610012052,2437618208
+dimwishlist:item=3019024381&perks=3978468247,3751912585,2437618208
+dimwishlist:item=3019024381&perks=1866048759,3038247973,2437618208
+dimwishlist:item=3019024381&perks=1866048759,1015611457,2437618208
+dimwishlist:item=3019024381&perks=1866048759,555281244,2437618208
+dimwishlist:item=3019024381&perks=1866048759,124408337,2437618208
+dimwishlist:item=3019024381&perks=1866048759,2610012052,2437618208
+dimwishlist:item=3019024381&perks=1866048759,3751912585,2437618208
+dimwishlist:item=3019024381&perks=3619207468,3038247973,2437618208
+dimwishlist:item=3019024381&perks=3619207468,1015611457,2437618208
+dimwishlist:item=3019024381&perks=3619207468,555281244,2437618208
+dimwishlist:item=3019024381&perks=3619207468,124408337,2437618208
+dimwishlist:item=3019024381&perks=3619207468,2610012052,2437618208
+dimwishlist:item=3019024381&perks=3619207468,3751912585,2437618208
+
+
+// The Prophet (Adept) - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Stat monster, better than all other 120rpm Scouts in just about everything. tags:pve
+dimwishlist:item=3019024381&perks=3978468247,3751912585
 
 
 // Iota Draconis - [Aegis S23 Endgame Analysis] (pve)
@@ -7361,6 +7638,14 @@ dimwishlist:item=3211624072&perks=2846385770,591790007
 dimwishlist:item=3211624072&perks=588594999,1890422124
 dimwishlist:item=3211624072&perks=588594999,1015611457
 dimwishlist:item=3211624072&perks=588594999,591790007
+
+
+// Multimach CCX - [CoolGuy S23 Review] (pvp)
+//notes: [CoolGuy S23 Review] 15 Zoom helps Accuracy and Assists, rare for SMGs. Aim for some Stability. Range only boosts from 19m to 24m, not quite worth it. https://youtu.be/TZGjg1VVHJE tags:pvp
+dimwishlist:item=3211624072&perks=1870851715,1015611457,2120661319
+dimwishlist:item=3211624072&perks=1870851715,3891536761,2120661319
+dimwishlist:item=3211624072&perks=1359896290,1015611457,2120661319
+dimwishlist:item=3211624072&perks=1359896290,3891536761,2120661319
 
 
 // Reckless Endangerment - [Aegis S23 Endgame Analysis] (pve)
@@ -7787,6 +8072,46 @@ dimwishlist:item=3483591058&perks=2848615171,2173046394
 //notes: [Fallout S23 Mid Season Patch] Target Lock and Crossing Over MAY reduce TTK. tags:pvp
 dimwishlist:item=3483591058&perks=2387244414,365154968,4129855581
 dimwishlist:item=3483591058&perks=2387244414,1890422124,4129855581
+
+
+// Prosecutor - [CoolGuy S23 Prophecy Refresh Review] (pvp)
+//notes: [CoolGuy S23 Prophecy Refresh Review] PvE: 5/5, PvP: 4.5/5. Recoil: 94 > 99 > 100 > 69. tags:pvp
+dimwishlist:item=3483591058&perks=3619207468,365154968
+dimwishlist:item=3483591058&perks=2387244414,365154968
+
+
+// Prosecutor - [CoolGuy S23 Prophecy Refresh Review] (pvp)
+//notes: [CoolGuy S23 Prophecy Refresh Review] PvE: 5/5, PvP: 4.5/5. Recoil: 94 > 99 > 100 > 69. tags:pvp
+dimwishlist:item=3483591058&perks=1365187766,365154968
+
+
+// Prosecutor - [CoolGuy S23 Prophecy Refresh Review] (pve)
+//notes: [CoolGuy S23 Prophecy Refresh Review] PvE: 5/5, PvP: 4.5/5. Recoil: 94 > 99 > 100 > 69. tags:pve
+dimwishlist:item=3483591058&perks=3418782618,4104185692
+dimwishlist:item=3483591058&perks=2848615171,4104185692
+
+
+// Prosecutor - [CoolGuy S23 Prophecy Refresh Review] (pve)
+//notes: [CoolGuy S23 Prophecy Refresh Review] PvE: 5/5, PvP: 4.5/5. Recoil: 94 > 99 > 100 > 69. tags:pve
+dimwishlist:item=3483591058&perks=2848615171,2173046394
+dimwishlist:item=3483591058&perks=3619207468,2173046394
+
+
+// Prosecutor - [CoolGuy S23 Prophecy Refresh Review] (pvp)
+//notes: [CoolGuy S23 Prophecy Refresh Review] PvE: 5/5, PvP: 4.5/5. Recoil: 94 > 99 > 100 > 69. tags:pvp
+dimwishlist:item=3483591058&perks=3619207468,4104185692
+
+
+// Prosecutor - [CoolGuy S23 Prophecy Refresh Review] (pve)
+//notes: [CoolGuy S23 Prophecy Refresh Review] PvE: 5/5, PvP: 4.5/5. Recoil: 94 > 99 > 100 > 69. tags:pve
+dimwishlist:item=3483591058&perks=3418782618,2610012052
+
+
+// Prosecutor - [Aztecross S23 Review] (pve)
+//notes: [Aztecross S23 Review] Rewind Rounds doesn't get in the way of reloading for Voltshot, allows for multiple Voltshot procs. tags:pve
+dimwishlist:item=3483591058&perks=3418782618,365154968
+dimwishlist:item=3483591058&perks=3418782618,3751912585
+dimwishlist:item=3483591058&perks=3418782618,2173046394
 
 
 // Palmyra-B - [Aegis S23 Endgame Analysis] (pve)

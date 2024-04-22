@@ -411,6 +411,41 @@ dimwishlist:item=205225492&perks=2866798147,2551157718
 dimwishlist:item=205225492&perks=247725512,2551157718
 
 
+// Hung Jury SR4 - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Desperate Measures can proc directly with melee/grenade kill (even in background), then kept up with regular weapon kills; Kinetic Tremors also helps keep it up and benefits from increased damage multiplier. Get more Range/Reload Speed/Handling/Stability. tags:pve
+dimwishlist:item=205225492&perks=3891536761,4049631843
+dimwishlist:item=205225492&perks=3891536761,3038247973
+dimwishlist:item=205225492&perks=3891536761,555281244
+dimwishlist:item=205225492&perks=3891536761,2109543898
+
+
+// Hung Jury SR4 - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Less flinch for you, more flinch for them. Get more Handling/Stability. tags:pvp
+dimwishlist:item=205225492&perks=2866798147,3038247973
+
+
+// Hung Jury SR4 - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Get more Handling/Stability. tags:pvp
+dimwishlist:item=205225492&perks=2866798147,2551157718
+dimwishlist:item=205225492&perks=3828510309,2551157718
+dimwishlist:item=205225492&perks=247725512,2551157718
+
+
+// Hung Jury SR4 - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Great for lane control and overwatch roles, boring otherwise. tags:pvp
+dimwishlist:item=205225492&perks=2866798147,2551157718
+
+
+// Hammerhead - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/23 tags:god-pve
+dimwishlist:item=211732170&perks=3418782618,557221067,2489430594
+dimwishlist:item=211732170&perks=3418782618,95528736,2489430594
+dimwishlist:item=211732170&perks=1354429876,557221067,2489430594
+dimwishlist:item=211732170&perks=1354429876,95528736,2489430594
+dimwishlist:item=211732170&perks=3425386926,557221067,2489430594
+dimwishlist:item=211732170&perks=3425386926,95528736,2489430594
+
+
 // Buzzard - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Mykel's Reverence; Role: Add clear tags:pve
 dimwishlist:item=213264394&perks=3643424744,3891536761
@@ -466,6 +501,16 @@ dimwishlist:item=233896077&perks=1556840489,3751912585,1380061575
 //notes: [demonjoe S23 Must Have Dungeon Weapons] tags:pve
 dimwishlist:item=235827225&perks=3108830275,124408337
 dimwishlist:item=235827225&perks=1168162263,124408337
+
+
+// Falling Guillotine - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/29 tags:god-pve
+dimwishlist:item=243425374&perks=2396489472,2077819806,2489430594
+dimwishlist:item=243425374&perks=2396489472,3913600130,2489430594
+dimwishlist:item=243425374&perks=2396489472,3708227201,2489430594
+dimwishlist:item=243425374&perks=4104185692,2077819806,2489430594
+dimwishlist:item=243425374&perks=4104185692,3913600130,2489430594
+dimwishlist:item=243425374&perks=4104185692,3708227201,2489430594
 
 
 // Falling Guillotine - [Aztecross S23 ITL God Rolls] (pvp)
@@ -1059,6 +1104,16 @@ dimwishlist:item=435821040&perks=3993379141,1015611457
 dimwishlist:item=435821040&perks=3993379141,4293542123
 
 
+// Darkest Before - [True Vanguard S23 Prophecy Refresh Review] (pvp)
+//notes: [True Vanguard S23 Prophecy Refresh Review] Rapid Fire Pulses suck right now, out-ranged by HCs and out-damaged by Shotguns. tags:pvp
+dimwishlist:item=435821040&perks=3592538738,1015611457,4129855581
+dimwishlist:item=435821040&perks=3592538738,3436462433,4129855581
+dimwishlist:item=435821040&perks=3592538738,4293542123,4129855581
+dimwishlist:item=435821040&perks=3017780555,1015611457,4129855581
+dimwishlist:item=435821040&perks=3017780555,3436462433,4129855581
+dimwishlist:item=435821040&perks=3017780555,4293542123,4129855581
+
+
 // Relentless - [Aztecross S23 Prophecy Guide] (god-pvp)
 //notes: [Aztecross S23 Prophecy Guide] ([Aztecross Random Drop Tryout] Best High Impact Pulse in the game, better than NTTE, Messenger, Phyllotactic, doesn't even feel like a High Impact.) tags:god-pvp
 dimwishlist:item=435821041&perks=839105230,1885400500,3619207468,460017080,4129855581
@@ -1095,6 +1150,19 @@ dimwishlist:item=435821041&perks=247725512,2387244414
 dimwishlist:item=435821041&perks=2039302152,460017080
 dimwishlist:item=435821041&perks=2039302152,588594999
 dimwishlist:item=435821041&perks=2039302152,2387244414
+
+
+// Relentless - [CoolGuy S23 Review] (pvp)
+//notes: [CoolGuy S23 Review] Not a replacement for Messenger but still good. Needs a bit more extra Range (80+). tags:pvp
+dimwishlist:item=435821041&perks=247725512,2387244414
+dimwishlist:item=435821041&perks=957782887,2387244414
+dimwishlist:item=435821041&perks=3619207468,2387244414
+
+
+// Relentless - [CoolGuy S23 Review] (pvp)
+//notes: [CoolGuy S23 Review] Not a replacement for Messenger but still good. Needs a bit more extra Range (80+). tags:pvp
+dimwishlist:item=435821041&perks=923806249,831391274
+dimwishlist:item=435821041&perks=923806249,460017080
 
 
 // Corrective Measure - [Aegis S23 Endgame Analysis] (god-pve)
@@ -1314,6 +1382,57 @@ dimwishlist:item=566740455&perks=2779035018,2848615171,744217850
 dimwishlist:item=566740455&perks=2779035018,2610012052,744217850
 
 
+// Forbearance - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 1/20 tags:god-pve
+dimwishlist:item=568611921&perks=2010801679,2396489472,2489430594
+dimwishlist:item=568611921&perks=2010801679,2109543898,2489430594
+dimwishlist:item=568611921&perks=2010801679,3592538738,2489430594
+dimwishlist:item=568611921&perks=3523296417,2396489472,2489430594
+dimwishlist:item=568611921&perks=3523296417,2109543898,2489430594
+dimwishlist:item=568611921&perks=3523296417,3592538738,2489430594
+dimwishlist:item=568611921&perks=3108830275,2396489472,2489430594
+dimwishlist:item=568611921&perks=3108830275,2109543898,2489430594
+dimwishlist:item=568611921&perks=3108830275,3592538738,2489430594
+
+
+// The Mountaintop - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 5/20 tags:god-pve
+dimwishlist:item=568611922&perks=3300816228,4104185692,2489430594
+dimwishlist:item=568611922&perks=3300816228,469285294,2489430594
+dimwishlist:item=568611922&perks=3523296417,4104185692,2489430594
+dimwishlist:item=568611922&perks=3523296417,469285294,2489430594
+dimwishlist:item=568611922&perks=1556840489,4104185692,2489430594
+dimwishlist:item=568611922&perks=1556840489,469285294,2489430594
+
+
+// The Mountaintop - [Aztecross S23 ITL God Rolls] (god-pve)
+//notes: [Aztecross S23 ITL God Rolls] Slay out with other weapons and abilities, swap to this to do big damage, and with Auto-loading Holster it'll always be ready to go. tags:god-pve
+dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294,2489430594
+dimwishlist:item=568611922&perks=981914802,3301904089,2010801679,469285294,2489430594
+dimwishlist:item=568611922&perks=981914802,3301904089,3643424744,469285294,2489430594
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294,2489430594
+dimwishlist:item=568611922&perks=981914802,3492396210,2010801679,469285294,2489430594
+dimwishlist:item=568611922&perks=981914802,3492396210,3643424744,469285294,2489430594
+
+
+// The Mountaintop - [Aztecross S23 ITL God Rolls] (pvp)
+//notes: [Aztecross S23 ITL God Rolls] Severely nerfed and can't one-hit kill at all any more. Sticky Grenades also nerfed. tags:pvp
+dimwishlist:item=568611922&perks=3300816228,438098033
+
+
+// Edge Transit - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 1/21 tags:god-pve
+dimwishlist:item=568611923&perks=968510818,3078487919,2489430594
+dimwishlist:item=568611923&perks=968510818,3194351027,2489430594
+dimwishlist:item=568611923&perks=968510818,3993379141,2489430594
+dimwishlist:item=568611923&perks=3751912585,3078487919,2489430594
+dimwishlist:item=568611923&perks=3751912585,3194351027,2489430594
+dimwishlist:item=568611923&perks=3751912585,3993379141,2489430594
+dimwishlist:item=568611923&perks=2396489472,3078487919,2489430594
+dimwishlist:item=568611923&perks=2396489472,3194351027,2489430594
+dimwishlist:item=568611923&perks=2396489472,3993379141,2489430594
+
+
 // Edge Transit - [Aztecross S23 ITL God Rolls] (pve)
 //notes: [Aztecross S23 ITL God Rolls] tags:pve
 dimwishlist:item=568611923&perks=3751912585,3194351027
@@ -1335,6 +1454,19 @@ dimwishlist:item=568611923&perks=3798852852,409831596,951095735,2888557110
 dimwishlist:item=568611923&perks=2396489472,3993379141
 
 
+// Succession - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/41 tags:god-pve
+dimwishlist:item=570866107&perks=1523832109,469285294,2489430594
+dimwishlist:item=570866107&perks=1523832109,1546637391,2489430594
+dimwishlist:item=570866107&perks=1523832109,3201496230,2489430594
+dimwishlist:item=570866107&perks=3523296417,469285294,2489430594
+dimwishlist:item=570866107&perks=3523296417,1546637391,2489430594
+dimwishlist:item=570866107&perks=3523296417,3201496230,2489430594
+dimwishlist:item=570866107&perks=3978468247,469285294,2489430594
+dimwishlist:item=570866107&perks=3978468247,1546637391,2489430594
+dimwishlist:item=570866107&perks=3978468247,3201496230,2489430594
+
+
 // Succession - [Aztecross S23 ITL God Rolls] (pve)
 //notes: [Aztecross S23 ITL God Rolls] Just use the crafted roll. tags:pve
 dimwishlist:item=570866107&perks=1523832109,1771339417
@@ -1350,6 +1482,17 @@ dimwishlist:item=570866107&perks=588594999,957782887
 // Succession - [Aztecross S23 ITL God Rolls] (pve)
 //notes: [Aztecross S23 ITL God Rolls] If you can guarantee kills you'll get stacks of damage and ammo refund. tags:pve
 dimwishlist:item=570866107&perks=3978468247,3201496230
+
+
+// Succession - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Discord refunds ammo, and hits hard even in higher level content due to Aggressive Frame. Discord + Snapshot Sights makes ADS very fast. Discord + Redirection makes it ammo efficient, max Redirection stacks is 200% normal damage. Recombination is good for a Heavy Bait And Switch loop. tags:pve
+dimwishlist:item=570866107&perks=3978468247,957782887
+dimwishlist:item=570866107&perks=3978468247,3201496230
+dimwishlist:item=570866107&perks=3978468247,1546637391
+dimwishlist:item=570866107&perks=3978468247,1771339417
+dimwishlist:item=570866107&perks=3978468247,469285294
+dimwishlist:item=570866107&perks=3978468247,2551157718
+dimwishlist:item=570866107&perks=3978468247,2896038713
 
 
 // Oversoul Edict (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
@@ -2237,6 +2380,16 @@ dimwishlist:item=1050806815&perks=1820235745,3708227201
 //notes: [Aztecross S23 ITL God Rolls] Frenzy for Gyrfalcon builds. tags:pve
 dimwishlist:item=1050806815&perks=776531651,2048641572
 dimwishlist:item=1050806815&perks=776531651,4104185692
+
+
+// The Recluse - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Low Zoom kneecaps it, even Out Of Bounds has a better stat+perk package. Range and damage falloff is not in its favour. Look to other SMGs. tags:pvp
+dimwishlist:item=1050806815&perks=1359896290,1890422124
+dimwishlist:item=1050806815&perks=1359896290,3081867624
+dimwishlist:item=1050806815&perks=1359896290,2109543898
+dimwishlist:item=1050806815&perks=4071163871,1890422124
+dimwishlist:item=1050806815&perks=4071163871,3081867624
+dimwishlist:item=1050806815&perks=4071163871,2109543898
 
 
 // BrayTech Osprey (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
@@ -3343,6 +3496,31 @@ dimwishlist:item=1453235079&perks=2866798147,2551157718
 dimwishlist:item=1453235079&perks=247725512,2551157718
 
 
+// Hung Jury SR4 - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Desperate Measures can proc directly with melee/grenade kill (even in background), then kept up with regular weapon kills; Kinetic Tremors also helps keep it up and benefits from increased damage multiplier. Get more Range/Reload Speed/Handling/Stability. tags:pve
+dimwishlist:item=1453235079&perks=3891536761,4049631843
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,555281244
+dimwishlist:item=1453235079&perks=3891536761,2109543898
+
+
+// Hung Jury SR4 - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Less flinch for you, more flinch for them. Get more Handling/Stability. tags:pvp
+dimwishlist:item=1453235079&perks=2866798147,3038247973
+
+
+// Hung Jury SR4 - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Get more Handling/Stability. tags:pvp
+dimwishlist:item=1453235079&perks=2866798147,2551157718
+dimwishlist:item=1453235079&perks=3828510309,2551157718
+dimwishlist:item=1453235079&perks=247725512,2551157718
+
+
+// Hung Jury SR4 - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Great for lane control and overwatch roles, boring otherwise. tags:pvp
+dimwishlist:item=1453235079&perks=2866798147,2551157718
+
+
 // Nasreddin - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier A Rank 8/28 tags:god-pve
 dimwishlist:item=1456017061&perks=1749209109,3708227201,2120661319
@@ -3868,6 +4046,16 @@ dimwishlist:item=1780464822&perks=1428297954,1048183818
 dimwishlist:item=1796949035&perks=1749209109,4104185692,3989629871
 
 
+// Falling Guillotine - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/29 tags:god-pve
+dimwishlist:item=1815105249&perks=2396489472,2077819806,2489430594
+dimwishlist:item=1815105249&perks=2396489472,3913600130,2489430594
+dimwishlist:item=1815105249&perks=2396489472,3708227201,2489430594
+dimwishlist:item=1815105249&perks=4104185692,2077819806,2489430594
+dimwishlist:item=1815105249&perks=4104185692,3913600130,2489430594
+dimwishlist:item=1815105249&perks=4104185692,3708227201,2489430594
+
+
 // Falling Guillotine - [Aztecross S23 ITL God Rolls] (pvp)
 //notes: [Aztecross S23 ITL God Rolls] tags:pvp
 dimwishlist:item=1815105249&perks=2396489472,2077819806
@@ -4266,6 +4454,16 @@ dimwishlist:item=1891321753&perks=839105230,106909392,588594999,1015611457
 dimwishlist:item=1891321753&perks=839105230,106909392,588594999,460017080
 dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,1015611457
 dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,460017080
+
+
+// Hammerhead - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/23 tags:god-pve
+dimwishlist:item=1896309757&perks=3418782618,557221067,2489430594
+dimwishlist:item=1896309757&perks=3418782618,95528736,2489430594
+dimwishlist:item=1896309757&perks=1354429876,557221067,2489430594
+dimwishlist:item=1896309757&perks=1354429876,95528736,2489430594
+dimwishlist:item=1896309757&perks=3425386926,557221067,2489430594
+dimwishlist:item=1896309757&perks=3425386926,95528736,2489430594
 
 
 // Blowout - [Aegis S23 Endgame Analysis] (god-pve)
@@ -5055,6 +5253,19 @@ dimwishlist:item=2218569744&perks=1482024992,3142289711,3523296417,4082225868
 dimwishlist:item=2218569744&perks=1482024992,3142289711,1354429876,2896038713
 
 
+// Edge Transit - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 1/21 tags:god-pve
+dimwishlist:item=2228325504&perks=968510818,3078487919,2489430594
+dimwishlist:item=2228325504&perks=968510818,3194351027,2489430594
+dimwishlist:item=2228325504&perks=968510818,3993379141,2489430594
+dimwishlist:item=2228325504&perks=3751912585,3078487919,2489430594
+dimwishlist:item=2228325504&perks=3751912585,3194351027,2489430594
+dimwishlist:item=2228325504&perks=3751912585,3993379141,2489430594
+dimwishlist:item=2228325504&perks=2396489472,3078487919,2489430594
+dimwishlist:item=2228325504&perks=2396489472,3194351027,2489430594
+dimwishlist:item=2228325504&perks=2396489472,3993379141,2489430594
+
+
 // Edge Transit - [Aztecross S23 ITL God Rolls] (pve)
 //notes: [Aztecross S23 ITL God Rolls] tags:pve
 dimwishlist:item=2228325504&perks=3751912585,3194351027
@@ -5283,6 +5494,14 @@ dimwishlist:item=2342054803&perks=839105230,3230963543,1583705720,2848615171
 dimwishlist:item=2342054803&perks=839105230,3230963543,1583705720,11612903
 
 
+// Blast Furnace - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Role: Add clear; Alt: Chattering Bone (Rapid Hit/Kill Clip + Kinetic Tremors) tags:god-pve
+dimwishlist:item=2372514508&perks=3891536761,4104185692,2489430594
+dimwishlist:item=2372514508&perks=3891536761,3824105627,2489430594
+dimwishlist:item=2372514508&perks=3700496672,4104185692,2489430594
+dimwishlist:item=2372514508&perks=3700496672,3824105627,2489430594
+
+
 // Elsie's Rifle - [Aztecross S23 ITL God Rolls] (pve)
 //notes: [Aztecross S23 ITL God Rolls] tags:pve
 dimwishlist:item=2372514509&perks=3418782618,4104185692
@@ -5296,6 +5515,50 @@ dimwishlist:item=2372514509&perks=1467527085,1561002382,2387244414,460017080
 dimwishlist:item=2372514509&perks=1467527085,1561002382,3619207468,460017080
 dimwishlist:item=2372514509&perks=1467527085,1885400500,2387244414,460017080
 dimwishlist:item=2372514509&perks=1467527085,1885400500,3619207468,460017080
+
+
+// Elsie's Rifle - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Recoil: 83/100 > 98/88, just get off base 73. Zen Moment + Headseeker is very stable and high flinch resist. tags:pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=1482024992,1885400500,2387244414,1015611457
+
+
+// Elsie's Rifle - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Recoil: 83/100 > 98/88, just get off base 73. tags:pvp
+dimwishlist:item=2372514509&perks=1870851715,1015611457
+dimwishlist:item=2372514509&perks=1870851715,460017080
+dimwishlist:item=2372514509&perks=1870851715,3047969693
+dimwishlist:item=2372514509&perks=3619207468,1015611457
+dimwishlist:item=2372514509&perks=3619207468,460017080
+dimwishlist:item=2372514509&perks=3619207468,3047969693
+
+
+// Elsie's Rifle - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 83/100 > 98/88, just get off base 73. tags:pve
+dimwishlist:item=2372514509&perks=776531651,2048641572
+
+
+// Elsie's Rifle - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 83/100 > 98/88, just get off base 73. tags:pve
+dimwishlist:item=2372514509&perks=3418782618,4104185692
+dimwishlist:item=2372514509&perks=3418782618,2109543898
+
+
+// Elsie's Rifle - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Stat monster, bests The Messenger without needing perks. tags:pvp
+dimwishlist:item=2372514509&perks=2387244414,3047969693
+dimwishlist:item=2372514509&perks=2387244414,460017080
+dimwishlist:item=2372514509&perks=2387244414,1015611457
+dimwishlist:item=2372514509&perks=3619207468,3047969693
+dimwishlist:item=2372514509&perks=3619207468,460017080
+dimwishlist:item=2372514509&perks=3619207468,1015611457
+
+
+// Elsie's Rifle - [True Vanguard S23 ITL Review] (pve)
+//notes: [True Vanguard S23 ITL Review] Get max Reload and other stat boosts after automatically applying Volatile. tags:pve
+dimwishlist:item=2372514509&perks=1119449540,2048641572
 
 
 // Incisor (Adept) - [Aztecross S23 Review] (god-pve)
@@ -5414,6 +5677,19 @@ dimwishlist:item=2465372924&perks=588594999,1015611457
 dimwishlist:item=2475355656&perks=3400784728,1771339417,3988215619
 
 
+// Forbearance - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 1/20 tags:god-pve
+dimwishlist:item=2480074702&perks=2010801679,2396489472,2489430594
+dimwishlist:item=2480074702&perks=2010801679,2109543898,2489430594
+dimwishlist:item=2480074702&perks=2010801679,3592538738,2489430594
+dimwishlist:item=2480074702&perks=3523296417,2396489472,2489430594
+dimwishlist:item=2480074702&perks=3523296417,2109543898,2489430594
+dimwishlist:item=2480074702&perks=3523296417,3592538738,2489430594
+dimwishlist:item=2480074702&perks=3108830275,2396489472,2489430594
+dimwishlist:item=2480074702&perks=3108830275,2109543898,2489430594
+dimwishlist:item=2480074702&perks=3108830275,3592538738,2489430594
+
+
 // Cartesian Coordinate - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier A Rank 4/30 tags:god-pve
 dimwishlist:item=2481881293&perks=1556840489,1546637391
@@ -5428,6 +5704,119 @@ dimwishlist:item=2496242052&perks=3300816228,4104185692
 // Sorrow's Verse (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=2496875173&perks=3250034553,3142289711,2450788523,2458213969
+
+
+// Midnight Coup - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Role: Add clear, Champs; Alt: Fatebringer (Explosive Payload + Firefly/Frenzy) tags:god-pve
+dimwishlist:item=2499720827&perks=3824105627,4104185692,2489430594
+dimwishlist:item=2499720827&perks=3824105627,3891536761,2489430594
+dimwishlist:item=2499720827&perks=3700496672,4104185692,2489430594
+dimwishlist:item=2499720827&perks=3700496672,3891536761,2489430594
+dimwishlist:item=2499720827&perks=3038247973,4104185692,2489430594
+dimwishlist:item=2499720827&perks=3038247973,3891536761,2489430594
+
+
+// Midnight Coup - [Aztecross S23 ITL God Rolls] (god-pve)
+//notes: [Aztecross S23 ITL God Rolls] Good for Explosive Payload for higher-level content. tags:god-pve
+dimwishlist:item=2499720827&perks=3038247973,3891536761,2489430594
+dimwishlist:item=2499720827&perks=3038247973,2109543898,2489430594
+dimwishlist:item=2499720827&perks=3038247973,4104185692,2489430594
+dimwishlist:item=2499720827&perks=3038247973,4049631843,2489430594
+
+
+// Midnight Coup - [Aztecross S23 ITL God Rolls] (god-pvp)
+//notes: [Aztecross S23 ITL God Rolls] Go for Range. tags:god-pvp
+dimwishlist:item=2499720827&perks=202670084,3142289711,3038247973,2387244414
+
+
+// Midnight Coup - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 95/100. Some nice "double-damage" perks. Note that Rampage x3 with Explosive Payload is less damage than regular Rampage x3, don't do it. tags:pve
+dimwishlist:item=2499720827&perks=3038247973,4049631843
+dimwishlist:item=2499720827&perks=3038247973,4104185692
+dimwishlist:item=2499720827&perks=3038247973,2109543898
+
+
+// Midnight Coup - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 95/100. tags:pve
+dimwishlist:item=2499720827&perks=3824105627,3425386926
+dimwishlist:item=2499720827&perks=3824105627,4049631843
+dimwishlist:item=2499720827&perks=3824105627,4104185692
+dimwishlist:item=2499720827&perks=3824105627,2109543898
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+
+
+// Midnight Coup - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 95/100. tags:pve
+dimwishlist:item=2499720827&perks=3700496672,3891536761
+dimwishlist:item=2499720827&perks=243981275,3891536761
+
+
+// Midnight Coup - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Recoil: 95/100. tags:pvp
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3038247973,47981717
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3038247973,2387244414
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3038247973,4049631843
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3824105627,47981717
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3824105627,2387244414
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3824105627,4049631843
+
+
+// Midnight Coup - [Aztecross S23 ITL God Rolls] (pve)
+//notes: [Aztecross S23 ITL God Rolls] Good for on-level content, but need Explosive Payload for higher-level content. tags:pve
+dimwishlist:item=2499720827&perks=3824105627,3891536761,2489430594
+dimwishlist:item=2499720827&perks=3824105627,4049631843,2489430594
+
+
+// Midnight Coup - [Aztecross S23 ITL God Rolls] (pvp)
+//notes: [Aztecross S23 ITL God Rolls] Go for Range. tags:pvp
+dimwishlist:item=2499720827&perks=202670084,3142289711,588594999,2387244414
+dimwishlist:item=2499720827&perks=202670084,3142289711,588594999,3425386926
+dimwishlist:item=2499720827&perks=202670084,3142289711,588594999,47981717
+dimwishlist:item=2499720827&perks=202670084,3142289711,588594999,2109543898
+
+
+// Midnight Coup - [Fallout S23 ITL Review] (pve)
+//notes: [Fallout S23 ITL Review] tags:pve
+dimwishlist:item=2499720827&perks=3700496672,3891536761
+dimwishlist:item=2499720827&perks=243981275,3891536761
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+
+
+// Midnight Coup - [Fallout S23 ITL Review] ()
+//notes: [Fallout S23 ITL Review]
+dimwishlist:item=2499720827&perks=3038247973,4049631843
+
+
+// Midnight Coup - [Fallout S23 ITL Review] (pvp)
+//notes: [Fallout S23 ITL Review] There are other equal or better HCs that don't prevent using Conditional Finality. tags:pvp
+dimwishlist:item=2499720827&perks=3824105627,3425386926
+dimwishlist:item=2499720827&perks=3824105627,2387244414
+dimwishlist:item=2499720827&perks=3824105627,4104185692
+dimwishlist:item=2499720827&perks=3824105627,2109543898
+dimwishlist:item=2499720827&perks=3038247973,3425386926
+dimwishlist:item=2499720827&perks=3038247973,2387244414
+dimwishlist:item=2499720827&perks=3038247973,4104185692
+dimwishlist:item=2499720827&perks=3038247973,2109543898
+
+
+// Midnight Coup - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Invest a bit into Range (+30) and it's great. tags:pvp
+dimwishlist:item=2499720827&perks=1482024992,3142289711,588594999,2387244414
+
+
+// Midnight Coup - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Invest a bit into Range (+30) and it's great. tags:pvp
+dimwishlist:item=2499720827&perks=1482024992,3142289711,3038247973,47981717
+
+
+// Midnight Coup - [True Vanguard S23 ITL Review] (pve)
+//notes: [True Vanguard S23 ITL Review] Invest a bit into Range (+30) and it's great. tags:pve
+dimwishlist:item=2499720827&perks=3824105627,4049631843,2489430594
+
+
+// Midnight Coup - [True Vanguard S23 ITL Review] (pve)
+//notes: [True Vanguard S23 ITL Review] Invest a bit into Range (+30) and it's great. tags:pve
+dimwishlist:item=2499720827&perks=3700496672,3891536761,2489430594
 
 
 // Caretaker - [Aegis S23 Endgame Analysis] (god-pve)
@@ -5491,6 +5880,14 @@ dimwishlist:item=2531963421&perks=3400784728,781192741,3907865655
 dimwishlist:item=2531963421&perks=3400784728,3708227201,3907865655
 dimwishlist:item=2531963421&perks=3400784728,2402480669,3907865655
 dimwishlist:item=2531963421&perks=3400784728,2896038713,3907865655
+
+
+// Blast Furnace - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Role: Add clear; Alt: Chattering Bone (Rapid Hit/Kill Clip + Kinetic Tremors) tags:god-pve
+dimwishlist:item=2533990645&perks=3891536761,4104185692,2489430594
+dimwishlist:item=2533990645&perks=3891536761,3824105627,2489430594
+dimwishlist:item=2533990645&perks=3700496672,4104185692,2489430594
+dimwishlist:item=2533990645&perks=3700496672,3824105627,2489430594
 
 
 // Lubrae's Ruin - [Aegis S23 Endgame Analysis] (pve)
@@ -6322,6 +6719,120 @@ dimwishlist:item=2759590322&perks=2779035018,2848615171,744217850
 dimwishlist:item=2759590322&perks=2779035018,2610012052,744217850
 
 
+// Midnight Coup - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Role: Add clear, Champs; Alt: Fatebringer (Explosive Payload + Firefly/Frenzy) tags:god-pve
+dimwishlist:item=2763843898&perks=3824105627,4104185692,2489430594
+dimwishlist:item=2763843898&perks=3824105627,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3700496672,4104185692,2489430594
+dimwishlist:item=2763843898&perks=3700496672,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3038247973,4104185692,2489430594
+dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594
+
+
+// Midnight Coup - [Aztecross S23 ITL God Rolls] (god-pve)
+//notes: [Aztecross S23 ITL God Rolls] Good for Explosive Payload for higher-level content. tags:god-pve
+dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3038247973,2109543898,2489430594
+dimwishlist:item=2763843898&perks=3038247973,4104185692,2489430594
+dimwishlist:item=2763843898&perks=3038247973,4049631843,2489430594
+
+
+// Midnight Coup - [Aztecross S23 ITL God Rolls] (god-pvp)
+//notes: [Aztecross S23 ITL God Rolls] Go for Range. tags:god-pvp
+dimwishlist:item=2763843898&perks=202670084,3142289711,3038247973,2387244414
+
+
+// Midnight Coup - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 95/100. Some nice "double-damage" perks. Note that Rampage x3 with Explosive Payload is less damage than regular Rampage x3, don't do it. tags:pve
+dimwishlist:item=2763843898&perks=3038247973,4049631843
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+dimwishlist:item=2763843898&perks=3038247973,2109543898
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+
+
+// Midnight Coup - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 95/100. tags:pve
+dimwishlist:item=2763843898&perks=3824105627,3425386926
+dimwishlist:item=2763843898&perks=3824105627,4049631843
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3824105627,2109543898
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+
+
+// Midnight Coup - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 95/100. tags:pve
+dimwishlist:item=2763843898&perks=3700496672,3891536761
+dimwishlist:item=2763843898&perks=243981275,3891536761
+
+
+// Midnight Coup - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Recoil: 95/100. tags:pvp
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,47981717
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,2387244414
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,4049631843
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3824105627,47981717
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3824105627,2387244414
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3824105627,4049631843
+
+
+// Midnight Coup - [Aztecross S23 ITL God Rolls] (pve)
+//notes: [Aztecross S23 ITL God Rolls] Good for on-level content, but need Explosive Payload for higher-level content. tags:pve
+dimwishlist:item=2763843898&perks=3824105627,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3824105627,4049631843,2489430594
+
+
+// Midnight Coup - [Aztecross S23 ITL God Rolls] (pvp)
+//notes: [Aztecross S23 ITL God Rolls] Go for Range. tags:pvp
+dimwishlist:item=2763843898&perks=202670084,3142289711,588594999,2387244414
+dimwishlist:item=2763843898&perks=202670084,3142289711,588594999,3425386926
+dimwishlist:item=2763843898&perks=202670084,3142289711,588594999,47981717
+dimwishlist:item=2763843898&perks=202670084,3142289711,588594999,2109543898
+
+
+// Midnight Coup - [Fallout S23 ITL Review] (pve)
+//notes: [Fallout S23 ITL Review] tags:pve
+dimwishlist:item=2763843898&perks=3700496672,3891536761
+dimwishlist:item=2763843898&perks=243981275,3891536761
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+
+
+// Midnight Coup - [Fallout S23 ITL Review] (pve)
+//notes: [Fallout S23 ITL Review] tags:pve
+dimwishlist:item=2763843898&perks=3038247973,4049631843
+
+
+// Midnight Coup - [Fallout S23 ITL Review] (pvp)
+//notes: [Fallout S23 ITL Review] There are other equal or better HCs that don't prevent using Conditional Finality. tags:pvp
+dimwishlist:item=2763843898&perks=3824105627,3425386926
+dimwishlist:item=2763843898&perks=3824105627,2387244414
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3824105627,2109543898
+dimwishlist:item=2763843898&perks=3038247973,3425386926
+dimwishlist:item=2763843898&perks=3038247973,2387244414
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+dimwishlist:item=2763843898&perks=3038247973,2109543898
+
+
+// Midnight Coup - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Invest a bit into Range (+30) and it's great. tags:pvp
+dimwishlist:item=2763843898&perks=1482024992,3142289711,588594999,2387244414
+
+
+// Midnight Coup - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Invest a bit into Range (+30) and it's great. tags:pvp
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,47981717
+
+
+// Midnight Coup - [True Vanguard S23 ITL Review] (pve)
+//notes: [True Vanguard S23 ITL Review] Invest a bit into Range (+30) and it's great. tags:pve
+dimwishlist:item=2763843898&perks=3824105627,4049631843,2489430594
+
+
+// Midnight Coup - [True Vanguard S23 ITL Review] (pve)
+//notes: [True Vanguard S23 ITL Review] Invest a bit into Range (+30) and it's great. tags:pve
+dimwishlist:item=2763843898&perks=3700496672,3891536761,2489430594
+
+
 // Nox Perennial V - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier B Rank 12/30 tags:god-pve
 dimwishlist:item=2767393525&perks=968510818,2594592626,1050127423
@@ -6986,6 +7497,28 @@ dimwishlist:item=2969415423&perks=3161816588,47981717
 dimwishlist:item=2969415423&perks=3161816588,1954620775
 
 
+// Judgment - [CoolGuy S23 Review] (pvp)
+//notes: [CoolGuy S23 Review] Absolutely out-stat'd by other HCs in PvP like Rose, Eyasluna, Fatebringer, Austringer/Kept Confidence (both craftable!), no range to compete with Pulses/Scouts. Don't bother. tags:pvp
+dimwishlist:item=2969415423&perks=1926090091,3142289711,1195158366,47981717
+dimwishlist:item=2969415423&perks=1926090090,3142289711,1195158366,47981717
+
+
+// Judgment - [CoolGuy S23 Review] (pve)
+//notes: [CoolGuy S23 Review] Headstone in 3rd column, best Stasis PvE HC. Unfortunately Timed Payload not enough damage to shatter Headstone crystal. tags:pve
+dimwishlist:item=2969415423&perks=124408337,11612903
+dimwishlist:item=2969415423&perks=124408337,1954620775
+
+
+// Judgment - [CoolGuy S23 Review] (pve)
+//notes: [CoolGuy S23 Review] Headstone in 3rd column, best Stasis PvE HC. tags:pve
+dimwishlist:item=2969415423&perks=3523296417,11612903
+
+
+// Judgment - [CoolGuy S23 Review] (pve)
+//notes: [CoolGuy S23 Review] Headstone in 3rd column, best Stasis PvE HC. tags:pve
+dimwishlist:item=2969415423&perks=3828510309,2458213969
+
+
 // Koraxis's Distress - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier A Rank 4/19 tags:god-pve
 dimwishlist:item=2972949637&perks=424370782,781192741,3186078099
@@ -7556,6 +8089,16 @@ dimwishlist:item=3098328572&perks=1820235745,3708227201
 //notes: [Aztecross S23 ITL God Rolls] Frenzy for Gyrfalcon builds. tags:pve
 dimwishlist:item=3098328572&perks=776531651,2048641572
 dimwishlist:item=3098328572&perks=776531651,4104185692
+
+
+// The Recluse - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Low Zoom kneecaps it, even Out Of Bounds has a better stat+perk package. Range and damage falloff is not in its favour. Look to other SMGs. tags:pvp
+dimwishlist:item=3098328572&perks=1359896290,1890422124
+dimwishlist:item=3098328572&perks=1359896290,3081867624
+dimwishlist:item=3098328572&perks=1359896290,2109543898
+dimwishlist:item=3098328572&perks=4071163871,1890422124
+dimwishlist:item=3098328572&perks=4071163871,3081867624
+dimwishlist:item=3098328572&perks=4071163871,2109543898
 
 
 // Jurassic Green - [Fallout's S22 FotL Preview] [Duqk's S22 FotL God Rolls] (pvp)
@@ -8319,6 +8862,26 @@ dimwishlist:item=3483591058&perks=3418782618,3751912585
 dimwishlist:item=3483591058&perks=3418782618,2173046394
 
 
+// Prosecutor - [True Vanguard S23 Prophecy Refresh Review] (pvp)
+//notes: [True Vanguard S23 Prophecy Refresh Review] More or less stat-matched with Ammit but better perks. Dragonfly + Voltshot is a good crowd control roll in 6s, Target Lock stacks with Crossing Over. tags:pvp
+dimwishlist:item=3483591058&perks=2387244414,365154968,4129855581
+dimwishlist:item=3483591058&perks=2387244414,1890422124,4129855581
+dimwishlist:item=3483591058&perks=2387244414,2610012052,4129855581
+dimwishlist:item=3483591058&perks=2387244414,2173046394,4129855581
+dimwishlist:item=3483591058&perks=3619207468,365154968,4129855581
+dimwishlist:item=3483591058&perks=3619207468,1890422124,4129855581
+dimwishlist:item=3483591058&perks=3619207468,2610012052,4129855581
+dimwishlist:item=3483591058&perks=3619207468,2173046394,4129855581
+dimwishlist:item=3483591058&perks=1365187766,365154968,4129855581
+dimwishlist:item=3483591058&perks=1365187766,1890422124,4129855581
+dimwishlist:item=3483591058&perks=1365187766,2610012052,4129855581
+dimwishlist:item=3483591058&perks=1365187766,2173046394,4129855581
+dimwishlist:item=3483591058&perks=2848615171,365154968,4129855581
+dimwishlist:item=3483591058&perks=2848615171,1890422124,4129855581
+dimwishlist:item=3483591058&perks=2848615171,2610012052,4129855581
+dimwishlist:item=3483591058&perks=2848615171,2173046394,4129855581
+
+
 // Palmyra-B - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier C Rank 19/23 tags:pve
 dimwishlist:item=3489657138&perks=3528046508,2275087323,1607056502
@@ -8490,6 +9053,19 @@ dimwishlist:item=3591141932&perks=3418782618,2037312142,1489048135
 dimwishlist:item=3591141932&perks=3418782618,2594592626,1489048135
 
 
+// Succession - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/41 tags:god-pve
+dimwishlist:item=3612338554&perks=1523832109,469285294,2489430594
+dimwishlist:item=3612338554&perks=1523832109,1546637391,2489430594
+dimwishlist:item=3612338554&perks=1523832109,3201496230,2489430594
+dimwishlist:item=3612338554&perks=3523296417,469285294,2489430594
+dimwishlist:item=3612338554&perks=3523296417,1546637391,2489430594
+dimwishlist:item=3612338554&perks=3523296417,3201496230,2489430594
+dimwishlist:item=3612338554&perks=3978468247,469285294,2489430594
+dimwishlist:item=3612338554&perks=3978468247,1546637391,2489430594
+dimwishlist:item=3612338554&perks=3978468247,3201496230,2489430594
+
+
 // Succession - [Aztecross S23 ITL God Rolls] (pve)
 //notes: [Aztecross S23 ITL God Rolls] Just use the crafted roll. tags:pve
 dimwishlist:item=3612338554&perks=1523832109,1771339417
@@ -8505,6 +9081,17 @@ dimwishlist:item=3612338554&perks=588594999,957782887
 // Succession - [Aztecross S23 ITL God Rolls] (pve)
 //notes: [Aztecross S23 ITL God Rolls] If you can guarantee kills you'll get stacks of damage and ammo refund. tags:pve
 dimwishlist:item=3612338554&perks=3978468247,3201496230
+
+
+// Succession - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Discord refunds ammo, and hits hard even in higher level content due to Aggressive Frame. Discord + Snapshot Sights makes ADS very fast. Discord + Redirection makes it ammo efficient, max Redirection stacks is 200% normal damage. Recombination is good for a Heavy Bait And Switch loop. tags:pve
+dimwishlist:item=3612338554&perks=3978468247,957782887
+dimwishlist:item=3612338554&perks=3978468247,3201496230
+dimwishlist:item=3612338554&perks=3978468247,1546637391
+dimwishlist:item=3612338554&perks=3978468247,1771339417
+dimwishlist:item=3612338554&perks=3978468247,469285294
+dimwishlist:item=3612338554&perks=3978468247,2551157718
+dimwishlist:item=3612338554&perks=3978468247,2896038713
 
 
 // First In, Last Out - [Aegis S23 Endgame Analysis] (pve)
@@ -8937,6 +9524,50 @@ dimwishlist:item=3851176026&perks=1467527085,1885400500,2387244414,460017080
 dimwishlist:item=3851176026&perks=1467527085,1885400500,3619207468,460017080
 
 
+// Elsie's Rifle - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Recoil: 83/100 > 98/88, just get off base 73. Zen Moment + Headseeker is very stable and high flinch resist. tags:pvp
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,460017080
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,1015611457
+dimwishlist:item=3851176026&perks=1482024992,1885400500,2387244414,460017080
+dimwishlist:item=3851176026&perks=1482024992,1885400500,2387244414,1015611457
+
+
+// Elsie's Rifle - [CoolGuy S23 ITL Review] (pvp)
+//notes: [CoolGuy S23 ITL Review] Recoil: 83/100 > 98/88, just get off base 73. tags:pvp
+dimwishlist:item=3851176026&perks=1870851715,1015611457
+dimwishlist:item=3851176026&perks=1870851715,460017080
+dimwishlist:item=3851176026&perks=1870851715,3047969693
+dimwishlist:item=3851176026&perks=3619207468,1015611457
+dimwishlist:item=3851176026&perks=3619207468,460017080
+dimwishlist:item=3851176026&perks=3619207468,3047969693
+
+
+// Elsie's Rifle - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 83/100 > 98/88, just get off base 73. tags:pve
+dimwishlist:item=3851176026&perks=776531651,2048641572
+
+
+// Elsie's Rifle - [CoolGuy S23 ITL Review] (pve)
+//notes: [CoolGuy S23 ITL Review] Recoil: 83/100 > 98/88, just get off base 73. tags:pve
+dimwishlist:item=3851176026&perks=3418782618,4104185692
+dimwishlist:item=3851176026&perks=3418782618,2109543898
+
+
+// Elsie's Rifle - [True Vanguard S23 ITL Review] (pvp)
+//notes: [True Vanguard S23 ITL Review] Stat monster, bests The Messenger without needing perks. tags:pvp
+dimwishlist:item=3851176026&perks=2387244414,3047969693
+dimwishlist:item=3851176026&perks=2387244414,460017080
+dimwishlist:item=3851176026&perks=2387244414,1015611457
+dimwishlist:item=3851176026&perks=3619207468,3047969693
+dimwishlist:item=3851176026&perks=3619207468,460017080
+dimwishlist:item=3851176026&perks=3619207468,1015611457
+
+
+// Elsie's Rifle - [True Vanguard S23 ITL Review] (pve)
+//notes: [True Vanguard S23 ITL Review] Get max Reload and other stat boosts after automatically applying Volatile. tags:pve
+dimwishlist:item=3851176026&perks=1119449540,2048641572
+
+
 // Father's Sins - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier B Rank 12/40 tags:god-pve
 dimwishlist:item=3865728990&perks=573122728,2402480669,567997816
@@ -9251,6 +9882,31 @@ dimwishlist:item=4038592169&perks=855168139,2396489472,3363267119
 dimwishlist:item=4038592169&perks=855168139,598607952,3363267119
 dimwishlist:item=4038592169&perks=855168139,3592538738,3363267119
 dimwishlist:item=4038592169&perks=855168139,2675361166,3363267119
+
+
+// The Mountaintop - [Aegis S23 ITL Endgame Analysis] (god-pve)
+//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 5/20 tags:god-pve
+dimwishlist:item=4043921923&perks=3300816228,4104185692,2489430594
+dimwishlist:item=4043921923&perks=3300816228,469285294,2489430594
+dimwishlist:item=4043921923&perks=3523296417,4104185692,2489430594
+dimwishlist:item=4043921923&perks=3523296417,469285294,2489430594
+dimwishlist:item=4043921923&perks=1556840489,4104185692,2489430594
+dimwishlist:item=4043921923&perks=1556840489,469285294,2489430594
+
+
+// The Mountaintop - [Aztecross S23 ITL God Rolls] (god-pve)
+//notes: [Aztecross S23 ITL God Rolls] Slay out with other weapons and abilities, swap to this to do big damage, and with Auto-loading Holster it'll always be ready to go. tags:god-pve
+dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294,2489430594
+dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,469285294,2489430594
+dimwishlist:item=4043921923&perks=981914802,3301904089,3643424744,469285294,2489430594
+dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294,2489430594
+dimwishlist:item=4043921923&perks=981914802,3492396210,2010801679,469285294,2489430594
+dimwishlist:item=4043921923&perks=981914802,3492396210,3643424744,469285294,2489430594
+
+
+// The Mountaintop - [Aztecross S23 ITL God Rolls] (pvp)
+//notes: [Aztecross S23 ITL God Rolls] Severely nerfed and can't one-hit kill at all any more. Sticky Grenades also nerfed. tags:pvp
+dimwishlist:item=4043921923&perks=3300816228,438098033
 
 
 // Hezen Vengeance - [Aegis S23 Endgame Analysis] (god-pve)

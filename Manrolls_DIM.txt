@@ -1,0 +1,26 @@
+title:YT rolls wishlist (manual)
+description:Rolls from CoolGuy, Aztecross, FalloutPlays, Demonjoe, KackisHD, and others
+
+// item=name
+//notes:reviewer= (??? tags= ???): item=notes|tags:tags=
+//dimwishlist:item=2906615623&perks=776531651,2048641572
+
+
+// Ergo Sum - [Aegis E1 Ergo Sum Damage Deep Dive] (god-pve)
+//notes: [Aegis E1 Ergo Sum Damage Deep Dive] The Perfect Fifth ONLY for damage, top DPS sword when Transcendant. tags:god-pve
+dimwishlist:item=1681583613&perks=1522566605,3666208348,269888150,519046634
+
+
+// Ergo Sum - [Aegis E1 Ergo Sum Damage Deep Dive] (god-pve)
+//notes: [Aegis E1 Ergo Sum Damage Deep Dive] Wolfpack Rounds ONLY for team damage boost. tags:god-pve
+dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,1959135343
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,1959135343
+
+
+// Ergo Sum - [Aegis E1 Ergo Sum Damage Deep Dive] (pve)
+//notes: [Aegis E1 Ergo Sum Damage Deep Dive] Unplanned Reprieve or Arc Conductor ONLY for situational use, not necessary to keep, not too useful for endgame. tags:pve
+dimwishlist:item=1681583613&perks=3666208348,3949068808,269888150,289811733
+dimwishlist:item=1681583613&perks=3666208348,3949068808,269888150,519046634
+dimwishlist:item=1681583613&perks=3666208348,269888150,1327961177,289811733
+dimwishlist:item=1681583613&perks=3666208348,269888150,1327961177,519046634
+

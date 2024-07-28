@@ -26,9 +26,21 @@ description:Rolls from CoolGuy, Aztecross, FalloutPlays, Demonjoe, KackisHD, and
 
 
 
-//https://data.destinysets.com/i/InventoryItem:1681583613/InventoryItem:3949068808
-// Ergo Sum - [Aegis E1 Ergo Sum Update] (god-pve)
+// Ergo Sum - [Aegis E1 Ergo Sum Update] (pve)
 //notes: [Aegis E1 Ergo Sum Update] Arc Conductor. For splash special ammo ad-clear. tags:pve
 dimwishlist:item=1681583613&perks=1261178282,2349202967,289811733,3949068808
 dimwishlist:item=1681583613&perks=1261178282,2349202967,519046634,3949068808
 dimwishlist:item=1681583613&perks=1261178282,2349202967,2753228730,3949068808
+
+
+// Ergo Sum - [Aegis E1 Ergo Sum Update] (god-pve)
+//notes: [Aegis E1 Ergo Sum Update] Unplanned Reprieve. For DPS on wide hitbox bosses (Lightweight for group DPS, Vortex for solo DPS). tags:god-pve
+dimwishlist:item=1681583613&perks=1261178282,2349202967,2753228730,1327961177
+dimwishlist:item=1681583613&perks=1261178282,2349202967,2557881346,1327961177
+
+
+// Ergo Sum - [Aegis E1 Ergo Sum Update] (god-pve)
+//notes: [Aegis E1 Ergo Sum Update] The Perfect Fifth. For DPS on general bosses. tags:god-pve
+dimwishlist:item=1681583613&perks=1261178282,2349202967,519046634,1522566605
+//next entry only for testing
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,1522566605

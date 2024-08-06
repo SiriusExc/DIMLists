@@ -1733,6 +1733,27 @@ dimwishlist:item=578105049&perks=3523296417,1720528630,1156201379
 dimwishlist:item=578105049&perks=3523296417,2173046394,1156201379
 
 
+// Something New - [Fallout E1 Solstice Preview] (pvp)
+//notes: [Fallout E1 Solstice Preview] tags:pvp
+dimwishlist:item=586671776&perks=957782887,555281244,2509860981
+
+
+// Something New - [Fallout E1 Solstice Preview] (pvp)
+//notes: [Fallout E1 Solstice Preview] tags:pvp
+dimwishlist:item=586671776&perks=247725512,3038247973
+dimwishlist:item=586671776&perks=247725512,1015611457
+dimwishlist:item=586671776&perks=3938834702,3038247973
+dimwishlist:item=586671776&perks=3938834702,1015611457
+dimwishlist:item=586671776&perks=3511092054,3038247973
+dimwishlist:item=586671776&perks=3511092054,1015611457
+
+
+// Something New - [Fallout E1 Solstice Preview] (pve)
+//notes: [Fallout E1 Solstice Preview] tags:pve
+dimwishlist:item=586671776&perks=3523296417,124408337
+dimwishlist:item=586671776&perks=3523296417,3592538738
+
+
 // Sojourner's Tale - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Tier B Rank 22/43 tags:god-pve
 dimwishlist:item=599895591&perks=3300816228,4104185692
@@ -5969,6 +5990,22 @@ dimwishlist:item=2313726158&perks=923806249,831391274,1607056502
 // Belisarius-D - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] Chattering Bone seems better, this seems more PvP tags:pve
 dimwishlist:item=2313726158&perks=
+
+
+//  - [Fallout E1 Solstice Preview] (pve)
+//notes: [Fallout E1 Solstice Preview] tags:pve
+dimwishlist:item=2326578623&perks=776531651,2048641572
+dimwishlist:item=2326578623&perks=776531651,2610012052
+
+
+//  - [Fallout E1 Solstice Preview] (pvp)
+//notes: [Fallout E1 Solstice Preview] Also check out Lethophobia for Slickdraw. tags:pvp
+dimwishlist:item=2326578623&perks=1866048759,3414324643
+
+
+//  - [Fallout E1 Solstice Preview] (pvp)
+//notes: [Fallout E1 Solstice Preview] Also check out Lethophobia for Slickdraw. Loose Change gives lots of Aim Assist, up to 100 with 1 Targeting mod. tags:pvp
+dimwishlist:item=2326578623&perks=1119449540,1683379515
 
 
 // Lodbrok-C - [Aztecross S23 World Drop Godrolls] (pvp)
@@ -11131,6 +11168,14 @@ dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2846385770
 dimwishlist:item=4100775158&perks=2451262963,4071163871
 
 
+// Crowning Duologue - [Fallout E1 Solstice Preview] (pve)
+//notes: [Fallout E1 Solstice Preview] Strand substitute for Apex Predator, although 13% less damage due to Precision Frame. Air Trigger basically no-kill Outlaw, just watch that DPS phase jumping. tags:pve
+dimwishlist:item=4106757302&perks=1523832109,3078487919
+dimwishlist:item=4106757302&perks=1523832109,968510818
+dimwishlist:item=4106757302&perks=1421772400,3078487919
+dimwishlist:item=4106757302&perks=1421772400,968510818
+
+
 // Snorri FR5 (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=4114929480&perks=1467527085,1687452232,280464955,2652708987
@@ -11352,6 +11397,24 @@ dimwishlist:item=4162642204&perks=2039302152,4104185692,1281216113
 //notes: [Aegis S23 Endgame Analysis] Tier D Rank 38/40 tags:pve
 dimwishlist:item=4164201232&perks=3400784728,3523296417
 dimwishlist:item=4164201232&perks=3400784728,2610012052
+
+
+// Compass Rose - [Fallout E1 Solstice Preview] (god-pvp)
+//notes: [Fallout E1 Solstice Preview] Competitive with Matador 64. Finally gets Threat Detector/Opening Shot godroll, but also Slickdraw for max Handling while the decreased Target Acquisition isn't too impactful on close-range shotguns. tags:god-pvp
+dimwishlist:item=4169225313&perks=202670084,3142289711,1821614984,47981717
+
+
+// Compass Rose - [Fallout E1 Solstice Preview] (god-pvp)
+//notes: [Fallout E1 Solstice Preview] Competitive with Matador 64. Finally gets Threat Detector/Opening Shot godroll, but also Slickdraw for max Handling while the decreased Target Acquisition isn't too impactful on close-range shotguns. tags:god-pvp
+dimwishlist:item=4169225313&perks=1840239774,3142289711,4071163871,47981717
+
+
+// Compass Rose - [Fallout E1 Solstice Preview] (pve)
+//notes: [Fallout E1 Solstice Preview] Mostly a PvP shotgun. tags:pve
+dimwishlist:item=4169225313&perks=25606670,2360754333
+dimwishlist:item=4169225313&perks=25606670,2679249093
+dimwishlist:item=4169225313&perks=1126264488,2360754333
+dimwishlist:item=4169225313&perks=1126264488,2679249093
 
 
 // Adored - [Aegis S23 Endgame Analysis] (pve)

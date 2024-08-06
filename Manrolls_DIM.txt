@@ -7,6 +7,26 @@ description:Rolls from TheAegisRelic, CoolGuy, Aztecross, FalloutPlays, Demonjoe
 // USE "BIG ENDIAN" (first perk changes the most often line-to-line, last perk changes the least)
 
 
+// Ergo Sum - [Aegis E1 Ergo Sum Update] (god-pve)
+//notes: [Aegis E1 Ergo Sum Update] Unplanned Reprieve Transcendent (Lightweight, Vortex). For DPS on wide hitbox bosses (Lightweight for group DPS with Wolfpack, Vortex for solo DPS; Wave ~1% higher DPS if only one using Unplanned Reprieve with Wolfpack). Use Heavy or Enduring Guard since Transcendence buffs charge rate a lot. tags:god-pve
+dimwishlist:item=1681583613&perks=1261178282,2753228730,1327961177
+dimwishlist:item=1681583613&perks=3666208348,2753228730,1327961177
+dimwishlist:item=1681583613&perks=1261178282,2557881346,1327961177
+dimwishlist:item=1681583613&perks=3666208348,2557881346,1327961177
+
+//notes: [Aegis E1 Ergo Sum Update] The Perfect Fifth Transcendent (Caster, Wave). For DPS on general bosses. Use Heavy or Enduring Guard since Transcendence buffs charge rate a lot. tags:god-pve
+dimwishlist:item=1681583613&perks=1261178282,519046634,1522566605
+dimwishlist:item=1681583613&perks=3666208348,519046634,1522566605
+dimwishlist:item=1681583613&perks=1261178282,289811733,1522566605
+dimwishlist:item=1681583613&perks=3666208348,289811733,1522566605
+
+//notes: [Aegis E1 Ergo Sum Update] Wolfpack Rounds Transcendent (Lightweight, Wave). For support on sword DPS bosses. Use Heavy or Enduring Guard since Transcendence buffs charge rate a lot. tags:god-pve
+dimwishlist:item=1681583613&perks=1261178282,2753228730,1959135343
+dimwishlist:item=1681583613&perks=3666208348,2753228730,1959135343
+dimwishlist:item=1681583613&perks=1261178282,289811733,1959135343
+dimwishlist:item=1681583613&perks=3666208348,289811733,1959135343
+
+
 // Ergo Sum - [Aegis E1 Ergo Sum Update] (pve)
 //notes: [Aegis E1 Ergo Sum Update] Arc Conductor (Wave, Caster, Lightweight). For splash special ammo ad-clear. Use Heavy or Enduring Guard since Transcendence buffs charge rate a lot. tags:pve
 dimwishlist:item=1681583613&perks=1261178282,289811733,3949068808
@@ -17,25 +37,31 @@ dimwishlist:item=1681583613&perks=1261178282,2753228730,3949068808
 dimwishlist:item=1681583613&perks=3666208348,2753228730,3949068808
 
 
-// Ergo Sum - [Aegis E1 Ergo Sum Update] (god-pve)
-//notes: [Aegis E1 Ergo Sum Update] Unplanned Reprieve Transcendent (Lightweight, Vortex). For DPS on wide hitbox bosses (Lightweight for group DPS with Wolfpack, Vortex for solo DPS; Wave ~1% higher DPS if only one using Unplanned Reprieve with Wolfpack). Use Heavy or Enduring Guard since Transcendence buffs charge rate a lot. tags:god-pve
-dimwishlist:item=1681583613&perks=1261178282,2753228730,1327961177
-dimwishlist:item=1681583613&perks=3666208348,2753228730,1327961177
-dimwishlist:item=1681583613&perks=1261178282,2557881346,1327961177
-dimwishlist:item=1681583613&perks=3666208348,2557881346,1327961177
+// Solipsism - [Mactics E1 Tier List] (god-pve)
+// S-Tier: Assassin/Synthoceps + Inmost/Harmony + Inmost/Star-Eater + Inmost/Synthoceps + Inmost/Verity + Osmiomancy/Harmony + Osmiomancy/Star-Eater + Osmiomancy/Verity
+//notes: [Mactics E1 Tier List] S-Tier (not in any particular order). tags:god-pve
+dimwishlist:item=2273643087&perks=1476923952,1476923956
+dimwishlist:item=2273643087&perks=1476923953,183430254
+dimwishlist:item=2273643087&perks=1476923953,1476923955
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+dimwishlist:item=2273643087&perks=1476923953,1476923957
+dimwishlist:item=2273643087&perks=183430253,183430254
+dimwishlist:item=2273643087&perks=183430253,1476923955
+dimwishlist:item=2273643087&perks=183430253,1476923957
+
+// A-Tier: Assassin/Verity + Osmiomancy/Synthoceps
+//notes: [Mactics E1 Tier List] A-Tier (not in any particular order). tags:god-pve
+dimwishlist:item=2273643087&perks=1476923952,1476923957
+dimwishlist:item=2273643087&perks=183430253,1476923956
 
 
-// Ergo Sum - [Aegis E1 Ergo Sum Update] (god-pve)
-//notes: [Aegis E1 Ergo Sum Update] The Perfect Fifth Transcendent (Caster, Wave). For DPS on general bosses. Use Heavy or Enduring Guard since Transcendence buffs charge rate a lot. tags:god-pve
-dimwishlist:item=1681583613&perks=1261178282,519046634,1522566605
-dimwishlist:item=1681583613&perks=3666208348,519046634,1522566605
-dimwishlist:item=1681583613&perks=1261178282,289811733,1522566605
-dimwishlist:item=1681583613&perks=3666208348,289811733,1522566605
-
-
-// Ergo Sum - [Aegis E1 Ergo Sum Update] (god-pve)
-//notes: [Aegis E1 Ergo Sum Update] Wolfpack Rounds Transcendent (Lightweight, Wave). For support on sword DPS bosses. Use Heavy or Enduring Guard since Transcendence buffs charge rate a lot. tags:god-pve
-dimwishlist:item=1681583613&perks=1261178282,2753228730,1959135343
-dimwishlist:item=1681583613&perks=3666208348,2753228730,1959135343
-dimwishlist:item=1681583613&perks=1261178282,289811733,1959135343
-dimwishlist:item=1681583613&perks=3666208348,289811733,1959135343
+// Solipsism - [Mactics E1 Tier List] (pve)
+// B-Tier: Assassin/Harmony + Assassin/Star-Eater + Necrotic/Harmony + Necrotic/Synthoceps + Apotheosis/Verity + Apotheosis/Harmony + Apotheosis/Star-Eater
+//notes: [Mactics E1 Tier List] B-Tier (not in any particular order). tags:pve
+dimwishlist:item=2273643087&perks=1476923952,183430254
+dimwishlist:item=2273643087&perks=1476923952,1476923955
+dimwishlist:item=2273643087&perks=183430252,183430254
+dimwishlist:item=2273643087&perks=183430252,1476923956
+dimwishlist:item=2273643087&perks=183430250,1476923957
+dimwishlist:item=2273643087&perks=183430250,183430254
+dimwishlist:item=2273643087&perks=183430250,1476923955

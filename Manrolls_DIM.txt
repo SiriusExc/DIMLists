@@ -4,7 +4,7 @@ description:Rolls from TheAegisRelic, CoolGuy, Aztecross, FalloutPlays, Demonjoe
 // item=name
 //notes:reviewer= (??? tags= ???): item=notes|tags:tags=
 //dimwishlist:item=2906615623&perks=776531651,2048641572
-// USE "BIG ENDIAN" (first perk changes the most often line-to-line, last perk changes the least)
+// IF ALL ELSE EQUAL, USE "BIG ENDIAN" (first perk changes the most often line-to-line, last perk changes the least)
 
 
 // Ergo Sum - [Aegis E1 Ergo Sum Update] (god-pve)
@@ -37,9 +37,25 @@ dimwishlist:item=1681583613&perks=1261178282,2753228730,3949068808
 dimwishlist:item=1681583613&perks=3666208348,2753228730,3949068808
 
 
+// Solipsism - [Datto Snap Everything Build] (pve)
+//notes: [Datto Snap Everything Build] https://youtu.be/vjRI1giA6Pw Can be substituted with Claws of Ahamkara; Necrotic is just nice extra. tags:pve
+dimwishlist:item=2273643087&perks=183430252,183430247
+
+
+// Solipsism - [Datto E1 Best Perks] (god-pve)
+// Rolls: Osmiomancy/Star-Eater + Osmiomancy/Harmony + Inmost/Star-Eater + Inmost/Harmony + Inmost/Synthoceps + Apotheosis/Star-Eater
+//notes: [Datto E1 Best Perks] https://youtu.be/RoUVMPye90Q Rolls worthy of use. tags:god-pve
+dimwishlist:item=2273643087&perks=183430253,1476923955
+dimwishlist:item=2273643087&perks=183430253,183430254
+dimwishlist:item=2273643087&perks=1476923953,1476923955
+dimwishlist:item=2273643087&perks=1476923953,183430254
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+dimwishlist:item=2273643087&perks=183430250,1476923955
+
+
 // Solipsism - [Mactics E1 Tier List] (god-pve)
 // S-Tier: Assassin/Synthoceps + Inmost/Harmony + Inmost/Star-Eater + Inmost/Synthoceps + Inmost/Verity + Osmiomancy/Harmony + Osmiomancy/Star-Eater + Osmiomancy/Verity
-//notes: [Mactics E1 Tier List] S-Tier (not in any particular order). tags:god-pve
+//notes: [Mactics E1 Tier List] https://youtu.be/U_oQx6d7C_o S-Tier (not in any particular order). tags:god-pve
 dimwishlist:item=2273643087&perks=1476923952,1476923956
 dimwishlist:item=2273643087&perks=1476923953,183430254
 dimwishlist:item=2273643087&perks=1476923953,1476923955
@@ -50,14 +66,14 @@ dimwishlist:item=2273643087&perks=183430253,1476923955
 dimwishlist:item=2273643087&perks=183430253,1476923957
 
 // A-Tier: Assassin/Verity + Osmiomancy/Synthoceps
-//notes: [Mactics E1 Tier List] A-Tier (not in any particular order). tags:god-pve
+//notes: [Mactics E1 Tier List] https://youtu.be/U_oQx6d7C_o A-Tier (not in any particular order). tags:god-pve
 dimwishlist:item=2273643087&perks=1476923952,1476923957
 dimwishlist:item=2273643087&perks=183430253,1476923956
 
 
 // Solipsism - [Mactics E1 Tier List] (pve)
 // B-Tier: Assassin/Harmony + Assassin/Star-Eater + Necrotic/Harmony + Necrotic/Synthoceps + Apotheosis/Verity + Apotheosis/Harmony + Apotheosis/Star-Eater
-//notes: [Mactics E1 Tier List] B-Tier (not in any particular order). tags:pve
+//notes: [Mactics E1 Tier List] https://youtu.be/U_oQx6d7C_o B-Tier (not in any particular order). tags:pve
 dimwishlist:item=2273643087&perks=1476923952,183430254
 dimwishlist:item=2273643087&perks=1476923952,1476923955
 dimwishlist:item=2273643087&perks=183430252,183430254
@@ -65,3 +81,93 @@ dimwishlist:item=2273643087&perks=183430252,1476923956
 dimwishlist:item=2273643087&perks=183430250,1476923957
 dimwishlist:item=2273643087&perks=183430250,183430254
 dimwishlist:item=2273643087&perks=183430250,1476923955
+
+
+// Relativism - [Datto E1 Best Perks] (god-pve)
+// Rolls: Caliban/Liar + Caliban/Synthoceps + Inmost/Synthoceps + Inmost/Verity + Inmost/Cyrtaranchne + Renewal/Cyrtarachne + Galanor/Gyrfalcon + Foetracer/Gyrfalcon + Assassin/Gyrfalcon + Assassin/Synthoceps + Renewal/Verity + Foetracer/Verity
+//notes: [Datto E1 Best Perks] https://youtu.be/dm7VHw7orkA Rolls worthy of use. tags:god-pve
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+dimwishlist:item=2809120022&perks=3751917996,1476923956
+dimwishlist:item=2809120022&perks=1476923953,1476923956
+dimwishlist:item=2809120022&perks=1476923953,1476923957
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+dimwishlist:item=2809120022&perks=3751917995,3751917994
+dimwishlist:item=2809120022&perks=3751917998,3751917993
+dimwishlist:item=2809120022&perks=3751917997,3751917993
+dimwishlist:item=2809120022&perks=1476923952,3751917993
+dimwishlist:item=2809120022&perks=1476923952,1476923956
+dimwishlist:item=2809120022&perks=3751917997,1476923957
+dimwishlist:item=2809120022&perks=3751917995,1476923957
+
+
+// Relativism - [Mactics E1 Tier List] (god-pve)
+// S-Tier: Caliban/Liar + Caliban/Synthoceps
+//notes: [Mactics E1 Tier List] https://youtu.be/ZGdE33XIIP4 S-Tier (not in any particular order). tags:god-pve
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+dimwishlist:item=2809120022&perks=3751917996,1476923956
+
+// A-Tier: Caliban/Star-Eater + Caliban/Verity + Galanor/Liar + Galanor/Synthoceps + Galanor/Verity + Galanor/Star-Eater + Inmost/Verity + Inmost/Synthoceps + Renewal/Synthoceps + Renewal/Liar + Renewal/Cyrtarachne + Inmost/Cyrtarachne
+//notes: [Mactics E1 Tier List] https://youtu.be/ZGdE33XIIP4 A-Tier (not in any particular order). tags:god-pve
+dimwishlist:item=2809120022&perks=3751917996,1476923955
+dimwishlist:item=2809120022&perks=3751917996,1476923957
+dimwishlist:item=2809120022&perks=3751917998,3751917992
+dimwishlist:item=2809120022&perks=3751917998,1476923956
+dimwishlist:item=2809120022&perks=3751917998,1476923957
+dimwishlist:item=2809120022&perks=3751917998,1476923955
+dimwishlist:item=2809120022&perks=1476923953,1476923957
+dimwishlist:item=2809120022&perks=1476923953,1476923956
+dimwishlist:item=2809120022&perks=3751917995,1476923956
+dimwishlist:item=2809120022&perks=3751917995,3751917992
+dimwishlist:item=2809120022&perks=3751917995,3751917994
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+
+
+// Relativism - [Mactics E1 Tier List] (pve)
+// B-Tier: Caliban/Cyrtarachne + Dragon/Liar + Dragon/Synthoceps + Foetracer/Liar + Foetracer/Synthoceps + Galanor/Cyrtarachne + Inmost/Liar + Inmost/Star-Eater + Renewal/Star-Eater + Renewal/Verity
+//notes: [Mactics E1 Tier List] https://youtu.be/ZGdE33XIIP4 B-Tier (not in any particular order). tags:pve
+dimwishlist:item=2809120022&perks=3751917996,3751917994
+dimwishlist:item=2809120022&perks=3751917999,3751917992
+dimwishlist:item=2809120022&perks=3751917999,1476923956
+dimwishlist:item=2809120022&perks=3751917997,3751917992
+dimwishlist:item=2809120022&perks=3751917997,1476923956
+dimwishlist:item=2809120022&perks=3751917998,3751917994
+dimwishlist:item=2809120022&perks=1476923953,3751917992
+dimwishlist:item=2809120022&perks=1476923953,1476923955
+dimwishlist:item=2809120022&perks=3751917995,1476923955
+dimwishlist:item=2809120022&perks=3751917995,1476923957
+
+
+// Stoicism - [Datto E1 Best Perks] (god-pve)
+// Rolls: Inmost/Synthoceps + Inmost/Contact
+//notes: [Datto E1 Best Perks] https://youtu.be/iD430q04jJg Rolls worthy of use. tags:god-pve
+dimwishlist:item=266021826&perks=1476923953,1476923956
+dimwishlist:item=266021826&perks=1476923953,3573490504
+
+
+// Stoicism - [Mactics E1 Tier List] (god-pve)
+// S-Tier: Inmost/Synthoceps + Inmost/Star-Eater
+//notes: [Mactics E1 Tier List] https://youtu.be/ZvGY8fGK8xc S-Tier (not in any particular order). tags:god-pve
+dimwishlist:item=266021826&perks=1476923953,1476923956
+dimwishlist:item=266021826&perks=1476923953,1476923955
+
+// A-Tier: Abeyant/Star-Eater + Abeyant/Synthoceps + Abeyant/Contact + Abeyant/Scars + Inmost/Scars + Inmost/Contact
+//notes: [Mactics E1 Tier List] https://youtu.be/ZvGY8fGK8xc A-Tier (not in any particular order). tags:god-pve
+dimwishlist:item=266021826&perks=3573490510,1476923955
+dimwishlist:item=266021826&perks=3573490510,1476923956
+dimwishlist:item=266021826&perks=3573490510,3573490504
+dimwishlist:item=266021826&perks=3573490510,3573490507
+dimwishlist:item=266021826&perks=1476923953,3573490507
+dimwishlist:item=266021826&perks=1476923953,3573490504
+
+
+// Stoicism - [Mactics E1 Tier List] (pve)
+// B-Tier: Abeyant/Verity + Abeyant/Lupi + Abeyant/Horn + Assassin/Synthoceps + Warrior/Star-Eater + Inmost/Lupi + Inmost/Verity
+//notes: [Mactics E1 Tier List] https://youtu.be/ZvGY8fGK8xc B-Tier (not in any particular order). tags:pve
+dimwishlist:item=266021826&perks=3573490510,1476923957
+dimwishlist:item=266021826&perks=3573490510,3573490501
+dimwishlist:item=266021826&perks=3573490510,3573490506
+dimwishlist:item=266021826&perks=1476923952,1476923956
+dimwishlist:item=266021826&perks=3573490511,1476923955
+dimwishlist:item=266021826&perks=1476923953,3573490501
+dimwishlist:item=266021826&perks=1476923953,1476923957
+

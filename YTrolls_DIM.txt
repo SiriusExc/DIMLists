@@ -1743,6 +1743,83 @@ dimwishlist:item=578105049&perks=3523296417,1720528630,1156201379
 dimwishlist:item=578105049&perks=3523296417,2173046394,1156201379
 
 
+// Something New - [Aztecross E1 Solstice Review] (god-pve)
+//notes: [Aztecross E1 Solstice Review] Worst compared to most popular 120 Hand Cannons, except craftable Round Robin. Subsistence combats bad 120 mag size (with Appended Mag and Backup Mag mod). Demolitionist/Headstone work together but Ruin/Fissures fragments is buggy and overwrites it, not granting extra grenade energy. Dream Work great for bypassing reloads in group PvE. tags:god-pve
+dimwishlist:item=586671776&perks=1840239774,1087426260,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=1840239774,1087426260,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=1840239774,1087426260,247725512,124408337,1380061575
+dimwishlist:item=586671776&perks=1840239774,106909392,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=1840239774,106909392,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=1840239774,106909392,247725512,124408337,1380061575
+dimwishlist:item=586671776&perks=1840239774,3230963543,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=1840239774,3230963543,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=1840239774,3230963543,247725512,124408337,1380061575
+dimwishlist:item=586671776&perks=4090651448,1087426260,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=4090651448,1087426260,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=4090651448,1087426260,247725512,124408337,1380061575
+dimwishlist:item=586671776&perks=4090651448,106909392,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=4090651448,106909392,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=4090651448,106909392,247725512,124408337,1380061575
+dimwishlist:item=586671776&perks=4090651448,3230963543,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=4090651448,3230963543,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=4090651448,3230963543,247725512,124408337,1380061575
+dimwishlist:item=586671776&perks=1482024992,1087426260,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=1482024992,1087426260,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=1482024992,1087426260,247725512,124408337,1380061575
+dimwishlist:item=586671776&perks=1482024992,106909392,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=1482024992,106909392,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=1482024992,106909392,247725512,124408337,1380061575
+dimwishlist:item=586671776&perks=1482024992,3230963543,247725512,3038247973,1380061575
+dimwishlist:item=586671776&perks=1482024992,3230963543,247725512,4104185692,1380061575
+dimwishlist:item=586671776&perks=1482024992,3230963543,247725512,124408337,1380061575
+
+
+// Something New - [Aztecross E1 Solstice Review] (god-pve)
+//notes: [Aztecross E1 Solstice Review] Worst compared to most popular 120 Hand Cannons, except craftable Round Robin. Subsistence combats bad 120 mag size (with Appended Mag and Backup Mag mod). Demolitionist/Headstone work together but Ruin/Fissures fragments is buggy and overwrites it, not granting extra grenade energy. Dream Work great for bypassing reloads in group PvE. tags:god-pve
+dimwishlist:item=586671776&perks=1840239774,1087426260,3523296417,124408337,1380061575
+dimwishlist:item=586671776&perks=1840239774,106909392,3523296417,124408337,1380061575
+dimwishlist:item=586671776&perks=1840239774,3230963543,3523296417,124408337,1380061575
+dimwishlist:item=586671776&perks=4090651448,1087426260,3523296417,124408337,1380061575
+dimwishlist:item=586671776&perks=4090651448,106909392,3523296417,124408337,1380061575
+dimwishlist:item=586671776&perks=4090651448,3230963543,3523296417,124408337,1380061575
+dimwishlist:item=586671776&perks=1482024992,1087426260,3523296417,124408337,1380061575
+dimwishlist:item=586671776&perks=1482024992,106909392,3523296417,124408337,1380061575
+dimwishlist:item=586671776&perks=1482024992,3230963543,3523296417,124408337,1380061575
+
+
+// Something New - [Aztecross E1 Solstice Review] (god-pve)
+//notes: [Aztecross E1 Solstice Review] Worst compared to most popular 120 Hand Cannons, except craftable Round Robin. Subsistence combats bad 120 mag size (with Appended Mag and Backup Mag mod). Demolitionist/Headstone work together but Ruin/Fissures fragments is buggy and overwrites it, not granting extra grenade energy. Dream Work great for bypassing reloads in group PvE. tags:god-pve
+dimwishlist:item=586671776&perks=1840239774,1087426260,1820235745,3038247973,1380061575
+dimwishlist:item=586671776&perks=1840239774,1087426260,1820235745,4104185692,1380061575
+dimwishlist:item=586671776&perks=1840239774,1087426260,1820235745,124408337,1380061575
+dimwishlist:item=586671776&perks=1840239774,106909392,1820235745,3038247973,1380061575
+dimwishlist:item=586671776&perks=1840239774,106909392,1820235745,4104185692,1380061575
+dimwishlist:item=586671776&perks=1840239774,106909392,1820235745,124408337,1380061575
+dimwishlist:item=586671776&perks=4090651448,1087426260,1820235745,3038247973,1380061575
+dimwishlist:item=586671776&perks=4090651448,1087426260,1820235745,4104185692,1380061575
+dimwishlist:item=586671776&perks=4090651448,1087426260,1820235745,124408337,1380061575
+dimwishlist:item=586671776&perks=4090651448,106909392,1820235745,3038247973,1380061575
+dimwishlist:item=586671776&perks=4090651448,106909392,1820235745,4104185692,1380061575
+dimwishlist:item=586671776&perks=4090651448,106909392,1820235745,124408337,1380061575
+dimwishlist:item=586671776&perks=1482024992,1087426260,1820235745,3038247973,1380061575
+dimwishlist:item=586671776&perks=1482024992,1087426260,1820235745,4104185692,1380061575
+dimwishlist:item=586671776&perks=1482024992,1087426260,1820235745,124408337,1380061575
+dimwishlist:item=586671776&perks=1482024992,106909392,1820235745,3038247973,1380061575
+dimwishlist:item=586671776&perks=1482024992,106909392,1820235745,4104185692,1380061575
+dimwishlist:item=586671776&perks=1482024992,106909392,1820235745,124408337,1380061575
+
+
+// Something New - [Aztecross E1 Solstice Review] (god-pvp)
+//notes: [Aztecross E1 Solstice Review] Worst compared to most popular 120 Hand Cannons, except craftable Round Robin. Use Elemental Capacitor with Arc/Void supers, Precision Instrument for duels, Kill Clip for 6v6. Nadir Focus great for PvP. tags:god-pvp
+dimwishlist:item=586671776&perks=3511092054,555281244,2509860981
+dimwishlist:item=586671776&perks=3511092054,1015611457,2509860981
+
+
+// Something New - [CoolGuy E1 Solstice Review] (god-pve)
+//notes: [CoolGuy E1 Solstice Review] 120s have a place in PvE now, especially with Dream Work helping with bypassing reloading. Demolitionist/Headstone better on Bold Endings, Wellspring great for Prismatic (try Mataiodoxia Devour Turret Warlock). tags:god-pve
+dimwishlist:item=586671776&perks=3523296417,3592538738
+
+
 // Something New - [Fallout E1 Solstice Preview] (pvp)
 //notes: [Fallout E1 Solstice Preview] tags:pvp
 dimwishlist:item=586671776&perks=957782887,555281244,2509860981
@@ -1762,6 +1839,18 @@ dimwishlist:item=586671776&perks=3511092054,1015611457
 //notes: [Fallout E1 Solstice Preview] tags:pve
 dimwishlist:item=586671776&perks=3523296417,124408337
 dimwishlist:item=586671776&perks=3523296417,3592538738
+
+
+// Something New - [CoolGuy E1 Solstice Review] (pvp)
+//notes: [CoolGuy E1 Solstice Review] Second Kinetic slot 120 to get Precision Instrument (after Crimil's Dagger) and works better here, with nicer model (like Better Devils). Try get Range up to 85-88. tags:pvp
+dimwishlist:item=586671776&perks=3250034553,3142289711,957782887,555281244
+dimwishlist:item=586671776&perks=3250034553,3142289711,3511092054,555281244
+dimwishlist:item=586671776&perks=3250034553,3142289711,3938834702,555281244
+dimwishlist:item=586671776&perks=3250034553,3142289711,247725512,555281244
+dimwishlist:item=586671776&perks=1482024992,3142289711,957782887,555281244
+dimwishlist:item=586671776&perks=1482024992,3142289711,3511092054,555281244
+dimwishlist:item=586671776&perks=1482024992,3142289711,3938834702,555281244
+dimwishlist:item=586671776&perks=1482024992,3142289711,247725512,555281244
 
 
 // Sojourner's Tale - [Aegis E1A2 Endgame Analysis] (pve)
@@ -2483,6 +2572,18 @@ dimwishlist:item=958384347&perks=3300816228,3927722942
 dimwishlist:item=958384347&perks=3300816228,1275731761
 
 
+// Wild Style (Adept) - [Aztecross E1A2 Review] (god-pve)
+//notes: [Aztecross E1A2 Review] Best to build fully into Solar with Char/Ashes fragments, use Artifact mod to make more Ignitions. Mountaintop with Vorpal/Recombination is better for single-target DPS. Hard to proc Stunning Recovery but it does reload immediately for follow-up shot, Tex Balanced Stock also hard to use on GL, Vanguard's Vindication is nice with multi-kills. tags:god-pve
+dimwishlist:item=959037361&perks=981914802,3301904089,968510818,4293542123
+dimwishlist:item=959037361&perks=981914802,3301904089,968510818,4049631843
+dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,4293542123
+dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,4049631843
+dimwishlist:item=959037361&perks=3525010810,3301904089,968510818,4293542123
+dimwishlist:item=959037361&perks=3525010810,3301904089,968510818,4049631843
+dimwishlist:item=959037361&perks=3525010810,3301904089,1523832109,4293542123
+dimwishlist:item=959037361&perks=3525010810,3301904089,1523832109,4049631843
+
+
 // Wild Style (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 6/22 tags:pve
 dimwishlist:item=959037361&perks=1523832109,3078487919,2437618208
@@ -2497,6 +2598,24 @@ dimwishlist:item=959037361&perks=1583705720,4049631843
 // Wild Style (Adept) - [Fallout S23 Mid Season Patch] (pve)
 //notes: [Fallout S23 Mid Season Patch] tags:pve
 dimwishlist:item=959037361&perks=968510818,4293542123
+
+
+// Wild Style (Adept) - [Aztecross E1A2 Review] (pve)
+//notes: [Aztecross E1A2 Review] Best to build fully into Solar with Char/Ashes fragments, use Artifact mod to make more Ignitions. Mountaintop with Vorpal/Recombination is better for single-target DPS. Hard to proc Stunning Recovery but it does reload immediately for follow-up shot, Tex Balanced Stock also hard to use on GL, Vanguard's Vindication is nice with multi-kills. tags:pve
+dimwishlist:item=959037361&perks=981914802,3301904089,960810156,3708227201
+dimwishlist:item=959037361&perks=3525010810,3301904089,960810156,3708227201
+
+
+// Wild Style (Adept) - [Aztecross E1A2 Review] (pve)
+//notes: [Aztecross E1A2 Review] Best to build fully into Solar with Char/Ashes fragments, use Artifact mod to make more Ignitions. Mountaintop with Vorpal/Recombination is better for single-target DPS. Hard to proc Stunning Recovery but it does reload immediately for follow-up shot, Tex Balanced Stock also hard to use on GL, Vanguard's Vindication is nice with multi-kills. tags:pve
+dimwishlist:item=959037361&perks=981914802,3301904089,968510818,1546637391
+dimwishlist:item=959037361&perks=981914802,3301904089,968510818,3078487919
+dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,1546637391
+dimwishlist:item=959037361&perks=981914802,3301904089,1523832109,3078487919
+dimwishlist:item=959037361&perks=3525010810,3301904089,968510818,1546637391
+dimwishlist:item=959037361&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=959037361&perks=3525010810,3301904089,1523832109,1546637391
+dimwishlist:item=959037361&perks=3525010810,3301904089,1523832109,3078487919
 
 
 // Aurvandil FR6 - [Aegis E1A2 Endgame Analysis] (pve)
@@ -3314,6 +3433,29 @@ dimwishlist:item=1298672084&perks=691659142,2360754333,2838996248
 dimwishlist:item=1298672084&perks=691659142,1546637391,2838996248
 
 
+// Perfect Paradox - [Aztecross E1A2 Review] (god-pve)
+//notes: [Aztecross E1A2 Review] Cast No Shadows refills 20% of magazine per melee hit, and has no cooldown so melee multikills can fill entire mag at once, basically made for Perfect Paradox. Hitting occasional crits with Trench Barrel makes it competitive with Heritage. tags:god-pve
+dimwishlist:item=1298672084&perks=691659142,2679249093,2838996248
+
+
+// Perfect Paradox - [Aztecross E1A2 Review] (god-pve)
+//notes: [Aztecross E1A2 Review] Cast No Shadows refills 20% of magazine per melee hit, and has no cooldown so melee multikills can fill entire mag at once, basically made for Perfect Paradox. Hitting occasional crits with Trench Barrel makes it competitive with Heritage. tags:god-pve
+dimwishlist:item=1298672084&perks=25606670,2360754333,2838996248
+dimwishlist:item=1298672084&perks=691659142,2360754333,2838996248
+
+
+// Perfect Paradox - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] More PvE than PvP—Rapid-Fire no good when you have to land all 12 shots for a kill, with Range being pure bait; just use a Glaive there. Cast No Shadows great with Trench Barrel, loading 2 shots with each melee hit. No Assault Mag so go for ammo (8+) and Handling. Threat Detector and Threat Remover doesn't make sense in PvE. tags:god-pve
+dimwishlist:item=1298672084&perks=1300023272,106909392,691659142,2360754333,2838996248
+dimwishlist:item=1298672084&perks=1300023272,106909392,691659142,2679249093,2838996248
+dimwishlist:item=1298672084&perks=1300023272,106909392,2869569095,2360754333,2838996248
+dimwishlist:item=1298672084&perks=1300023272,106909392,2869569095,2679249093,2838996248
+dimwishlist:item=1298672084&perks=1300023272,106909392,3161816588,2360754333,2838996248
+dimwishlist:item=1298672084&perks=1300023272,106909392,3161816588,2679249093,2838996248
+dimwishlist:item=1298672084&perks=1300023272,106909392,25606670,2360754333,2838996248
+dimwishlist:item=1298672084&perks=1300023272,106909392,25606670,2679249093,2838996248
+
+
 // Perfect Paradox - [Llama E1A2 God Rolls] (pve)
 //notes: [Llama E1A2 God Rolls] Origin Trait basically Grave Robber. Swashbuckler good for Prismatic Liar's build, otherwise One-Two Punch still king. tags:pve
 dimwishlist:item=1298672084&perks=4071163871,2679249093,2838996248
@@ -3343,6 +3485,11 @@ dimwishlist:item=1298672084&perks=3161816588,47981717
 // Perfect Paradox - [Datto E1 Review] (pve)
 //notes: [Datto E1 Review] tags:pve
 dimwishlist:item=1298672084&perks=4071163871,2679249093
+
+
+// Perfect Paradox - [Aztecross E1A2 Review] (pvp)
+//notes: [Aztecross E1A2 Review] Your choice of barrels, Corkscrew or Barrel Shroud best of the best. tags:pvp
+dimwishlist:item=1298672084&perks=3142289711,3161816588,47981717
 
 
 // Brigand's Law - Ad clear (god-pve)
@@ -3506,6 +3653,18 @@ dimwishlist:item=1331824604&perks=1482024992,3142289711,684456054,3673922083,212
 dimwishlist:item=1331824604&perks=1482024992,3142289711,684456054,2173046394,2120661319
 
 
+// Wild Style - [Aztecross E1A2 Review] (god-pve)
+//notes: [Aztecross E1A2 Review] Best to build fully into Solar with Char/Ashes fragments, use Artifact mod to make more Ignitions. Mountaintop with Vorpal/Recombination is better for single-target DPS. Hard to proc Stunning Recovery but it does reload immediately for follow-up shot, Tex Balanced Stock also hard to use on GL, Vanguard's Vindication is nice with multi-kills. tags:god-pve
+dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,4293542123
+dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,4049631843
+dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,4293542123
+dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,4049631843
+dimwishlist:item=1332123064&perks=3525010810,3301904089,968510818,4293542123
+dimwishlist:item=1332123064&perks=3525010810,3301904089,968510818,4049631843
+dimwishlist:item=1332123064&perks=3525010810,3301904089,1523832109,4293542123
+dimwishlist:item=1332123064&perks=3525010810,3301904089,1523832109,4049631843
+
+
 // Wild Style - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 6/22 tags:pve
 dimwishlist:item=1332123064&perks=1523832109,3078487919,2437618208
@@ -3520,6 +3679,24 @@ dimwishlist:item=1332123064&perks=1583705720,4049631843
 // Wild Style - [Fallout S23 Mid Season Patch] (pve)
 //notes: [Fallout S23 Mid Season Patch] tags:pve
 dimwishlist:item=1332123064&perks=968510818,4293542123
+
+
+// Wild Style - [Aztecross E1A2 Review] (pve)
+//notes: [Aztecross E1A2 Review] Best to build fully into Solar with Char/Ashes fragments, use Artifact mod to make more Ignitions. Mountaintop with Vorpal/Recombination is better for single-target DPS. Hard to proc Stunning Recovery but it does reload immediately for follow-up shot, Tex Balanced Stock also hard to use on GL, Vanguard's Vindication is nice with multi-kills. tags:pve
+dimwishlist:item=1332123064&perks=981914802,3301904089,960810156,3708227201
+dimwishlist:item=1332123064&perks=3525010810,3301904089,960810156,3708227201
+
+
+// Wild Style - [Aztecross E1A2 Review] (pve)
+//notes: [Aztecross E1A2 Review] Best to build fully into Solar with Char/Ashes fragments, use Artifact mod to make more Ignitions. Mountaintop with Vorpal/Recombination is better for single-target DPS. Hard to proc Stunning Recovery but it does reload immediately for follow-up shot, Tex Balanced Stock also hard to use on GL, Vanguard's Vindication is nice with multi-kills. tags:pve
+dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,1546637391
+dimwishlist:item=1332123064&perks=981914802,3301904089,968510818,3078487919
+dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,1546637391
+dimwishlist:item=1332123064&perks=981914802,3301904089,1523832109,3078487919
+dimwishlist:item=1332123064&perks=3525010810,3301904089,968510818,1546637391
+dimwishlist:item=1332123064&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=1332123064&perks=3525010810,3301904089,1523832109,1546637391
+dimwishlist:item=1332123064&perks=3525010810,3301904089,1523832109,3078487919
 
 
 // The Slammer (Adept) - [Aegis S23 Mid-Season Patch] (pve)
@@ -5572,6 +5749,13 @@ dimwishlist:item=2119346509&perks=1583705720,4049631843
 dimwishlist:item=2126178511&perks=1840239774,3230963543,684456054,2173046394
 
 
+// Corrasion - [Aztecross E1A2 Review] (god-pve)
+//notes: [Aztecross E1A2 Review] Heavy Burst great archetype in both PvE and PvP, though recoil feels off (like a 3-burst), use Nullify for now in PvP. Radiolaria Transposer nice little plus on top. tags:god-pve
+dimwishlist:item=2126178511&perks=3828510309,2173046394,253121539
+dimwishlist:item=2126178511&perks=684456054,2173046394,253121539
+dimwishlist:item=2126178511&perks=1421772400,2173046394,253121539
+
+
 // Corrasion - [Fallout E1A2 God Rolls] (pve)
 //notes: [Fallout E1A2 God Rolls] Eddy Current for Arc/Prismatic play, Enlightened Action still feels easier though. Air Trigger reload buff seems on-par with Outlaw, one of the fastest; a dark horse selection. tags:pve
 dimwishlist:item=2126178511&perks=839105230,3230963543,3828510309,2173046394
@@ -5601,6 +5785,13 @@ dimwishlist:item=2126178511&perks=3828510309,2173046394
 dimwishlist:item=2126178511&perks=3828510309,4049631843
 
 
+// Corrasion - [Aztecross E1A2 Review] (pve)
+//notes: [Aztecross E1A2 Review] Heavy Burst great archetype in both PvE and PvP, though recoil feels off (like a 3-burst), use Nullify for now in PvP. Radiolaria Transposer nice little plus on top. This Major burst roll not the best use of this weapon. tags:pve
+dimwishlist:item=2126178511&perks=2213355989,4049631843
+dimwishlist:item=2126178511&perks=2213355989,2319119708
+dimwishlist:item=2126178511&perks=2213355989,4104185692
+
+
 // Hero of Ages - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier D Rank 23/28 tags:pve
 dimwishlist:item=2139640995&perks=1749209109,1685431615
@@ -5622,6 +5813,18 @@ dimwishlist:item=2149683300&perks=3700496672,2173046394,566815328
 dimwishlist:item=2149683300&perks=3700496672,1720528630,566815328
 dimwishlist:item=2149683300&perks=2840833776,2173046394,566815328
 dimwishlist:item=2149683300&perks=2840833776,1720528630,566815328
+
+
+// Warden's Law - [Aztecross E1A2 Commenters] (pve)
+//notes: [Aztecross E1A2 Commenters] Fourth Times The Charm no longer needed with Appended or Tactical Mag, slot in Backup Mag mod and gets you the 24 shots needed to 100% utilise Lucky Pants. Go for Enlightened Action to help with the reload at the end. https://youtu.be/CG9jlbY99Hk tags:pve
+dimwishlist:item=2152484073&perks=1087426260,3828510309,1546637391
+dimwishlist:item=2152484073&perks=1087426260,3828510309,4104185692
+dimwishlist:item=2152484073&perks=1087426260,3523296417,1546637391
+dimwishlist:item=2152484073&perks=1087426260,3523296417,4104185692
+dimwishlist:item=2152484073&perks=106909392,3828510309,1546637391
+dimwishlist:item=2152484073&perks=106909392,3828510309,4104185692
+dimwishlist:item=2152484073&perks=106909392,3523296417,1546637391
+dimwishlist:item=2152484073&perks=106909392,3523296417,4104185692
 
 
 // Apostate - [Aegis E1A2 Endgame Analysis] (pve)
@@ -5722,6 +5925,11 @@ dimwishlist:item=2194955522&perks=2779035018,557221067
 dimwishlist:item=2198166292&perks=1087426260,3017780555,4293542123
 
 
+// Aberrant Action - [Aztecross E1A2 Review] (god-pve)
+//notes: [Aztecross E1A2 Review] Another great Rocket Sidearm, builds into Solar. Has ability regen roll, and Solar/survival roll. tags:god-pve
+dimwishlist:item=2198166292&perks=3525010810,106909392,3017780555,4293542123
+
+
 // Aberrant Action - [Llama E1A2 God Rolls] (pve)
 //notes: [Llama E1A2 God Rolls] tags:pve
 dimwishlist:item=2198166292&perks=2010801679,4293542123
@@ -5750,6 +5958,19 @@ dimwishlist:item=2198166292&perks=2859149211,4293542123
 dimwishlist:item=2198166292&perks=2859149211,2610012052
 dimwishlist:item=2198166292&perks=2010801679,4293542123
 dimwishlist:item=2198166292&perks=2010801679,2610012052
+
+
+// Aberrant Action - [Aztecross E1A2 Review] (pve)
+//notes: [Aztecross E1A2 Review] Another great Rocket Sidearm, builds into Solar. Has ability regen roll, and Solar/survival roll. tags:pve
+dimwishlist:item=2198166292&perks=880644845,3523296417
+dimwishlist:item=2198166292&perks=880644845,4293542123
+dimwishlist:item=2198166292&perks=691659142,3523296417
+dimwishlist:item=2198166292&perks=691659142,4293542123
+
+
+// Aberrant Action - [Aztecross E1A2 Review] (pve)
+//notes: [Aztecross E1A2 Review] Another great Rocket Sidearm, builds into Solar. Has ability regen roll, and Solar/survival roll. tags:pve
+dimwishlist:item=2198166292&perks=2010801679,4293542123
 
 
 // Zealot's Reward - [Aegis E1A2 Endgame Analysis] (pve)
@@ -6025,6 +6246,44 @@ dimwishlist:item=2326578623&perks=852209214,16392701,1119449540,3414324643,39882
 //notes: [Aztecross E1 Solstice Review] tags:pvp
 dimwishlist:item=2326578623&perks=852209214,16392701,1866048759,3414324643
 dimwishlist:item=2326578623&perks=2801223209,16392701,1866048759,3414324643
+
+
+// Fortunate Star - [CoolGuy E1 Solstice Review] (pve)
+//notes: [CoolGuy E1 Solstice Review] Dream Work for team play, Veist for solo play. Successful Warm-up chains to 20 secs so long as you're getting kills, better than other speedups. Disruption Break nice but Lightweight frame worse than Precision (Lethophobia). Destabilizing Rounds better on other weapon types but usable here especially with Unraveling Rounds. Find worthy rolls for your playstyle and dump the rest. tags:pve
+dimwishlist:item=2326578623&perks=2652708987,2610012052
+dimwishlist:item=2326578623&perks=2652708987,2048641572
+dimwishlist:item=2326578623&perks=2652708987,1683379515
+dimwishlist:item=2326578623&perks=776531651,2610012052
+dimwishlist:item=2326578623&perks=776531651,2048641572
+dimwishlist:item=2326578623&perks=776531651,1683379515
+
+
+// Fortunate Star - [CoolGuy E1 Solstice Review] (pvp)
+//notes: [CoolGuy E1 Solstice Review] Dream Work for team play, Veist for solo play. Successful Warm-up chains to 20 secs so long as you're getting kills, better than other speedups. Disruption Break nice but Lightweight frame worse than Precision (Lethophobia). Destabilizing Rounds better on other weapon types but usable here especially with Unraveling Rounds. Find worthy rolls for your playstyle and dump the rest. tags:pvp
+dimwishlist:item=2326578623&perks=2801223209,3429800428,2652708987,1015611457
+dimwishlist:item=2326578623&perks=2801223209,3429800428,2652708987,2610012052
+dimwishlist:item=2326578623&perks=2801223209,3429800428,2652708987,3414324643
+dimwishlist:item=2326578623&perks=2801223209,3429800428,2652708987,555281244
+dimwishlist:item=2326578623&perks=2801223209,3827198035,2652708987,1015611457
+dimwishlist:item=2326578623&perks=2801223209,3827198035,2652708987,2610012052
+dimwishlist:item=2326578623&perks=2801223209,3827198035,2652708987,3414324643
+dimwishlist:item=2326578623&perks=2801223209,3827198035,2652708987,555281244
+dimwishlist:item=2326578623&perks=2801223209,3311977193,2652708987,1015611457
+dimwishlist:item=2326578623&perks=2801223209,3311977193,2652708987,2610012052
+dimwishlist:item=2326578623&perks=2801223209,3311977193,2652708987,3414324643
+dimwishlist:item=2326578623&perks=2801223209,3311977193,2652708987,555281244
+dimwishlist:item=2326578623&perks=852209214,3429800428,2652708987,1015611457
+dimwishlist:item=2326578623&perks=852209214,3429800428,2652708987,2610012052
+dimwishlist:item=2326578623&perks=852209214,3429800428,2652708987,3414324643
+dimwishlist:item=2326578623&perks=852209214,3429800428,2652708987,555281244
+dimwishlist:item=2326578623&perks=852209214,3827198035,2652708987,1015611457
+dimwishlist:item=2326578623&perks=852209214,3827198035,2652708987,2610012052
+dimwishlist:item=2326578623&perks=852209214,3827198035,2652708987,3414324643
+dimwishlist:item=2326578623&perks=852209214,3827198035,2652708987,555281244
+dimwishlist:item=2326578623&perks=852209214,3311977193,2652708987,1015611457
+dimwishlist:item=2326578623&perks=852209214,3311977193,2652708987,2610012052
+dimwishlist:item=2326578623&perks=852209214,3311977193,2652708987,3414324643
+dimwishlist:item=2326578623&perks=852209214,3311977193,2652708987,555281244
 
 
 // Lodbrok-C - [Aztecross S23 World Drop Godrolls] (pvp)
@@ -9354,6 +9613,18 @@ dimwishlist:item=3248429089&perks=3108830275,2896748467,120721526
 dimwishlist:item=3248429089&perks=3108830275,557221067,120721526
 
 
+// Warden's Law (Adept) - [Aztecross E1A2 Commenters] (pve)
+//notes: [Aztecross E1A2 Commenters] Fourth Times The Charm no longer needed with Appended or Tactical Mag, slot in Backup Mag mod and gets you the 24 shots needed to 100% utilise Lucky Pants. Go for Enlightened Action to help with the reload at the end. https://youtu.be/CG9jlbY99Hk tags:pve
+dimwishlist:item=3250744600&perks=1087426260,3828510309,1546637391
+dimwishlist:item=3250744600&perks=1087426260,3828510309,4104185692
+dimwishlist:item=3250744600&perks=1087426260,3523296417,1546637391
+dimwishlist:item=3250744600&perks=1087426260,3523296417,4104185692
+dimwishlist:item=3250744600&perks=106909392,3828510309,1546637391
+dimwishlist:item=3250744600&perks=106909392,3828510309,4104185692
+dimwishlist:item=3250744600&perks=106909392,3523296417,1546637391
+dimwishlist:item=3250744600&perks=106909392,3523296417,4104185692
+
+
 // Crowning Duologue - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier D Rank 20/23 tags:pve
 dimwishlist:item=3256453690&perks=3523296417,11612903,1380061575
@@ -11079,12 +11350,26 @@ dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2846385770
 dimwishlist:item=4100775158&perks=2451262963,4071163871
 
 
+// Crowning Duologue - [Aztecross E1 Solstice Review] (god-pve)
+//notes: [Aztecross E1 Solstice Review] Strand precision frame, some unusual perk combinations enable situational DPS rotations (Apotheosis/Arcane Needle with Graverobber/Bait And Switch). Apex still better but can keep for Strand surge content. tags:god-pve
+dimwishlist:item=4106757302&perks=981914802,3796465595,1523832109,3078487919
+dimwishlist:item=4106757302&perks=981914802,3796465595,1523832109,1439600632
+dimwishlist:item=4106757302&perks=981914802,3796465595,1631667848,3078487919
+dimwishlist:item=4106757302&perks=981914802,3796465595,1631667848,1439600632
+
+
 // Crowning Duologue - [Fallout E1 Solstice Preview] (pve)
 //notes: [Fallout E1 Solstice Preview] Strand substitute for Apex Predator, although 13% less damage due to Precision Frame. Air Trigger basically no-kill Outlaw, just watch that DPS phase jumping. tags:pve
 dimwishlist:item=4106757302&perks=1523832109,3078487919
 dimwishlist:item=4106757302&perks=1523832109,968510818
 dimwishlist:item=4106757302&perks=1421772400,3078487919
 dimwishlist:item=4106757302&perks=1421772400,968510818
+
+
+// Crowning Duologue - [Aztecross E1 Solstice Review] (pve)
+//notes: [Aztecross E1 Solstice Review] Strand precision frame, ad clear roll. Chain Reaction works better than Reverberation, Hatchling may not have any targets left to hit though. tags:pve
+dimwishlist:item=4106757302&perks=3523296417,2396489472
+dimwishlist:item=4106757302&perks=831391274,2396489472
 
 
 // Snorri FR5 (god-pvp)
@@ -11128,6 +11413,40 @@ dimwishlist:item=4132072834&perks=3978468247,2319119708,2565067140
 // Outrageous Fortune - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier D Rank 18/19 tags:pve
 dimwishlist:item=4146702548&perks=3300816228,706527188
+
+
+// Better Devils - [Aztecross E1A2 Review] (god-pve)
+//notes: [Aztecross E1A2 Review] Worst compared to most popular 140 Hand Cannons, but has Strand synergy—should only use if building into Strand. Enlightened Action/Air Trigger can help with Handling/feel of weapon if not using Flared Magwell/Tactical Mag. tags:god-pve
+dimwishlist:item=4152016199&perks=3230963543,691659142,831391274
+dimwishlist:item=4152016199&perks=3230963543,3523296417,831391274
+dimwishlist:item=4152016199&perks=3230963543,923806249,831391274
+dimwishlist:item=4152016199&perks=3230963543,3828510309,831391274
+dimwishlist:item=4152016199&perks=3230963543,1421772400,831391274
+dimwishlist:item=4152016199&perks=106909392,691659142,831391274
+dimwishlist:item=4152016199&perks=106909392,3523296417,831391274
+dimwishlist:item=4152016199&perks=106909392,923806249,831391274
+dimwishlist:item=4152016199&perks=106909392,3828510309,831391274
+dimwishlist:item=4152016199&perks=106909392,1421772400,831391274
+
+
+// Better Devils - [Aztecross E1A2 Review] (pve)
+//notes: [Aztecross E1A2 Review] Worst compared to most popular 140 Hand Cannons, but has Strand synergy—should only use if building into Strand. Enlightened Action/Air Trigger can help with Handling/feel of weapon if not using Flared Magwell/Tactical Mag. tags:pve
+dimwishlist:item=4152016199&perks=3230963543,923806249,4104185692
+dimwishlist:item=4152016199&perks=3230963543,923806249,3038247973
+dimwishlist:item=4152016199&perks=106909392,923806249,4104185692
+dimwishlist:item=4152016199&perks=106909392,923806249,3038247973
+
+
+// Better Devils - [Aztecross E1A2 Review] (pvp)
+//notes: [Aztecross E1A2 Review] Worst compared to most popular 140 Hand Cannons, has some Range issues but has a following, Midnight Coup (Zen Moment/Explosive Payload) or Rose (Slideshot/Explosive Payload) more preferable. Use Range MW and Nadir Focus. tags:pvp
+dimwishlist:item=4152016199&perks=3250034553,3142289711,247725512,2387244414,2509860981
+dimwishlist:item=4152016199&perks=3250034553,3142289711,247725512,1015611457,2509860981
+dimwishlist:item=4152016199&perks=3250034553,3142289711,247725512,3038247973,2509860981
+dimwishlist:item=4152016199&perks=3250034553,3142289711,247725512,47981717,2509860981
+dimwishlist:item=4152016199&perks=3250034553,3142289711,588594999,2387244414,2509860981
+dimwishlist:item=4152016199&perks=3250034553,3142289711,588594999,1015611457,2509860981
+dimwishlist:item=4152016199&perks=3250034553,3142289711,588594999,3038247973,2509860981
+dimwishlist:item=4152016199&perks=3250034553,3142289711,588594999,47981717,2509860981
 
 
 // Appetence - [CoolGuy S23 Review] (god-pve)

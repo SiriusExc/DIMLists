@@ -313,6 +313,14 @@ dimwishlist:item=172461430&perks=2978966579,3640170453,1878756191
 dimwishlist:item=172461430&perks=3418782618,3640170453,1878756191
 
 
+// Critical Anomaly (Adept) - [Aztecross E1 Review] (god-pve)
+//notes: [Aztecross E1 Review] Aggressive Snipers have never kept up with Rapid-Fire for DPS but the perks here are great. Chill Clip freezes in 2 shots and 3rd shatters for extra damage, and deals with Overload/Unstoppable Champions at any range. tags:god-pve
+dimwishlist:item=172461430&perks=2978966579,3640170453
+dimwishlist:item=172461430&perks=2978966579,3078487919
+dimwishlist:item=172461430&perks=1523832109,3640170453
+dimwishlist:item=172461430&perks=1523832109,3078487919
+
+
 // Critical Anomaly (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Firing Line more dps, but Triple Tap has higher total damage. tags:pve
 dimwishlist:item=172461430&perks=106909392,1523832109,1771339417
@@ -332,6 +340,12 @@ dimwishlist:item=172461430&perks=106909392,2978966579,124408337
 
 // Critical Anomaly (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pvp)
 //notes: [Datto E1 Salvation's Edge Best Rolls] tags:pvp
+dimwishlist:item=172461430&perks=47981717,957782887
+dimwishlist:item=172461430&perks=706527188,957782887
+
+
+// Critical Anomaly (Adept) - [Aztecross E1 Review] (pvp)
+//notes: [Aztecross E1 Review] Aggressive Snipers have never kept up with Rapid-Fire for DPS but the perks here are great. Chill Clip freezes in 2 shots and 3rd shatters for extra damage. tags:pvp
 dimwishlist:item=172461430&perks=47981717,957782887
 dimwishlist:item=172461430&perks=706527188,957782887
 
@@ -405,6 +419,30 @@ dimwishlist:item=192784503&perks=2801223209,16392701,3700496672,3365897133,10501
 //notes: [CoolGuy's S22 Review] Get Draw Time MW tags:pvp
 dimwishlist:item=192784503&perks=2801223209,16392701,201365942,2652708987,1050127423
 dimwishlist:item=192784503&perks=2801223209,16392701,3828510309,2652708987,1050127423
+
+
+// Crimil's Dagger - [Aztecross E1A1 Review] (god-pvp)
+//notes: [Aztecross E1A1 Review] Nice stats, comparable to Malediction. Still has slow Reload and Handling, need perks to compensate. Precision Instrument great for duels, Kill Clip or Adagio for 6v6. Explosive Payload has damage falloff benefits but overall lower damage. tags:god-pvp
+dimwishlist:item=198854575&perks=3250034553,3142289711,3828510309,555281244,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,3828510309,1015611457,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,3828510309,3673922083,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,555281244,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,1015611457,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,588594999,3673922083,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,1421772400,555281244,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,1421772400,1015611457,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,1421772400,3673922083,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,2039302152,555281244,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,2039302152,1015611457,3989629871
+dimwishlist:item=198854575&perks=3250034553,3142289711,2039302152,3673922083,3989629871
+
+
+// Crimil's Dagger - [Aztecross E1A1 Review] (pve)
+//notes: [Aztecross E1A1 Review] Use a 140 or 180; 120s feel bad especially with this small of a mag. tags:pve
+dimwishlist:item=198854575&perks=1421772400,3038247973
+dimwishlist:item=198854575&perks=1168162263,3038247973
+dimwishlist:item=198854575&perks=3828510309,3038247973
+dimwishlist:item=198854575&perks=880644845,3038247973
 
 
 // Hung Jury SR4 - [Aztecross S23 ITL God Rolls] (pve)
@@ -1204,6 +1242,14 @@ dimwishlist:item=445197843&perks=2978966579,3640170453,1878756191
 dimwishlist:item=445197843&perks=3418782618,3640170453,1878756191
 
 
+// Critical Anomaly - [Aztecross E1 Review] (god-pve)
+//notes: [Aztecross E1 Review] Aggressive Snipers have never kept up with Rapid-Fire for DPS but the perks here are great. Chill Clip freezes in 2 shots and 3rd shatters for extra damage, and deals with Overload/Unstoppable Champions at any range. tags:god-pve
+dimwishlist:item=445197843&perks=2978966579,3640170453
+dimwishlist:item=445197843&perks=2978966579,3078487919
+dimwishlist:item=445197843&perks=1523832109,3640170453
+dimwishlist:item=445197843&perks=1523832109,3078487919
+
+
 // Critical Anomaly - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Firing Line more dps, but Triple Tap has higher total damage. tags:pve
 dimwishlist:item=445197843&perks=106909392,1523832109,1771339417
@@ -1223,6 +1269,12 @@ dimwishlist:item=445197843&perks=106909392,2978966579,124408337
 
 // Critical Anomaly - [Datto E1 Salvation's Edge Best Rolls] (pvp)
 //notes: [Datto E1 Salvation's Edge Best Rolls] tags:pvp
+dimwishlist:item=445197843&perks=47981717,957782887
+dimwishlist:item=445197843&perks=706527188,957782887
+
+
+// Critical Anomaly - [Aztecross E1 Review] (pvp)
+//notes: [Aztecross E1 Review] Aggressive Snipers have never kept up with Rapid-Fire for DPS but the perks here are great. Chill Clip freezes in 2 shots and 3rd shatters for extra damage. tags:pvp
 dimwishlist:item=445197843&perks=47981717,957782887
 dimwishlist:item=445197843&perks=706527188,957782887
 
@@ -3187,6 +3239,14 @@ dimwishlist:item=1239700299&perks=4071163871,2679249093
 dimwishlist:item=1248372789&perks=3250034553,3142289711,2450788523,1890422124
 
 
+// Imminence - [Aztecross E1 Review] (god-pve)
+//notes: [Aztecross E1 Review] Some unique perk combos, middle of the road stats with a slight Reload weakness. tags:god-pve
+dimwishlist:item=1258168956&perks=3523296417,3824105627
+dimwishlist:item=1258168956&perks=3523296417,3640170453
+dimwishlist:item=1258168956&perks=691659142,3824105627
+dimwishlist:item=1258168956&perks=691659142,3640170453
+
+
 // Imminence - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Enlightened Action more general, Pugilist/Demolitionist/Slice more for specific builds. Firefly harder to proc for a 900 RPM SMG. tags:pve
 dimwishlist:item=1258168956&perks=3828510309,3824105627
@@ -3216,6 +3276,19 @@ dimwishlist:item=1258168956&perks=923806249,831391274
 dimwishlist:item=1258168956&perks=1359896290,1015611457
 dimwishlist:item=1258168956&perks=1428297954,1015611457
 dimwishlist:item=1258168956&perks=2451262963,1015611457
+
+
+// Imminence - [Aztecross E1 Review] (pve)
+//notes: [Aztecross E1 Review] Some unique perk combos, middle of the road stats with a slight Reload weakness. For full Strand builds. tags:pve
+dimwishlist:item=1258168956&perks=923806249,831391274
+
+
+// Imminence - [Aztecross E1 Review] (pvp)
+//notes: [Aztecross E1 Review] Some unique perk combos, middle of the road stats with a slight Reload weakness. 900s not the best for PvP but go for Range MW if you're using it, otherwise use Immortal or Shayura's Wrath. tags:pvp
+dimwishlist:item=1258168956&perks=3250034553,3142289711,1359896290,365154968
+dimwishlist:item=1258168956&perks=3250034553,3142289711,1359896290,1015611457
+dimwishlist:item=1258168956&perks=3250034553,3142289711,2451262963,365154968
+dimwishlist:item=1258168956&perks=3250034553,3142289711,2451262963,1015611457
 
 
 // Widow's Bite - [Aegis E1A2 Endgame Analysis] (pve)
@@ -4254,6 +4327,23 @@ dimwishlist:item=1501688142&perks=424370782,332733060
 dimwishlist:item=1501688142&perks=424370782,555281244
 dimwishlist:item=1501688142&perks=968510818,332733060
 dimwishlist:item=1501688142&perks=968510818,555281244
+
+
+// Claws of the Wolf - [Aztecross E1A1 Review] (god-pve)
+//notes: [Aztecross E1A1 Review] So many good Rapid-Fire Pulses, and feels even better after TFS launched, second best DPS after Heavy Bursts. Does have worst stats, though with juicy perks. tags:god-pve
+dimwishlist:item=1505862304&perks=776531651,2048641572
+
+
+// Claws of the Wolf - [Aztecross E1A1 Review] (god-pvp)
+//notes: [Aztecross E1A1 Review] So many good Rapid-Fire Pulses, and feels even better after TFS launched, second best DPS after Heavy Bursts. Does have worst stats, though with juicy perks. Kill Clip for 6v6, Zen Moment for duels. Arrowhead Brake helps with Handling feel. Use with Counterbalance mod with Range MW. tags:god-pvp
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,1015611457
+dimwishlist:item=1505862304&perks=839105230,1885400500,460017080,2387244414
+dimwishlist:item=1505862304&perks=839105230,1885400500,3938834702,1015611457
+dimwishlist:item=1505862304&perks=839105230,1885400500,3938834702,2387244414
+dimwishlist:item=1505862304&perks=839105230,1561002382,460017080,1015611457
+dimwishlist:item=1505862304&perks=839105230,1561002382,460017080,2387244414
+dimwishlist:item=1505862304&perks=839105230,1561002382,3938834702,1015611457
+dimwishlist:item=1505862304&perks=839105230,1561002382,3938834702,2387244414
 
 
 // Blood Feud ()
@@ -10397,6 +10487,21 @@ dimwishlist:item=3678653083&perks=839105230,106909392,3418782618,4104185692
 dimwishlist:item=3678653083&perks=839105230,3230963543,3418782618,4104185692
 
 
+// Veiled Threat - [Aztecross E1A1 Review] (god-pve)
+//notes: [Aztecross E1A1 Review] Second worst 720 Autos ahead of Dark Decider, but rare Stasis Auto. Attrition Orbs needs a buff. Origin trait works with Shoot To Loot, though Headstone doesn't but can help proc origin trait. tags:god-pve
+dimwishlist:item=3685470415&perks=3700496672,124408337,253121539
+dimwishlist:item=3685470415&perks=3700496672,3324494224,253121539
+dimwishlist:item=3685470415&perks=3700496672,2109543898,253121539
+
+
+// Veiled Threat - [Aztecross E1A1 Review] (god-pvp)
+//notes: [Aztecross E1A1 Review] Scope is massive (for snipers?!) but when ADS it lands shots the best out of all Rapid-Fire Autos despite its stats. Use it to lock down 1v1s. Go for Range MW. tags:god-pvp
+dimwishlist:item=3685470415&perks=3250034553,3142289711,2451262963,588594999
+dimwishlist:item=3685470415&perks=3250034553,3142289711,2451262963,1365187766
+dimwishlist:item=3685470415&perks=3250034553,3142289711,3938834702,588594999
+dimwishlist:item=3685470415&perks=3250034553,3142289711,3938834702,1365187766
+
+
 // Veiled Threat - [Datto E1 Review] (pve)
 //notes: [Datto E1 Review] Headstone or ignore. tags:pve
 dimwishlist:item=3685470415&perks=839105230,880644845,124408337
@@ -10969,6 +11074,14 @@ dimwishlist:item=3947966653&perks=1583705720,2458213969
 dimwishlist:item=3947966653&perks=1583705720,831391274
 
 
+// Imminence (Adept) - [Aztecross E1 Review] (god-pve)
+//notes: [Aztecross E1 Review] Some unique perk combos, middle of the road stats with a slight Reload weakness. tags:god-pve
+dimwishlist:item=3951511045&perks=3523296417,3824105627
+dimwishlist:item=3951511045&perks=3523296417,3640170453
+dimwishlist:item=3951511045&perks=691659142,3824105627
+dimwishlist:item=3951511045&perks=691659142,3640170453
+
+
 // Imminence (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Enlightened Action more general, Pugilist/Demolitionist/Slice more for specific builds. Firefly harder to proc for a 900 RPM SMG. tags:pve
 dimwishlist:item=3951511045&perks=3828510309,3824105627
@@ -10998,6 +11111,19 @@ dimwishlist:item=3951511045&perks=923806249,831391274
 dimwishlist:item=3951511045&perks=1359896290,1015611457
 dimwishlist:item=3951511045&perks=1428297954,1015611457
 dimwishlist:item=3951511045&perks=2451262963,1015611457
+
+
+// Imminence (Adept) - [Aztecross E1 Review] (pve)
+//notes: [Aztecross E1 Review] Some unique perk combos, middle of the road stats with a slight Reload weakness. For full Strand builds. tags:pve
+dimwishlist:item=3951511045&perks=923806249,831391274
+
+
+// Imminence (Adept) - [Aztecross E1 Review] (pvp)
+//notes: [Aztecross E1 Review] Some unique perk combos, middle of the road stats with a slight Reload weakness. 900s not the best for PvP but go for Range MW if you're using it, otherwise use Immortal or Shayura's Wrath. tags:pvp
+dimwishlist:item=3951511045&perks=3250034553,3142289711,1359896290,365154968
+dimwishlist:item=3951511045&perks=3250034553,3142289711,1359896290,1015611457
+dimwishlist:item=3951511045&perks=3250034553,3142289711,2451262963,365154968
+dimwishlist:item=3951511045&perks=3250034553,3142289711,2451262963,1015611457
 
 
 // Midha's Reckoning - [Aegis E1A2 Endgame Analysis] (pve)

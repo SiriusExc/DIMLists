@@ -9792,6 +9792,47 @@ dimwishlist:item=3326850591&perks=3643424744,1771339417
 dimwishlist:item=3326850591&perks=3643424744,4104185692
 
 
+// Aisha's Care (Adept) - [Aztecross E1A1 Review] (god-pvp)
+//notes: [Aztecross E1A1 Review] Better than most people give it credit for. Desperado is good for 6v6, less so for duels. Zen Moment always good, To The Pain great as you keep the stacks until weapon is stowed. Weak against other Pulses, treat this like a Scout. tags:god-pvp
+dimwishlist:item=3332125295&perks=839105230,1561002382,2387244414,460017080,2839173408
+dimwishlist:item=3332125295&perks=839105230,1561002382,2387244414,3047969693,2839173408
+dimwishlist:item=3332125295&perks=839105230,1561002382,2387244414,588594999,2839173408
+dimwishlist:item=3332125295&perks=839105230,1561002382,2387244414,1015611457,2839173408
+dimwishlist:item=3332125295&perks=839105230,1561002382,3938834702,460017080,2839173408
+dimwishlist:item=3332125295&perks=839105230,1561002382,3938834702,3047969693,2839173408
+dimwishlist:item=3332125295&perks=839105230,1561002382,3938834702,588594999,2839173408
+dimwishlist:item=3332125295&perks=839105230,1561002382,3938834702,1015611457,2839173408
+dimwishlist:item=3332125295&perks=839105230,1885400500,2387244414,460017080,2839173408
+dimwishlist:item=3332125295&perks=839105230,1885400500,2387244414,3047969693,2839173408
+dimwishlist:item=3332125295&perks=839105230,1885400500,2387244414,588594999,2839173408
+dimwishlist:item=3332125295&perks=839105230,1885400500,2387244414,1015611457,2839173408
+dimwishlist:item=3332125295&perks=839105230,1885400500,3938834702,460017080,2839173408
+dimwishlist:item=3332125295&perks=839105230,1885400500,3938834702,3047969693,2839173408
+dimwishlist:item=3332125295&perks=839105230,1885400500,3938834702,588594999,2839173408
+dimwishlist:item=3332125295&perks=839105230,1885400500,3938834702,1015611457,2839173408
+
+
+// Aisha's Care (Adept) - [CoolGuy E1A1 Review] (pvp)
+//notes: [CoolGuy E1A1 Review] Deterministic Recoil: 100 > 85 > 75 > 90 (Counterbalance mod); 2-burst means it's not that bad, Omolon Fluid Dynamics also helps. Better stats than Nullify, but needs help with Handling. High-impact Frames still better, and you may not get your third burst off before dying; Desperado helps with a shorter TTK. Best of the mediocre weapons. tags:pvp
+dimwishlist:item=3332125295&perks=2387244414,3047969693,2839173408
+dimwishlist:item=3332125295&perks=2387244414,1015611457,2839173408
+dimwishlist:item=3332125295&perks=2387244414,2610012052,2839173408
+dimwishlist:item=3332125295&perks=3619207468,3047969693,2839173408
+dimwishlist:item=3332125295&perks=3619207468,1015611457,2839173408
+dimwishlist:item=3332125295&perks=3619207468,2610012052,2839173408
+
+
+// Aisha's Care (Adept) - [CoolGuy E1A1 Review] (pve)
+//notes: [CoolGuy E1A1 Review] Deterministic Recoil: 100 > 85 > 75 > 90 (Counterbalance mod); 2-burst means it's not that bad, Omolon Fluid Dynamics also helps. Better stats than Nullify, but needs help with Handling. Best of the mediocre weapons. tags:pve
+dimwishlist:item=3332125295&perks=923806249,831391274
+dimwishlist:item=3332125295&perks=1365187766,831391274
+
+
+// Aisha's Care (Adept) - [Aztecross E1A1 Review] (pve)
+//notes: [Aztecross E1A1 Review] tags:pve
+dimwishlist:item=3332125295&perks=923806249,831391274
+
+
 // Tarantula - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier D Rank 11/12 tags:pve
 dimwishlist:item=3335343363&perks=2869569095,2551157718
@@ -11129,6 +11170,47 @@ dimwishlist:item=3951511045&perks=3250034553,3142289711,2451262963,1015611457
 // Midha's Reckoning - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 13/31 tags:pve
 dimwishlist:item=3969066556&perks=2869569095,1427256713,120721526
+
+
+// Aisha's Care - [Aztecross E1A1 Review] (god-pvp)
+//notes: [Aztecross E1A1 Review] Better than most people give it credit for. Desperado is good for 6v6, less so for duels. Zen Moment always good, To The Pain great as you keep the stacks until weapon is stowed. Weak against other Pulses, treat this like a Scout. tags:god-pvp
+dimwishlist:item=3969379530&perks=839105230,1561002382,2387244414,460017080,2839173408
+dimwishlist:item=3969379530&perks=839105230,1561002382,2387244414,3047969693,2839173408
+dimwishlist:item=3969379530&perks=839105230,1561002382,2387244414,588594999,2839173408
+dimwishlist:item=3969379530&perks=839105230,1561002382,2387244414,1015611457,2839173408
+dimwishlist:item=3969379530&perks=839105230,1561002382,3938834702,460017080,2839173408
+dimwishlist:item=3969379530&perks=839105230,1561002382,3938834702,3047969693,2839173408
+dimwishlist:item=3969379530&perks=839105230,1561002382,3938834702,588594999,2839173408
+dimwishlist:item=3969379530&perks=839105230,1561002382,3938834702,1015611457,2839173408
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,460017080,2839173408
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,3047969693,2839173408
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,588594999,2839173408
+dimwishlist:item=3969379530&perks=839105230,1885400500,2387244414,1015611457,2839173408
+dimwishlist:item=3969379530&perks=839105230,1885400500,3938834702,460017080,2839173408
+dimwishlist:item=3969379530&perks=839105230,1885400500,3938834702,3047969693,2839173408
+dimwishlist:item=3969379530&perks=839105230,1885400500,3938834702,588594999,2839173408
+dimwishlist:item=3969379530&perks=839105230,1885400500,3938834702,1015611457,2839173408
+
+
+// Aisha's Care - [CoolGuy E1A1 Review] (pvp)
+//notes: [CoolGuy E1A1 Review] Deterministic Recoil: 100 > 85 > 75 > 90 (Counterbalance mod); 2-burst means it's not that bad, Omolon Fluid Dynamics also helps. Better stats than Nullify, but needs help with Handling. High-impact Frames still better, and you may not get your third burst off before dying; Desperado helps with a shorter TTK. Best of the mediocre weapons. tags:pvp
+dimwishlist:item=3969379530&perks=2387244414,3047969693,2839173408
+dimwishlist:item=3969379530&perks=2387244414,1015611457,2839173408
+dimwishlist:item=3969379530&perks=2387244414,2610012052,2839173408
+dimwishlist:item=3969379530&perks=3619207468,3047969693,2839173408
+dimwishlist:item=3969379530&perks=3619207468,1015611457,2839173408
+dimwishlist:item=3969379530&perks=3619207468,2610012052,2839173408
+
+
+// Aisha's Care - [CoolGuy E1A1 Review] (pve)
+//notes: [CoolGuy E1A1 Review] Deterministic Recoil: 100 > 85 > 75 > 90 (Counterbalance mod); 2-burst means it's not that bad, Omolon Fluid Dynamics also helps. Better stats than Nullify, but needs help with Handling. Best of the mediocre weapons. tags:pve
+dimwishlist:item=3969379530&perks=923806249,831391274
+dimwishlist:item=3969379530&perks=1365187766,831391274
+
+
+// Aisha's Care - [Aztecross E1A1 Review] (pve)
+//notes: [Aztecross E1A1 Review] tags:pve
+dimwishlist:item=3969379530&perks=923806249,831391274
 
 
 // Heliocentric QSc - [Aegis S23 Endgame Analysis] (god-pve)

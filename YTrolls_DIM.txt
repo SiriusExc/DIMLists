@@ -26,8 +26,8 @@ dimwishlist:item=5159537&perks=2779035018,124408337
 dimwishlist:item=5159537&perks=2779035018,2610012052
 
 
-// Temptation's Hook - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 24/28 tags:pve
+// Temptation's Hook - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier F Rank 33/33 tags:pve
 dimwishlist:item=35794111&perks=1749209109,3708227201
 dimwishlist:item=35794111&perks=1749209109,3913600130
 
@@ -197,21 +197,15 @@ dimwishlist:item=92459755&perks=4071163871,1609056795
 dimwishlist:item=92459755&perks=4071163871,2451262963
 
 
-// Double-Edged Answer - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 7/28 Wide perk pool but not too interesting, add clear sword but LMGs do that better right now, basically a Geodetic HSM tags:god-pve
+// Double-Edged Answer - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 8/33 Wide perk pool but not too interesting, add clear sword but LMGs do that better right now, basically a Geodetic HSM tags:pve
 dimwishlist:item=105164264&perks=1749209109,3708227201,2509860981
 dimwishlist:item=105164264&perks=1749209109,3913600130,2509860981
 
 
-// Eleatic Principle - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 22/22 tags:pve
-dimwishlist:item=105306149&perks=2495011826,4290541820,2565067140
-dimwishlist:item=105306149&perks=2495011826,2610012052,2565067140
-dimwishlist:item=105306149&perks=2495011826,2939589096,2565067140
-dimwishlist:item=105306149&perks=2495011826,365154968,2565067140
-dimwishlist:item=105306149&perks=2621346526,4290541820,2565067140
+// Eleatic Principle - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier F Rank 25/25 tags:pve
 dimwishlist:item=105306149&perks=2621346526,2610012052,2565067140
-dimwishlist:item=105306149&perks=2621346526,2939589096,2565067140
 dimwishlist:item=105306149&perks=2621346526,365154968,2565067140
 
 
@@ -483,8 +477,8 @@ dimwishlist:item=205225492&perks=247725512,2551157718
 dimwishlist:item=205225492&perks=2866798147,2551157718
 
 
-// Hammerhead - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/23 tags:god-pve
+// Hammerhead - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 5/25 tags:god-pve
 dimwishlist:item=211732170&perks=3418782618,557221067,2489430594
 dimwishlist:item=211732170&perks=3418782618,95528736,2489430594
 dimwishlist:item=211732170&perks=1354429876,557221067,2489430594
@@ -578,13 +572,13 @@ dimwishlist:item=235827225&perks=3108830275,124408337
 dimwishlist:item=235827225&perks=1168162263,124408337
 
 
-// Falling Guillotine - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/29 tags:god-pve
+// Falling Guillotine - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 1/33 tags:god-pve
 dimwishlist:item=243425374&perks=2396489472,2077819806,2489430594
-dimwishlist:item=243425374&perks=2396489472,3913600130,2489430594
+dimwishlist:item=243425374&perks=2396489472,3078487919,2489430594
 dimwishlist:item=243425374&perks=2396489472,3708227201,2489430594
 dimwishlist:item=243425374&perks=4104185692,2077819806,2489430594
-dimwishlist:item=243425374&perks=4104185692,3913600130,2489430594
+dimwishlist:item=243425374&perks=4104185692,3078487919,2489430594
 dimwishlist:item=243425374&perks=4104185692,3708227201,2489430594
 
 
@@ -606,8 +600,8 @@ dimwishlist:item=243425374&perks=2396489472,31345821
 dimwishlist:item=243425374&perks=2396489472,3913600130
 
 
-// Abide the Return - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 15/28 tags:god-pve
+// Abide the Return - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 16/33 tags:pve
 dimwishlist:item=250721843&perks=1749209109,3913600130,930692523
 
 
@@ -655,15 +649,9 @@ dimwishlist:item=267089201&perks=3828510309,1546637391
 dimwishlist:item=267089201&perks=3828510309,4104185692
 
 
-// Regnant - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 3/19 tags:god-pve
-dimwishlist:item=268260372&perks=424370782,331667533,1823011807
-dimwishlist:item=268260372&perks=424370782,3751912585,1823011807
-dimwishlist:item=268260372&perks=968510818,331667533,1823011807
+// Regnant - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 3/21 tags:god-pve
 dimwishlist:item=268260372&perks=968510818,3751912585,1823011807
-dimwishlist:item=268260372&perks=3528046508,331667533,1823011807
-dimwishlist:item=268260372&perks=3528046508,3751912585,1823011807
-dimwishlist:item=268260372&perks=3300816228,331667533,1823011807
 dimwishlist:item=268260372&perks=3300816228,3751912585,1823011807
 
 
@@ -1008,31 +996,13 @@ dimwishlist:item=396910433&perks=1749209109,3913600130,4264904777
 dimwishlist:item=396910433&perks=1749209109,3650930298,4264904777
 
 
-// Song of Ir Yût (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 2/22 tags:god-pve
-dimwishlist:item=407511664&perks=1906147653,639190697,1156201379
-dimwishlist:item=407511664&perks=1906147653,31345821,1156201379
-dimwishlist:item=407511664&perks=1906147653,3744057135,1156201379
-dimwishlist:item=407511664&perks=1906147653,3078487919,1156201379
-dimwishlist:item=407511664&perks=1906147653,331667533,1156201379
-dimwishlist:item=407511664&perks=1906147653,3751912585,1156201379
-dimwishlist:item=407511664&perks=3523296417,639190697,1156201379
+// Song of Ir Yût (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 2/25 tags:god-pve
 dimwishlist:item=407511664&perks=3523296417,31345821,1156201379
-dimwishlist:item=407511664&perks=3523296417,3744057135,1156201379
 dimwishlist:item=407511664&perks=3523296417,3078487919,1156201379
-dimwishlist:item=407511664&perks=3523296417,331667533,1156201379
 dimwishlist:item=407511664&perks=3523296417,3751912585,1156201379
-dimwishlist:item=407511664&perks=461595545,639190697,1156201379
-dimwishlist:item=407511664&perks=461595545,31345821,1156201379
-dimwishlist:item=407511664&perks=461595545,3744057135,1156201379
-dimwishlist:item=407511664&perks=461595545,3078487919,1156201379
-dimwishlist:item=407511664&perks=461595545,331667533,1156201379
-dimwishlist:item=407511664&perks=461595545,3751912585,1156201379
-dimwishlist:item=407511664&perks=1523832109,639190697,1156201379
 dimwishlist:item=407511664&perks=1523832109,31345821,1156201379
-dimwishlist:item=407511664&perks=1523832109,3744057135,1156201379
 dimwishlist:item=407511664&perks=1523832109,3078487919,1156201379
-dimwishlist:item=407511664&perks=1523832109,331667533,1156201379
 dimwishlist:item=407511664&perks=1523832109,3751912585,1156201379
 
 
@@ -1052,8 +1022,8 @@ dimwishlist:item=407511664&perks=1523832109,639190697,1156201379
 dimwishlist:item=407511664&perks=1523832109,31345821,1156201379
 
 
-// Berenger's Memory - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 19/19 tags:pve
+// Berenger's Memory - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 21/21 tags:pve
 dimwishlist:item=407621213&perks=2869569095,3300816228
 
 
@@ -1061,6 +1031,19 @@ dimwishlist:item=407621213&perks=2869569095,3300816228
 //notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 34/46 tags:pve
 dimwishlist:item=411397829&perks=3300816228,1546637391,4008116374
 dimwishlist:item=411397829&perks=3300816228,2173046394,4008116374
+
+
+// Speleologist - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 6/25 tags:god-pve
+dimwishlist:item=412251536&perks=968510818,4293542123,253121539
+dimwishlist:item=412251536&perks=968510818,557221067,253121539
+dimwishlist:item=412251536&perks=968510818,4049631843,253121539
+dimwishlist:item=412251536&perks=3017780555,4293542123,253121539
+dimwishlist:item=412251536&perks=3017780555,557221067,253121539
+dimwishlist:item=412251536&perks=3017780555,4049631843,253121539
+dimwishlist:item=412251536&perks=3993379141,4293542123,253121539
+dimwishlist:item=412251536&perks=3993379141,557221067,253121539
+dimwishlist:item=412251536&perks=3993379141,4049631843,253121539
 
 
 // Speleologist - [Datto E1 Review] (pve)
@@ -1085,14 +1068,6 @@ dimwishlist:item=412251536&perks=968510818,557221067
 dimwishlist:item=412251536&perks=2039302152,557221067
 
 
-// Acosmic - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 8/19 tags:god-pve
-dimwishlist:item=413901114&perks=2284787283,3751912585,2509860981
-dimwishlist:item=413901114&perks=2284787283,3194351027,2509860981
-dimwishlist:item=413901114&perks=2869569095,3751912585,2509860981
-dimwishlist:item=413901114&perks=2869569095,3194351027,2509860981
-
-
 // Acosmic - [Duqk's S22 FotL God Rolls] (pve)
 //notes: [Duqk's S22 FotL God Rolls] Bad archetype and weapon in this sandbox. High Ground is unique but not enough to save the weapon tags:pve
 dimwishlist:item=413901114&perks=2869569095,3194351027
@@ -1115,6 +1090,14 @@ dimwishlist:item=413901114&perks=981914802,3301904089,2284787283,3751912585
 dimwishlist:item=413901114&perks=981914802,3301904089,1119449540,2048641572
 
 
+// Acosmic - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 10/21 tags:pve
+dimwishlist:item=413901114&perks=2284787283,3751912585,2509860981
+dimwishlist:item=413901114&perks=2284787283,3194351027,2509860981
+dimwishlist:item=413901114&perks=2869569095,3751912585,2509860981
+dimwishlist:item=413901114&perks=2869569095,3194351027,2509860981
+
+
 // Zaouli's Bane - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Nation of Beasts (Dragonfly + Explosive Payload/Voltshot) tags:god-pve
 dimwishlist:item=431721920&perks=64866129,2675184851,120721526
@@ -1127,8 +1110,8 @@ dimwishlist:item=431721920&perks=3038247973,1183436451,120721526
 dimwishlist:item=431721920&perks=3038247973,3824105627,120721526
 
 
-// Swarm of the Raven - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 6/19 tags:god-pve
+// Swarm of the Raven - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 8/21 tags:pve
 dimwishlist:item=433905699&perks=3300816228,3751912585,3989629871
 dimwishlist:item=433905699&perks=2284787283,3751912585,3989629871
 
@@ -1284,8 +1267,8 @@ dimwishlist:item=445197843&perks=706527188,957782887
 dimwishlist:item=447296102&perks=1631667848,776531651,43555494
 
 
-// Corrective Measure - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 4/22 tags:god-pve
+// Corrective Measure - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 4/25 tags:god-pve
 dimwishlist:item=471518543&perks=3523296417,3824105627
 dimwishlist:item=471518543&perks=3523296417,11612903
 dimwishlist:item=471518543&perks=3523296417,4049631843
@@ -1370,19 +1353,16 @@ dimwishlist:item=484515708&perks=3523296417,3299896859
 dimwishlist:item=484515708&perks=3523296417,3215448563
 
 
-// Terminus Horizon - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 7/22 tags:god-pve
+// Terminus Horizon - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 11/25 tags:pve
 dimwishlist:item=487205709&perks=3523296417,11612903,2437618208
 dimwishlist:item=487205709&perks=3523296417,3751912585,2437618208
 dimwishlist:item=487205709&perks=2848615171,11612903,2437618208
 dimwishlist:item=487205709&perks=2848615171,3751912585,2437618208
 
 
-// Koraxis's Distress (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 4/19 tags:god-pve
-dimwishlist:item=495442100&perks=424370782,781192741,3186078099
-dimwishlist:item=495442100&perks=424370782,3708227201,3186078099
-dimwishlist:item=495442100&perks=968510818,781192741,3186078099
+// Koraxis's Distress (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 6/21 tags:god-pve
 dimwishlist:item=495442100&perks=968510818,3708227201,3186078099
 
 
@@ -1572,8 +1552,8 @@ dimwishlist:item=557165046&perks=1821614984,1546637391,3989629871
 dimwishlist:item=557165046&perks=3978468247,1546637391,3989629871
 
 
-// THE SWARM (Adept) - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 21/22 tags:pve
+// THE SWARM (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier F Rank 24/25 tags:pve
 dimwishlist:item=566740455&perks=2779035018,2848615171,744217850
 dimwishlist:item=566740455&perks=2779035018,2610012052,744217850
 
@@ -1708,8 +1688,8 @@ dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,4104185692
 
 
-// Edge Transit - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 1/21 tags:god-pve
+// Edge Transit - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 1/21 tags:god-pve
 dimwishlist:item=568611923&perks=968510818,3078487919,2489430594
 dimwishlist:item=568611923&perks=968510818,3194351027,2489430594
 dimwishlist:item=568611923&perks=968510818,3993379141,2489430594
@@ -1925,14 +1905,14 @@ dimwishlist:item=613334176&perks=3108830275,2396489472,3363267119
 dimwishlist:item=613334176&perks=3108830275,3592538738,3363267119
 
 
-// Falling Guillotine - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 19/28 tags:pve
+// Falling Guillotine - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 19/33 tags:pve
 dimwishlist:item=614426548&perks=1749209109,3708227201
 dimwishlist:item=614426548&perks=1749209109,3913600130
 
 
-// Cry Mutiny - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 11/19 tags:pve
+// Cry Mutiny - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 13/21 tags:pve
 dimwishlist:item=616582330&perks=3523296417,1546637391,515704826
 
 
@@ -2158,16 +2138,17 @@ dimwishlist:item=655712834&perks=4071163871,2048641572
 dimwishlist:item=655712834&perks=4071163871,3708227201
 
 
-// Hullabaloo - [Aegis S23 Mid-Season Patch] (pve)
-//notes: [Aegis S23 Mid-Season Patch] Probably won't be meta for damage but interesting for add clear, especially with the reserves buff. Better than Dimensional Hypotrochoid. tags:pve
-dimwishlist:item=657927352&perks=2869569095,3751912585
-dimwishlist:item=657927352&perks=2869569095,2396489472
-dimwishlist:item=657927352&perks=3300816228,3751912585
-dimwishlist:item=657927352&perks=3300816228,2396489472
-dimwishlist:item=657927352&perks=968510818,3751912585
-dimwishlist:item=657927352&perks=968510818,2396489472
-dimwishlist:item=657927352&perks=2173046394,3751912585
-dimwishlist:item=657927352&perks=2173046394,2396489472
+// Hullabaloo - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 7/21 Probably won't be meta for damage but interesting for add clear, especially with the reserves buff. Better than Dimensional Hypotrochoid. tags:god-pve
+dimwishlist:item=657927352&perks=968510818,2396489472,1702976605
+dimwishlist:item=657927352&perks=968510818,3751912585,1702976605
+dimwishlist:item=657927352&perks=968510818,2610012052,1702976605
+dimwishlist:item=657927352&perks=2869569095,2396489472,1702976605
+dimwishlist:item=657927352&perks=2869569095,3751912585,1702976605
+dimwishlist:item=657927352&perks=2869569095,2610012052,1702976605
+dimwishlist:item=657927352&perks=2173046394,2396489472,1702976605
+dimwishlist:item=657927352&perks=2173046394,3751912585,1702976605
+dimwishlist:item=657927352&perks=2173046394,2610012052,1702976605
 
 
 // Hullabaloo - [Aztecross S23 Review] (pve)
@@ -2309,15 +2290,9 @@ dimwishlist:item=817909300&perks=1556840489,2173046394,744217850
 dimwishlist:item=817909300&perks=1556840489,4049631843,744217850
 
 
-// Planck's Stride - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 15/22 tags:pve
-dimwishlist:item=820890091&perks=402033656,1161469972,3907865655
-dimwishlist:item=820890091&perks=402033656,4082225868,3907865655
-dimwishlist:item=820890091&perks=402033656,536173722,3907865655
-dimwishlist:item=820890091&perks=402033656,691659142,3907865655
-dimwishlist:item=820890091&perks=1631667848,1161469972,3907865655
+// Planck's Stride - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 18/25 tags:pve
 dimwishlist:item=820890091&perks=1631667848,4082225868,3907865655
-dimwishlist:item=820890091&perks=1631667848,536173722,3907865655
 dimwishlist:item=820890091&perks=1631667848,691659142,3907865655
 
 
@@ -2483,12 +2458,10 @@ dimwishlist:item=859869931&perks=1820235745,4293542123
 dimwishlist:item=859869931&perks=247725512,4293542123
 
 
-// Marsilion-C - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 5/19 tags:god-pve
-dimwishlist:item=867154247&perks=424370782,331667533,1607056502
-dimwishlist:item=867154247&perks=424370782,3751912585,1607056502
-dimwishlist:item=867154247&perks=968510818,331667533,1607056502
+// Marsilion-C - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 5/21 tags:god-pve
 dimwishlist:item=867154247&perks=968510818,3751912585,1607056502
+dimwishlist:item=867154247&perks=968510818,2888557110,1607056502
 
 
 // Marsilion-C - [Aztecross S23 World Drop Godrolls] (pve)
@@ -2526,8 +2499,8 @@ dimwishlist:item=871900124&perks=1047830412,106909392,776531651,2048641572,93069
 dimwishlist:item=871900124&perks=1332244541,106909392,776531651,2048641572,930692523
 
 
-// Cataphract GL3 (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 1/19 tags:god-pve
+// Cataphract GL3 (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 2/21 tags:god-pve
 dimwishlist:item=874623537&perks=968510818,3078487919,2988596335
 dimwishlist:item=874623537&perks=968510818,3751912585,2988596335
 dimwishlist:item=874623537&perks=3300816228,3078487919,2988596335
@@ -2570,8 +2543,8 @@ dimwishlist:item=893527433&perks=1556840489,4104185692
 dimwishlist:item=893527433&perks=1556840489,3523296417
 
 
-// Unwavering Duty - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 3/22 tags:god-pve
+// Unwavering Duty - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 7/25 tags:god-pve
 dimwishlist:item=906840740&perks=3300816228,4293542123,2988596335
 dimwishlist:item=906840740&perks=3300816228,557221067,2988596335
 dimwishlist:item=906840740&perks=3300816228,3751912585,2988596335
@@ -2969,8 +2942,8 @@ dimwishlist:item=1135050595&perks=671806388,1546637391,1281216113
 dimwishlist:item=1135050595&perks=671806388,4104185692,1281216113
 
 
-// Just in Case - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 14/28 tags:god-pve
+// Just in Case - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 15/33 tags:pve
 dimwishlist:item=1139727256&perks=1749209109,3913600130,1004814308
 
 
@@ -3629,44 +3602,26 @@ dimwishlist:item=1298815317&perks=1482024992,3142289711,2450788523,2846385770
 dimwishlist:item=1298815317&perks=202670084,3142289711,2450788523,2846385770
 
 
-// Dimensional Hypotrochoid - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 13/19 tags:pve
-dimwishlist:item=1311684613&perks=424370782,3418165135,164468655
-dimwishlist:item=1311684613&perks=424370782,1546637391,164468655
-dimwishlist:item=1311684613&perks=968510818,3418165135,164468655
+// Dimensional Hypotrochoid - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 15/21 tags:pve
 dimwishlist:item=1311684613&perks=968510818,1546637391,164468655
+dimwishlist:item=1311684613&perks=968510818,2396489472,164468655
+dimwishlist:item=1311684613&perks=2869569095,1546637391,164468655
+dimwishlist:item=1311684613&perks=2869569095,2396489472,164468655
 
 
-// Sola's Scar - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 26/28 tags:pve
+// Sola's Scar - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 27/33 tags:pve
 dimwishlist:item=1313528549&perks=1749209109,4104185692
 
 
-// Qullim's Terminus - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 16/22 tags:pve
-dimwishlist:item=1321506184&perks=2495011826,1183436451,120721526
-dimwishlist:item=1321506184&perks=2495011826,3824105627,120721526
-dimwishlist:item=1321506184&perks=2495011826,1171887445,120721526
-dimwishlist:item=1321506184&perks=2495011826,124408337,120721526
-dimwishlist:item=1321506184&perks=2495011826,2896748467,120721526
-dimwishlist:item=1321506184&perks=2495011826,557221067,120721526
-dimwishlist:item=1321506184&perks=2621346526,1183436451,120721526
+// Qullim's Terminus - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 19/25 tags:pve
 dimwishlist:item=1321506184&perks=2621346526,3824105627,120721526
-dimwishlist:item=1321506184&perks=2621346526,1171887445,120721526
 dimwishlist:item=1321506184&perks=2621346526,124408337,120721526
-dimwishlist:item=1321506184&perks=2621346526,2896748467,120721526
 dimwishlist:item=1321506184&perks=2621346526,557221067,120721526
-dimwishlist:item=1321506184&perks=855168139,1183436451,120721526
-dimwishlist:item=1321506184&perks=855168139,3824105627,120721526
-dimwishlist:item=1321506184&perks=855168139,1171887445,120721526
-dimwishlist:item=1321506184&perks=855168139,124408337,120721526
-dimwishlist:item=1321506184&perks=855168139,2896748467,120721526
-dimwishlist:item=1321506184&perks=855168139,557221067,120721526
-dimwishlist:item=1321506184&perks=3108830275,1183436451,120721526
 dimwishlist:item=1321506184&perks=3108830275,3824105627,120721526
-dimwishlist:item=1321506184&perks=3108830275,1171887445,120721526
 dimwishlist:item=1321506184&perks=3108830275,124408337,120721526
-dimwishlist:item=1321506184&perks=3108830275,2896748467,120721526
 dimwishlist:item=1321506184&perks=3108830275,557221067,120721526
 
 
@@ -3772,10 +3727,10 @@ dimwishlist:item=1332123064&perks=3525010810,3301904089,1523832109,1546637391
 dimwishlist:item=1332123064&perks=3525010810,3301904089,1523832109,3078487919
 
 
-// The Slammer (Adept) - [Aegis S23 Mid-Season Patch] (pve)
-//notes: [Aegis S23 Mid-Season Patch] Has Eager Edge; not craftable but Vortex frames propel you further than Adaptive frames, and Bungie may yet make non-raid Adepts become Enhanceable. Also has Cold Steel. tags:pve
-dimwishlist:item=1354727549&perks=2077819806,3650930298
-dimwishlist:item=1354727549&perks=2077819806,3523296417
+// The Slammer (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 4/33 Has Eager Edge; not craftable but Vortex frames propel you further than Adaptive frames, and Bungie may yet make non-raid Adepts become Enhanceable. Also has Cold Steel. tags:god-pve
+dimwishlist:item=1354727549&perks=2077819806,3650930298,1281216113
+dimwishlist:item=1354727549&perks=2077819806,3523296417,1281216113
 
 
 // The Slammer (Adept) - [Fallout S23 Mid Season Patch] (pve)
@@ -4159,8 +4114,8 @@ dimwishlist:item=1453235079&perks=247725512,2551157718
 dimwishlist:item=1453235079&perks=2866798147,2551157718
 
 
-// Nasreddin - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 8/28 tags:god-pve
+// Nasreddin - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 10/33 tags:pve
 dimwishlist:item=1456017061&perks=1749209109,3708227201,2120661319
 dimwishlist:item=1456017061&perks=1749209109,3913600130,2120661319
 
@@ -4366,23 +4321,11 @@ dimwishlist:item=1509167284&perks=1482024992,3142289711,1195158366
 dimwishlist:item=1509167284&perks=1482024992,3142289711,691659142
 
 
-// Recurrent Impact - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 5/22 tags:god-pve
-dimwishlist:item=1572896086&perks=4245865861,859780267,1536798515
-dimwishlist:item=1572896086&perks=4245865861,4049631843,1536798515
-dimwishlist:item=1572896086&perks=4245865861,1171887445,1536798515
-dimwishlist:item=1572896086&perks=4245865861,124408337,1536798515
-dimwishlist:item=1572896086&perks=1820235745,859780267,1536798515
+// Recurrent Impact - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 9/25 tags:pve
 dimwishlist:item=1572896086&perks=1820235745,4049631843,1536798515
-dimwishlist:item=1572896086&perks=1820235745,1171887445,1536798515
 dimwishlist:item=1572896086&perks=1820235745,124408337,1536798515
-dimwishlist:item=1572896086&perks=2308090567,859780267,1536798515
-dimwishlist:item=1572896086&perks=2308090567,4049631843,1536798515
-dimwishlist:item=1572896086&perks=2308090567,1171887445,1536798515
-dimwishlist:item=1572896086&perks=2308090567,124408337,1536798515
-dimwishlist:item=1572896086&perks=2869569095,859780267,1536798515
 dimwishlist:item=1572896086&perks=2869569095,4049631843,1536798515
-dimwishlist:item=1572896086&perks=2869569095,1171887445,1536798515
 dimwishlist:item=1572896086&perks=2869569095,124408337,1536798515
 
 
@@ -4656,8 +4599,8 @@ dimwishlist:item=1764868900&perks=1821614984,1546637391,3989629871
 dimwishlist:item=1764868900&perks=3978468247,1546637391,3989629871
 
 
-// Thermal Erosion - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 18/22 tags:pve
+// Thermal Erosion - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 23/25 tags:pve
 dimwishlist:item=1766088024&perks=2869569095,3523296417
 dimwishlist:item=1766088024&perks=2869569095,2848615171
 
@@ -4694,8 +4637,8 @@ dimwishlist:item=1780464822&perks=1428297954,124408337
 dimwishlist:item=1780464822&perks=1428297954,1048183818
 
 
-// Razor's Edge - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 21/28 tags:pve
+// Razor's Edge - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 29/33 tags:pve
 dimwishlist:item=1796949035&perks=1749209109,4104185692,3989629871
 
 
@@ -4715,13 +4658,13 @@ dimwishlist:item=1801007332&perks=880644845,4104185692
 dimwishlist:item=1801007332&perks=880644845,2109543898
 
 
-// Falling Guillotine - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/29 tags:god-pve
+// Falling Guillotine - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 1/33 tags:god-pve
 dimwishlist:item=1815105249&perks=2396489472,2077819806,2489430594
-dimwishlist:item=1815105249&perks=2396489472,3913600130,2489430594
+dimwishlist:item=1815105249&perks=2396489472,3078487919,2489430594
 dimwishlist:item=1815105249&perks=2396489472,3708227201,2489430594
 dimwishlist:item=1815105249&perks=4104185692,2077819806,2489430594
-dimwishlist:item=1815105249&perks=4104185692,3913600130,2489430594
+dimwishlist:item=1815105249&perks=4104185692,3078487919,2489430594
 dimwishlist:item=1815105249&perks=4104185692,3708227201,2489430594
 
 
@@ -4888,8 +4831,8 @@ dimwishlist:item=1851777734&perks=3523296417,2282937672,1489048135
 dimwishlist:item=1851777734&perks=3523296417,1439600632,1489048135
 
 
-// Wendigo GL3 - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 2/19 tags:god-pve
+// Wendigo GL3 - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 4/21 tags:god-pve
 dimwishlist:item=1854753404&perks=3300816228,3751912585,744217850
 dimwishlist:item=1854753404&perks=3300816228,2610012052,744217850
 
@@ -5152,8 +5095,8 @@ dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,1015611457
 dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,460017080
 
 
-// Hammerhead - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 2/23 tags:god-pve
+// Hammerhead - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 5/25 tags:god-pve
 dimwishlist:item=1896309757&perks=3418782618,557221067,2489430594
 dimwishlist:item=1896309757&perks=3418782618,95528736,2489430594
 dimwishlist:item=1896309757&perks=1354429876,557221067,2489430594
@@ -5220,8 +5163,8 @@ dimwishlist:item=1911060537&perks=3563868667,1771339417
 dimwishlist:item=1911060537&perks=3563868667,395388285
 
 
-// Zephyr - [Aegis S23 Endgame Analysis/WR/Dawning Update] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 4/28 Not much changed, still Cold Steel. tags:god-pve
+// Zephyr - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 9/33 Not much changed, still Cold Steel. tags:pve
 dimwishlist:item=1911078836&perks=1749209109,3708227201,4264904777
 dimwishlist:item=1911078836&perks=1749209109,3913600130,4264904777
 dimwishlist:item=1911078836&perks=1749209109,3650930298,4264904777
@@ -5404,8 +5347,8 @@ dimwishlist:item=1959650777&perks=2869569095,344235611,1250481499
 dimwishlist:item=1959650777&perks=2869569095,2978966579,1250481499
 
 
-// Archon's Thunder - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 19/22 tags:pve
+// Archon's Thunder - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 21/25 tags:pve
 dimwishlist:item=1967303408&perks=3300816228,3425386926,3989629871
 dimwishlist:item=1967303408&perks=2869569095,3425386926,3989629871
 
@@ -5504,8 +5447,8 @@ dimwishlist:item=1974641289&perks=3828510309,831391274,744217850
 dimwishlist:item=1974641289&perks=3619207468,831391274,744217850
 
 
-// Qua Xaphan V - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 13/22 tags:god-pve
+// Qua Xaphan V - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 16/25 tags:pve
 dimwishlist:item=1975125963&perks=2869569095,2048641572,1050127423
 dimwishlist:item=1975125963&perks=2869569095,11612903,1050127423
 dimwishlist:item=1975125963&perks=2869569095,2848615171,1050127423
@@ -5544,6 +5487,19 @@ dimwishlist:item=1994645182&perks=2039302152,2610012052,2171055345
 //notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Submission (Overflow/Subsistence + Frenzy) tags:god-pve
 dimwishlist:item=1999754402&perks=3643424744,3891536761,2509860981
 dimwishlist:item=1999754402&perks=1631667848,3891536761,2509860981
+
+
+// Summum Bonum (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 2/33 tags:god-pve
+dimwishlist:item=2001697739&perks=1749209109,3640170453,1878756191
+dimwishlist:item=2001697739&perks=1749209109,3913600130,1878756191
+dimwishlist:item=2001697739&perks=1749209109,3708227201,1878756191
+dimwishlist:item=2001697739&perks=243981275,3640170453,1878756191
+dimwishlist:item=2001697739&perks=243981275,3913600130,1878756191
+dimwishlist:item=2001697739&perks=243981275,3708227201,1878756191
+dimwishlist:item=2001697739&perks=3993379141,3640170453,1878756191
+dimwishlist:item=2001697739&perks=3993379141,3913600130,1878756191
+dimwishlist:item=2001697739&perks=3993379141,3708227201,1878756191
 
 
 // Summum Bonum (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pve)
@@ -5722,8 +5678,8 @@ dimwishlist:item=2060863616&perks=2010801679,2396489472
 dimwishlist:item=2060863616&perks=2010801679,1546637391
 
 
-// Canis Major - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 12/19 tags:pve
+// Canis Major - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 14/21 tags:pve
 dimwishlist:item=2066434718&perks=2284787283,1546637391
 
 
@@ -5882,8 +5838,8 @@ dimwishlist:item=2126178511&perks=2213355989,2319119708
 dimwishlist:item=2126178511&perks=2213355989,4104185692
 
 
-// Hero of Ages - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 23/28 tags:pve
+// Hero of Ages - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 30/33 tags:pve
 dimwishlist:item=2139640995&perks=1749209109,1685431615
 
 
@@ -5928,8 +5884,8 @@ dimwishlist:item=2171478765&perks=3038247973,3824105627
 dimwishlist:item=2171478765&perks=3038247973,4104185692
 
 
-// Circular Logic - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 17/22 tags:pve
+// Circular Logic - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 20/25 tags:pve
 dimwishlist:item=2187717691&perks=968510818,2610012052,164468655
 dimwishlist:item=2187717691&perks=968510818,3523296417,164468655
 
@@ -5944,18 +5900,6 @@ dimwishlist:item=2189073092&perks=923806249,831391274
 //notes: [Aztecross S23 Review] Sight and feel is decent, don't need TTT. Target Lock doesn't proc fast enough. Works well with Radiant builds and Torch artifact mod. tags:pvp,pve
 dimwishlist:item=2189073092&perks=3250034553,1885400500,923806249,95528736
 dimwishlist:item=2189073092&perks=3250034553,1561002382,923806249,95528736
-
-
-// Fixed Odds - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 11/22 tags:god-pve
-dimwishlist:item=2194955522&perks=2308090567,2675184851,1905044254
-dimwishlist:item=2194955522&perks=2308090567,4293542123,1905044254
-dimwishlist:item=2194955522&perks=2308090567,2896748467,1905044254
-dimwishlist:item=2194955522&perks=2308090567,557221067,1905044254
-dimwishlist:item=2194955522&perks=2869569095,2675184851,1905044254
-dimwishlist:item=2194955522&perks=2869569095,4293542123,1905044254
-dimwishlist:item=2194955522&perks=2869569095,2896748467,1905044254
-dimwishlist:item=2194955522&perks=2869569095,557221067,1905044254
 
 
 // Fixed Odds - [Duqk's S22 Duality God Rolls] (pve)
@@ -5980,6 +5924,12 @@ dimwishlist:item=2194955522&perks=706527188,557221067
 dimwishlist:item=2194955522&perks=706527188,2896748467
 dimwishlist:item=2194955522&perks=1961144892,557221067
 dimwishlist:item=2194955522&perks=1961144892,2896748467
+
+
+// Fixed Odds - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 14/25 tags:pve
+dimwishlist:item=2194955522&perks=2869569095,4293542123,1905044254
+dimwishlist:item=2194955522&perks=2869569095,557221067,1905044254
 
 
 // Fixed Odds - [demonjoe S23 Must Have Dungeon Weapons] (pve)
@@ -6097,8 +6047,8 @@ dimwishlist:item=2218569744&perks=1482024992,3142289711,3523296417,4082225868
 dimwishlist:item=2218569744&perks=1482024992,3142289711,1354429876,2896038713
 
 
-// Edge Transit - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Tier S Rank 1/21 tags:god-pve
+// Edge Transit - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 1/21 tags:god-pve
 dimwishlist:item=2228325504&perks=968510818,3078487919,2489430594
 dimwishlist:item=2228325504&perks=968510818,3194351027,2489430594
 dimwishlist:item=2228325504&perks=968510818,3993379141,2489430594
@@ -6166,8 +6116,8 @@ dimwishlist:item=2249996761&perks=1583705720,3038247973
 dimwishlist:item=2249996761&perks=3400784728,3038247973
 
 
-// Interference VI - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 9/19 tags:pve
+// Interference VI - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 11/21 tags:pve
 dimwishlist:item=2257180473&perks=3300816228,2888557110
 dimwishlist:item=2257180473&perks=2284787283,2888557110
 
@@ -6617,8 +6567,8 @@ dimwishlist:item=2421180981&perks=923806249,1015611457
 dimwishlist:item=2421180981&perks=
 
 
-// Shattered Cipher - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 12/22 tags:god-pve
+// Shattered Cipher - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 15/25 tags:pve
 dimwishlist:item=2434225986&perks=3300816228,11612903
 dimwishlist:item=2434225986&perks=3300816228,3708227201
 dimwishlist:item=2434225986&perks=2869569095,11612903
@@ -6659,8 +6609,8 @@ dimwishlist:item=2450917538&perks=3978468247,1546637391,1281216113
 dimwishlist:item=2450917538&perks=3978468247,555281244,1281216113
 
 
-// Blast Battue - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 17/19 tags:pve
+// Blast Battue - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 19/21 tags:pve
 dimwishlist:item=2453357042&perks=2284787283,2396489472
 dimwishlist:item=2453357042&perks=2284787283,3300816228
 dimwishlist:item=2453357042&perks=706527188,2396489472
@@ -6919,11 +6869,8 @@ dimwishlist:item=2499720827&perks=1840239774,3230963543,3700496672,3891536761
 dimwishlist:item=2499720827&perks=1840239774,3230963543,243981275,3891536761
 
 
-// Caretaker - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 3/28 tags:god-pve
-dimwishlist:item=2508948099&perks=4085959009,781192741,1823011807
-dimwishlist:item=2508948099&perks=4085959009,3708227201,1823011807
-dimwishlist:item=2508948099&perks=1749209109,781192741,1823011807
+// Caretaker - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 21/33 tags:god-pve
 dimwishlist:item=2508948099&perks=1749209109,3708227201,1823011807
 
 
@@ -7115,8 +7062,8 @@ dimwishlist:item=2573900604&perks=1631667848,2679249093,164468655
 dimwishlist:item=2573900604&perks=1556840489,2679249093,164468655
 
 
-// Seventh Seraph SAW - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 20/22 tags:pve
+// Seventh Seraph SAW - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 22/25 tags:pve
 dimwishlist:item=2582755344&perks=3300816228,1771339417
 dimwishlist:item=2582755344&perks=2869569095,1771339417
 
@@ -7769,11 +7716,8 @@ dimwishlist:item=2715240478&perks=2869569095,4104185692,4091460919
 dimwishlist:item=2715240478&perks=2869569095,3523296417,4091460919
 
 
-// Tarnation - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 14/19 tags:pve
-dimwishlist:item=2721157927&perks=3563868667,859780267,79448657
-dimwishlist:item=2721157927&perks=3563868667,4049631843,79448657
-dimwishlist:item=2721157927&perks=2284787283,859780267,79448657
+// Tarnation - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 16/21 tags:pve
 dimwishlist:item=2721157927&perks=2284787283,4049631843,79448657
 
 
@@ -7855,8 +7799,8 @@ dimwishlist:item=2728851518&perks=3161816588,2652708987
 dimwishlist:item=2728851518&perks=3643424744,2594592626
 
 
-// Cataphract GL3 - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 1/19 tags:god-pve
+// Cataphract GL3 - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 2/21 tags:god-pve
 dimwishlist:item=2738601016&perks=968510818,3078487919,2988596335
 dimwishlist:item=2738601016&perks=968510818,3751912585,2988596335
 dimwishlist:item=2738601016&perks=3300816228,3078487919,2988596335
@@ -7877,8 +7821,8 @@ dimwishlist:item=2738601016&perks=2869569095,3078487919
 dimwishlist:item=2738601016&perks=3300816228,3078487919
 
 
-// THE SWARM - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 21/22 tags:pve
+// THE SWARM - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier F Rank 24/25 tags:pve
 dimwishlist:item=2759590322&perks=2779035018,2848615171,744217850
 dimwishlist:item=2759590322&perks=2779035018,2610012052,744217850
 
@@ -8113,18 +8057,18 @@ dimwishlist:item=2767393525&perks=968510818,2594592626
 dimwishlist:item=2778013407&perks=1392496348,1885400500,2451262963,3673922083
 
 
-// Quickfang - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 22/28 tags:pve
+// Quickfang - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 28/33 tags:pve
 dimwishlist:item=2782325300&perks=1749209109,1685431615
 
 
-// Eternity's Edge - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 20/28 tags:pve
+// Eternity's Edge - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 23/33 tags:pve
 dimwishlist:item=2782325301&perks=1749209109,3708227201
 
 
-// Crown-Splitter - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 5/28 tags:god-pve
+// Crown-Splitter - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 24/33 tags:pve
 dimwishlist:item=2782325302&perks=1749209109,3708227201
 dimwishlist:item=2782325302&perks=1749209109,3913600130
 
@@ -8312,31 +8256,13 @@ dimwishlist:item=2821677368&perks=243981275,2319119708,1988485648
 dimwishlist:item=2827764482&perks=3700496672,2173046394,192157151
 
 
-// Song of Ir Yût - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 2/22 tags:god-pve
-dimwishlist:item=2828278545&perks=1906147653,639190697,1156201379
-dimwishlist:item=2828278545&perks=1906147653,31345821,1156201379
-dimwishlist:item=2828278545&perks=1906147653,3744057135,1156201379
-dimwishlist:item=2828278545&perks=1906147653,3078487919,1156201379
-dimwishlist:item=2828278545&perks=1906147653,331667533,1156201379
-dimwishlist:item=2828278545&perks=1906147653,3751912585,1156201379
-dimwishlist:item=2828278545&perks=3523296417,639190697,1156201379
+// Song of Ir Yût - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 2/25 tags:god-pve
 dimwishlist:item=2828278545&perks=3523296417,31345821,1156201379
-dimwishlist:item=2828278545&perks=3523296417,3744057135,1156201379
 dimwishlist:item=2828278545&perks=3523296417,3078487919,1156201379
-dimwishlist:item=2828278545&perks=3523296417,331667533,1156201379
 dimwishlist:item=2828278545&perks=3523296417,3751912585,1156201379
-dimwishlist:item=2828278545&perks=461595545,639190697,1156201379
-dimwishlist:item=2828278545&perks=461595545,31345821,1156201379
-dimwishlist:item=2828278545&perks=461595545,3744057135,1156201379
-dimwishlist:item=2828278545&perks=461595545,3078487919,1156201379
-dimwishlist:item=2828278545&perks=461595545,331667533,1156201379
-dimwishlist:item=2828278545&perks=461595545,3751912585,1156201379
-dimwishlist:item=2828278545&perks=1523832109,639190697,1156201379
 dimwishlist:item=2828278545&perks=1523832109,31345821,1156201379
-dimwishlist:item=2828278545&perks=1523832109,3744057135,1156201379
 dimwishlist:item=2828278545&perks=1523832109,3078487919,1156201379
-dimwishlist:item=2828278545&perks=1523832109,331667533,1156201379
 dimwishlist:item=2828278545&perks=1523832109,3751912585,1156201379
 
 
@@ -8471,8 +8397,8 @@ dimwishlist:item=2856514843&perks=1347741687,2896038713
 dimwishlist:item=2856514843&perks=1347741687,2402480669
 
 
-// Honor's Edge - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 13/28 tags:god-pve
+// Honor's Edge - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 22/33 tags:pve
 dimwishlist:item=2857348871&perks=1749209109,3708227201
 
 
@@ -8583,10 +8509,10 @@ dimwishlist:item=2886339027&perks=1354429876,3744057135,3363267119
 dimwishlist:item=2886339027&perks=1354429876,3078487919,3363267119
 
 
-// The Slammer - [Aegis S23 Mid-Season Patch] (pve)
-//notes: [Aegis S23 Mid-Season Patch] Has Eager Edge; not craftable but Vortex frames propel you further than Adaptive frames, and Bungie may yet make non-raid Adepts become Enhanceable. Also has Cold Steel. tags:pve
-dimwishlist:item=2889501828&perks=2077819806,3650930298
-dimwishlist:item=2889501828&perks=2077819806,3523296417
+// The Slammer - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 4/33 Has Eager Edge; not craftable but Vortex frames propel you further than Adaptive frames, and Bungie may yet make non-raid Adepts become Enhanceable. Also has Cold Steel. tags:god-pve
+dimwishlist:item=2889501828&perks=2077819806,3650930298,1281216113
+dimwishlist:item=2889501828&perks=2077819806,3523296417,1281216113
 
 
 // The Slammer - [Fallout S23 Mid Season Patch] (pve)
@@ -8770,11 +8696,8 @@ dimwishlist:item=2969415423&perks=3523296417,11612903
 dimwishlist:item=2969415423&perks=3828510309,2458213969
 
 
-// Koraxis's Distress - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 4/19 tags:god-pve
-dimwishlist:item=2972949637&perks=424370782,781192741,3186078099
-dimwishlist:item=2972949637&perks=424370782,3708227201,3186078099
-dimwishlist:item=2972949637&perks=968510818,781192741,3186078099
+// Koraxis's Distress - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 6/21 tags:god-pve
 dimwishlist:item=2972949637&perks=968510818,3708227201,3186078099
 
 
@@ -9343,28 +9266,16 @@ dimwishlist:item=3103255595&perks=1820235745,4104185692
 dimwishlist:item=3103255595&perks=3017780555,4293542123
 
 
-// Retrofit Escapade - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 14/22 tags:god-pve
-dimwishlist:item=3103325054&perks=848860060,859780267,192157151
-dimwishlist:item=3103325054&perks=848860060,4049631843,192157151
-dimwishlist:item=3103325054&perks=848860060,4290541820,192157151
-dimwishlist:item=3103325054&perks=848860060,2610012052,192157151
-dimwishlist:item=3103325054&perks=1354429876,859780267,192157151
+// Retrofit Escapade - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 17/25 tags:pve
 dimwishlist:item=3103325054&perks=1354429876,4049631843,192157151
-dimwishlist:item=3103325054&perks=1354429876,4290541820,192157151
 dimwishlist:item=3103325054&perks=1354429876,2610012052,192157151
-dimwishlist:item=3103325054&perks=2308090567,859780267,192157151
-dimwishlist:item=3103325054&perks=2308090567,4049631843,192157151
-dimwishlist:item=3103325054&perks=2308090567,4290541820,192157151
-dimwishlist:item=3103325054&perks=2308090567,2610012052,192157151
-dimwishlist:item=3103325054&perks=2869569095,859780267,192157151
 dimwishlist:item=3103325054&perks=2869569095,4049631843,192157151
-dimwishlist:item=3103325054&perks=2869569095,4290541820,192157151
 dimwishlist:item=3103325054&perks=2869569095,2610012052,192157151
 
 
-// Chain of Command - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 8/22 tags:god-pve
+// Chain of Command - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 10/25 tags:pve
 dimwishlist:item=3105930175&perks=11612903,3523296417,515704826
 
 
@@ -9524,7 +9435,7 @@ dimwishlist:item=3164743584&perks=2621346526,1546637391,2988596335
 
 
 // Memory Interdict - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 15/19 tags:pve
+//notes: [Aegis S23 Endgame Analysis] Tier D Rank 17/21 tags:pve
 dimwishlist:item=3165547384&perks=3300816228,2396489472
 dimwishlist:item=3165547384&perks=2284787283,2396489472
 
@@ -9675,31 +9586,13 @@ dimwishlist:item=3232203524&perks=4071163871,47981717
 dimwishlist:item=3232203524&perks=3511092054,47981717
 
 
-// Qullim's Terminus (Harrowed) - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 16/22 tags:pve
-dimwishlist:item=3248429089&perks=2495011826,1183436451,120721526
-dimwishlist:item=3248429089&perks=2495011826,3824105627,120721526
-dimwishlist:item=3248429089&perks=2495011826,1171887445,120721526
-dimwishlist:item=3248429089&perks=2495011826,124408337,120721526
-dimwishlist:item=3248429089&perks=2495011826,2896748467,120721526
-dimwishlist:item=3248429089&perks=2495011826,557221067,120721526
-dimwishlist:item=3248429089&perks=2621346526,1183436451,120721526
+// Qullim's Terminus (Harrowed) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 19/25 tags:pve
 dimwishlist:item=3248429089&perks=2621346526,3824105627,120721526
-dimwishlist:item=3248429089&perks=2621346526,1171887445,120721526
 dimwishlist:item=3248429089&perks=2621346526,124408337,120721526
-dimwishlist:item=3248429089&perks=2621346526,2896748467,120721526
 dimwishlist:item=3248429089&perks=2621346526,557221067,120721526
-dimwishlist:item=3248429089&perks=855168139,1183436451,120721526
-dimwishlist:item=3248429089&perks=855168139,3824105627,120721526
-dimwishlist:item=3248429089&perks=855168139,1171887445,120721526
-dimwishlist:item=3248429089&perks=855168139,124408337,120721526
-dimwishlist:item=3248429089&perks=855168139,2896748467,120721526
-dimwishlist:item=3248429089&perks=855168139,557221067,120721526
-dimwishlist:item=3248429089&perks=3108830275,1183436451,120721526
 dimwishlist:item=3248429089&perks=3108830275,3824105627,120721526
-dimwishlist:item=3248429089&perks=3108830275,1171887445,120721526
 dimwishlist:item=3248429089&perks=3108830275,124408337,120721526
-dimwishlist:item=3248429089&perks=3108830275,2896748467,120721526
 dimwishlist:item=3248429089&perks=3108830275,557221067,120721526
 
 
@@ -9723,32 +9616,19 @@ dimwishlist:item=3256453690&perks=2869569095,11612903,1380061575
 dimwishlist:item=3256453690&perks=2869569095,968510818,1380061575
 
 
-// Half-Truths - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 11/28 tags:god-pve
-dimwishlist:item=3257091166&perks=4085959009,1618208178,1260401931
-dimwishlist:item=3257091166&perks=4085959009,2077819806,1260401931
-dimwishlist:item=3257091166&perks=1749209109,1618208178,1260401931
+// Half-Truths - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 20/33 tags:pve
 dimwishlist:item=3257091166&perks=1749209109,2077819806,1260401931
 
 
-// The Other Half - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 2/28 tags:god-pve
-dimwishlist:item=3257091167&perks=4085959009,3007133316,1260401931
-dimwishlist:item=3257091167&perks=4085959009,4104185692,1260401931
-dimwishlist:item=3257091167&perks=4085959009,147913470,1260401931
-dimwishlist:item=3257091167&perks=4085959009,3913600130,1260401931
-dimwishlist:item=3257091167&perks=1749209109,3007133316,1260401931
-dimwishlist:item=3257091167&perks=1749209109,4104185692,1260401931
-dimwishlist:item=3257091167&perks=1749209109,147913470,1260401931
-dimwishlist:item=3257091167&perks=1749209109,3913600130,1260401931
-dimwishlist:item=3257091167&perks=1618208178,3007133316,1260401931
-dimwishlist:item=3257091167&perks=1618208178,4104185692,1260401931
-dimwishlist:item=3257091167&perks=1618208178,147913470,1260401931
-dimwishlist:item=3257091167&perks=1618208178,3913600130,1260401931
-dimwishlist:item=3257091167&perks=2077819806,3007133316,1260401931
+// The Other Half - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 3/33 tags:god-pve
+dimwishlist:item=3257091167&perks=2077819806,3708227201,1260401931
 dimwishlist:item=3257091167&perks=2077819806,4104185692,1260401931
-dimwishlist:item=3257091167&perks=2077819806,147913470,1260401931
 dimwishlist:item=3257091167&perks=2077819806,3913600130,1260401931
+dimwishlist:item=3257091167&perks=1749209109,3708227201,1260401931
+dimwishlist:item=3257091167&perks=1749209109,4104185692,1260401931
+dimwishlist:item=3257091167&perks=1749209109,3913600130,1260401931
 
 
 // Trinary System - [Aegis E1A2 Endgame Analysis] (pve)
@@ -9776,8 +9656,8 @@ dimwishlist:item=3292795429&perks=1870851715,1048183818,4091460919
 dimwishlist:item=3297863558&perks=1556840489,1546637391
 
 
-// A Fine Memorial - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 9/22 tags:god-pve
+// A Fine Memorial - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 12/25 tags:pve
 dimwishlist:item=3325778512&perks=1820235745,3523296417
 dimwishlist:item=3325778512&perks=1820235745,11612903
 dimwishlist:item=3325778512&perks=1820235745,4049631843
@@ -9905,43 +9785,25 @@ dimwishlist:item=3355385170&perks=3400784728,3523296417,1281216113
 dimwishlist:item=3356526253&perks=4071163871,3300816228
 
 
-// Bequest - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 1/28 tags:god-pve
-dimwishlist:item=3366545721&perks=4085959009,781192741,766321425
-dimwishlist:item=3366545721&perks=4085959009,3708227201,766321425
-dimwishlist:item=3366545721&perks=4085959009,3418165135,766321425
-dimwishlist:item=3366545721&perks=4085959009,1546637391,766321425
-dimwishlist:item=3366545721&perks=1749209109,781192741,766321425
+// Bequest - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 5/33 tags:god-pve
 dimwishlist:item=3366545721&perks=1749209109,3708227201,766321425
-dimwishlist:item=3366545721&perks=1749209109,3418165135,766321425
 dimwishlist:item=3366545721&perks=1749209109,1546637391,766321425
 
 
-// Death's Razor - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 17/28 tags:pve
-dimwishlist:item=3371413056&perks=4085959009,781192741,1905044254
-dimwishlist:item=3371413056&perks=4085959009,3708227201,1905044254
-dimwishlist:item=3371413056&perks=4085959009,147913470,1905044254
-dimwishlist:item=3371413056&perks=4085959009,3913600130,1905044254
-dimwishlist:item=3371413056&perks=1749209109,781192741,1905044254
+// Death's Razor - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 18/33 tags:pve
 dimwishlist:item=3371413056&perks=1749209109,3708227201,1905044254
-dimwishlist:item=3371413056&perks=1749209109,147913470,1905044254
 dimwishlist:item=3371413056&perks=1749209109,3913600130,1905044254
 
 
-// Goldtusk - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 18/28 tags:pve
-dimwishlist:item=3371413057&perks=4085959009,147913470,3988215619
-dimwishlist:item=3371413057&perks=4085959009,3913600130,3988215619
-dimwishlist:item=3371413057&perks=1749209109,147913470,3988215619
+// Goldtusk - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 14/33 tags:pve
 dimwishlist:item=3371413057&perks=1749209109,3913600130,3988215619
 
 
-// Throne-Cleaver - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 6/28 tags:god-pve
-dimwishlist:item=3371413059&perks=1646437399,781192741,1905044254
-dimwishlist:item=3371413059&perks=1646437399,3708227201,1905044254
-dimwishlist:item=3371413059&perks=3705817207,781192741,1905044254
+// Throne-Cleaver - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 25/33 tags:pve
 dimwishlist:item=3371413059&perks=3705817207,3708227201,1905044254
 
 
@@ -10028,13 +9890,13 @@ dimwishlist:item=3428521585&perks=247725512,3431277734,3363267119
 dimwishlist:item=3428521585&perks=247725512,1048183818,3363267119
 
 
-// Chivalric Fire - [Aegis S23 Endgame Analysis/Weapon Meta Update] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 27/28 Probably only good for quirky builds like Gyrfalcons tags:pve
-dimwishlist:item=3438139008&perks=776531651,2048641572
+// Chivalric Fire - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis S23 Endgame Analysis] Tier F Rank 31/33 Probably only good for quirky builds like Gyrfalcons tags:pve
+dimwishlist:item=3438139008&perks=776531651,2048641572,4091460919
 
 
-// Unwavering Duty (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 3/22 tags:god-pve
+// Unwavering Duty (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 7/25 tags:god-pve
 dimwishlist:item=3444632029&perks=3300816228,4293542123,2988596335
 dimwishlist:item=3444632029&perks=3300816228,557221067,2988596335
 dimwishlist:item=3444632029&perks=3300816228,3751912585,2988596335
@@ -10206,14 +10068,9 @@ dimwishlist:item=3503019618&perks=1774574192,3523296417,120721526
 dimwishlist:item=3512349612&perks=2010801679,4049631843
 
 
-// Crowd Pleaser - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 16/19 tags:pve
+// Crowd Pleaser - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 18/21 tags:pve
 dimwishlist:item=3565520715&perks=2284787283,3523296417,515704826
-
-
-// Typhon GL5 - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 7/19 tags:god-pve
-dimwishlist:item=3568377122&perks=3523296417,3194351027,2839173408
 
 
 // Typhon GL5 - [Aztecross S16 WQ overview] ()
@@ -10231,6 +10088,11 @@ dimwishlist:item=3568377122&perks=1583705720,3194351027
 dimwishlist:item=3568377122&perks=3108830275,3194351027
 
 
+// Typhon GL5 - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 9/21 tags:pve
+dimwishlist:item=3568377122&perks=3523296417,3194351027,2839173408
+
+
 // Typhon GL5 - [Aztecross S23 World Drop Godrolls] (pvp)
 //notes: [Aztecross S23 World Drop Godrolls] (No 3rd column perks specified) tags:pvp
 dimwishlist:item=3568377122&perks=409831596,951095735
@@ -10239,6 +10101,19 @@ dimwishlist:item=3568377122&perks=409831596,951095735
 // Typhon GL5 - [Aztecross S23 World Drop Godrolls] (pve)
 //notes: [Aztecross S23 World Drop Godrolls] tags:pve
 dimwishlist:item=3568377122&perks=3523296417,3194351027
+
+
+// Summum Bonum - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 2/33 tags:god-pve
+dimwishlist:item=3569407878&perks=1749209109,3640170453,1878756191
+dimwishlist:item=3569407878&perks=1749209109,3913600130,1878756191
+dimwishlist:item=3569407878&perks=1749209109,3708227201,1878756191
+dimwishlist:item=3569407878&perks=243981275,3640170453,1878756191
+dimwishlist:item=3569407878&perks=243981275,3913600130,1878756191
+dimwishlist:item=3569407878&perks=243981275,3708227201,1878756191
+dimwishlist:item=3569407878&perks=3993379141,3640170453,1878756191
+dimwishlist:item=3569407878&perks=3993379141,3913600130,1878756191
+dimwishlist:item=3569407878&perks=3993379141,3708227201,1878756191
 
 
 // Summum Bonum - [Datto E1 Salvation's Edge Best Rolls] (pve)
@@ -10331,6 +10206,19 @@ dimwishlist:item=3583275737&perks=776531651,3708227201,1050127423
 dimwishlist:item=3591141932&perks=3418782618,2594592626,1489048135
 
 
+// Pro Memoria - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 3/25 tags:god-pve
+dimwishlist:item=3605603507&perks=3523296417,2109543898,1988485648
+dimwishlist:item=3605603507&perks=3523296417,3078487919,1988485648
+dimwishlist:item=3605603507&perks=3523296417,2848615171,1988485648
+dimwishlist:item=3605603507&perks=1523832109,2109543898,1988485648
+dimwishlist:item=3605603507&perks=1523832109,3078487919,1988485648
+dimwishlist:item=3605603507&perks=1523832109,2848615171,1988485648
+dimwishlist:item=3605603507&perks=831391274,2109543898,1988485648
+dimwishlist:item=3605603507&perks=831391274,3078487919,1988485648
+dimwishlist:item=3605603507&perks=831391274,2848615171,1988485648
+
+
 // Pro Memoria - [Datto E1 Pale Heart God Rolls] (pve)
 //notes: [Datto E1 Pale Heart God Rolls] First 600 RPM Machine Gun, sweet spot for me. I use LMG for ad clear more than DPS though. tags:pve
 dimwishlist:item=3605603507&perks=1523832109,2848615171
@@ -10411,8 +10299,8 @@ dimwishlist:item=3616586446&perks=3300816228,3708227201
 dimwishlist:item=3616586446&perks=3300816228,3523296417
 
 
-// Negative Space - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 10/28 tags:god-pve
+// Negative Space - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 11/33 tags:pve
 dimwishlist:item=3629968765&perks=1749209109,3708227201
 dimwishlist:item=3629968765&perks=1749209109,3913600130
 
@@ -10422,8 +10310,8 @@ dimwishlist:item=3629968765&perks=1749209109,3913600130
 dimwishlist:item=3637570176&perks=2621346526,1546637391,2988596335
 
 
-// Geodetic HSm - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 12/28 tags:god-pve
+// Geodetic HSm - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 7/33 tags:god-pve
 dimwishlist:item=3637669759&perks=1749209109,3913600130,2509860981
 
 
@@ -10475,10 +10363,10 @@ dimwishlist:item=3667553455&perks=2869569095,1439600632,744217850
 dimwishlist:item=3667553455&perks=2869569095,4104185692,744217850
 
 
-// Dragoncult Sickle - [Aegis S23 Endgame Analysis/WR/Dawning Update] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 25/28 First caster frame sword in a while, still nothing too crazy. tags:pve
-dimwishlist:item=3668817296&perks=3705817207,3708227201
-dimwishlist:item=3668817296&perks=3705817207,3913600130
+// Dragoncult Sickle - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 26/33 First caster frame sword in a while, still nothing too crazy. tags:pve
+dimwishlist:item=3668817296&perks=3705817207,3708227201,220689851
+dimwishlist:item=3668817296&perks=3705817207,3913600130,220689851
 
 
 // Dragoncult Sickle - [demonjoe S23 Warlord's Ruin Godrolls] (pve)
@@ -10563,8 +10451,8 @@ dimwishlist:item=3686538757&perks=1556840489,2173046394,744217850
 dimwishlist:item=3686538757&perks=1556840489,4049631843,744217850
 
 
-// Love and Death - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 10/19 tags:pve
+// Love and Death - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 12/21 tags:pve
 dimwishlist:item=3690523502&perks=3300816228,2888557110
 dimwishlist:item=3690523502&perks=2284787283,2888557110
 
@@ -10712,6 +10600,14 @@ dimwishlist:item=3782662983&perks=1561002382,2387244414,639190697
 dimwishlist:item=3782662983&perks=1561002382,2387244414,31345821
 
 
+// Ill Omen - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 6/33 tags:god-pve
+dimwishlist:item=3794274730&perks=1749209109,3913600130,253121539
+dimwishlist:item=3794274730&perks=1749209109,3708227201,253121539
+dimwishlist:item=3794274730&perks=243981275,3913600130,253121539
+dimwishlist:item=3794274730&perks=243981275,3708227201,253121539
+
+
 // Ill Omen - [Datto E1 Review] (pve)
 //notes: [Datto E1 Review] tags:pve
 dimwishlist:item=3794274730&perks=1749209109,3650930298
@@ -10722,8 +10618,8 @@ dimwishlist:item=3794274730&perks=243981275,3913600130
 dimwishlist:item=3794274730&perks=243981275,4049631843
 
 
-// Corrective Measure (Timelost) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 4/22 tags:god-pve
+// Corrective Measure (Timelost) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 4/25 tags:god-pve
 dimwishlist:item=3796510434&perks=3523296417,3824105627
 dimwishlist:item=3796510434&perks=3523296417,11612903
 dimwishlist:item=3796510434&perks=3523296417,4049631843
@@ -10855,8 +10751,8 @@ dimwishlist:item=3832743906&perks=3700496672,3891536761
 dimwishlist:item=3832743906&perks=3700496672,3824105627
 
 
-// Sola's Scar (Adept) - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 26/28 tags:pve
+// Sola's Scar (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 27/33 tags:pve
 dimwishlist:item=3847137620&perks=1749209109,4104185692
 
 
@@ -10975,8 +10871,8 @@ dimwishlist:item=3867373351&perks=1799762209,1754714824
 dimwishlist:item=3867373351&perks=699525795,1754714824
 
 
-// Night Terror - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 9/28 tags:god-pve
+// Night Terror - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 12/33 tags:pve
 dimwishlist:item=3870811754&perks=1749209109,3708227201
 dimwishlist:item=3870811754&perks=1749209109,3913600130
 
@@ -11035,8 +10931,8 @@ dimwishlist:item=3886416794&perks=1820235745,4104185692,3363267119
 dimwishlist:item=3904516037&perks=2869569095,1427256713,120721526
 
 
-// Wendigo GL3 (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 2/19 tags:god-pve
+// Wendigo GL3 (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 4/21 tags:god-pve
 dimwishlist:item=3915197957&perks=3300816228,3751912585,744217850
 dimwishlist:item=3915197957&perks=3300816228,2610012052,744217850
 
@@ -11456,11 +11352,8 @@ dimwishlist:item=4050645223&perks=3643424744,3927722942
 dimwishlist:item=4050645223&perks=3643424744,3523296417
 
 
-// Thin Precipice - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 28/28 tags:pve
-dimwishlist:item=4066778670&perks=4085959009,4290541820,2053642371
-dimwishlist:item=4066778670&perks=4085959009,2610012052,2053642371
-dimwishlist:item=4066778670&perks=1749209109,4290541820,2053642371
+// Thin Precipice - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier F Rank 32/33 tags:pve
 dimwishlist:item=4066778670&perks=1749209109,2610012052,2053642371
 
 
@@ -11618,8 +11511,8 @@ dimwishlist:item=4132072834&perks=3978468247,1771339417,2565067140
 dimwishlist:item=4132072834&perks=3978468247,2319119708,2565067140
 
 
-// Outrageous Fortune - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 18/19 tags:pve
+// Outrageous Fortune - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 19/21 tags:pve
 dimwishlist:item=4146702548&perks=3300816228,706527188
 
 
@@ -11885,8 +11778,16 @@ dimwishlist:item=4207120603&perks=1749209109,3078487919
 dimwishlist:item=4207120603&perks=1749209109,1546637391
 
 
-// Avalanche - [Aegis S23 Endgame Analysis/WR/Dawning Update] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 10/22 Not much changed, still decent but worse than Unwavering Duty. tags:god-pve
+// False Idols - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 13/33 tags:pve
+dimwishlist:item=4207120603&perks=1749209109,3078487919,1988485648
+dimwishlist:item=4207120603&perks=1749209109,3708227201,1988485648
+dimwishlist:item=4207120603&perks=243981275,3078487919,1988485648
+dimwishlist:item=4207120603&perks=243981275,3708227201,1988485648
+
+
+// Avalanche - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 13/25 Not much changed, still decent but worse than Unwavering Duty. tags:pve
 dimwishlist:item=4220529694&perks=3300816228,4293542123,4264904777
 dimwishlist:item=4220529694&perks=3300816228,3751912585,4264904777
 dimwishlist:item=4220529694&perks=1820235745,4293542123,4264904777
@@ -11938,43 +11839,26 @@ dimwishlist:item=4225322581&perks=3528046508,2679249093
 dimwishlist:item=4225322581&perks=3528046508,788178929
 
 
-// Commemoration - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 1/22 tags:god-pve
-dimwishlist:item=4230965989&perks=4245865861,2896748467,766321425
-dimwishlist:item=4230965989&perks=4245865861,557221067,766321425
-dimwishlist:item=4230965989&perks=4245865861,2541826827,766321425
-dimwishlist:item=4230965989&perks=4245865861,776531651,766321425
-dimwishlist:item=4230965989&perks=1820235745,2896748467,766321425
-dimwishlist:item=4230965989&perks=1820235745,557221067,766321425
-dimwishlist:item=4230965989&perks=1820235745,2541826827,766321425
-dimwishlist:item=4230965989&perks=1820235745,776531651,766321425
-dimwishlist:item=4230965989&perks=848860060,2896748467,766321425
-dimwishlist:item=4230965989&perks=848860060,557221067,766321425
-dimwishlist:item=4230965989&perks=848860060,2541826827,766321425
-dimwishlist:item=4230965989&perks=848860060,776531651,766321425
-dimwishlist:item=4230965989&perks=1354429876,2896748467,766321425
+// Commemoration - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 1/25 tags:god-pve
+dimwishlist:item=4230965989&perks=1523832109,557221067,766321425
+dimwishlist:item=4230965989&perks=1523832109,776531651,766321425
 dimwishlist:item=4230965989&perks=1354429876,557221067,766321425
-dimwishlist:item=4230965989&perks=1354429876,2541826827,766321425
 dimwishlist:item=4230965989&perks=1354429876,776531651,766321425
-dimwishlist:item=4230965989&perks=169755979,2896748467,766321425
-dimwishlist:item=4230965989&perks=169755979,557221067,766321425
-dimwishlist:item=4230965989&perks=169755979,2541826827,766321425
-dimwishlist:item=4230965989&perks=169755979,776531651,766321425
-dimwishlist:item=4230965989&perks=2848615171,2896748467,766321425
 dimwishlist:item=4230965989&perks=2848615171,557221067,766321425
-dimwishlist:item=4230965989&perks=2848615171,2541826827,766321425
 dimwishlist:item=4230965989&perks=2848615171,776531651,766321425
 
 
-// Steel Sybil Z-14 - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 16/28 tags:god-pve
+// Steel Sybil Z-14 - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 17/33 tags:pve
 dimwishlist:item=4230993599&perks=1749209109,3913600130
 
 
-// Marcato-45 - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 6/22 Demo/Tricorn LMG is interesting but this is on Strand, mostly useful for Titans only tags:god-pve
+// Marcato-45 - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 8/25 Demo/Tricorn LMG is interesting but this is on Strand, mostly useful for Titans only tags:god-pve
 dimwishlist:item=4233375372&perks=3523296417,95528736,4008116374
 dimwishlist:item=4233375372&perks=3523296417,2610012052,4008116374
+dimwishlist:item=4233375372&perks=3523296417,831391274,4008116374
 
 
 // Marcato-45 - [Datto S23 Godrolls] (pve)

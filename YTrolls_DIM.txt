@@ -1443,6 +1443,34 @@ dimwishlist:item=501329015&perks=1015611457,1549370717,1489048135
 dimwishlist:item=501329015&perks=1015611457,3891536761,1489048135
 
 
+// Shayura's Wrath (Adept) - [CoolGuy E1A1 Review] (god-pvp)
+//notes: [CoolGuy E1A1 Review] Nadir Focus is a mini Dynamic Sway Reduction. New release has deterministic recoil with a grouping for first 2-3 bullets, but do not make it 100 Recoil, 95 is better. Switch perks like Harmony/Cascade/Discord are worth considering. Duelling perks: DSR, Zen Moment, Keep Away, Tap The Trigger, Target Lock; Chaining: Kill Clip; Duel + Chain: Killing Wind; Switch: Cascade Point, Harmony. Go for Range and Stability barrels and mags, just don't change the Recoil. tags:god-pvp
+dimwishlist:item=501345268&perks=1359896290,1890422124,2509860981
+dimwishlist:item=501345268&perks=1359896290,1015611457,2509860981
+dimwishlist:item=501345268&perks=1359896290,365154968,2509860981
+dimwishlist:item=501345268&perks=2387244414,1890422124,2509860981
+dimwishlist:item=501345268&perks=2387244414,1015611457,2509860981
+dimwishlist:item=501345268&perks=2387244414,365154968,2509860981
+dimwishlist:item=501345268&perks=3619207468,1890422124,2509860981
+dimwishlist:item=501345268&perks=3619207468,1015611457,2509860981
+dimwishlist:item=501345268&perks=3619207468,365154968,2509860981
+
+
+// Shayura's Wrath (Adept) - [Aztecross E1A1 Review] (god-pvp)
+//notes: [Aztecross E1A1 Review] A stat monster already, Nadir Focus gives another meter of Range and procs even if not hitting a target. Get Range up with barrels. tags:god-pvp
+dimwishlist:item=501345268&perks=2387244414,1890422124,2509860981
+dimwishlist:item=501345268&perks=2387244414,1015611457,2509860981
+dimwishlist:item=501345268&perks=2387244414,3751912585,2509860981
+dimwishlist:item=501345268&perks=1359896290,1890422124,2509860981
+dimwishlist:item=501345268&perks=1359896290,1015611457,2509860981
+dimwishlist:item=501345268&perks=1359896290,3751912585,2509860981
+
+
+// Shayura's Wrath (Adept) - [Aztecross E1A1 Review] (pve)
+//notes: [Aztecross E1A1 Review] Lightweight SMGs have better DPS, so go for something like Recluse instead. tags:pve
+dimwishlist:item=501345268&perks=776531651,2048641572
+
+
 // The Last Breath - [demonjoe S23 Must Have Dungeon Weapons] (pve)
 //notes: [demonjoe S23 Must Have Dungeon Weapons] tags:pve
 dimwishlist:item=507038823&perks=3523296417,11612903
@@ -3205,6 +3233,16 @@ dimwishlist:item=1239700299&perks=494941759,788178929
 dimwishlist:item=1239700299&perks=494941759,2679249093
 dimwishlist:item=1239700299&perks=4071163871,788178929
 dimwishlist:item=1239700299&perks=4071163871,2679249093
+
+
+// Maahes HC4 - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Reload is slow, Frenzy (with anything) is great to make up for it. tags:god-pve
+dimwishlist:item=1246793994&perks=776531651,2048641572
+
+
+// Maahes HC4 - [CoolGuy E1A2 Review] (pvp)
+//notes: [CoolGuy E1A2 Review] Reload is slow. Second shot in burst will miss head if you don't actively compensate for it, with flinch on top of it; perks to reduce TTK help here. tags:pvp
+dimwishlist:item=1246793994&perks=3828510309,2610012052
 
 
 // Sweet Sorrow (god-pvp)
@@ -5524,6 +5562,34 @@ dimwishlist:item=2009277538&perks=1890422124,905869860
 dimwishlist:item=2009277538&perks=1890422124,3244015567
 
 
+// Shayura's Wrath - [CoolGuy E1A1 Review] (god-pvp)
+//notes: [CoolGuy E1A1 Review] Nadir Focus is a mini Dynamic Sway Reduction. New release has deterministic recoil with a grouping for first 2-3 bullets, but do not make it 100 Recoil, 95 is better. Switch perks like Harmony/Cascade/Discord are worth considering. Duelling perks: DSR, Zen Moment, Keep Away, Tap The Trigger, Target Lock; Chaining: Kill Clip; Duel + Chain: Killing Wind; Switch: Cascade Point, Harmony. Go for Range and Stability barrels and mags, just don't change the Recoil. tags:god-pvp
+dimwishlist:item=2022294213&perks=1359896290,1890422124,2509860981
+dimwishlist:item=2022294213&perks=1359896290,1015611457,2509860981
+dimwishlist:item=2022294213&perks=1359896290,365154968,2509860981
+dimwishlist:item=2022294213&perks=2387244414,1890422124,2509860981
+dimwishlist:item=2022294213&perks=2387244414,1015611457,2509860981
+dimwishlist:item=2022294213&perks=2387244414,365154968,2509860981
+dimwishlist:item=2022294213&perks=3619207468,1890422124,2509860981
+dimwishlist:item=2022294213&perks=3619207468,1015611457,2509860981
+dimwishlist:item=2022294213&perks=3619207468,365154968,2509860981
+
+
+// Shayura's Wrath - [Aztecross E1A1 Review] (god-pvp)
+//notes: [Aztecross E1A1 Review] A stat monster already, Nadir Focus gives another meter of Range and procs even if not hitting a target. Get Range up with barrels. tags:god-pvp
+dimwishlist:item=2022294213&perks=2387244414,1890422124,2509860981
+dimwishlist:item=2022294213&perks=2387244414,1015611457,2509860981
+dimwishlist:item=2022294213&perks=2387244414,3751912585,2509860981
+dimwishlist:item=2022294213&perks=1359896290,1890422124,2509860981
+dimwishlist:item=2022294213&perks=1359896290,1015611457,2509860981
+dimwishlist:item=2022294213&perks=1359896290,3751912585,2509860981
+
+
+// Shayura's Wrath - [Aztecross E1A1 Review] (pve)
+//notes: [Aztecross E1A1 Review] Lightweight SMGs have better DPS, so go for something like Recluse instead. tags:pve
+dimwishlist:item=2022294213&perks=776531651,2048641572
+
+
 // Lingering Dread - [Duqk's S22 Duality God Rolls] (god-pve)
 //notes: [Duqk's S22 Duality God Rolls] Blind and slow on any subclass, extra synergy with Stasis builds tags:god-pve
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
@@ -5802,6 +5868,17 @@ dimwishlist:item=2126178511&perks=684456054,2173046394,253121539
 dimwishlist:item=2126178511&perks=1421772400,2173046394,253121539
 
 
+// Corrasion - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Amplified helps with Handling and Reload, which helps with Voltshot. Eddy Current feels great especially with Amplified, but Air Trigger gives just as fast a Reload just by jumping. Base Mag and Base Reload still gives Voltshot after shooting full mag, so High-Impact Reserves is free 14-25% extra damage for last 8 bullets; can also use Frenzy. Could use more Range since it's not a Scout. tags:god-pve
+dimwishlist:item=2126178511&perks=1840239774,3142289711,1421772400,2173046394
+
+
+// Corrasion - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Amplified helps with Handling and Reload, which helps with Voltshot. Eddy Current feels great especially with Amplified, but Air Trigger gives just as fast a Reload just by jumping. Base Mag and Base Reload still gives Voltshot after shooting full mag, so High-Impact Reserves is free 14-25% extra damage for last 8 bullets; can also use Frenzy. Could use more Range since it's not a Scout. tags:god-pve
+dimwishlist:item=2126178511&perks=4090651448,1431678320,2213355989,4104185692
+dimwishlist:item=2126178511&perks=1840239774,1431678320,2213355989,4104185692
+
+
 // Corrasion - [Fallout E1A2 God Rolls] (pve)
 //notes: [Fallout E1A2 God Rolls] Eddy Current for Arc/Prismatic play, Enlightened Action still feels easier though. Air Trigger reload buff seems on-par with Outlaw, one of the fastest; a dark horse selection. tags:pve
 dimwishlist:item=2126178511&perks=839105230,3230963543,3828510309,2173046394
@@ -5836,6 +5913,36 @@ dimwishlist:item=2126178511&perks=3828510309,4049631843
 dimwishlist:item=2126178511&perks=2213355989,4049631843
 dimwishlist:item=2126178511&perks=2213355989,2319119708
 dimwishlist:item=2126178511&perks=2213355989,4104185692
+
+
+// Corrasion - [CoolGuy E1A2 Review] (pve)
+//notes: [CoolGuy E1A2 Review] Amplified helps with Handling and Reload, which helps with Voltshot. Eddy Current feels great especially with Amplified, but Air Trigger gives just as fast a Reload just by jumping. Base Mag and Base Reload still gives Voltshot after shooting full mag, so High-Impact Reserves is free 14-25% extra damage for last 8 bullets; can also use Frenzy. Could use more Range since it's not a Scout. tags:pve
+dimwishlist:item=2126178511&perks=684456054,2173046394
+dimwishlist:item=2126178511&perks=2213355989,2173046394
+
+
+// Corrasion - [CoolGuy E1A2 Review] (pve)
+//notes: [CoolGuy E1A2 Review] Amplified helps with Handling and Reload, which helps with Voltshot. Eddy Current feels great especially with Amplified, but Air Trigger gives just as fast a Reload just by jumping. Base Mag and Base Reload still gives Voltshot after shooting full mag, so High-Impact Reserves is free 14-25% extra damage for last 8 bullets; can also use Frenzy. Could use more Range since it's not a Scout. tags:pve
+dimwishlist:item=2126178511&perks=2213355989,4049631843
+dimwishlist:item=2126178511&perks=2213355989,4082225868
+dimwishlist:item=2126178511&perks=2213355989,2319119708
+dimwishlist:item=2126178511&perks=2213355989,2896038713
+
+
+// Corrasion - [CoolGuy E1A2 Review] (pvp)
+//notes: [CoolGuy E1A2 Review] Heavy Burst 2-burst has unforgiving TTK with missing crits from recoil and being affected by flinch. Try for 85+ Range and put rest into Handling or Stability (go for Stability MW), but ultimately this is a PvE weapon. tags:pvp
+dimwishlist:item=2126178511&perks=1392496348,3177308360,1421772400,4082225868
+dimwishlist:item=2126178511&perks=1392496348,3177308360,1421772400,4104185692
+dimwishlist:item=2126178511&perks=1392496348,3177308360,1421772400,4049631843
+dimwishlist:item=2126178511&perks=1392496348,3177308360,1421772400,2896038713
+dimwishlist:item=2126178511&perks=1392496348,3177308360,2272927194,4082225868
+dimwishlist:item=2126178511&perks=1392496348,3177308360,2272927194,4104185692
+dimwishlist:item=2126178511&perks=1392496348,3177308360,2272927194,4049631843
+dimwishlist:item=2126178511&perks=1392496348,3177308360,2272927194,2896038713
+dimwishlist:item=2126178511&perks=1392496348,3177308360,1428297954,4082225868
+dimwishlist:item=2126178511&perks=1392496348,3177308360,1428297954,4104185692
+dimwishlist:item=2126178511&perks=1392496348,3177308360,1428297954,4049631843
+dimwishlist:item=2126178511&perks=1392496348,3177308360,1428297954,2896038713
 
 
 // Hero of Ages - [Aegis E1A2 Endgame Analysis] (pve)
@@ -5968,6 +6075,19 @@ dimwishlist:item=2198166292&perks=1087426260,3017780555,4293542123
 // Aberrant Action - [Aztecross E1A2 Review] (god-pve)
 //notes: [Aztecross E1A2 Review] Another great Rocket Sidearm, builds into Solar. Has ability regen roll, and Solar/survival roll. tags:god-pve
 dimwishlist:item=2198166292&perks=3525010810,106909392,3017780555,4293542123
+
+
+// Aberrant Action - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Though a Special ammo weapon, Strategist/Pugilist/Demolitionist counts it as (Primary) Sidearms. Despite that, with Ember of Searing/Singeing (and other Scorch multiplying/spreading fragments) and Incandescent you'll get Melee/Class ability back very quick anyway. Obviously Heal Clip great too. Reverberation not worth it here, better on Grenade Launchers. Go for Velocity MW. tags:god-pve
+dimwishlist:item=2198166292&perks=981914802,3230963543,3017780555,4293542123
+
+
+// Aberrant Action - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Though a Special ammo weapon, Strategist/Pugilist/Demolitionist counts it as (Primary) Sidearms. Despite that, with Ember of Searing/Singeing (and other Scorch multiplying/spreading fragments) and Incandescent you'll get Melee/Class ability back very quick anyway. Obviously Heal Clip great too. Reverberation not worth it here, better on Grenade Launchers. Go for Velocity MW. tags:god-pve
+dimwishlist:item=2198166292&perks=981914802,2822142346,880644845,3523296417
+dimwishlist:item=2198166292&perks=981914802,2822142346,880644845,4293542123
+dimwishlist:item=2198166292&perks=981914802,2822142346,691659142,3523296417
+dimwishlist:item=2198166292&perks=981914802,2822142346,691659142,4293542123
 
 
 // Aberrant Action - [Llama E1A2 God Rolls] (pve)
@@ -6339,6 +6459,29 @@ dimwishlist:item=2328531378&perks=2451262963,3751912585
 dimwishlist:item=2328531378&perks=3523296417,11612903
 dimwishlist:item=2328531378&perks=3523296417,365154968
 dimwishlist:item=2328531378&perks=3523296417,1015611457
+
+
+// Breachlight - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Heavy Burst hits hard with nice Range. Focus on melee builds with Cast No Shadows. Demolitionist works well with Warlock grenade builds, Pugilist with Titan melee builds, Slice with Hunter melee/dodge builds. So good with Prismatic. Hatchling always good but usually use this for bursting rather than precision final blows. tags:god-pve
+dimwishlist:item=2328923181&perks=3523296417,2109543898
+dimwishlist:item=2328923181&perks=3523296417,4082225868
+
+
+// Breachlight - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Heavy Burst hits hard with nice Range. Focus on melee builds with Cast No Shadows. Demolitionist works well with Warlock grenade builds, Pugilist with Titan melee builds, Slice with Hunter melee/dodge builds. So good with Prismatic. Hatchling always good but usually use this for bursting rather than precision final blows. tags:god-pve
+dimwishlist:item=2328923181&perks=691659142,4082225868,2838996248
+
+
+// Breachlight - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Heavy Burst hits hard with nice Range. Focus on melee builds with Cast No Shadows. Demolitionist works well with Warlock grenade builds, Pugilist with Titan melee builds, Slice with Hunter melee/dodge builds. So good with Prismatic. Hatchling always good but usually use this for bursting rather than precision final blows. tags:god-pve
+dimwishlist:item=2328923181&perks=923806249,4082225868
+
+
+// Breachlight - [CoolGuy E1A2 Review] (god-pvp)
+//notes: [CoolGuy E1A2 Review] Heavy Burst hits hard with okay TTK and nice Range. Swashbuckler drops TTK down significantly. Nice with Peregrine Greaves. tags:god-pvp
+dimwishlist:item=2328923181&perks=691659142,4082225868
+dimwishlist:item=2328923181&perks=1428297954,4082225868
+dimwishlist:item=2328923181&perks=4071163871,4082225868
 
 
 // Breachlight - [Datto E1 Review] (pve)
@@ -11528,6 +11671,29 @@ dimwishlist:item=4152016199&perks=106909392,3523296417,831391274
 dimwishlist:item=4152016199&perks=106909392,923806249,831391274
 dimwishlist:item=4152016199&perks=106909392,3828510309,831391274
 dimwishlist:item=4152016199&perks=106909392,1421772400,831391274
+
+
+// Better Devils - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Some unique perk combos, great for ability spam builds. tags:god-pve
+dimwishlist:item=4152016199&perks=3523296417,4104185692
+dimwishlist:item=4152016199&perks=3523296417,3038247973
+dimwishlist:item=4152016199&perks=691659142,4104185692
+dimwishlist:item=4152016199&perks=691659142,3038247973
+
+
+// Better Devils - [CoolGuy E1A2 Review] (god-pvp)
+//notes: [CoolGuy E1A2 Review] Stats close to Nation of Beasts, lots of other Handcannons better if you have it. Needs 70+ Range (Accurized + Range MW). Perfect Float with Zen Moment makes it very stable. Perpetual Motion with Elemental Capacitor with Void/Arc makes it feel good. tags:god-pvp
+dimwishlist:item=4152016199&perks=3142289711,2272927194,2387244414
+
+
+// Better Devils - [CoolGuy E1A2 Review] (god-pvp)
+//notes: [CoolGuy E1A2 Review] Stats close to Nation of Beasts, lots of other Handcannons better if you have it. Needs 70+ Range (Accurized + Range MW). Perfect Float with Zen Moment makes it very stable. Perpetual Motion with Elemental Capacitor with Void/Arc makes it feel good. tags:god-pvp
+dimwishlist:item=4152016199&perks=3142289711,1421772400,1015611457
+
+
+// Better Devils - [CoolGuy E1A2 Review] (god-pvp)
+//notes: [CoolGuy E1A2 Review] Stats close to Nation of Beasts, lots of other Handcannons better if you have it. Needs 70+ Range (Accurized + Range MW). Perfect Float with Zen Moment makes it very stable. Perpetual Motion with Elemental Capacitor with Void/Arc makes it feel good. tags:god-pvp
+dimwishlist:item=4152016199&perks=3142289711,1428297954,3511092054
 
 
 // Better Devils - [Aztecross E1A2 Review] (pve)

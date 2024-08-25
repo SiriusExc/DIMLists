@@ -1106,6 +1106,25 @@ dimwishlist:item=413901114&perks=2869569095,3751912585,2509860981
 dimwishlist:item=413901114&perks=2869569095,3194351027,2509860981
 
 
+// Controlling Vision - [CoolGuy E1A2 Review] (god-pvp)
+//notes: [CoolGuy E1A2 Review] Low stat package but Range stat is clamped anyway. Sidearms are spam weapons rather than precision, hard-hitting ones; great for hip-firing. All 3rd column perks are good. High Ground currently bugged, doing one ability jump (beyond one-tap jump) grants High Ground x3 effects without the buff text. Equip best barrel/mag/masterwork. tags:god-pvp
+dimwishlist:item=423343404&perks=1195158366,2416023159
+
+
+// Controlling Vision - [CoolGuy E1A2 Review] (god-pvp)
+//notes: [CoolGuy E1A2 Review] Low stat package but Range stat is clamped anyway. Sidearms are spam weapons rather than precision, hard-hitting ones; great for hip-firing. All 3rd column perks are good. High Ground currently bugged, doing one ability jump (beyond one-tap jump) grants High Ground x3 effects without the buff text. Equip best barrel/mag/masterwork. tags:god-pvp
+dimwishlist:item=423343404&perks=3722653512,2319119708
+dimwishlist:item=423343404&perks=3722653512,2416023159
+dimwishlist:item=423343404&perks=2451262963,2319119708
+dimwishlist:item=423343404&perks=2451262963,2416023159
+dimwishlist:item=423343404&perks=3436462433,2319119708
+dimwishlist:item=423343404&perks=3436462433,2416023159
+dimwishlist:item=423343404&perks=2039302152,2319119708
+dimwishlist:item=423343404&perks=2039302152,2416023159
+dimwishlist:item=423343404&perks=1821614984,2319119708
+dimwishlist:item=423343404&perks=1821614984,2416023159
+
+
 // Zaouli's Bane - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Nation of Beasts (Dragonfly + Explosive Payload/Voltshot) tags:god-pve
 dimwishlist:item=431721920&perks=64866129,2675184851,120721526
@@ -1407,6 +1426,11 @@ dimwishlist:item=496556698&perks=2801223209,16392701,201365942,2652708987,105012
 dimwishlist:item=496556698&perks=2801223209,16392701,3828510309,2652708987,1050127423
 
 
+// Bold Endings - [CoolGuy E1A2 Review] (god-pve)
+//notes: [CoolGuy E1A2 Review] Origin trait decent, higher than Thresh with 2 or 3 weapons equipped. Desperate Measures higher average buff compared to Golden Tricorn and Collective Action on Stasis. A tool gun, Headstone + Demolitionist great for turret builds. tags:god-pve
+dimwishlist:item=496728945&perks=1840239774,3230963543,124408337,3523296417,1988485648
+
+
 // Bold Endings - [Datto E1 Pale Heart God Rolls] (pve)
 //notes: [Datto E1 Pale Heart God Rolls] First new Stasis Handcannon since Eyasluna (ignoring Judgement), mostly PvE uses, a bit weaker for PvP. Heavy Burst frame good for Lucky Pants Hunters. tags:pve
 dimwishlist:item=496728945&perks=124408337,2848615171
@@ -1427,6 +1451,11 @@ dimwishlist:item=496728945&perks=880644845,3523296417
 //notes: [Datto E1 Pale Heart God Rolls] First new Stasis Handcannon since Eyasluna (ignoring Judgement), mostly PvE uses, a bit weaker for PvP. Heavy Burst frame good for Lucky Pants Hunters. tags:pvp
 dimwishlist:item=496728945&perks=3938834702,588594999
 dimwishlist:item=496728945&perks=3938834702,699525795
+
+
+// Bold Endings - [CoolGuy E1A2 Review] (pvp)
+//notes: [CoolGuy E1A2 Review] Second shot in burst will miss head if you don't actively compensate for it, with flinch on top of it (like Maahes and Warden's Law); weapon model helps here with visibility. Desperate Measures doesn't help with 2nd bullet in burst, neither do Moving Target and Eye Of The Storm. Better to duel with 120/140s. tags:pvp
+dimwishlist:item=496728945&perks=3250034553,3142289711,247725512,2610012052
 
 
 // Ded Gramarye IV - [Aegis E1A2 Endgame Analysis] (pve)
@@ -2485,6 +2514,18 @@ dimwishlist:item=854379020&perks=4071163871,1546637391,2988596335
 dimwishlist:item=854379020&perks=4071163871,3751912585,2988596335
 
 
+// Nullify - [CoolGuy E1A1 Review] (god-pve)
+//notes: [CoolGuy E1A1 Review] New archetype, great damage, high Range, low Handling/Reload. Heal Clip + Incandescent is good but other weapons do it better. Firefly procs perks like Adrenaline Junkie and Multikill Clip, also spreads Scorch for Incandescent very far. Chaos Reshaped is Frenzy with healing, the timer is generous and just about always proc'd in general gameplay; with surges (element matched with heavies like Apex) you're doing 65% more damage over base. Go for Range or Handling. tags:god-pve
+dimwishlist:item=859869931&perks=1840239774,3142289711,3017780555,3640170453
+dimwishlist:item=859869931&perks=1840239774,3142289711,3824105627,3640170453
+dimwishlist:item=859869931&perks=1840239774,3142289711,1870851715,3640170453
+
+
+// Nullify - [CoolGuy E1A1 Review] (god-pve)
+//notes: [CoolGuy E1A1 Review] New archetype, great damage, high Range, low Handling/Reload. Heal Clip + Incandescent is good but other weapons do it better. Firefly procs perks like Adrenaline Junkie and Multikill Clip, also spreads Scorch for Incandescent very far. Chaos Reshaped is Frenzy with healing, the timer is generous and just about always proc'd in general gameplay; with surges (element matched with heavies like Apex) you're doing 65% more damage over base. Go for Range or Handling. tags:god-pve
+dimwishlist:item=859869931&perks=1840239774,3142289711,3824105627,4293542123
+
+
 // Nullify - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Firefly + Incandescent is basically a double damage perk with reload buff. Others also good though. Pair with a Mag perk. tags:pve
 dimwishlist:item=859869931&perks=3824105627,4293542123
@@ -2492,6 +2533,21 @@ dimwishlist:item=859869931&perks=3017780555,4293542123
 dimwishlist:item=859869931&perks=3523296417,4293542123
 dimwishlist:item=859869931&perks=1820235745,4293542123
 dimwishlist:item=859869931&perks=247725512,4293542123
+
+
+// Nullify - [CoolGuy E1A1 Review] (pve)
+//notes: [CoolGuy E1A1 Review] New archetype, great damage, high Range, low Handling/Reload. Heal Clip + Incandescent is good but other weapons do it better. Firefly procs perks like Adrenaline Junkie and Multikill Clip, also spreads Scorch for Incandescent very far. Chaos Reshaped is Frenzy with healing, the timer is generous and just about always proc'd in general gameplay; with surges (element matched with heavies like Apex) you're doing 65% more damage over base. Go for Range or Handling. tags:pve
+dimwishlist:item=859869931&perks=1840239774,3142289711,3017780555,4293542123
+
+
+// Nullify - [CoolGuy E1A1 Review] (pvp)
+//notes: [CoolGuy E1A1 Review] Can't compete with High-impacts like Messenger, with added Handling and Reload baggage that Handcannons and other Pulses don't have. That said, Firefly + Incandescent helps shift TTK with DoT damage in 6s, and Chaos Reshaped is an easier proc than Frenzy. tags:pvp
+dimwishlist:item=859869931&perks=3824105627,4293542123
+
+
+// Nullify - [CoolGuy E1A1 Review] (pvp)
+//notes: [CoolGuy E1A1 Review] Can't compete with High-impacts like Messenger, with added Handling and Reload baggage that Handcannons and other Pulses don't have. That said, Firefly + Incandescent helps shift TTK with DoT damage in 6s, and Chaos Reshaped is an easier proc than Frenzy. tags:pvp
+dimwishlist:item=859869931&perks=3017780555,3640170453
 
 
 // Marsilion-C - [Aegis E1A2 Endgame Analysis] (god-pve)
@@ -2562,6 +2618,18 @@ dimwishlist:item=874623537&perks=3300816228,3078487919
 dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,3038247973,862848869
 
 
+// Nullify (Adept) - [CoolGuy E1A1 Review] (god-pve)
+//notes: [CoolGuy E1A1 Review] New archetype, great damage, high Range, low Handling/Reload. Heal Clip + Incandescent is good but other weapons do it better. Firefly procs perks like Adrenaline Junkie and Multikill Clip, also spreads Scorch for Incandescent very far. Chaos Reshaped is Frenzy with healing, the timer is generous and just about always proc'd in general gameplay; with surges (element matched with heavies like Apex) you're doing 65% more damage over base. Go for Range or Handling. tags:god-pve
+dimwishlist:item=892183998&perks=1840239774,3142289711,3017780555,3640170453
+dimwishlist:item=892183998&perks=1840239774,3142289711,3824105627,3640170453
+dimwishlist:item=892183998&perks=1840239774,3142289711,1870851715,3640170453
+
+
+// Nullify (Adept) - [CoolGuy E1A1 Review] (god-pve)
+//notes: [CoolGuy E1A1 Review] New archetype, great damage, high Range, low Handling/Reload. Heal Clip + Incandescent is good but other weapons do it better. Firefly procs perks like Adrenaline Junkie and Multikill Clip, also spreads Scorch for Incandescent very far. Chaos Reshaped is Frenzy with healing, the timer is generous and just about always proc'd in general gameplay; with surges (element matched with heavies like Apex) you're doing 65% more damage over base. Go for Range or Handling. tags:god-pve
+dimwishlist:item=892183998&perks=1840239774,3142289711,3824105627,4293542123
+
+
 // Nullify (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Firefly + Incandescent is basically a double damage perk with reload buff. Others also good though. Pair with a Mag perk. tags:pve
 dimwishlist:item=892183998&perks=3824105627,4293542123
@@ -2569,6 +2637,21 @@ dimwishlist:item=892183998&perks=3017780555,4293542123
 dimwishlist:item=892183998&perks=3523296417,4293542123
 dimwishlist:item=892183998&perks=1820235745,4293542123
 dimwishlist:item=892183998&perks=247725512,4293542123
+
+
+// Nullify (Adept) - [CoolGuy E1A1 Review] (pve)
+//notes: [CoolGuy E1A1 Review] New archetype, great damage, high Range, low Handling/Reload. Heal Clip + Incandescent is good but other weapons do it better. Firefly procs perks like Adrenaline Junkie and Multikill Clip, also spreads Scorch for Incandescent very far. Chaos Reshaped is Frenzy with healing, the timer is generous and just about always proc'd in general gameplay; with surges (element matched with heavies like Apex) you're doing 65% more damage over base. Go for Range or Handling. tags:pve
+dimwishlist:item=892183998&perks=1840239774,3142289711,3017780555,4293542123
+
+
+// Nullify (Adept) - [CoolGuy E1A1 Review] (pvp)
+//notes: [CoolGuy E1A1 Review] Can't compete with High-impacts like Messenger, with added Handling and Reload baggage that Handcannons and other Pulses don't have. That said, Firefly + Incandescent helps shift TTK with DoT damage in 6s, and Chaos Reshaped is an easier proc than Frenzy. tags:pvp
+dimwishlist:item=892183998&perks=3824105627,4293542123
+
+
+// Nullify (Adept) - [CoolGuy E1A1 Review] (pvp)
+//notes: [CoolGuy E1A1 Review] Can't compete with High-impacts like Messenger, with added Handling and Reload baggage that Handcannons and other Pulses don't have. That said, Firefly + Incandescent helps shift TTK with DoT damage in 6s, and Chaos Reshaped is an easier proc than Frenzy. tags:pvp
+dimwishlist:item=892183998&perks=3017780555,3640170453
 
 
 // Far Future - [Aegis E1A2 Endgame Analysis] (pve)
@@ -2820,6 +2903,14 @@ dimwishlist:item=1030895163&perks=3161816588,1427256713
 dimwishlist:item=1030895163&perks=1820235745,1427256713
 
 
+// Non-Denouement (Adept) - [CoolGuy E1A1 Review] (god-pve)
+//notes: [CoolGuy E1A1 Review] Voltshot on a bow bypasses lots of reload delays on other Voltshot weapons. Jolt also ties into Arc subclass and Champ stunning, and boosts damage on you other weapons; pair with a Rocket Sidearm and Bait And Switch Rocket. 3rd column perk to suit your build. tags:god-pve
+dimwishlist:item=1039915310&perks=2801223209,3827198035,880644845,2173046394
+dimwishlist:item=1039915310&perks=2801223209,3827198035,201365942,2173046394
+dimwishlist:item=1039915310&perks=2801223209,3827198035,3700496672,2173046394
+dimwishlist:item=1039915310&perks=2801223209,3827198035,2848615171,2173046394
+
+
 // Non-Denouement (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Trinity Ghoul at home. Also, use the new, unique perks instead of the same perks that appear on every other Bow. tags:pve
 dimwishlist:item=1039915310&perks=201365942,2173046394
@@ -2828,6 +2919,14 @@ dimwishlist:item=1039915310&perks=201365942,3414324643
 dimwishlist:item=1039915310&perks=2848615171,2173046394
 dimwishlist:item=1039915310&perks=2848615171,4049631843
 dimwishlist:item=1039915310&perks=2848615171,3414324643
+
+
+// Non-Denouement (Adept) - [CoolGuy E1A1 Review] (pvp)
+//notes: [CoolGuy E1A1 Review] It's a bow, not the best bow but Voltshot helps with cleanup kills. Go for Draw Time. If you can play hip-fire bow hits, play into that and go for Accuracy. tags:pvp
+dimwishlist:item=1039915310&perks=2801223209,3827198035,47981717,3414324643
+dimwishlist:item=1039915310&perks=2801223209,3827198035,47981717,2173046394
+dimwishlist:item=1039915310&perks=2801223209,3827198035,1866048759,3414324643
+dimwishlist:item=1039915310&perks=2801223209,3827198035,1866048759,2173046394
 
 
 // The Recluse - [Aztecross S23 ITL God Rolls] (pvp)
@@ -4689,6 +4788,14 @@ dimwishlist:item=1766088024&perks=2869569095,2848615171
 dimwishlist:item=1769847435&perks=3400784728,2896038713,2053642371
 
 
+// Non-Denouement - [CoolGuy E1A1 Review] (god-pve)
+//notes: [CoolGuy E1A1 Review] Voltshot on a bow bypasses lots of reload delays on other Voltshot weapons. Jolt also ties into Arc subclass and Champ stunning, and boosts damage on you other weapons; pair with a Rocket Sidearm and Bait And Switch Rocket. 3rd column perk to suit your build. tags:god-pve
+dimwishlist:item=1770490683&perks=2801223209,3827198035,880644845,2173046394
+dimwishlist:item=1770490683&perks=2801223209,3827198035,201365942,2173046394
+dimwishlist:item=1770490683&perks=2801223209,3827198035,3700496672,2173046394
+dimwishlist:item=1770490683&perks=2801223209,3827198035,2848615171,2173046394
+
+
 // Non-Denouement - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Trinity Ghoul at home. Also, use the new, unique perks instead of the same perks that appear on every other Bow. tags:pve
 dimwishlist:item=1770490683&perks=201365942,2173046394
@@ -4697,6 +4804,14 @@ dimwishlist:item=1770490683&perks=201365942,3414324643
 dimwishlist:item=1770490683&perks=2848615171,2173046394
 dimwishlist:item=1770490683&perks=2848615171,4049631843
 dimwishlist:item=1770490683&perks=2848615171,3414324643
+
+
+// Non-Denouement - [CoolGuy E1A1 Review] (pvp)
+//notes: [CoolGuy E1A1 Review] It's a bow, not the best bow but Voltshot helps with cleanup kills. Go for Draw Time. If you can play hip-fire bow hits, play into that and go for Accuracy. tags:pvp
+dimwishlist:item=1770490683&perks=2801223209,3827198035,47981717,3414324643
+dimwishlist:item=1770490683&perks=2801223209,3827198035,47981717,2173046394
+dimwishlist:item=1770490683&perks=2801223209,3827198035,1866048759,3414324643
+dimwishlist:item=1770490683&perks=2801223209,3827198035,1866048759,2173046394
 
 
 // New Purpose - [Duqk's S22 Duality God Rolls] (pve)
@@ -10623,6 +10738,21 @@ dimwishlist:item=3685470415&perks=3250034553,3142289711,2451262963,588594999
 dimwishlist:item=3685470415&perks=3250034553,3142289711,2451262963,1365187766
 dimwishlist:item=3685470415&perks=3250034553,3142289711,3938834702,588594999
 dimwishlist:item=3685470415&perks=3250034553,3142289711,3938834702,1365187766
+
+
+// Veiled Threat - [CoolGuy E1A1 Review] (god-pve)
+//notes: [CoolGuy E1A1 Review] Headstone crystal breaking procs other traits like Strategist, so does Radiolaria pools (Shoot To Loot only works with Headstone if the crystal spawns over the item). Go for Range MW and Backup Mag mod. tags:god-pve
+dimwishlist:item=3685470415&perks=4090651448,1087426260,3700496672,124408337,253121539
+
+
+// Veiled Threat - [CoolGuy E1A1 Review] (god-pvp)
+//notes: [CoolGuy E1A1 Review] Recoil: End on 5 like old Recoil weapons. Treat it like a hybrid SMG-Auto, or long range 720 SMG. Threat Detector x2 makes it very stable, nice pairing with Snipers, but only in Ammo Meter modes, and beware of Khvostov and similar long-range plays; use the long-range highly stable build instead. tags:god-pvp
+dimwishlist:item=3685470415&perks=1482024992,3142289711,4071163871,588594999
+
+
+// Veiled Threat - [CoolGuy E1A1 Review] (god-pvp)
+//notes: [CoolGuy E1A1 Review] Recoil: End on 5 like old Recoil weapons. Treat it like a hybrid SMG-Auto, or long range 720 SMG. Threat Detector x2 makes it very stable, nice pairing with Snipers, but only in Ammo Meter modes, and beware of Khvostov and similar long-range plays; use the long-range highly stable build instead. tags:god-pvp
+dimwishlist:item=3685470415&perks=1467527085,3142289711,2451262963,1195158366
 
 
 // Veiled Threat - [Datto E1 Review] (pve)

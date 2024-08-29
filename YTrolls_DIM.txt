@@ -32,8 +32,8 @@ dimwishlist:item=35794111&perks=1749209109,3708227201
 dimwishlist:item=35794111&perks=1749209109,3913600130
 
 
-// Subzero Salvo - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 23/23 tags:pve
+// Subzero Salvo - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 24/24 tags:pve
 dimwishlist:item=42351395&perks=2010801679,1275731761
 dimwishlist:item=42351395&perks=2010801679,3523296417
 
@@ -51,23 +51,11 @@ dimwishlist:item=42874240&perks=243981275,3993379141,1281216113
 dimwishlist:item=42874240&perks=243981275,1546637391,1281216113
 
 
-// Raconteur - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear, Champs; Alt: Accrued Redemption (Archer's Tempo + Explosive Head) tags:god-pve
-dimwishlist:item=45643573&perks=3523746922,1551736345,1823011807
-dimwishlist:item=45643573&perks=3523746922,3365897133,1823011807
-dimwishlist:item=45643573&perks=3523746922,1171887445,1823011807
-dimwishlist:item=45643573&perks=3523746922,124408337,1823011807
-dimwishlist:item=45643573&perks=201365942,1551736345,1823011807
+// Raconteur - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Vengeful Whisper (Explosive Head + Hatchling). tags:god-pve
 dimwishlist:item=45643573&perks=201365942,3365897133,1823011807
-dimwishlist:item=45643573&perks=201365942,1171887445,1823011807
 dimwishlist:item=45643573&perks=201365942,124408337,1823011807
-dimwishlist:item=45643573&perks=2840833776,1551736345,1823011807
-dimwishlist:item=45643573&perks=2840833776,3365897133,1823011807
-dimwishlist:item=45643573&perks=2840833776,1171887445,1823011807
-dimwishlist:item=45643573&perks=2840833776,124408337,1823011807
-dimwishlist:item=45643573&perks=3700496672,1551736345,1823011807
 dimwishlist:item=45643573&perks=3700496672,3365897133,1823011807
-dimwishlist:item=45643573&perks=3700496672,1171887445,1823011807
 dimwishlist:item=45643573&perks=3700496672,124408337,1823011807
 
 
@@ -295,8 +283,8 @@ dimwishlist:item=135029084&perks=1354429876,2402480669
 dimwishlist:item=135029084&perks=1354429876,2896038713
 
 
-// Shining Sphere - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 18/23 tags:pve
+// Shining Sphere - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 21/24 tags:pve
 dimwishlist:item=136525518&perks=2869569095,3523296417
 dimwishlist:item=136525518&perks=3300816228,3523296417
 
@@ -485,6 +473,14 @@ dimwishlist:item=205225492&perks=247725512,2551157718
 dimwishlist:item=205225492&perks=2866798147,2551157718
 
 
+// Hung Jury SR4 - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Randy's Throwing Knife; Role: Add clear. tags:pve
+dimwishlist:item=205225492&perks=3700496672,3824105627
+dimwishlist:item=205225492&perks=3700496672,3038247973
+dimwishlist:item=205225492&perks=3891536761,3824105627
+dimwishlist:item=205225492&perks=3891536761,3038247973
+
+
 // Hammerhead - [Aegis E1A2 Endgame Analysis] (god-pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 5/25 tags:god-pve
 dimwishlist:item=211732170&perks=3418782618,557221067,2489430594
@@ -549,15 +545,9 @@ dimwishlist:item=222606050&perks=1523832109,831391274
 dimwishlist:item=222606050&perks=1523832109,4049631843
 
 
-// Mykel's Reverence - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Buzzard (Overflow + Kinetic Tremors) tags:god-pve
-dimwishlist:item=231031173&perks=1563455254,3007133316,3186078099
-dimwishlist:item=231031173&perks=1563455254,4104185692,3186078099
-dimwishlist:item=231031173&perks=1563455254,102912326,3186078099
-dimwishlist:item=231031173&perks=1563455254,831391274,3186078099
-dimwishlist:item=231031173&perks=3418782618,3007133316,3186078099
+// Mykel's Reverence - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Breachlight; Role: Add clear. tags:pve
 dimwishlist:item=231031173&perks=3418782618,4104185692,3186078099
-dimwishlist:item=231031173&perks=3418782618,102912326,3186078099
 dimwishlist:item=231031173&perks=3418782618,831391274,3186078099
 
 
@@ -676,15 +666,9 @@ dimwishlist:item=268260373&perks=968510818,3523296417,1823011807
 dimwishlist:item=276080079&perks=3161816588,1546637391
 
 
-// Zaouli's Bane (Harrowed) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Nation of Beasts (Dragonfly + Explosive Payload/Voltshot) tags:god-pve
-dimwishlist:item=291092617&perks=64866129,2675184851,120721526
-dimwishlist:item=291092617&perks=64866129,4293542123,120721526
-dimwishlist:item=291092617&perks=64866129,1183436451,120721526
-dimwishlist:item=291092617&perks=64866129,3824105627,120721526
-dimwishlist:item=291092617&perks=3038247973,2675184851,120721526
+// Zaouli's Bane (Harrowed) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Posterity (Voltshot + Frenzy); Also good: Luna's Howl (Heal Clip + Incandescent), Sightline Survey (Enlightened Action + Voltshot). tags:god-pve
 dimwishlist:item=291092617&perks=3038247973,4293542123,120721526
-dimwishlist:item=291092617&perks=3038247973,1183436451,120721526
 dimwishlist:item=291092617&perks=3038247973,3824105627,120721526
 
 
@@ -1125,15 +1109,9 @@ dimwishlist:item=423343404&perks=1821614984,2319119708
 dimwishlist:item=423343404&perks=1821614984,2416023159
 
 
-// Zaouli's Bane - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Nation of Beasts (Dragonfly + Explosive Payload/Voltshot) tags:god-pve
-dimwishlist:item=431721920&perks=64866129,2675184851,120721526
-dimwishlist:item=431721920&perks=64866129,4293542123,120721526
-dimwishlist:item=431721920&perks=64866129,1183436451,120721526
-dimwishlist:item=431721920&perks=64866129,3824105627,120721526
-dimwishlist:item=431721920&perks=3038247973,2675184851,120721526
+// Zaouli's Bane - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Posterity (Voltshot + Frenzy); Also good: Luna's Howl (Heal Clip + Incandescent), Sightline Survey (Enlightened Action + Voltshot). tags:god-pve
 dimwishlist:item=431721920&perks=3038247973,4293542123,120721526
-dimwishlist:item=431721920&perks=3038247973,1183436451,120721526
 dimwishlist:item=431721920&perks=3038247973,3824105627,120721526
 
 
@@ -1468,15 +1446,9 @@ dimwishlist:item=499245245&perks=1821614984,2173046394,1050127423
 dimwishlist:item=499245245&perks=1821614984,1546637391,1050127423
 
 
-// Chattering Bone - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Alt for: Battle Scar; Role: Add clear tags:pve
-dimwishlist:item=501329015&perks=2938480696,1549370717,1489048135
-dimwishlist:item=501329015&perks=2938480696,3891536761,1489048135
-dimwishlist:item=501329015&perks=247725512,1549370717,1489048135
+// Chattering Bone - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for: Blast Furnace; Role: Add clear. tags:pve
 dimwishlist:item=501329015&perks=247725512,3891536761,1489048135
-dimwishlist:item=501329015&perks=2923251173,1549370717,1489048135
-dimwishlist:item=501329015&perks=2923251173,3891536761,1489048135
-dimwishlist:item=501329015&perks=1015611457,1549370717,1489048135
 dimwishlist:item=501329015&perks=1015611457,3891536761,1489048135
 
 
@@ -2316,8 +2288,8 @@ dimwishlist:item=679281855&perks=1683379515,905869860
 dimwishlist:item=679281855&perks=1683379515,3244015567
 
 
-// Ascendancy - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 22/23 tags:pve
+// Ascendancy - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 23/24 tags:pve
 dimwishlist:item=725408022&perks=951095735,3194351027
 dimwishlist:item=725408022&perks=2010801679,3194351027
 
@@ -2446,17 +2418,9 @@ dimwishlist:item=833898322&perks=1561002382,2387244414,639190697
 dimwishlist:item=833898322&perks=1561002382,2387244414,31345821
 
 
-// Vengeful Whisper - [Aegis S23 WR/Dawning Update] (pve)
-//notes: [Aegis S23 WR/Dawning Update] Nothing too special, just a standard bow with Strand (-15% damage). Has Precision Instrument but not doing bow DPS. tags:pve
-dimwishlist:item=839344841&perks=3365897133,2652708987
-dimwishlist:item=839344841&perks=3365897133,555281244
+// Vengeful Whisper - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Raconteur; Role: Add clear. tags:pve
 dimwishlist:item=839344841&perks=3365897133,831391274
-dimwishlist:item=839344841&perks=201365942,2652708987
-dimwishlist:item=839344841&perks=201365942,555281244
-dimwishlist:item=839344841&perks=201365942,831391274
-dimwishlist:item=839344841&perks=3828510309,2652708987
-dimwishlist:item=839344841&perks=3828510309,555281244
-dimwishlist:item=839344841&perks=3828510309,831391274
 
 
 // Vengeful Whisper - [demonjoe S23 Warlord's Ruin Godrolls] (pve)
@@ -2488,8 +2452,8 @@ dimwishlist:item=839344841&perks=852209214,3429800428,201365942,2652708987
 dimwishlist:item=839344841&perks=852209214,3429800428,201365942,2416023159
 
 
-// Cold Comfort - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 3/23 tags:god-pve
+// Cold Comfort - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 3/24 tags:god-pve
 dimwishlist:item=839786290&perks=968510818,3078487919,398661035
 dimwishlist:item=839786290&perks=968510818,1439600632,398661035
 
@@ -2524,6 +2488,12 @@ dimwishlist:item=859869931&perks=1840239774,3142289711,1870851715,3640170453
 // Nullify - [CoolGuy E1A1 Review] (god-pve)
 //notes: [CoolGuy E1A1 Review] New archetype, great damage, high Range, low Handling/Reload. Heal Clip + Incandescent is good but other weapons do it better. Firefly procs perks like Adrenaline Junkie and Multikill Clip, also spreads Scorch for Incandescent very far. Chaos Reshaped is Frenzy with healing, the timer is generous and just about always proc'd in general gameplay; with surges (element matched with heavies like Apex) you're doing 65% more damage over base. Go for Range or Handling. tags:god-pve
 dimwishlist:item=859869931&perks=1840239774,3142289711,3824105627,4293542123
+
+
+// Nullify - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Corrasion (Enlightened Action/Eddy Current + Voltshot). tags:god-pve
+dimwishlist:item=859869931&perks=3824105627,4293542123,1878756191
+dimwishlist:item=859869931&perks=3017780555,4293542123,1878756191
 
 
 // Nullify - [Datto E1 Salvation's Edge Best Rolls] (pve)
@@ -2630,6 +2600,12 @@ dimwishlist:item=892183998&perks=1840239774,3142289711,1870851715,3640170453
 dimwishlist:item=892183998&perks=1840239774,3142289711,3824105627,4293542123
 
 
+// Nullify (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Corrasion (Enlightened Action/Eddy Current + Voltshot). tags:god-pve
+dimwishlist:item=892183998&perks=3824105627,4293542123,1878756191
+dimwishlist:item=892183998&perks=3017780555,4293542123,1878756191
+
+
 // Nullify (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Firefly + Incandescent is basically a double damage perk with reload buff. Others also good though. Pair with a Mag perk. tags:pve
 dimwishlist:item=892183998&perks=3824105627,4293542123
@@ -2710,8 +2686,8 @@ dimwishlist:item=933455006&perks=1428297954,2978966579,2988596335
 dimwishlist:item=933455006&perks=1428297954,1546637391,2988596335
 
 
-// Tomorrow's Answer - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 16/23 tags:pve
+// Tomorrow's Answer - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 14/24 tags:pve
 dimwishlist:item=958384347&perks=3300816228,3927722942
 dimwishlist:item=958384347&perks=3300816228,1275731761
 
@@ -2787,17 +2763,14 @@ dimwishlist:item=981718087&perks=1556840489,3300816228
 dimwishlist:item=981718087&perks=1556840489,3425386926
 
 
-// Bad Omens - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 13/23 tags:god-pve
+// Bad Omens - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 18/24 tags:pve
 dimwishlist:item=991314988&perks=3300816228,1275731761
 dimwishlist:item=991314988&perks=2869569095,1275731761
 
 
-// Cataclysmic - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 2/12 tags:god-pve
-dimwishlist:item=999767358&perks=848860060,3744057135,3363267119
-dimwishlist:item=999767358&perks=848860060,3078487919,3363267119
-dimwishlist:item=999767358&perks=1354429876,3744057135,3363267119
+// Cataclysmic - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 3/15 tags:god-pve
 dimwishlist:item=999767358&perks=1354429876,3078487919,3363267119
 
 
@@ -2911,6 +2884,19 @@ dimwishlist:item=1039915310&perks=2801223209,3827198035,3700496672,2173046394
 dimwishlist:item=1039915310&perks=2801223209,3827198035,2848615171,2173046394
 
 
+// Non-Denouement (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Tyranny Of Heaven (Dragonfly + Incandescent). tags:god-pve
+dimwishlist:item=1039915310&perks=2848615171,2173046394,1878756191
+dimwishlist:item=1039915310&perks=2848615171,3365897133,1878756191
+dimwishlist:item=1039915310&perks=2848615171,3414324643,1878756191
+dimwishlist:item=1039915310&perks=201365942,2173046394,1878756191
+dimwishlist:item=1039915310&perks=201365942,3365897133,1878756191
+dimwishlist:item=1039915310&perks=201365942,3414324643,1878756191
+dimwishlist:item=1039915310&perks=3700496672,2173046394,1878756191
+dimwishlist:item=1039915310&perks=3700496672,3365897133,1878756191
+dimwishlist:item=1039915310&perks=3700496672,3414324643,1878756191
+
+
 // Non-Denouement (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Trinity Ghoul at home. Also, use the new, unique perks instead of the same perks that appear on every other Bow. tags:pve
 dimwishlist:item=1039915310&perks=201365942,2173046394
@@ -2970,6 +2956,16 @@ dimwishlist:item=1050806815&perks=776531651,3081867624,2489430594
 dimwishlist:item=1050806815&perks=776531651,2048641572,2489430594
 
 
+// The Recluse - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Subjunctive; Role: Add clear. tags:pve
+dimwishlist:item=1050806815&perks=3828510309,2109543898
+dimwishlist:item=1050806815&perks=3828510309,4104185692
+dimwishlist:item=1050806815&perks=3828510309,2048641572
+dimwishlist:item=1050806815&perks=776531651,2109543898
+dimwishlist:item=1050806815&perks=776531651,4104185692
+dimwishlist:item=1050806815&perks=776531651,2048641572
+
+
 // Timeworn Wayfarer - [CoolGuy E1A1 Review] (god-pve)
 //notes: [CoolGuy E1A1 Review] A 120 Scout but not a Tex Mechanica (no Origin Trait). Great ad clearing (from a distance too) with Incandescent and Radiolaria pools. Pools also proc Shoot To Loot. Go for Handling. tags:god-pve
 dimwishlist:item=1058098236&perks=3250034553,1087426260,3017780555,4293542123,253121539
@@ -2987,6 +2983,12 @@ dimwishlist:item=1058098236&perks=1482024992,3230963543,3700496672,4293542123,25
 dimwishlist:item=1058098236&perks=1482024992,3142289711,3017780555,2319119708
 
 
+// Timeworn Wayfarer - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Doom Of Chelchis (Firefly/Explosive Payload + Dragonfly/Frenzy). tags:god-pve
+dimwishlist:item=1058098236&perks=3017780555,4293542123,253121539
+dimwishlist:item=1058098236&perks=3700496672,4293542123,253121539
+
+
 // Timeworn Wayfarer - [Datto E1 Review] (pve)
 //notes: [Datto E1 Review] Strategist is only for specific builds, not general play. tags:pve
 dimwishlist:item=1058098236&perks=3017780555,4293542123
@@ -3001,8 +3003,8 @@ dimwishlist:item=1058098236&perks=880644845,4293542123
 dimwishlist:item=1058098236&perks=880644845,2109543898
 
 
-// BrayTech Osprey (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 8/23 tags:god-pve
+// BrayTech Osprey (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 4/24 tags:god-pve
 dimwishlist:item=1064132738&perks=1275731761,1439600632,744217850
 dimwishlist:item=1064132738&perks=1275731761,4104185692,744217850
 dimwishlist:item=1064132738&perks=968510818,1439600632,744217850
@@ -3219,28 +3221,18 @@ dimwishlist:item=1184309824&perks=1687452232,671806388,2173046394
 dimwishlist:item=1184309824&perks=1687452232,247725512,2173046394
 
 
-// Sailspy Pitchglass - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 8/12 tags:pve
-dimwishlist:item=1184309824&perks=3563868667,2402480669,3907865655
-dimwishlist:item=1184309824&perks=3563868667,2896038713,3907865655
-dimwishlist:item=1184309824&perks=3563868667,3007133316,3907865655
-dimwishlist:item=1184309824&perks=3563868667,4104185692,3907865655
-dimwishlist:item=1184309824&perks=2284787283,2402480669,3907865655
+// Sailspy Pitchglass - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 11/15 tags:pve
 dimwishlist:item=1184309824&perks=2284787283,2896038713,3907865655
-dimwishlist:item=1184309824&perks=2284787283,3007133316,3907865655
 dimwishlist:item=1184309824&perks=2284787283,4104185692,3907865655
 
 
-// Doom of Chelchis (Harrowed) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Trustee (Rapid Hit + Incandescent) tags:god-pve
-dimwishlist:item=1184692845&perks=1183436451,169755979,120721526
-dimwishlist:item=1184692845&perks=1183436451,2848615171,120721526
-dimwishlist:item=1184692845&perks=1183436451,3007133316,120721526
-dimwishlist:item=1184692845&perks=1183436451,4104185692,120721526
-dimwishlist:item=1184692845&perks=3824105627,169755979,120721526
+// Doom of Chelchis (Harrowed) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Timeworn Wayfarer; Role: Add clear. tags:pve
 dimwishlist:item=1184692845&perks=3824105627,2848615171,120721526
-dimwishlist:item=1184692845&perks=3824105627,3007133316,120721526
 dimwishlist:item=1184692845&perks=3824105627,4104185692,120721526
+dimwishlist:item=1184692845&perks=3038247973,2848615171,120721526
+dimwishlist:item=1184692845&perks=3038247973,4104185692,120721526
 
 
 // High Albedo - [CoolGuy S22 Rare Rolls] (pvp)
@@ -3275,8 +3267,8 @@ dimwishlist:item=1197771438&perks=1556840489,3523296417
 dimwishlist:item=1197771438&perks=1556840489,563069569
 
 
-// Fatebringer (Timelost) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear, Champs; Alt: Warden's Law (Enlightened Action + Vorpal Weapon/Frenzy) tags:god-pve
+// Fatebringer (Timelost) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Midnight Coup; Role: Add clear. tags:pve
 dimwishlist:item=1216319404&perks=3038247973,3824105627
 dimwishlist:item=1216319404&perks=3038247973,4104185692
 
@@ -3364,6 +3356,12 @@ dimwishlist:item=1239700299&perks=4071163871,2679249093
 dimwishlist:item=1246793994&perks=776531651,2048641572
 
 
+// Maahes HC4 - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Damage; No alternatives. tags:god-pve
+dimwishlist:item=1246793994&perks=3828510309,4104185692,2839173408
+dimwishlist:item=1246793994&perks=247725512,4104185692,2839173408
+
+
 // Maahes HC4 - [CoolGuy E1A2 Review] (pvp)
 //notes: [CoolGuy E1A2 Review] Reload is slow. Second shot in burst will miss head if you don't actively compensate for it, with flinch on top of it; perks to reduce TTK help here. tags:pvp
 dimwishlist:item=1246793994&perks=3828510309,2610012052
@@ -3380,6 +3378,16 @@ dimwishlist:item=1258168956&perks=3523296417,3824105627
 dimwishlist:item=1258168956&perks=3523296417,3640170453
 dimwishlist:item=1258168956&perks=691659142,3824105627
 dimwishlist:item=1258168956&perks=691659142,3640170453
+
+
+// Imminence - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Multimach CCX (Attrition Orbs/Under-over + Frenzy/Kinetic Tremors). tags:god-pve
+dimwishlist:item=1258168956&perks=3828510309,3640170453,1878756191
+dimwishlist:item=1258168956&perks=3828510309,3824105627,1878756191
+dimwishlist:item=1258168956&perks=3828510309,831391274,1878756191
+dimwishlist:item=1258168956&perks=3523296417,3640170453,1878756191
+dimwishlist:item=1258168956&perks=3523296417,3824105627,1878756191
+dimwishlist:item=1258168956&perks=3523296417,831391274,1878756191
 
 
 // Imminence - [Datto E1 Salvation's Edge Best Rolls] (pve)
@@ -3537,14 +3545,12 @@ dimwishlist:item=1292594730&perks=1820235745,95528736
 dimwishlist:item=1292594730&perks=3643424744,95528736
 
 
-// The Summoner (Adept) - [Aegis S23 Mid-Season Patch] (pve)
-//notes: [Aegis S23 Mid-Season Patch] Better than previous Summoners. Subsistence is great on Autos and SMGs, gets Enhanced levels of Subsistence while not Enhanced. Good for add clear. tags:pve
-dimwishlist:item=1292594730&perks=3017780555,4293542123,1050127423
-dimwishlist:item=1292594730&perks=3017780555,95528736,1050127423
+// The Summoner (Adept) - [Aegis E1A2 Endgame Analysis/S23 Mid-Season Patch] (pve)
+//notes: [Aegis E1A2 Endgame Analysis/S23 Mid-Season Patch] Alt for No Hesitation; Role: Add clear, Support. Better than previous Summoners. Subsistence is great on Autos and SMGs, gets Enhanced levels of Subsistence while not Enhanced. Good for add clear. tags:pve
 dimwishlist:item=1292594730&perks=1820235745,4293542123,1050127423
 dimwishlist:item=1292594730&perks=1820235745,95528736,1050127423
-dimwishlist:item=1292594730&perks=3643424744,4293542123,1050127423
-dimwishlist:item=1292594730&perks=3643424744,95528736,1050127423
+dimwishlist:item=1292594730&perks=3017780555,4293542123,1050127423
+dimwishlist:item=1292594730&perks=3017780555,95528736,1050127423
 
 
 // The Summoner (Adept) - [Fallout S23 Mid Season Patch] (pve)
@@ -3710,23 +3716,11 @@ dimwishlist:item=1298815317&perks=1482024992,3142289711,2779035018,2173046394
 dimwishlist:item=1298815317&perks=3250034553,3230963543,691659142,3523296417
 
 
-// Brigand's Law - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Seventh Seraph SI-2 (Demolitionist + Dragonfly) tags:god-pve
-dimwishlist:item=1298815317&perks=494941759,1720528630,3907865655
-dimwishlist:item=1298815317&perks=494941759,2173046394,3907865655
-dimwishlist:item=1298815317&perks=494941759,1906147653,3907865655
-dimwishlist:item=1298815317&perks=494941759,3523296417,3907865655
-dimwishlist:item=1298815317&perks=4071163871,1720528630,3907865655
+// Brigand's Law - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Heliocentric QSc (Heal Clip/Demolitionist + Incandescent/Frenzy). tags:god-pve
 dimwishlist:item=1298815317&perks=4071163871,2173046394,3907865655
-dimwishlist:item=1298815317&perks=4071163871,1906147653,3907865655
 dimwishlist:item=1298815317&perks=4071163871,3523296417,3907865655
-dimwishlist:item=1298815317&perks=536173722,1720528630,3907865655
-dimwishlist:item=1298815317&perks=536173722,2173046394,3907865655
-dimwishlist:item=1298815317&perks=536173722,1906147653,3907865655
-dimwishlist:item=1298815317&perks=536173722,3523296417,3907865655
-dimwishlist:item=1298815317&perks=691659142,1720528630,3907865655
 dimwishlist:item=1298815317&perks=691659142,2173046394,3907865655
-dimwishlist:item=1298815317&perks=691659142,1906147653,3907865655
 dimwishlist:item=1298815317&perks=691659142,3523296417,3907865655
 
 
@@ -3905,8 +3899,8 @@ dimwishlist:item=1354727549&perks=2396489472,3650930298
 dimwishlist:item=1354727549&perks=2396489472,3078487919
 
 
-// Tomorrow's Answer (Adept) - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 16/23 tags:pve
+// Tomorrow's Answer (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 14/24 tags:pve
 dimwishlist:item=1366917989&perks=3300816228,3927722942
 dimwishlist:item=1366917989&perks=3300816228,1275731761
 
@@ -3951,8 +3945,8 @@ dimwishlist:item=1392919471&perks=247725512,2675184851,766321425
 dimwishlist:item=1392919471&perks=247725512,4293542123,766321425
 
 
-// Reed's Regret - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 5/12 tags:god-pve
+// Reed's Regret - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 8/15 tags:pve
 dimwishlist:item=1399243961&perks=3400784728,1771339417,3988215619
 
 
@@ -3990,31 +3984,13 @@ dimwishlist:item=1432682459&perks=3619207468,831391274
 dimwishlist:item=1432682459&perks=3418782618,555281244
 
 
-// Subjunctive - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Unforgiven (Demolitionist + Frenzy). Not quite an IKELOS replacement, though it's a lightweight, but missing Frenzy. Origin trait is Restoration Ritual-lite, decent but needs more experience tags:god-pve
-dimwishlist:item=1447836603&perks=494941759,1720528630,19542588
-dimwishlist:item=1447836603&perks=494941759,2173046394,19542588
-dimwishlist:item=1447836603&perks=494941759,859780267,19542588
-dimwishlist:item=1447836603&perks=494941759,4049631843,19542588
-dimwishlist:item=1447836603&perks=4071163871,1720528630,19542588
+// Subjunctive - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: The Recluse (Enlightened Action/Repulsor Brace + Desperate Measures/Frenzy/Destabilizing Rounds). Not quite an IKELOS replacement, though it's a lightweight, but missing Frenzy. Origin trait is Restoration Ritual-lite, decent but needs more experience. tags:god-pve
 dimwishlist:item=1447836603&perks=4071163871,2173046394,19542588
-dimwishlist:item=1447836603&perks=4071163871,859780267,19542588
 dimwishlist:item=1447836603&perks=4071163871,4049631843,19542588
-dimwishlist:item=1447836603&perks=2840833776,1720528630,19542588
-dimwishlist:item=1447836603&perks=2840833776,2173046394,19542588
-dimwishlist:item=1447836603&perks=2840833776,859780267,19542588
-dimwishlist:item=1447836603&perks=2840833776,4049631843,19542588
-dimwishlist:item=1447836603&perks=3700496672,1720528630,19542588
 dimwishlist:item=1447836603&perks=3700496672,2173046394,19542588
-dimwishlist:item=1447836603&perks=3700496672,859780267,19542588
 dimwishlist:item=1447836603&perks=3700496672,4049631843,19542588
-dimwishlist:item=1447836603&perks=1409206216,1720528630,19542588
-dimwishlist:item=1447836603&perks=1409206216,2173046394,19542588
-dimwishlist:item=1447836603&perks=1409206216,859780267,19542588
-dimwishlist:item=1447836603&perks=1409206216,4049631843,19542588
-dimwishlist:item=1447836603&perks=1583705720,1720528630,19542588
 dimwishlist:item=1447836603&perks=1583705720,2173046394,19542588
-dimwishlist:item=1447836603&perks=1583705720,859780267,19542588
 dimwishlist:item=1447836603&perks=1583705720,4049631843,19542588
 
 
@@ -4276,6 +4252,14 @@ dimwishlist:item=1453235079&perks=247725512,2551157718
 dimwishlist:item=1453235079&perks=2866798147,2551157718
 
 
+// Hung Jury SR4 - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Randy's Throwing Knife; Role: Add clear. tags:pve
+dimwishlist:item=1453235079&perks=3700496672,3824105627
+dimwishlist:item=1453235079&perks=3700496672,3038247973
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+
+
 // Nasreddin - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 10/33 tags:pve
 dimwishlist:item=1456017061&perks=1749209109,3708227201,2120661319
@@ -4315,12 +4299,10 @@ dimwishlist:item=1478986057&perks=2869569095,1546637391,1250481499
 dimwishlist:item=1478986057&perks=2869569095,2679249093,1250481499
 
 
-// Briar's Contempt - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 3/12 tags:god-pve
-dimwishlist:item=1491665733&perks=1563455254,781192741,3186078099
-dimwishlist:item=1491665733&perks=1563455254,3708227201,3186078099
-dimwishlist:item=1491665733&perks=3418782618,781192741,3186078099
+// Briar's Contempt - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 4/15 tags:god-pve
 dimwishlist:item=1491665733&perks=3418782618,3708227201,3186078099
+dimwishlist:item=1491665733&perks=3418782618,2896038713,3186078099
 
 
 // Briar's Contempt - [demonjoe 30 Best PVE Weapons of 2023] (pve)
@@ -4363,6 +4345,14 @@ dimwishlist:item=1491665733&perks=3418782618,2402480669
 dimwishlist:item=1491665733&perks=3418782618,2896038713
 
 
+// Scintillation (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 1/15 tags:god-pve
+dimwishlist:item=1492522228&perks=3418782618,3078487919,3988215619
+dimwishlist:item=1492522228&perks=3418782618,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1799762209,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1799762209,3708227201,3988215619
+
+
 // Scintillation (Adept) - [Datto E1 Review] (pve)
 //notes: [Datto E1 Review] Difference between worst and best rolls isn't too far apart (Cornered isn't that good though). Get a Mag perk if possible, but won't matter too much. Envious Assassin takes mental maths but has higher payoff compared to Rewind Rounds. Adept Mag mod reduces total reserves. tags:pve
 dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,3708227201,3988215619
@@ -4382,23 +4372,11 @@ dimwishlist:item=1492522228&perks=839105230,2680121939,3418782618,3078487919,398
 dimwishlist:item=1492522228&perks=839105230,2680121939,968510818,1427256713,3988215619
 
 
-// Doomed Petitioner - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 1/12 Best non-Surrounded Agg frame, but beat by Briar's with Surrounded. Precision Instrument buffed and procs per hit, max stacks in 2 bursts for 30% buff tags:god-pve
-dimwishlist:item=1501688142&perks=424370782,781192741,3978094547
-dimwishlist:item=1501688142&perks=424370782,3708227201,3978094547
-dimwishlist:item=1501688142&perks=424370782,332733060,3978094547
-dimwishlist:item=1501688142&perks=424370782,555281244,3978094547
-dimwishlist:item=1501688142&perks=968510818,781192741,3978094547
+// Doomed Petitioner - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 2/15 Best non-Surrounded Agg frame, but beat by Briar's with Surrounded. tags:god-pve
 dimwishlist:item=1501688142&perks=968510818,3708227201,3978094547
-dimwishlist:item=1501688142&perks=968510818,332733060,3978094547
 dimwishlist:item=1501688142&perks=968510818,555281244,3978094547
-dimwishlist:item=1501688142&perks=461595545,781192741,3978094547
-dimwishlist:item=1501688142&perks=461595545,3708227201,3978094547
-dimwishlist:item=1501688142&perks=461595545,332733060,3978094547
-dimwishlist:item=1501688142&perks=461595545,555281244,3978094547
-dimwishlist:item=1501688142&perks=1523832109,781192741,3978094547
 dimwishlist:item=1501688142&perks=1523832109,3708227201,3978094547
-dimwishlist:item=1501688142&perks=1523832109,332733060,3978094547
 dimwishlist:item=1501688142&perks=1523832109,555281244,3978094547
 
 
@@ -4676,17 +4654,17 @@ dimwishlist:item=1711056134&perks=923806249,243981275,4091460919
 dimwishlist:item=1711056134&perks=923806249,831391274,4091460919
 
 
-// Crux Termination IV - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 2/23 Best in slot for Arc RL. Not a full Apex replacement (not craftable/enhanceable), but completely replaces Hothead: Bipod replaces Clown Cartridge (which this also has), has Explosive Light, Surrounded, Envious, Reconstruction. Slideshot can dump full mag of 10 without reloading if sliding optimally, but risky in group play tags:god-pve
-dimwishlist:item=1719687748&perks=3161816588,1439600632,1050127423
-dimwishlist:item=1719687748&perks=3161816588,3708227201,1050127423
-dimwishlist:item=1719687748&perks=3161816588,3194351027,1050127423
+// Crux Termination IV - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 2/24 Best in slot for Arc RL. Not a full Apex replacement (not craftable/enhanceable), but completely replaces Hothead: Bipod replaces Clown Cartridge (which this also has), has Explosive Light, Surrounded, Envious, Reconstruction. Slideshot can dump full mag of 10 without reloading if sliding optimally, but risky in group play tags:god-pve
 dimwishlist:item=1719687748&perks=1523832109,1439600632,1050127423
-dimwishlist:item=1719687748&perks=1523832109,3708227201,1050127423
 dimwishlist:item=1719687748&perks=1523832109,3194351027,1050127423
+dimwishlist:item=1719687748&perks=1523832109,3708227201,1050127423
 dimwishlist:item=1719687748&perks=2284787283,1439600632,1050127423
-dimwishlist:item=1719687748&perks=2284787283,3708227201,1050127423
 dimwishlist:item=1719687748&perks=2284787283,3194351027,1050127423
+dimwishlist:item=1719687748&perks=2284787283,3708227201,1050127423
+dimwishlist:item=1719687748&perks=3161816588,1439600632,1050127423
+dimwishlist:item=1719687748&perks=3161816588,3194351027,1050127423
+dimwishlist:item=1719687748&perks=3161816588,3708227201,1050127423
 
 
 // Crux Termination IV - [demonjoe S23 World Loot Guide] (god-pve)
@@ -4796,6 +4774,19 @@ dimwishlist:item=1770490683&perks=2801223209,3827198035,3700496672,2173046394
 dimwishlist:item=1770490683&perks=2801223209,3827198035,2848615171,2173046394
 
 
+// Non-Denouement - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Tyranny Of Heaven (Dragonfly + Incandescent). tags:god-pve
+dimwishlist:item=1770490683&perks=2848615171,2173046394,1878756191
+dimwishlist:item=1770490683&perks=2848615171,3365897133,1878756191
+dimwishlist:item=1770490683&perks=2848615171,3414324643,1878756191
+dimwishlist:item=1770490683&perks=201365942,2173046394,1878756191
+dimwishlist:item=1770490683&perks=201365942,3365897133,1878756191
+dimwishlist:item=1770490683&perks=201365942,3414324643,1878756191
+dimwishlist:item=1770490683&perks=3700496672,2173046394,1878756191
+dimwishlist:item=1770490683&perks=3700496672,3365897133,1878756191
+dimwishlist:item=1770490683&perks=3700496672,3414324643,1878756191
+
+
 // Non-Denouement - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Trinity Ghoul at home. Also, use the new, unique perks instead of the same perks that appear on every other Bow. tags:pve
 dimwishlist:item=1770490683&perks=201365942,2173046394
@@ -4834,6 +4825,14 @@ dimwishlist:item=1780464822&perks=1428297954,1048183818
 // Razor's Edge - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 29/33 tags:pve
 dimwishlist:item=1796949035&perks=1749209109,4104185692,3989629871
+
+
+// No Hesitation - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear, Support; Alt: The Summoner (Subsistence/Heal Clip + Incandescent/Onslaught); Also good: The Riposte (Repulsor Brace + Destabilizing Rounds). tags:god-pve
+dimwishlist:item=1801007332&perks=2980589453,4293542123,1988485648
+dimwishlist:item=1801007332&perks=2980589453,2298656195,1988485648
+dimwishlist:item=1801007332&perks=3523296417,4293542123,1988485648
+dimwishlist:item=1801007332&perks=3523296417,2298656195,1988485648
 
 
 // No Hesitation - [Datto E1 Pale Heart God Rolls] (pve)
@@ -4891,14 +4890,12 @@ dimwishlist:item=1820994983&perks=1820235745,95528736
 dimwishlist:item=1820994983&perks=3643424744,95528736
 
 
-// The Summoner - [Aegis S23 Mid-Season Patch] (pve)
-//notes: [Aegis S23 Mid-Season Patch] Better than previous Summoners. Subsistence is great on Autos and SMGs, gets Enhanced levels of Subsistence while not Enhanced. Good for add clear. tags:pve
-dimwishlist:item=1820994983&perks=3017780555,4293542123,1050127423
-dimwishlist:item=1820994983&perks=3017780555,95528736,1050127423
+// The Summoner - [Aegis E1A2 Endgame Analysis/S23 Mid-Season Patch] (pve)
+//notes: [Aegis E1A2 Endgame Analysis/S23 Mid-Season Patch] Alt for No Hesitation; Role: Add clear, Support. Better than previous Summoners. Subsistence is great on Autos and SMGs, gets Enhanced levels of Subsistence while not Enhanced. Good for add clear. tags:pve
 dimwishlist:item=1820994983&perks=1820235745,4293542123,1050127423
 dimwishlist:item=1820994983&perks=1820235745,95528736,1050127423
-dimwishlist:item=1820994983&perks=3643424744,4293542123,1050127423
-dimwishlist:item=1820994983&perks=3643424744,95528736,1050127423
+dimwishlist:item=1820994983&perks=3017780555,4293542123,1050127423
+dimwishlist:item=1820994983&perks=3017780555,95528736,1050127423
 
 
 // The Summoner - [Fallout S23 Mid Season Patch] (pve)
@@ -4997,31 +4994,13 @@ dimwishlist:item=1851521408&perks=1354429876,124408337
 dimwishlist:item=1851521408&perks=247725512,124408337
 
 
-// Apex Predator - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 1/23 tags:god-pve
-dimwishlist:item=1851777734&perks=461595545,3744057135,1489048135
-dimwishlist:item=1851777734&perks=461595545,3078487919,1489048135
-dimwishlist:item=1851777734&perks=461595545,781192741,1489048135
-dimwishlist:item=1851777734&perks=461595545,3708227201,1489048135
-dimwishlist:item=1851777734&perks=461595545,2282937672,1489048135
-dimwishlist:item=1851777734&perks=461595545,1439600632,1489048135
-dimwishlist:item=1851777734&perks=1523832109,3744057135,1489048135
+// Apex Predator - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 1/24 tags:god-pve
 dimwishlist:item=1851777734&perks=1523832109,3078487919,1489048135
-dimwishlist:item=1851777734&perks=1523832109,781192741,1489048135
 dimwishlist:item=1851777734&perks=1523832109,3708227201,1489048135
-dimwishlist:item=1851777734&perks=1523832109,2282937672,1489048135
 dimwishlist:item=1851777734&perks=1523832109,1439600632,1489048135
-dimwishlist:item=1851777734&perks=1906147653,3744057135,1489048135
-dimwishlist:item=1851777734&perks=1906147653,3078487919,1489048135
-dimwishlist:item=1851777734&perks=1906147653,781192741,1489048135
-dimwishlist:item=1851777734&perks=1906147653,3708227201,1489048135
-dimwishlist:item=1851777734&perks=1906147653,2282937672,1489048135
-dimwishlist:item=1851777734&perks=1906147653,1439600632,1489048135
-dimwishlist:item=1851777734&perks=3523296417,3744057135,1489048135
 dimwishlist:item=1851777734&perks=3523296417,3078487919,1489048135
-dimwishlist:item=1851777734&perks=3523296417,781192741,1489048135
 dimwishlist:item=1851777734&perks=3523296417,3708227201,1489048135
-dimwishlist:item=1851777734&perks=3523296417,2282937672,1489048135
 dimwishlist:item=1851777734&perks=3523296417,1439600632,1489048135
 
 
@@ -5175,8 +5154,8 @@ dimwishlist:item=1856262127&perks=3661387068,1561002382,3400784728,124408337
 dimwishlist:item=1856262127&perks=3661387068,1885400500,3400784728,124408337
 
 
-// The Hothead (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 4/23 tags:god-pve
+// The Hothead (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 5/24 tags:god-pve
 dimwishlist:item=1866778462&perks=3796465595,3523296417,2284787283,744217850
 dimwishlist:item=1866778462&perks=3796465595,3523296417,3194351027,744217850
 dimwishlist:item=1866778462&perks=3796465595,2869569095,2284787283,744217850
@@ -5327,17 +5306,16 @@ dimwishlist:item=1896309757&perks=2420895100,3425386926,3708227201
 dimwishlist:item=1896309757&perks=2048641572,557221067
 
 
-// Blowout - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 5/23 tags:god-pve
+// Blowout - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 10/24 tags:god-pve
 dimwishlist:item=1903182562&perks=2869569095,3194351027,4091460919
+dimwishlist:item=1903182562&perks=2869569095,4104185692,4091460919
 dimwishlist:item=1903182562&perks=3523296417,3194351027,4091460919
+dimwishlist:item=1903182562&perks=3523296417,4104185692,4091460919
 
 
-// Taipan-4fr - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 6/12 tags:god-pve
-dimwishlist:item=1911060537&perks=573122728,395388285,3988215619
-dimwishlist:item=1911060537&perks=573122728,1771339417,3988215619
-dimwishlist:item=1911060537&perks=3400784728,395388285,3988215619
+// Taipan-4fr - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 9/15 tags:pve
 dimwishlist:item=1911060537&perks=3400784728,1771339417,3988215619
 
 
@@ -5480,24 +5458,20 @@ dimwishlist:item=1916287826&perks=4071163871,4104185692
 dimwishlist:item=1916287826&perks=4071163871,4104185692,1607056502
 
 
-// Hezen Vengeance (Timelost) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 7/23 tags:god-pve
+// Hezen Vengeance (Timelost) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 15/24 tags:pve
 dimwishlist:item=1921159786&perks=3300816228,3927722942
 dimwishlist:item=1921159786&perks=3300816228,3523296417
 dimwishlist:item=1921159786&perks=3643424744,3927722942
 dimwishlist:item=1921159786&perks=3643424744,3523296417
 
 
-// Doom of Chelchis - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Trustee (Rapid Hit + Incandescent) tags:god-pve
-dimwishlist:item=1937552980&perks=1183436451,169755979,120721526
-dimwishlist:item=1937552980&perks=1183436451,2848615171,120721526
-dimwishlist:item=1937552980&perks=1183436451,3007133316,120721526
-dimwishlist:item=1937552980&perks=1183436451,4104185692,120721526
-dimwishlist:item=1937552980&perks=3824105627,169755979,120721526
+// Doom of Chelchis - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Timeworn Wayfarer; Role: Add clear. tags:pve
 dimwishlist:item=1937552980&perks=3824105627,2848615171,120721526
-dimwishlist:item=1937552980&perks=3824105627,3007133316,120721526
 dimwishlist:item=1937552980&perks=3824105627,4104185692,120721526
+dimwishlist:item=1937552980&perks=3038247973,2848615171,120721526
+dimwishlist:item=1937552980&perks=3038247973,4104185692,120721526
 
 
 // Truthteller - [Aegis S23 Endgame Analysis] (pve)
@@ -5513,31 +5487,13 @@ dimwishlist:item=1948035256&perks=2284787283,2319119708,1050127423
 dimwishlist:item=1948035256&perks=2284787283,3751912585,1050127423
 
 
-// Bump in the Night - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 6/23 tags:god-pve
-dimwishlist:item=1959650777&perks=1906147653,3007133316,1250481499
-dimwishlist:item=1959650777&perks=1906147653,4104185692,1250481499
-dimwishlist:item=1959650777&perks=1906147653,344235611,1250481499
-dimwishlist:item=1959650777&perks=1906147653,2978966579,1250481499
-dimwishlist:item=1959650777&perks=3523296417,3007133316,1250481499
+// Bump in the Night - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 13/24 tags:pve
 dimwishlist:item=1959650777&perks=3523296417,4104185692,1250481499
-dimwishlist:item=1959650777&perks=3523296417,344235611,1250481499
 dimwishlist:item=1959650777&perks=3523296417,2978966579,1250481499
-dimwishlist:item=1959650777&perks=3528046508,3007133316,1250481499
-dimwishlist:item=1959650777&perks=3528046508,4104185692,1250481499
-dimwishlist:item=1959650777&perks=3528046508,344235611,1250481499
-dimwishlist:item=1959650777&perks=3528046508,2978966579,1250481499
-dimwishlist:item=1959650777&perks=3300816228,3007133316,1250481499
 dimwishlist:item=1959650777&perks=3300816228,4104185692,1250481499
-dimwishlist:item=1959650777&perks=3300816228,344235611,1250481499
 dimwishlist:item=1959650777&perks=3300816228,2978966579,1250481499
-dimwishlist:item=1959650777&perks=2308090567,3007133316,1250481499
-dimwishlist:item=1959650777&perks=2308090567,4104185692,1250481499
-dimwishlist:item=1959650777&perks=2308090567,344235611,1250481499
-dimwishlist:item=1959650777&perks=2308090567,2978966579,1250481499
-dimwishlist:item=1959650777&perks=2869569095,3007133316,1250481499
 dimwishlist:item=1959650777&perks=2869569095,4104185692,1250481499
-dimwishlist:item=1959650777&perks=2869569095,344235611,1250481499
 dimwishlist:item=1959650777&perks=2869569095,2978966579,1250481499
 
 
@@ -5654,15 +5610,9 @@ dimwishlist:item=1975125963&perks=2039302152,11612903,1050127423
 dimwishlist:item=1975125963&perks=2039302152,2848615171,1050127423
 
 
-// Mykel's Reverence (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Buzzard (Overflow + Kinetic Tremors) tags:god-pve
-dimwishlist:item=1986287028&perks=1563455254,3007133316,3186078099
-dimwishlist:item=1986287028&perks=1563455254,4104185692,3186078099
-dimwishlist:item=1986287028&perks=1563455254,102912326,3186078099
-dimwishlist:item=1986287028&perks=1563455254,831391274,3186078099
-dimwishlist:item=1986287028&perks=3418782618,3007133316,3186078099
+// Mykel's Reverence (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Breachlight; Role: Add clear. tags:pve
 dimwishlist:item=1986287028&perks=3418782618,4104185692,3186078099
-dimwishlist:item=1986287028&perks=3418782618,102912326,3186078099
 dimwishlist:item=1986287028&perks=3418782618,831391274,3186078099
 
 
@@ -5776,14 +5726,17 @@ dimwishlist:item=2026087437&perks=3301904089,3300816228,2978966579,4154828211
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
 
 
-// Breakneck - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Rufus's Fury (Demolitionist + Frenzy/Hatchling). Onslaught needs testing, seems PvP perk. KT is buffed and may beat Rufus, otherwise not that good tags:god-pve
+// Breakneck - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Veiled Threat (Shoot To Loot/Attrition Orbs + Desperate Measures). tags:god-pve
 dimwishlist:item=2026755633&perks=3828510309,3891536761,515704826
 dimwishlist:item=2026755633&perks=3828510309,95528736,515704826
+dimwishlist:item=2026755633&perks=3828510309,3993379141,515704826
 dimwishlist:item=2026755633&perks=1820235745,3891536761,515704826
 dimwishlist:item=2026755633&perks=1820235745,95528736,515704826
+dimwishlist:item=2026755633&perks=1820235745,3993379141,515704826
 dimwishlist:item=2026755633&perks=3700496672,3891536761,515704826
 dimwishlist:item=2026755633&perks=3700496672,95528736,515704826
+dimwishlist:item=2026755633&perks=3700496672,3993379141,515704826
 
 
 // Breakneck - [CoolGuy S23 Review] (god-pve)
@@ -5898,6 +5851,19 @@ dimwishlist:item=2060863616&perks=3523296417,2396489472
 dimwishlist:item=2060863616&perks=3523296417,1546637391
 dimwishlist:item=2060863616&perks=2010801679,2396489472
 dimwishlist:item=2060863616&perks=2010801679,1546637391
+
+
+// Pre Astyanax IV (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Utility; Alt: Hush (Shoot To Loot/Archer's Tempo/Attrition Orbs + Explosive Head/Incandescent/Archer's Gambit). tags:god-pve
+dimwishlist:item=2063217087&perks=3700496672,3365897133,1281216113
+dimwishlist:item=2063217087&perks=3700496672,4293542123,1281216113
+dimwishlist:item=2063217087&perks=3700496672,3414324643,1281216113
+dimwishlist:item=2063217087&perks=201365942,3365897133,1281216113
+dimwishlist:item=2063217087&perks=201365942,4293542123,1281216113
+dimwishlist:item=2063217087&perks=201365942,3414324643,1281216113
+dimwishlist:item=2063217087&perks=243981275,3365897133,1281216113
+dimwishlist:item=2063217087&perks=243981275,4293542123,1281216113
+dimwishlist:item=2063217087&perks=243981275,3414324643,1281216113
 
 
 // Canis Major - [Aegis E1A2 Endgame Analysis] (pve)
@@ -6101,13 +6067,19 @@ dimwishlist:item=2126178511&perks=1392496348,3177308360,1428297954,4049631843
 dimwishlist:item=2126178511&perks=1392496348,3177308360,1428297954,2896038713
 
 
+// Corrasion - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Nullify; Role: Add clear. tags:pve
+dimwishlist:item=2126178511&perks=3828510309,2173046394
+dimwishlist:item=2126178511&perks=684456054,2173046394
+
+
 // Hero of Ages - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 30/33 tags:pve
 dimwishlist:item=2139640995&perks=1749209109,1685431615
 
 
-// Sleepless - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 10/23 tags:god-pve
+// Sleepless - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 7/23 tags:god-pve
 dimwishlist:item=2140635451&perks=2869569095,1439600632,930692523
 dimwishlist:item=2140635451&perks=3300816228,1439600632,930692523
 
@@ -6122,6 +6094,11 @@ dimwishlist:item=2149683300&perks=3700496672,2173046394,566815328
 dimwishlist:item=2149683300&perks=3700496672,1720528630,566815328
 dimwishlist:item=2149683300&perks=2840833776,2173046394,566815328
 dimwishlist:item=2149683300&perks=2840833776,1720528630,566815328
+
+
+// Warden's Law - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Damage; No alternatives. tags:god-pve
+dimwishlist:item=2152484073&perks=3828510309,1546637391,1281216113
 
 
 // Warden's Law - [Aztecross E1A2 Commenters] (pve)
@@ -6141,8 +6118,8 @@ dimwishlist:item=2152484073&perks=106909392,3523296417,4104185692
 dimwishlist:item=2164448701&perks=1556840489,3592538738
 
 
-// Fatebringer - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear, Champs; Alt: Warden's Law (Enlightened Action + Vorpal Weapon/Frenzy) tags:god-pve
+// Fatebringer - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Midnight Coup; Role: Add clear. tags:pve
 dimwishlist:item=2171478765&perks=3038247973,3824105627
 dimwishlist:item=2171478765&perks=3038247973,4104185692
 
@@ -6299,11 +6276,8 @@ dimwishlist:item=2209003210&perks=3300816228,2213355989
 dimwishlist:item=2218569744&perks=1482024992,3142289711,3523296417,2173046394
 
 
-// Tarnished Mettle - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Champs; Alt: Vouchsafe (Rapid Hit + Explosive Payload/Dragonfly) tags:god-pve
-dimwishlist:item=2218569744&perks=2840833776,64866129,3907865655
-dimwishlist:item=2218569744&perks=2840833776,3038247973,3907865655
-dimwishlist:item=2218569744&perks=3700496672,64866129,3907865655
+// Tarnished Mettle - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Utility; Alt: Brya's Love (Shoot To Loot + Explosive Payload). tags:god-pve
 dimwishlist:item=2218569744&perks=3700496672,3038247973,3907865655
 
 
@@ -6357,8 +6331,8 @@ dimwishlist:item=2228325504&perks=3798852852,409831596,951095735,2888557110
 dimwishlist:item=2228325504&perks=2396489472,3993379141
 
 
-// Roar of the Bear - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 17/23 tags:pve
+// Roar of the Bear - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 12/24 tags:pve
 dimwishlist:item=2231910050&perks=2869569095,3927722942,3989629871
 dimwishlist:item=2231910050&perks=2869569095,1275731761,3989629871
 dimwishlist:item=2231910050&perks=3523296417,3927722942,3989629871
@@ -6419,11 +6393,8 @@ dimwishlist:item=2263839058&perks=2658083589,509594246
 dimwishlist:item=2263839058&perks=2621346526,776531651,1905044254
 
 
-// Fire and Forget - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 7/12 tags:god-pve
-dimwishlist:item=2272041093&perks=2308090567,3007133316,3988215619
-dimwishlist:item=2272041093&perks=2308090567,4104185692,3988215619
-dimwishlist:item=2272041093&perks=2869569095,3007133316,3988215619
+// Fire and Forget - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 10/15 tags:pve
 dimwishlist:item=2272041093&perks=2869569095,4104185692,3988215619
 
 
@@ -6640,6 +6611,16 @@ dimwishlist:item=2328923181&perks=1428297954,4082225868
 dimwishlist:item=2328923181&perks=4071163871,4082225868
 
 
+// Breachlight - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Mykel's Reverence (Rewind Rounds + Frenzy/Hatchling). tags:god-pve
+dimwishlist:item=2328923181&perks=3523296417,2109543898,2838996248
+dimwishlist:item=2328923181&perks=3523296417,831391274,2838996248
+dimwishlist:item=2328923181&perks=923806249,2109543898,2838996248
+dimwishlist:item=2328923181&perks=923806249,831391274,2838996248
+dimwishlist:item=2328923181&perks=4071163871,2109543898,2838996248
+dimwishlist:item=2328923181&perks=4071163871,831391274,2838996248
+
+
 // Breachlight - [Datto E1 Review] (pve)
 //notes: [Datto E1 Review] Very build dependent. tags:pve
 dimwishlist:item=2328923181&perks=3523296417,11612903
@@ -6721,8 +6702,13 @@ dimwishlist:item=2350330520&perks=3400784728,555281244
 dimwishlist:item=2350330520&perks=3400784728,1015611457
 
 
-// Blast Furnace - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Role: Add clear; Alt: Chattering Bone (Rapid Hit/Kill Clip + Kinetic Tremors) tags:god-pve
+// Sightline Survey - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Zaouli's Bane; Role: Add clear. tags:pve
+dimwishlist:item=2350330520&perks=3828510309,2173046394
+
+
+// Blast Furnace - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Chattering Bone (Rapid Hit/Kill Clip + Kinetic Tremors); Also good: Aisha's Care (Slice + Hatchling). tags:god-pve
 dimwishlist:item=2372514508&perks=3891536761,4104185692,2489430594
 dimwishlist:item=2372514508&perks=3891536761,3824105627,2489430594
 dimwishlist:item=2372514508&perks=3700496672,4104185692,2489430594
@@ -6892,8 +6878,8 @@ dimwishlist:item=2443900757&perks=1556840489,1546637391,1281216113
 dimwishlist:item=2443900757&perks=1556840489,2360754333,1281216113
 
 
-// Royal Entry - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 21/23 tags:pve
+// Royal Entry - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 22/24 tags:pve
 dimwishlist:item=2448907086&perks=2869569095,2284787283,744217850
 dimwishlist:item=2448907086&perks=2869569095,3927722942,744217850
 dimwishlist:item=2448907086&perks=3300816228,2284787283,744217850
@@ -6908,6 +6894,12 @@ dimwishlist:item=2450049485&perks=3523296417,3078487919
 dimwishlist:item=2450049485&perks=3523296417,1771339417
 dimwishlist:item=2450049485&perks=247725512,3078487919
 dimwishlist:item=2450049485&perks=247725512,1771339417
+
+
+// Line in the Sand - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 6/15 tags:pve
+dimwishlist:item=2450049485&perks=2284787283,3078487919,2838996248
+dimwishlist:item=2450049485&perks=3993379141,3078487919,2838996248
 
 
 // Uzume RR4 - [Aegis S23 Endgame Analysis/Weapon Meta Update] (pve)
@@ -6945,8 +6937,8 @@ dimwishlist:item=2465372924&perks=1467527085,1885400500,588594999,699525795,9306
 dimwishlist:item=2465372924&perks=588594999,1015611457
 
 
-// Reed's Regret (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 5/12 tags:god-pve
+// Reed's Regret (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 8/15 tags:pve
 dimwishlist:item=2475355656&perks=3400784728,1771339417,3988215619
 
 
@@ -7001,10 +6993,10 @@ dimwishlist:item=2480074702&perks=1683379515,2396489472
 dimwishlist:item=2481881293&perks=1556840489,1546637391
 
 
-// Code Duello - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 15/23 tags:pve
-dimwishlist:item=2496242052&perks=2869569095,4104185692
+// Code Duello - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 11/24 tags:pve
 dimwishlist:item=2496242052&perks=3300816228,4104185692
+dimwishlist:item=2496242052&perks=2869569095,4104185692
 
 
 // Sorrow's Verse (god-pvp)
@@ -7012,14 +7004,17 @@ dimwishlist:item=2496242052&perks=3300816228,4104185692
 dimwishlist:item=2496875173&perks=3250034553,3142289711,2450788523,2458213969
 
 
-// Midnight Coup - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Role: Add clear, Champs; Alt: Fatebringer (Explosive Payload + Firefly/Frenzy) tags:god-pve
+// Midnight Coup - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Fatebringer (Explosive Payload + Firefly/Frenzy). tags:god-pve
 dimwishlist:item=2499720827&perks=3824105627,4104185692,2489430594
 dimwishlist:item=2499720827&perks=3824105627,3891536761,2489430594
+dimwishlist:item=2499720827&perks=3824105627,4049631843,2489430594
 dimwishlist:item=2499720827&perks=3700496672,4104185692,2489430594
 dimwishlist:item=2499720827&perks=3700496672,3891536761,2489430594
+dimwishlist:item=2499720827&perks=3700496672,4049631843,2489430594
 dimwishlist:item=2499720827&perks=3038247973,4104185692,2489430594
 dimwishlist:item=2499720827&perks=3038247973,3891536761,2489430594
+dimwishlist:item=2499720827&perks=3038247973,4049631843,2489430594
 
 
 // Midnight Coup - [Aztecross S23 ITL God Rolls] (god-pve)
@@ -7232,8 +7227,8 @@ dimwishlist:item=2531963421&perks=3400784728,3708227201,3907865655
 dimwishlist:item=2531963421&perks=3400784728,2896038713,3907865655
 
 
-// Blast Furnace - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Role: Add clear; Alt: Chattering Bone (Rapid Hit/Kill Clip + Kinetic Tremors) tags:god-pve
+// Blast Furnace - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Chattering Bone (Rapid Hit/Kill Clip + Kinetic Tremors); Also good: Aisha's Care (Slice + Hatchling). tags:god-pve
 dimwishlist:item=2533990645&perks=3891536761,4104185692,2489430594
 dimwishlist:item=2533990645&perks=3891536761,3824105627,2489430594
 dimwishlist:item=2533990645&perks=3700496672,4104185692,2489430594
@@ -7440,6 +7435,14 @@ dimwishlist:item=2591111628&perks=2209918983,2360754333
 //notes: [Aegis S23 Endgame Analysis] Alt for: Pre Astyanax IV; Role: Champs tags:pve
 dimwishlist:item=2591241074&perks=3700496672,3365897133,744217850
 dimwishlist:item=2591241074&perks=201365942,3365897133,744217850
+
+
+// Scintillation - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 1/15 tags:god-pve
+dimwishlist:item=2591257541&perks=3418782618,3078487919,3988215619
+dimwishlist:item=2591257541&perks=3418782618,3708227201,3988215619
+dimwishlist:item=2591257541&perks=1799762209,3078487919,3988215619
+dimwishlist:item=2591257541&perks=1799762209,3708227201,3988215619
 
 
 // Scintillation - [Datto E1 Review] (pve)
@@ -8007,8 +8010,8 @@ dimwishlist:item=2708806099&perks=3523296417,2675184851,1260401931
 dimwishlist:item=2708806099&perks=3523296417,4293542123,1260401931
 
 
-// Corsair's Wrath - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 12/12 tags:pve
+// Corsair's Wrath - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 15/15 tags:pve
 dimwishlist:item=2714022207&perks=588594999,2213355989
 
 
@@ -8136,14 +8139,17 @@ dimwishlist:item=2759590322&perks=2779035018,2848615171,744217850
 dimwishlist:item=2759590322&perks=2779035018,2610012052,744217850
 
 
-// Midnight Coup - [Aegis S23 ITL Endgame Analysis] (god-pve)
-//notes: [Aegis S23 ITL Endgame Analysis] Role: Add clear, Champs; Alt: Fatebringer (Explosive Payload + Firefly/Frenzy) tags:god-pve
+// Midnight Coup - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Fatebringer (Explosive Payload + Firefly/Frenzy). tags:god-pve
 dimwishlist:item=2763843898&perks=3824105627,4104185692,2489430594
 dimwishlist:item=2763843898&perks=3824105627,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3824105627,4049631843,2489430594
 dimwishlist:item=2763843898&perks=3700496672,4104185692,2489430594
 dimwishlist:item=2763843898&perks=3700496672,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3700496672,4049631843,2489430594
 dimwishlist:item=2763843898&perks=3038247973,4104185692,2489430594
 dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3038247973,4049631843,2489430594
 
 
 // Midnight Coup - [Aztecross S23 ITL God Rolls] (god-pve)
@@ -8335,6 +8341,11 @@ dimwishlist:item=2763843899&perks=202670084,1885400500,3161816588,555281244
 dimwishlist:item=2763843899&perks=3017780555,4293542123,2489430594
 
 
+// Luna's Howl - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Zaouli's Bane; Role: Add clear. tags:pve
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+
+
 // Nox Perennial V - [demonjoe S23 World Loot Guide] (god-pve)
 //notes: [demonjoe S23 World Loot Guide] Good for long damage phases tags:god-pve
 dimwishlist:item=2767393525&perks=839105230,689005463,968510818,2594592626
@@ -8364,6 +8375,11 @@ dimwishlist:item=2767393525&perks=968510818,2594592626
 // Firefright (god-pve,god-pvp)
 //notes: tags:god-pve,god-pvp
 dimwishlist:item=2778013407&perks=1392496348,1885400500,2451262963,3673922083
+
+
+// Brya's Love - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Tarnished Mettle; Role: Utility. tags:pve
+dimwishlist:item=2779821308&perks=3700496672,3038247973
 
 
 // Quickfang - [Aegis E1A2 Endgame Analysis] (pve)
@@ -8810,11 +8826,8 @@ dimwishlist:item=2884596447&perks=3978468247,3078487919,1489048135
 dimwishlist:item=2884596447&perks=3978468247,1354429876,1489048135
 
 
-// Cataclysmic (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier S Rank 2/12 tags:god-pve
-dimwishlist:item=2886339027&perks=848860060,3744057135,3363267119
-dimwishlist:item=2886339027&perks=848860060,3078487919,3363267119
-dimwishlist:item=2886339027&perks=1354429876,3744057135,3363267119
+// Cataclysmic (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 3/15 tags:god-pve
 dimwishlist:item=2886339027&perks=1354429876,3078487919,3363267119
 
 
@@ -8834,12 +8847,10 @@ dimwishlist:item=2889501828&perks=2396489472,3650930298
 dimwishlist:item=2889501828&perks=2396489472,3078487919
 
 
-// Briar's Contempt (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 3/12 tags:god-pve
-dimwishlist:item=2890082420&perks=1563455254,781192741,3186078099
-dimwishlist:item=2890082420&perks=1563455254,3708227201,3186078099
-dimwishlist:item=2890082420&perks=3418782618,781192741,3186078099
+// Briar's Contempt (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 4/15 tags:god-pve
 dimwishlist:item=2890082420&perks=3418782618,3708227201,3186078099
+dimwishlist:item=2890082420&perks=3418782618,2896038713,3186078099
 
 
 // Briar's Contempt (Adept) - [demonjoe 30 Best PVE Weapons of 2023] (pve)
@@ -8915,21 +8926,28 @@ dimwishlist:item=2914913838&perks=968510818,1427256713
 dimwishlist:item=2914913838&perks=968510818,2594592626
 
 
-// Semiotician - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 11/23 tags:god-pve
-dimwishlist:item=2922749929&perks=2308090567,2282937672,2565067140
-dimwishlist:item=2922749929&perks=2308090567,1439600632,2565067140
-dimwishlist:item=2922749929&perks=2308090567,2275087323,2565067140
-dimwishlist:item=2922749929&perks=2308090567,3194351027,2565067140
-dimwishlist:item=2922749929&perks=2869569095,2282937672,2565067140
+// Semiotician - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 8/24 tags:god-pve
 dimwishlist:item=2922749929&perks=2869569095,1439600632,2565067140
-dimwishlist:item=2922749929&perks=2869569095,2275087323,2565067140
 dimwishlist:item=2922749929&perks=2869569095,3194351027,2565067140
 
 
 // Dream Breaker - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 22/31 tags:pve
 dimwishlist:item=2931957300&perks=1556840489,4104185692
+
+
+// Pre Astyanax IV - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Utility; Alt: Hush (Shoot To Loot/Archer's Tempo/Attrition Orbs + Explosive Head/Incandescent/Archer's Gambit). tags:god-pve
+dimwishlist:item=2932922810&perks=3700496672,3365897133,1281216113
+dimwishlist:item=2932922810&perks=3700496672,4293542123,1281216113
+dimwishlist:item=2932922810&perks=3700496672,3414324643,1281216113
+dimwishlist:item=2932922810&perks=201365942,3365897133,1281216113
+dimwishlist:item=2932922810&perks=201365942,4293542123,1281216113
+dimwishlist:item=2932922810&perks=201365942,3414324643,1281216113
+dimwishlist:item=2932922810&perks=243981275,3365897133,1281216113
+dimwishlist:item=2932922810&perks=243981275,4293542123,1281216113
+dimwishlist:item=2932922810&perks=243981275,3414324643,1281216113
 
 
 // Deliverance (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
@@ -9495,14 +9513,14 @@ dimwishlist:item=3055192515&perks=3300816228,3523296417
 dimwishlist:item=3055192515&perks=2869569095,3523296417
 
 
-// Heretic - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 14/23 tags:pve
+// Heretic - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 20/24 tags:pve
 dimwishlist:item=3067821200&perks=2869569095,3927722942
 dimwishlist:item=3067821200&perks=2869569095,1275731761
 
 
-// Threaded Needle - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 10/12 tags:pve
+// Threaded Needle - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 13/15 tags:pve
 dimwishlist:item=3075224551&perks=2284787283,4104185692
 
 
@@ -9545,6 +9563,16 @@ dimwishlist:item=3098328572&perks=776531651,2109543898,2489430594
 dimwishlist:item=3098328572&perks=776531651,4104185692,2489430594
 dimwishlist:item=3098328572&perks=776531651,3081867624,2489430594
 dimwishlist:item=3098328572&perks=776531651,2048641572,2489430594
+
+
+// The Recluse - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Subjunctive; Role: Add clear. tags:pve
+dimwishlist:item=3098328572&perks=3828510309,2109543898
+dimwishlist:item=3098328572&perks=3828510309,4104185692
+dimwishlist:item=3098328572&perks=3828510309,2048641572
+dimwishlist:item=3098328572&perks=776531651,2109543898
+dimwishlist:item=3098328572&perks=776531651,4104185692
+dimwishlist:item=3098328572&perks=776531651,2048641572
 
 
 // Jurassic Green - [Fallout's S22 FotL Preview] [Duqk's S22 FotL God Rolls] (pvp)
@@ -9757,15 +9785,9 @@ dimwishlist:item=3166250992&perks=247725512,4104185692,2120661319
 dimwishlist:item=3166250992&perks=247725512,1870851715,2120661319
 
 
-// Red Herring - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 9/23 tags:god-pve
-dimwishlist:item=3175851496&perks=2308090567,4290541820,82180537
-dimwishlist:item=3175851496&perks=2308090567,2610012052,82180537
-dimwishlist:item=3175851496&perks=2308090567,3007133316,82180537
-dimwishlist:item=3175851496&perks=2308090567,4104185692,82180537
-dimwishlist:item=3175851496&perks=2869569095,4290541820,82180537
+// Red Herring - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 16/24 tags:pve
 dimwishlist:item=3175851496&perks=2869569095,2610012052,82180537
-dimwishlist:item=3175851496&perks=2869569095,3007133316,82180537
 dimwishlist:item=3175851496&perks=2869569095,4104185692,82180537
 
 
@@ -9818,8 +9840,8 @@ dimwishlist:item=3206190066&perks=3418782618,4104185692
 dimwishlist:item=3206190066&perks=
 
 
-// Multimach CCX - [Aegis S23 Mid-Season Patch] (pve)
-//notes: [Aegis S23 Mid-Season Patch] Decent Kinetic SMG. tags:pve
+// Multimach CCX - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Imminence; Role: Add clear. tags:pve
 dimwishlist:item=3211624072&perks=243981275,4104185692
 dimwishlist:item=3211624072&perks=243981275,3891536761
 dimwishlist:item=3211624072&perks=1870851715,4104185692
@@ -9857,8 +9879,8 @@ dimwishlist:item=3211624072&perks=1359896290,3891536761,2120661319
 dimwishlist:item=3216652511&perks=509074078,4082225868,4091460919
 
 
-// Laser Painter - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 9/12 tags:pve
+// Laser Painter - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 12/15 tags:pve
 dimwishlist:item=3221722018&perks=2284787283,2896038713,3988215619
 dimwishlist:item=3221722018&perks=3300816228,2896038713,3988215619
 
@@ -9903,6 +9925,11 @@ dimwishlist:item=3248429089&perks=2621346526,557221067,120721526
 dimwishlist:item=3248429089&perks=3108830275,3824105627,120721526
 dimwishlist:item=3248429089&perks=3108830275,124408337,120721526
 dimwishlist:item=3248429089&perks=3108830275,557221067,120721526
+
+
+// Warden's Law (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Damage; No alternatives. tags:god-pve
+dimwishlist:item=3250744600&perks=3828510309,1546637391,1281216113
 
 
 // Warden's Law (Adept) - [Aztecross E1A2 Commenters] (pve)
@@ -9952,8 +9979,13 @@ dimwishlist:item=3262192268&perks=3523296417,4293542123,398661035
 dimwishlist:item=3262192268&perks=3523296417,11612903,398661035
 
 
-// Randy's Throwing Knife - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear, Champs; Alt: Hung Jury SR4 (Shoot to Loot + Kinetic Tremors/Firefly) tags:god-pve
+// Posterity - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Zaouli's Bane; Role: Add clear. tags:pve
+dimwishlist:item=3281285075&perks=2173046394,4104185692
+
+
+// Randy's Throwing Knife - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Hung Jury SR4 (Shoot To Loot/Kinetic Tremors + Firefly/Explosive Payload). tags:god-pve
 dimwishlist:item=3292795429&perks=247725512,3891536761,4091460919
 dimwishlist:item=3292795429&perks=247725512,1048183818,4091460919
 dimwishlist:item=3292795429&perks=1870851715,3891536761,4091460919
@@ -10022,8 +10054,13 @@ dimwishlist:item=3332125295&perks=1365187766,831391274
 dimwishlist:item=3332125295&perks=923806249,831391274
 
 
-// Tarantula - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier D Rank 11/12 tags:pve
+// Aisha's Care (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for: Blast Furnace; Role: Add clear. tags:pve
+dimwishlist:item=3332125295&perks=923806249,831391274
+
+
+// Tarantula - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 14/15 tags:pve
 dimwishlist:item=3335343363&perks=2869569095,2551157718
 
 
@@ -10171,14 +10208,6 @@ dimwishlist:item=3381450498&perks=951095735,3708227201
 dimwishlist:item=3381450498&perks=951095735,3673922083
 
 
-// Tyranny of Heaven - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear; Alt: Tripwire Canary (Dragonfly + Explosive Head) tags:god-pve
-dimwishlist:item=3388655311&perks=169755979,2675184851,1489048135
-dimwishlist:item=3388655311&perks=169755979,4293542123,1489048135
-dimwishlist:item=3388655311&perks=2848615171,2675184851,1489048135
-dimwishlist:item=3388655311&perks=2848615171,4293542123,1489048135
-
-
 // Tyranny of Heaven - [Aztecross S23 Review] (god-pve)
 //notes: [Aztecross S23 Review] Dragonfly (especially with Incandescent) good for at-level and slightly-under content, but Explosive Head (with Minor mod) better for harder content. Incandescent great with Dawn Chorus. tags:god-pve
 dimwishlist:item=3388655311&perks=852209214,16392701,169755979,2675184851
@@ -10189,6 +10218,11 @@ dimwishlist:item=3388655311&perks=852209214,16392701,1551736345,2675184851
 dimwishlist:item=3388655311&perks=852209214,16392701,1551736345,4293542123
 dimwishlist:item=3388655311&perks=852209214,16392701,3365897133,2675184851
 dimwishlist:item=3388655311&perks=852209214,16392701,3365897133,4293542123
+
+
+// Tyranny of Heaven - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Non-Denouement; Role: Add clear. tags:pve
+dimwishlist:item=3388655311&perks=2848615171,4293542123,1489048135
 
 
 // Insidious - [Aegis S23 Endgame Analysis] (god-pve)
@@ -10334,11 +10368,8 @@ dimwishlist:item=3483591058&perks=2848615171,2610012052,4129855581
 dimwishlist:item=3483591058&perks=2848615171,2173046394,4129855581
 
 
-// Palmyra-B - [Aegis S23 Endgame Analysis] (pve)
-//notes: [Aegis S23 Endgame Analysis] Tier C Rank 19/23 tags:pve
-dimwishlist:item=3489657138&perks=3528046508,2275087323,1607056502
-dimwishlist:item=3489657138&perks=3528046508,3194351027,1607056502
-dimwishlist:item=3489657138&perks=3300816228,2275087323,1607056502
+// Palmyra-B - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 19/24 tags:pve
 dimwishlist:item=3489657138&perks=3300816228,3194351027,1607056502
 
 
@@ -10601,6 +10632,12 @@ dimwishlist:item=3612338554&perks=3978468247,2551157718
 dimwishlist:item=3612338554&perks=3978468247,2896038713
 
 
+// Suspectum-4fr - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 7/15 tags:pve
+dimwishlist:item=3615421669&perks=968510818,555281244,3988215619
+dimwishlist:item=3615421669&perks=968510818,1771339417,3988215619
+
+
 // First In, Last Out - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 33/46 tags:pve
 dimwishlist:item=3616586446&perks=3300816228,1546637391
@@ -10629,14 +10666,6 @@ dimwishlist:item=3637669759&perks=1749209109,3913600130,2509860981
 dimwishlist:item=3637669759&perks=776531651,2048641572
 
 
-// Stormchaser - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 4/12 tags:god-pve
-dimwishlist:item=3652506829&perks=2284787283,1771339417,4154828211
-dimwishlist:item=3652506829&perks=2284787283,4104185692,4154828211
-dimwishlist:item=3652506829&perks=3300816228,1771339417,4154828211
-dimwishlist:item=3652506829&perks=3300816228,4104185692,4154828211
-
-
 // Stormchaser - [Duqk's S22 Duality God Rolls] (pve)
 //notes: [Duqk's S22 Duality God Rolls] Frenzy for solo, Firing Line for groups, best for Arc linears tags:pve
 dimwishlist:item=3652506829&perks=247725512,4104185692
@@ -10656,14 +10685,22 @@ dimwishlist:item=3652506829&perks=3300816228,1771339417
 dimwishlist:item=3652506829&perks=3300816228,1546637391
 
 
+// Stormchaser - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 5/15 tags:pve
+dimwishlist:item=3652506829&perks=2284787283,1771339417,4154828211
+dimwishlist:item=3652506829&perks=2284787283,4104185692,4154828211
+dimwishlist:item=3652506829&perks=3300816228,1771339417,4154828211
+dimwishlist:item=3652506829&perks=3300816228,4104185692,4154828211
+
+
 // Praedyth's Revenge - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 9/43 tags:pve
 dimwishlist:item=3653573172&perks=3418782618,4104185692
 dimwishlist:item=3653573172&perks=3418782618,2213355989
 
 
-// BrayTech Osprey - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 8/23 tags:god-pve
+// BrayTech Osprey - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 4/24 tags:god-pve
 dimwishlist:item=3667553455&perks=1275731761,1439600632,744217850
 dimwishlist:item=3667553455&perks=1275731761,4104185692,744217850
 dimwishlist:item=3667553455&perks=968510818,1439600632,744217850
@@ -10698,8 +10735,8 @@ dimwishlist:item=3668817296&perks=2590710093,2396489472
 dimwishlist:item=3668817296&perks=2590710093,2610012052
 
 
-// Hoosegow - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 12/23 tags:god-pve
+// Hoosegow - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 17/24 tags:pve
 dimwishlist:item=3669616453&perks=2869569095,1275731761
 dimwishlist:item=3669616453&perks=2869569095,3523296417
 dimwishlist:item=3669616453&perks=3300816228,1275731761
@@ -10763,6 +10800,12 @@ dimwishlist:item=3685470415&perks=839105230,3700496672,124408337
 dimwishlist:item=3685470415&perks=839105230,3700496672,2109543898
 dimwishlist:item=3685470415&perks=839105230,4071163871,124408337
 dimwishlist:item=3685470415&perks=839105230,4071163871,2109543898
+
+
+// Veiled Threat - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Breakneck; Role: Add clear. tags:pve
+dimwishlist:item=3685470415&perks=3700496672,2109543898
+dimwishlist:item=3685470415&perks=243981275,2109543898
 
 
 // Undercurrent - [Aegis E1A2 Endgame Analysis] (pve)
@@ -10856,6 +10899,11 @@ dimwishlist:item=3754408118&perks=3250034553,1885400500,2387244414,1015611457
 dimwishlist:item=3754408118&perks=776531651,2048641572
 
 
+// The Riposte - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for No Hesitation; Role: Add clear, Support. tags:pve
+dimwishlist:item=3754408118&perks=776531651,2048641572
+
+
 // Luna's Howl - [CoolGuy S23 ITL Review] (pvp)
 //notes: [CoolGuy S23 ITL Review] Great dueller, better than most 140s. Magnificent Howl is like Kill Clip on demand, go for at most 3-4 stacks, don't get greedy, even 1 stack is good already. Go for Range (71+). tags:pvp
 dimwishlist:item=3757612024&perks=3017780555,1015611457
@@ -10886,6 +10934,11 @@ dimwishlist:item=3757612024&perks=202670084,1885400500,3161816588,555281244
 // Luna's Howl - [CoolGuy S23 ITL Review] (pve)
 //notes: [CoolGuy S23 ITL Review] Both this and Zaouli's Bane are good, different perks. tags:pve
 dimwishlist:item=3757612024&perks=3017780555,4293542123,2489430594
+
+
+// Luna's Howl - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Zaouli's Bane; Role: Add clear. tags:pve
+dimwishlist:item=3757612024&perks=3017780555,4293542123
 
 
 // Abyss Defiant (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
@@ -11363,6 +11416,16 @@ dimwishlist:item=3951511045&perks=691659142,3824105627
 dimwishlist:item=3951511045&perks=691659142,3640170453
 
 
+// Imminence (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Multimach CCX (Attrition Orbs/Under-over + Frenzy/Kinetic Tremors). tags:god-pve
+dimwishlist:item=3951511045&perks=3828510309,3640170453,1878756191
+dimwishlist:item=3951511045&perks=3828510309,3824105627,1878756191
+dimwishlist:item=3951511045&perks=3828510309,831391274,1878756191
+dimwishlist:item=3951511045&perks=3523296417,3640170453,1878756191
+dimwishlist:item=3951511045&perks=3523296417,3824105627,1878756191
+dimwishlist:item=3951511045&perks=3523296417,831391274,1878756191
+
+
 // Imminence (Adept) - [Datto E1 Salvation's Edge Best Rolls] (pve)
 //notes: [Datto E1 Salvation's Edge Best Rolls] Enlightened Action more general, Pugilist/Demolitionist/Slice more for specific builds. Firefly harder to proc for a 900 RPM SMG. tags:pve
 dimwishlist:item=3951511045&perks=3828510309,3824105627
@@ -11405,6 +11468,19 @@ dimwishlist:item=3951511045&perks=3250034553,3142289711,1359896290,365154968
 dimwishlist:item=3951511045&perks=3250034553,3142289711,1359896290,1015611457
 dimwishlist:item=3951511045&perks=3250034553,3142289711,2451262963,365154968
 dimwishlist:item=3951511045&perks=3250034553,3142289711,2451262963,1015611457
+
+
+// Hush - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Pre Astyanax IV; Role: Utility. tags:pve
+dimwishlist:item=3962575203&perks=3700496672,3365897133
+dimwishlist:item=3962575203&perks=3700496672,4293542123
+dimwishlist:item=3962575203&perks=3700496672,3414324643
+dimwishlist:item=3962575203&perks=201365942,3365897133
+dimwishlist:item=3962575203&perks=201365942,4293542123
+dimwishlist:item=3962575203&perks=201365942,3414324643
+dimwishlist:item=3962575203&perks=243981275,3365897133
+dimwishlist:item=3962575203&perks=243981275,4293542123
+dimwishlist:item=3962575203&perks=243981275,3414324643
 
 
 // Midha's Reckoning - [Aegis E1A2 Endgame Analysis] (pve)
@@ -11453,14 +11529,9 @@ dimwishlist:item=3969379530&perks=1365187766,831391274
 dimwishlist:item=3969379530&perks=923806249,831391274
 
 
-// Heliocentric QSc - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Role: Add clear, Champs; Alt: Redback-5si (Compulsive Reloader + Vorpal Weapon) tags:god-pve
-dimwishlist:item=3998080529&perks=3523296417,4104185692,2509860981
-dimwishlist:item=3998080529&perks=3523296417,4293542123,2509860981
-dimwishlist:item=3998080529&perks=3017780555,4104185692,2509860981
-dimwishlist:item=3998080529&perks=3017780555,4293542123,2509860981
-dimwishlist:item=3998080529&perks=3828510309,4104185692,2509860981
-dimwishlist:item=3998080529&perks=3828510309,4293542123,2509860981
+// Aisha's Care - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for: Blast Furnace; Role: Add clear. tags:pve
+dimwishlist:item=3969379530&perks=923806249,831391274
 
 
 // Heliocentric QSc - [Aztecross S23 Review] (god-pve)
@@ -11491,6 +11562,14 @@ dimwishlist:item=3998080529&perks=1087426260,3017780555,4293542123
 // Heliocentric QSc - [CoolGuy's S22 Review] (pve)
 //notes: [CoolGuy's S22 Review] Great squirting spray bottle tags:pve
 dimwishlist:item=3998080529&perks=1087426260,3828510309,3708227201
+
+
+// Heliocentric QSc - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Alt for Brigand's Law; Role: Add clear. tags:pve
+dimwishlist:item=3998080529&perks=3017780555,4293542123,2509860981
+dimwishlist:item=3998080529&perks=3017780555,4104185692,2509860981
+dimwishlist:item=3998080529&perks=3523296417,4293542123,2509860981
+dimwishlist:item=3998080529&perks=3523296417,4104185692,2509860981
 
 
 // Heliocentric QSc - [Aztecross S23 World Drop Godrolls] (pvp)
@@ -11688,8 +11767,8 @@ dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294
 dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,4104185692
 
 
-// Hezen Vengeance - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier B Rank 7/23 tags:god-pve
+// Hezen Vengeance - [Aegis E1A2 Endgame Analysis] (pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 15/24 tags:pve
 dimwishlist:item=4050645223&perks=3300816228,3927722942
 dimwishlist:item=4050645223&perks=3300816228,3523296417
 dimwishlist:item=4050645223&perks=3643424744,3927722942
@@ -11801,6 +11880,14 @@ dimwishlist:item=4106757302&perks=981914802,3796465595,1523832109,3078487919
 dimwishlist:item=4106757302&perks=981914802,3796465595,1523832109,1439600632
 dimwishlist:item=4106757302&perks=981914802,3796465595,1631667848,3078487919
 dimwishlist:item=4106757302&perks=981914802,3796465595,1631667848,1439600632
+
+
+// Crowning Duologue - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 9/24 tags:god-pve
+dimwishlist:item=4106757302&perks=1523832109,1439600632,1380061575
+dimwishlist:item=4106757302&perks=1523832109,3993379141,1380061575
+dimwishlist:item=4106757302&perks=3523296417,1439600632,1380061575
+dimwishlist:item=4106757302&perks=3523296417,3993379141,1380061575
 
 
 // Crowning Duologue - [Fallout E1 Solstice Preview] (pve)
@@ -12119,6 +12206,16 @@ dimwishlist:item=4169225313&perks=1631667848,2360754333,1380061575
 dimwishlist:item=4184808992&perks=3400784728,1546637391
 
 
+// Faith-Keeper - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 6/24 tags:god-pve
+dimwishlist:item=4195186942&perks=2284787283,1439600632,253121539
+dimwishlist:item=4195186942&perks=2284787283,3194351027,253121539
+dimwishlist:item=4195186942&perks=3300816228,1439600632,253121539
+dimwishlist:item=4195186942&perks=3300816228,3194351027,253121539
+dimwishlist:item=4195186942&perks=2869569095,1439600632,253121539
+dimwishlist:item=4195186942&perks=2869569095,3194351027,253121539
+
+
 // Faith-Keeper - [Datto E1 Review] (pve)
 //notes: [Datto E1 Review] tags:pve
 dimwishlist:item=4195186942&perks=2284787283,3194351027
@@ -12365,8 +12462,8 @@ dimwishlist:item=4248997900&perks=923806249,1015611457
 dimwishlist:item=4248997900&perks=
 
 
-// The Hothead - [Aegis S23 Endgame Analysis] (god-pve)
-//notes: [Aegis S23 Endgame Analysis] Tier A Rank 4/23 tags:god-pve
+// The Hothead - [Aegis E1A2 Endgame Analysis] (god-pve)
+//notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 5/24 tags:god-pve
 dimwishlist:item=4255171531&perks=3796465595,3523296417,2284787283,744217850
 dimwishlist:item=4255171531&perks=3796465595,3523296417,3194351027,744217850
 dimwishlist:item=4255171531&perks=3796465595,2869569095,2284787283,744217850

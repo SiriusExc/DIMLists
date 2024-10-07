@@ -8556,6 +8556,21 @@ dimwishlist:item=2821430069&perks=1354429876,4104185692,4008116374
 dimwishlist:item=2821430069&perks=1354429876,3708227201,4008116374
 
 
+// Embraced Identity - [CoolGuy E1A3 Review] (god-pve)
+//notes: [CoolGuy E1A3 Review] Very high Aim Assist of all snipers. Permeability is unique here, ties it to artifact mods. Get the mag as high as possible. tags:god-pve
+dimwishlist:item=2821677368&perks=2428997981,555281244
+dimwishlist:item=2821677368&perks=2428997981,1354429876
+dimwishlist:item=2821677368&perks=3418782618,555281244
+dimwishlist:item=2821677368&perks=3418782618,1354429876
+dimwishlist:item=2821677368&perks=3523296417,555281244
+dimwishlist:item=2821677368&perks=3523296417,1354429876
+
+
+// Embraced Identity - [CoolGuy E1A3 Review] (god-pvp)
+//notes: [CoolGuy E1A3 Review] Very high Aim Assist of all snipers. Permeability is unique here, ties it to artifact mods. Get the mag as high as possible. No Snapshot nor Quickdraw, though it's fast enough already with Sniper changes, good enough for quick scoping with one Targeting mod. tags:god-pvp
+dimwishlist:item=2821677368&perks=1840239774,3230963543,47981717,588594999
+
+
 // Embraced Identity - [Datto E1 Pale Heart God Rolls] (pve)
 //notes: [Datto E1 Pale Heart God Rolls] High Ground always active for Salvation's Edge Witness fight, otherwise Precision Instrument. Reconstruction for general play, Rewind Rounds for boss damage. tags:pve
 dimwishlist:item=2821677368&perks=3418782618,1354429876
@@ -8574,6 +8589,22 @@ dimwishlist:item=2821677368&perks=3418782618,2319119708,1988485648
 dimwishlist:item=2821677368&perks=243981275,1354429876,1988485648
 dimwishlist:item=2821677368&perks=243981275,555281244,1988485648
 dimwishlist:item=2821677368&perks=243981275,2319119708,1988485648
+
+
+// Origin Story - [CoolGuy E1A3 Review] (pve)
+//notes: [CoolGuy E1A3 Review] Some rare perk pairings. tags:pve
+dimwishlist:item=2826850739&perks=3523296417,95528736
+dimwishlist:item=2826850739&perks=3523296417,3891536761
+dimwishlist:item=2826850739&perks=3523296417,691659142
+dimwishlist:item=2826850739&perks=880644845,95528736
+dimwishlist:item=2826850739&perks=880644845,3891536761
+dimwishlist:item=2826850739&perks=880644845,691659142
+
+
+// Origin Story - [CoolGuy E1A3 Review] (pvp)
+//notes: [CoolGuy E1A3 Review] 450s are good, and getting a buff in Revenant. High Ground a great damage perk not dependant on kills and rare on Autos. tags:pvp
+dimwishlist:item=2826850739&perks=2319119708,2509860981
+dimwishlist:item=2826850739&perks=95528736,2509860981
 
 
 // Path of Least Resistance - [Aegis E1A2 Endgame Analysis] (god-pve)
@@ -11468,6 +11499,27 @@ dimwishlist:item=3951511045&perks=3250034553,3142289711,1359896290,365154968
 dimwishlist:item=3951511045&perks=3250034553,3142289711,1359896290,1015611457
 dimwishlist:item=3951511045&perks=3250034553,3142289711,2451262963,365154968
 dimwishlist:item=3951511045&perks=3250034553,3142289711,2451262963,1015611457
+
+
+// Yarovit MG4 - [CoolGuy E1A3 Review] (god-pvp)
+//notes: [CoolGuy E1A3 Review] Slightly worse stats compared to Prolonged Engagement but they offer different things. Feels great in SMG range. Go for Range. tags:god-pvp
+dimwishlist:item=3959549446&perks=3250034553,3230963543,1195158366,2387244414,2839173408
+dimwishlist:item=3959549446&perks=3250034553,3230963543,1195158366,2109543898,2839173408
+dimwishlist:item=3959549446&perks=3250034553,3230963543,1359896290,2387244414,2839173408
+dimwishlist:item=3959549446&perks=3250034553,3230963543,1359896290,2109543898,2839173408
+
+
+// Yarovit MG4 - [CoolGuy E1A3 Review] (god-pve)
+//notes: [CoolGuy E1A3 Review] Other Stasis SMGs have Headstone but this has unique pairing perks. tags:god-pve
+dimwishlist:item=3959549446&perks=1087426260,3418782618,124408337
+dimwishlist:item=3959549446&perks=1087426260,880644845,124408337
+
+
+// Yarovit MG4 - [CoolGuy E1A3 Review] (pve)
+//notes: [CoolGuy E1A3 Review] Other Stasis SMGs have Headstone but this has unique pairing perks. tags:pve
+dimwishlist:item=3959549446&perks=880644845,124408337
+dimwishlist:item=3959549446&perks=880644845,2109543898
+dimwishlist:item=3959549446&perks=880644845,3324494224
 
 
 // Hush - [Aegis E1A2 Endgame Analysis] (pve)

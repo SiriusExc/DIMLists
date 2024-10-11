@@ -735,6 +735,14 @@ dimwishlist:item=297296830&perks=3096702027,3431277734,1471995745
 dimwishlist:item=297296830&perks=3096702027,1048183818,1471995745
 
 
+// Tomorrow's Answer (Adept) - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] High Impact Void Rocket Launchers might not be that desirable but it's got some desirable perks. https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=303107619&perks=968510818,3078487919
+dimwishlist:item=303107619&perks=968510818,4104185692
+dimwishlist:item=303107619&perks=3987942396,3078487919
+dimwishlist:item=303107619&perks=3987942396,4104185692
+
+
 // Ignition Code - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 11/22 tags:pve
 dimwishlist:item=304659313&perks=3161816588,4104185692
@@ -1090,6 +1098,28 @@ dimwishlist:item=413901114&perks=2869569095,3751912585,2509860981
 dimwishlist:item=413901114&perks=2869569095,3194351027,2509860981
 
 
+// Insurmountable - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Rare Precision Frame Void Sidearm. Lots of good perks but I didn't like the feel of the weapon. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=414045521&perks=776531651,2048641572
+dimwishlist:item=414045521&perks=776531651,2109543898
+dimwishlist:item=414045521&perks=776531651,4049631843
+dimwishlist:item=414045521&perks=776531651,3425386926
+dimwishlist:item=414045521&perks=776531651,438098033
+dimwishlist:item=414045521&perks=776531651,3708227201
+dimwishlist:item=414045521&perks=4071163871,2048641572
+dimwishlist:item=414045521&perks=4071163871,2109543898
+dimwishlist:item=414045521&perks=4071163871,4049631843
+dimwishlist:item=414045521&perks=4071163871,3425386926
+dimwishlist:item=414045521&perks=4071163871,438098033
+dimwishlist:item=414045521&perks=4071163871,3708227201
+dimwishlist:item=414045521&perks=3523296417,2048641572
+dimwishlist:item=414045521&perks=3523296417,2109543898
+dimwishlist:item=414045521&perks=3523296417,4049631843
+dimwishlist:item=414045521&perks=3523296417,3425386926
+dimwishlist:item=414045521&perks=3523296417,438098033
+dimwishlist:item=414045521&perks=3523296417,3708227201
+
+
 // Controlling Vision - [CoolGuy E1A2 Review] (god-pvp)
 //notes: [CoolGuy E1A2 Review] Low stat package but Range stat is clamped anyway. Sidearms are spam weapons rather than precision, hard-hitting ones; great for hip-firing. All 3rd column perks are good. High Ground currently bugged, doing one ability jump (beyond one-tap jump) grants High Ground x3 effects without the buff text. Equip best barrel/mag/masterwork. tags:god-pvp
 dimwishlist:item=423343404&perks=1195158366,2416023159
@@ -1280,6 +1310,16 @@ dimwishlist:item=471518543&perks=3523296417,4049631843
 dimwishlist:item=471518543&perks=1820235745,3824105627
 dimwishlist:item=471518543&perks=1820235745,11612903
 dimwishlist:item=471518543&perks=1820235745,4049631843
+
+
+// Tinasha's Mastery - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] Column 3 slightly weak. https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=480368036&perks=951095735,2978966579
+dimwishlist:item=480368036&perks=951095735,4104185692
+dimwishlist:item=480368036&perks=951095735,3708227201
+dimwishlist:item=480368036&perks=563069569,2978966579
+dimwishlist:item=480368036&perks=563069569,4104185692
+dimwishlist:item=480368036&perks=563069569,3708227201
 
 
 // Rufus's Fury - [Aegis S22 Endgame Analysis] (god-pve)
@@ -2331,6 +2371,23 @@ dimwishlist:item=817909300&perks=1556840489,4049631843,744217850
 //notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 18/25 tags:pve
 dimwishlist:item=820890091&perks=1631667848,4082225868,3907865655
 dimwishlist:item=820890091&perks=1631667848,691659142,3907865655
+
+
+// Noxious Vetiver - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] First Precision Arc SMG since Season 10. Competes with Subjuctive but this has Jolting Feedback that might be good. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=825495813&perks=1119449540,3966416502
+
+
+// Noxious Vetiver - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] First Precision Arc SMG since Season 10. Competes with Subjuctive but this has Jolting Feedback that might be good. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=825495813&perks=2726471870,365154968
+dimwishlist:item=825495813&perks=2726471870,4104185692
+dimwishlist:item=825495813&perks=2726471870,2109543898
+dimwishlist:item=825495813&perks=2726471870,3425386926
+dimwishlist:item=825495813&perks=691659142,365154968
+dimwishlist:item=825495813&perks=691659142,4104185692
+dimwishlist:item=825495813&perks=691659142,2109543898
+dimwishlist:item=825495813&perks=691659142,3425386926
 
 
 // The Inquisitor (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
@@ -5778,6 +5835,31 @@ dimwishlist:item=2026755633&perks=1467527085,679225683,1195158366,3673922083
 dimwishlist:item=2026755633&perks=1195158366,95528736
 
 
+// Deadlock - [Fallout E2A1 Godrolls] (pvp)
+//notes: [Fallout E2A1 Godrolls] Nice alternative in case you missed out on Compass Rose. https://youtu.be/BK8mDDgW49I tags:pvp
+dimwishlist:item=2035738085&perks=4071163871,47981717
+dimwishlist:item=2035738085&perks=4071163871,1194056669
+dimwishlist:item=2035738085&perks=3161816588,47981717
+dimwishlist:item=2035738085&perks=3161816588,1194056669
+dimwishlist:item=2035738085&perks=1821614984,47981717
+dimwishlist:item=2035738085&perks=1821614984,1194056669
+dimwishlist:item=2035738085&perks=2579169598,47981717
+dimwishlist:item=2035738085&perks=2579169598,1194056669
+
+
+// Wicked Sister - [itzTizzle E2A1 World/Playlist Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] Really, a roll for any role. Reset Vanguard ranks for 3x3 perks to combat large perk pool. https://youtu.be/wVLX5s_Eijg tags:god-pve
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=3987942396,3194351027
+dimwishlist:item=2039776723&perks=2284787283,3078487919
+dimwishlist:item=2039776723&perks=2284787283,3194351027
+
+
+// Wicked Sister - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] Really, a roll for any role. Reset Vanguard ranks for 3x3 perks to combat large perk pool. https://youtu.be/wVLX5s_Eijg tags:pve
+dimwishlist:item=2039776723&perks=3300816228,3751912585
+
+
 // Imperative - [Aegis S23 Weapon Meta Update] (pve)
 //notes: [Aegis S23 Weapon Meta Update] High Impact makes it bad, KT takes longer to proc tags:pve
 dimwishlist:item=2045811635&perks=
@@ -6266,6 +6348,31 @@ dimwishlist:item=2198166292&perks=691659142,4293542123
 dimwishlist:item=2198166292&perks=2010801679,4293542123
 
 
+// Bygones - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2199554524&perks=3700496672,3891536761
+dimwishlist:item=2199554524&perks=3700496672,3824105627
+dimwishlist:item=2199554524&perks=3700496672,4104185692
+dimwishlist:item=2199554524&perks=3523296417,3891536761
+dimwishlist:item=2199554524&perks=3523296417,3824105627
+dimwishlist:item=2199554524&perks=3523296417,4104185692
+
+
+// Bygones - [Fallout E2A1 Godrolls] (pvp)
+//notes: [Fallout E2A1 Godrolls] https://youtu.be/BK8mDDgW49I tags:pvp
+dimwishlist:item=2199554524&perks=3619207468,1015611457
+dimwishlist:item=2199554524&perks=3619207468,2109543898
+dimwishlist:item=2199554524&perks=2387244414,1015611457
+dimwishlist:item=2199554524&perks=2387244414,2109543898
+dimwishlist:item=2199554524&perks=2579169598,1015611457
+dimwishlist:item=2199554524&perks=2579169598,2109543898
+
+
+// Bygones - [Fallout E2A1 Godrolls] (pvp)
+//notes: [Fallout E2A1 Godrolls] Under Pressure with Closing Time might be a meme but worth trying out. https://youtu.be/BK8mDDgW49I tags:pvp
+dimwishlist:item=2199554524&perks=1645158859,1194056669
+
+
 // Zealot's Reward - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 25/31 tags:pve
 dimwishlist:item=2209003210&perks=3300816228,2213355989
@@ -6396,6 +6503,35 @@ dimwishlist:item=2263839058&perks=2621346526,776531651,1905044254
 // Fire and Forget - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 10/15 tags:pve
 dimwishlist:item=2272041093&perks=2869569095,4104185692,3988215619
+
+
+// Rake Angle - [itzTizzle E2A1 World/Playlist Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:god-pve
+dimwishlist:item=2298039571&perks=594346985,1087426260,951095735,2978966579
+
+
+// Rake Angle - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:pve
+dimwishlist:item=2298039571&perks=691659142,4082225868
+
+
+// Rake Angle - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:pve
+dimwishlist:item=2298039571&perks=1966281507,2224838837
+dimwishlist:item=2298039571&perks=1966281507,1782407750
+
+
+// Yesterday's Question - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2300143112&perks=1354429876,1546637391
+
+
+// Yesterday's Question - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] Only Hand Cannon with Headseeker, needs some testing. https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2300143112&perks=247725512,2173046394
+dimwishlist:item=2300143112&perks=247725512,460017080
+dimwishlist:item=2300143112&perks=2848615171,2173046394
+dimwishlist:item=2300143112&perks=2848615171,460017080
 
 
 // IKELOS_SR_v1.0.3 - [Aegis E1A2 Endgame Analysis] (pve)
@@ -6808,6 +6944,19 @@ dimwishlist:item=2372514509&perks=3619207468,1015611457
 // Elsie's Rifle - [True Vanguard S23 ITL Review] (pve)
 //notes: [True Vanguard S23 ITL Review] Get max Reload and other stat boosts after automatically applying Volatile. tags:pve
 dimwishlist:item=2372514509&perks=1119449540,2048641572
+
+
+// Yesterday's Question (Adept) - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2378785953&perks=1354429876,1546637391
+
+
+// Yesterday's Question (Adept) - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] Only Hand Cannon with Headseeker, needs some testing. https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2378785953&perks=247725512,2173046394
+dimwishlist:item=2378785953&perks=247725512,460017080
+dimwishlist:item=2378785953&perks=2848615171,2173046394
+dimwishlist:item=2378785953&perks=2848615171,460017080
 
 
 // Incisor (Adept) - [Aztecross S23 Review] (god-pve)
@@ -7467,6 +7616,42 @@ dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,1427256713,3988
 // The Enigma - [Aegis E1A2 Endgame Analysis] (god-pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier A Rank 5/9 tags:god-pve
 dimwishlist:item=2595497736&perks=951095735,4104185692,357495645
+
+
+// Chroma Rush - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] Splicer Surge Origin Trait lingers until stow/swap and has great uptime. https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2598420927&perks=1820235745,3891536761,3404929162
+dimwishlist:item=2598420927&perks=1820235745,4104185692,3404929162
+dimwishlist:item=2598420927&perks=1820235745,3425386926,3404929162
+
+
+// Liturgy - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] A non-'Wild' Double Fire GL. Missing some easy Reloading/Autoloading perks. Most 4th column perks are good. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=2599338624&perks=3032599245,1955165503,2978966579
+
+
+// Liturgy - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] A non-'Wild' Double Fire GL. Missing some easy Reloading/Autoloading perks. Most 4th column perks are good. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=2599338624&perks=2039302152,2978966579
+dimwishlist:item=2599338624&perks=2039302152,2396489472
+dimwishlist:item=2599338624&perks=2039302152,4049631843
+dimwishlist:item=2599338624&perks=3987942396,2978966579
+dimwishlist:item=2599338624&perks=3987942396,2396489472
+dimwishlist:item=2599338624&perks=3987942396,4049631843
+
+
+// Liturgy - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] Slideways got buffed for more (less?) reloads. https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2599338624&perks=3032599245,2039302152,1556840489
+dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
+dimwishlist:item=2599338624&perks=3032599245,2039302152,2396489472
+
+
+// Bitter/Sweet - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Envious Arsenal with Bait And Switch, obviously. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+dimwishlist:item=2599338625&perks=3987942396,3751912585
+dimwishlist:item=2599338625&perks=3987942396,3194351027
 
 
 // Jurassic Green - [CoolGuy S18 Review] More for PvE/6v6 than 3v3/Rumble (god-pve,god-pvp)
@@ -8139,6 +8324,22 @@ dimwishlist:item=2759590322&perks=2779035018,2848615171,744217850
 dimwishlist:item=2759590322&perks=2779035018,2610012052,744217850
 
 
+// Ignition Code - [Fallout E2A1 Godrolls] (god-pve)
+//notes: [Fallout E2A1 Godrolls] Only Grenade Launcher with Slideshot rather than Slideways. 4th column perk not as important as 2nd/3rd column perks. https://youtu.be/BK8mDDgW49I tags:god-pve
+dimwishlist:item=2761869150&perks=3032599245,3161816588,1546637391
+dimwishlist:item=2761869150&perks=3032599245,3161816588,2319119708
+dimwishlist:item=2761869150&perks=3032599245,3161816588,4104185692
+dimwishlist:item=2761869150&perks=3032599245,1556840489,1546637391
+dimwishlist:item=2761869150&perks=3032599245,1556840489,2319119708
+dimwishlist:item=2761869150&perks=3032599245,1556840489,4104185692
+dimwishlist:item=2761869150&perks=3301904089,3161816588,1546637391
+dimwishlist:item=2761869150&perks=3301904089,3161816588,2319119708
+dimwishlist:item=2761869150&perks=3301904089,3161816588,4104185692
+dimwishlist:item=2761869150&perks=3301904089,1556840489,1546637391
+dimwishlist:item=2761869150&perks=3301904089,1556840489,2319119708
+dimwishlist:item=2761869150&perks=3301904089,1556840489,4104185692
+
+
 // Midnight Coup - [Aegis E1A2 Endgame Analysis] (god-pve)
 //notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Fatebringer (Explosive Payload + Firefly/Frenzy). tags:god-pve
 dimwishlist:item=2763843898&perks=3824105627,4104185692,2489430594
@@ -8591,6 +8792,29 @@ dimwishlist:item=2821677368&perks=243981275,555281244,1988485648
 dimwishlist:item=2821677368&perks=243981275,2319119708,1988485648
 
 
+// Exuviae - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Like Something New, go for Stasis synergies (lots of other HCs have SFA+OFA, Explosive Payload, Frenzy, Desperate Measures, Precision Instrument, etc). Rimestealer might not be needed if you're already building into Frost Armor. Slow Reload so go for Mag perks and look out for Dark Ether Reaper trait. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=2823644677&perks=1955165503,124408337,2041432007
+dimwishlist:item=2823644677&perks=3400784728,124408337,2041432007
+
+
+// Exuviae - [Datto E2A1 Revenant Godrolls] (pvp)
+//notes: [Datto E2A1 Revenant Godrolls] Like Something New, go for Stasis synergies (lots of other HCs have SFA+OFA, Explosive Payload, Frenzy, Desperate Measures, Precision Instrument, etc). Rimestealer might not be needed if you're already building into Frost Armor. Slow Reload so go for Mag perks and look out for Dark Ether Reaper trait. https://youtu.be/U8ccd4boIbk tags:pvp
+dimwishlist:item=2823644677&perks=2579169598,555281244
+dimwishlist:item=2823644677&perks=3619207468,555281244
+
+
+// Exuviae - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2823644677&perks=1955165503,124408337
+
+
+// Exuviae - [Fallout E2A1 Godrolls] (pvp)
+//notes: [Fallout E2A1 Godrolls] Better PvP perks than Something New. https://youtu.be/BK8mDDgW49I tags:pvp
+dimwishlist:item=2823644677&perks=2579169598,555281244
+dimwishlist:item=2823644677&perks=3619207468,555281244
+
+
 // Origin Story - [CoolGuy E1A3 Review] (pve)
 //notes: [CoolGuy E1A3 Review] Some rare perk pairings. tags:pve
 dimwishlist:item=2826850739&perks=3523296417,95528736
@@ -8935,6 +9159,39 @@ dimwishlist:item=2891672170&perks=3300816228,3523296417,744217850
 dimwishlist:item=2891672170&perks=1556840489,2679249093,744217850
 dimwishlist:item=2891672170&perks=1556840489,1546637391,744217850
 dimwishlist:item=2891672170&perks=1556840489,3523296417,744217850
+
+
+// Archon's Thunder - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] Now Stasis to fit with seasonal focus. https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=2896109856&perks=3828510309,124408337
+dimwishlist:item=2896109856&perks=3828510309,557221067
+dimwishlist:item=2896109856&perks=3828510309,95528736
+dimwishlist:item=2896109856&perks=1955165503,124408337
+dimwishlist:item=2896109856&perks=1955165503,557221067
+dimwishlist:item=2896109856&perks=1955165503,95528736
+
+
+// Scavenger's Fate - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] It's a Void Shotgun, like Nessa's Oblation and Retold Tale, but no One-Two Punch or Trench Barrel. Discord + Harmony looks interesting though. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=2913577176&perks=3978468247,438098033
+
+
+// Scavenger's Fate - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] It's a Void Shotgun, like Nessa's Oblation and Retold Tale, but no One-Two Punch or Trench Barrel. Discord + Harmony looks interesting though. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=2913577176&perks=776531651,2048641572
+
+
+// Scavenger's Fate - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] It's a Void Shotgun, like Nessa's Oblation and Retold Tale, but no One-Two Punch or Trench Barrel. Discord + Harmony looks interesting though. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=2913577176&perks=3978468247,2109543898
+dimwishlist:item=2913577176&perks=3978468247,3708227201
+dimwishlist:item=2913577176&perks=3978468247,4104185692
+
+
+// Scavenger's Fate - [Datto E2A1 Revenant Godrolls] (pvp)
+//notes: [Datto E2A1 Revenant Godrolls] It's a Void Shotgun, like Nessa's Oblation and Retold Tale, but no One-Two Punch or Trench Barrel. Discord + Harmony looks interesting though. https://youtu.be/U8ccd4boIbk tags:pvp
+dimwishlist:item=2913577176&perks=2579169598,1194056669
+dimwishlist:item=2913577176&perks=3161816588,1194056669
 
 
 // Loaded Question (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
@@ -9452,6 +9709,14 @@ dimwishlist:item=3007479950&perks=3619207468,555281244
 dimwishlist:item=3007479950&perks=3828510309,555281244
 
 
+// Tomorrow's Answer - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] High Impact Void Rocket Launchers might not be that desirable but it's got some desirable perks. https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=3009199534&perks=968510818,3078487919
+dimwishlist:item=3009199534&perks=968510818,4104185692
+dimwishlist:item=3009199534&perks=3987942396,3078487919
+dimwishlist:item=3009199534&perks=3987942396,4104185692
+
+
 // The Prophet (Adept) - [Aztecross S23 Review] (god-pve)
 //notes: [Aztecross S23 Review] Stat monster, better than all other 120rpm Scouts in just about everything. tags:god-pve
 dimwishlist:item=3019024381&perks=3523296417,124408337
@@ -9645,6 +9910,25 @@ dimwishlist:item=3103325054&perks=2869569095,2610012052,192157151
 // Chain of Command - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier B Rank 10/25 tags:pve
 dimwishlist:item=3105930175&perks=11612903,3523296417,515704826
+
+
+// PLUG ONE.1 (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] https://youtu.be/wVLX5s_Eijg tags:god-pve
+dimwishlist:item=3106557243&perks=1523832109,1427256713
+dimwishlist:item=3106557243&perks=1523832109,2594592626
+
+
+// PLUG ONE.1 (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] https://youtu.be/wVLX5s_Eijg tags:pve
+dimwishlist:item=3106557243&perks=2779035018,2173046394
+
+
+// PLUG ONE.1 (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (pvp)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] https://youtu.be/wVLX5s_Eijg tags:pvp
+dimwishlist:item=3106557243&perks=2039302152,1754714824
+dimwishlist:item=3106557243&perks=2039302152,1194056669
+dimwishlist:item=3106557243&perks=1645158859,1754714824
+dimwishlist:item=3106557243&perks=1645158859,1194056669
 
 
 // Beloved - Max handling (god-pvp)
@@ -10023,6 +10307,25 @@ dimwishlist:item=3292795429&perks=1870851715,3891536761,4091460919
 dimwishlist:item=3292795429&perks=1870851715,1048183818,4091460919
 
 
+// PLUG ONE.1 - [itzTizzle E2A1 World/Playlist Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] https://youtu.be/wVLX5s_Eijg tags:god-pve
+dimwishlist:item=3293524502&perks=1523832109,1427256713
+dimwishlist:item=3293524502&perks=1523832109,2594592626
+
+
+// PLUG ONE.1 - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] https://youtu.be/wVLX5s_Eijg tags:pve
+dimwishlist:item=3293524502&perks=2779035018,2173046394
+
+
+// PLUG ONE.1 - [itzTizzle E2A1 World/Playlist Godrolls] (pvp)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] https://youtu.be/wVLX5s_Eijg tags:pvp
+dimwishlist:item=3293524502&perks=2039302152,1754714824
+dimwishlist:item=3293524502&perks=2039302152,1194056669
+dimwishlist:item=3293524502&perks=1645158859,1754714824
+dimwishlist:item=3293524502&perks=1645158859,1194056669
+
+
 // Twilight Oath - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Tier B Rank 17/39 tags:god-pve
 dimwishlist:item=3297863558&perks=1556840489,1546637391
@@ -10254,6 +10557,24 @@ dimwishlist:item=3388655311&perks=852209214,16392701,3365897133,4293542123
 // Tyranny of Heaven - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Alt for Non-Denouement; Role: Add clear. tags:pve
 dimwishlist:item=3388655311&perks=2848615171,4293542123,1489048135
+
+
+// Red Tape - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Lots of perks shared with other Scouts, go for Stasis synergy or the traditional perks. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=3423493037&perks=1955165503,124408337
+
+
+// Red Tape - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Lots of perks shared with other Scouts, go for Stasis synergy or the traditional perks. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=3423493037&perks=1354429876,4049631843
+dimwishlist:item=3423493037&perks=1354429876,11612903
+dimwishlist:item=3423493037&perks=1354429876,3038247973
+dimwishlist:item=3423493037&perks=3619207468,4049631843
+dimwishlist:item=3423493037&perks=3619207468,11612903
+dimwishlist:item=3423493037&perks=3619207468,3038247973
+dimwishlist:item=3423493037&perks=3523296417,4049631843
+dimwishlist:item=3423493037&perks=3523296417,11612903
+dimwishlist:item=3423493037&perks=3523296417,3038247973
 
 
 // Insidious - [Aegis S23 Endgame Analysis] (god-pve)
@@ -11061,6 +11382,18 @@ dimwishlist:item=3796510434&perks=1820235745,4049631843
 dimwishlist:item=3796795102&perks=1870851715,3891536761
 
 
+// Sovereignty - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Withering Gaze gives easy Weaken, works with some Artifact mods this season. No ammo/reload perks in 3rd column, Bungie pushing Snipers into non-boss damage roles. Bit of a wait-and-see for this Sniper. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=3818198556&perks=3978468247,1134488199
+dimwishlist:item=3818198556&perks=3978468247,2109543898
+
+
+// Sovereignty - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Withering Gaze gives easy Weaken, works with some Artifact mods this season. No ammo/reload perks in 3rd column, Bungie pushing Snipers into non-boss damage roles. Bit of a wait-and-see for this Sniper. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=3818198556&perks=3828510309,555281244
+dimwishlist:item=3818198556&perks=3828510309,1771339417
+
+
 // Horror Story - [CoolGuy S18 FotL Review] (god-pvp)
 //notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:god-pvp
 dimwishlist:item=3829285960&perks=679077873,2450788523,588594999
@@ -11171,6 +11504,29 @@ dimwishlist:item=3829285960&perks=280464955,2039302152
 //notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:pve
 dimwishlist:item=3829285960&perks=2010801679,3523296417
 dimwishlist:item=3829285960&perks=1168162263,3523296417
+
+
+// Vantage Point - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] First Adaptive Frame Arc Pulse since Season 13. Voltshot not in perks list, might be curated-only or bugged, but new perk Jolting Feedback isn't too bad at 2-3 hits. Go for Eddy Current if doing an Amplified build, otherwise Stats For All is nice. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=3830941962&perks=684456054,3966416502
+dimwishlist:item=3830941962&perks=684456054,4049631843
+dimwishlist:item=3830941962&perks=1583705720,3966416502
+dimwishlist:item=3830941962&perks=1583705720,4049631843
+dimwishlist:item=3830941962&perks=3619207468,3966416502
+dimwishlist:item=3830941962&perks=3619207468,4049631843
+
+
+// Vantage Point - [Datto E2A1 Revenant Godrolls] (pvp)
+//notes: [Datto E2A1 Revenant Godrolls] First Adaptive Frame Arc Pulse since Season 13. https://youtu.be/U8ccd4boIbk tags:pvp
+dimwishlist:item=3830941962&perks=2579169598,460017080
+
+
+// Vantage Point - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] Jolt and Amplified is quite powerful now, great with Getaway Artist. Voltshot only available on Eido's curated roll. tags:pve
+dimwishlist:item=3830941962&perks=1583705720,4049631843
+dimwishlist:item=3830941962&perks=1583705720,3966416502
+dimwishlist:item=3830941962&perks=684456054,4049631843
+dimwishlist:item=3830941962&perks=684456054,3966416502
 
 
 // Hung Jury SR4 - [Aegis S23 Endgame Analysis] (pve)
@@ -11584,6 +11940,22 @@ dimwishlist:item=3969379530&perks=923806249,831391274
 // Aisha's Care - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Alt for: Blast Furnace; Role: Add clear. tags:pve
 dimwishlist:item=3969379530&perks=923806249,831391274
+
+
+// Rake Angle (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:god-pve
+dimwishlist:item=3997086838&perks=594346985,1087426260,951095735,2978966579
+
+
+// Rake Angle (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:pve
+dimwishlist:item=3997086838&perks=691659142,4082225868
+
+
+// Rake Angle (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
+//notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:pve
+dimwishlist:item=3997086838&perks=1966281507,2224838837
+dimwishlist:item=3997086838&perks=1966281507,1782407750
 
 
 // Heliocentric QSc - [Aztecross S23 Review] (god-pve)
@@ -12281,6 +12653,17 @@ dimwishlist:item=4195186942&perks=2869569095,1439600632
 dimwishlist:item=4195186942&perks=2869569095,4104185692
 
 
+// Veleda-F - [Fallout E2A1 Godrolls] (pve)
+//notes: [Fallout E2A1 Godrolls] This is NOT a DPS weapon, just proc Withering Gaze to weaken then swap to a Heavy to damage. (No preferred 3rd column perks.) https://youtu.be/BK8mDDgW49I tags:pve
+dimwishlist:item=4200122994&perks=1134488199,1607056502
+
+
+// Veleda-F - [Fallout E2A1 Godrolls] (pvp)
+//notes: [Fallout E2A1 Godrolls] https://youtu.be/BK8mDDgW49I tags:pvp
+dimwishlist:item=4200122994&perks=957782887,1194056669
+dimwishlist:item=4200122994&perks=2579169598,1194056669
+
+
 // False Idols - [Datto E1 Pale Heart God Rolls] (pve)
 //notes: [Datto E1 Pale Heart God Rolls] Solar swords have never made a big splash, this one doesn't do that much either. Falling Guillotine still reigns supreme unless it's solar surge or similar. tags:pve
 dimwishlist:item=4207120603&perks=4293542123,4049631843
@@ -12339,6 +12722,21 @@ dimwishlist:item=4220529694&perks=839105230,106909392,1820235745,4293542123
 //notes: [Ebontis S23 Best Dawning Rolls] For DPS tags:pve
 dimwishlist:item=4220529694&perks=839105230,1087426260,3418782618,365154968
 dimwishlist:item=4220529694&perks=839105230,106909392,3418782618,365154968
+
+
+// Heretic's Fervor - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Traditional boss damage rolls and Stasis neutral game/ad clear rolls. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=4224667951&perks=3300816228,3194351027
+dimwishlist:item=4224667951&perks=3300816228,1439600632
+dimwishlist:item=4224667951&perks=2869569095,3194351027
+dimwishlist:item=4224667951&perks=2869569095,1439600632
+
+
+// Heretic's Fervor - [Datto E2A1 Revenant Godrolls] (pve)
+//notes: [Datto E2A1 Revenant Godrolls] Traditional boss damage rolls and Stasis neutral game/ad clear rolls. https://youtu.be/U8ccd4boIbk tags:pve
+dimwishlist:item=4224667951&perks=1955165503,2978966579
+dimwishlist:item=4224667951&perks=1955165503,1439600632
+dimwishlist:item=4224667951&perks=1955165503,438098033
 
 
 // Ragnhild-D - [Aegis E1A2 Endgame Analysis] (pve)

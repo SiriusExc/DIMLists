@@ -1120,6 +1120,28 @@ dimwishlist:item=414045521&perks=3523296417,438098033
 dimwishlist:item=414045521&perks=3523296417,3708227201
 
 
+// Insurmountable - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=414045521&perks=3523296417,4049631843
+dimwishlist:item=414045521&perks=3523296417,2109543898
+
+
+// Insurmountable - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=414045521&perks=776531651,2048641572
+
+
+// Insurmountable - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=414045521&perks=4071163871,3708227201
+dimwishlist:item=414045521&perks=4071163871,2109543898
+
+
+// Insurmountable - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pvp
+dimwishlist:item=414045521&perks=3938834702,1194056669
+
+
 // Controlling Vision - [CoolGuy E1A2 Review] (god-pvp)
 //notes: [CoolGuy E1A2 Review] Low stat package but Range stat is clamped anyway. Sidearms are spam weapons rather than precision, hard-hitting ones; great for hip-firing. All 3rd column perks are good. High Ground currently bugged, doing one ability jump (beyond one-tap jump) grants High Ground x3 effects without the buff text. Equip best barrel/mag/masterwork. tags:god-pvp
 dimwishlist:item=423343404&perks=1195158366,2416023159
@@ -2373,6 +2395,11 @@ dimwishlist:item=820890091&perks=1631667848,4082225868,3907865655
 dimwishlist:item=820890091&perks=1631667848,691659142,3907865655
 
 
+// Noxious Vetiver - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Jolting Feedback great for higher-end content where kills for Voltshot is hard with SMGs. https://youtu.be/xvp3m7lVnEc tags:god-pve
+dimwishlist:item=825495813&perks=1119449540,3966416502
+
+
 // Noxious Vetiver - [Datto E2A1 Revenant Godrolls] (pve)
 //notes: [Datto E2A1 Revenant Godrolls] First Precision Arc SMG since Season 10. Competes with Subjuctive but this has Jolting Feedback that might be good. https://youtu.be/U8ccd4boIbk tags:pve
 dimwishlist:item=825495813&perks=1119449540,3966416502
@@ -2388,6 +2415,21 @@ dimwishlist:item=825495813&perks=691659142,365154968
 dimwishlist:item=825495813&perks=691659142,4104185692
 dimwishlist:item=825495813&perks=691659142,2109543898
 dimwishlist:item=825495813&perks=691659142,3425386926
+
+
+// Noxious Vetiver - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Jolting Feedback great for higher-end content where kills for Voltshot is hard with SMGs. https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=825495813&perks=3108830275,4104185692
+dimwishlist:item=825495813&perks=3108830275,3966416502
+dimwishlist:item=825495813&perks=3108830275,2109543898
+dimwishlist:item=825495813&perks=2726471870,4104185692
+dimwishlist:item=825495813&perks=2726471870,3966416502
+dimwishlist:item=825495813&perks=2726471870,2109543898
+
+
+// Noxious Vetiver - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pvp
+dimwishlist:item=825495813&perks=3938834702,365154968
 
 
 // The Inquisitor (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
@@ -6155,6 +6197,28 @@ dimwishlist:item=2126178511&perks=3828510309,2173046394
 dimwishlist:item=2126178511&perks=684456054,2173046394
 
 
+// Sojourner's Tale - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] No more Auto-loading Holster + Frenzy, unfortunately. Quickdraw + Opening Shot gives stupid range. https://youtu.be/iyBjGAUK1yA tags:pvp
+dimwishlist:item=2130875369&perks=1482024992,3142289711,706527188,47981717
+
+
+// Sojourner's Tale - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] No more Auto-loading Holster + Frenzy, unfortunately. Quickdraw + Opening Shot gives stupid range. https://youtu.be/iyBjGAUK1yA tags:pvp
+dimwishlist:item=2130875369&perks=1482024992,791862061,2416023159,47981717
+
+
+// Sojourner's Tale - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] No more Auto-loading Holster + Frenzy, unfortunately. Quickdraw + Opening Shot gives stupid range. https://youtu.be/iyBjGAUK1yA tags:pve
+dimwishlist:item=2130875369&perks=1482024992,791862061,3300816228,555281244
+dimwishlist:item=2130875369&perks=1482024992,791862061,3300816228,4082225868
+
+
+// Sojourner's Tale - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] No more Auto-loading Holster + Frenzy, unfortunately. Quickdraw + Opening Shot gives stupid range. https://youtu.be/iyBjGAUK1yA tags:pve
+dimwishlist:item=2130875369&perks=1482024992,791862061,3978468247,4293542123
+dimwishlist:item=2130875369&perks=1482024992,791862061,3978468247,4082225868
+
+
 // Hero of Ages - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 30/33 tags:pve
 dimwishlist:item=2139640995&perks=1749209109,1685431615
@@ -7618,11 +7682,43 @@ dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,1427256713,3988
 dimwishlist:item=2595497736&perks=951095735,4104185692,357495645
 
 
+// Chroma Rush - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Rampage was a godroll but game has changed, so higher-end content go for Frenzy or Kinetic Tremors. https://youtu.be/iyBjGAUK1yA tags:god-pve
+dimwishlist:item=2598420927&perks=1820235745,4104185692
+dimwishlist:item=2598420927&perks=1820235745,3891536761
+
+
 // Chroma Rush - [Fallout E2A1 Godrolls] (pve)
 //notes: [Fallout E2A1 Godrolls] Splicer Surge Origin Trait lingers until stow/swap and has great uptime. https://youtu.be/BK8mDDgW49I tags:pve
 dimwishlist:item=2598420927&perks=1820235745,3891536761,3404929162
 dimwishlist:item=2598420927&perks=1820235745,4104185692,3404929162
 dimwishlist:item=2598420927&perks=1820235745,3425386926,3404929162
+
+
+// Chroma Rush - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Rampage was a godroll but game has changed, so higher-end content go for Frenzy or Kinetic Tremors. https://youtu.be/iyBjGAUK1yA tags:pve
+dimwishlist:item=2598420927&perks=1820235745,3425386926
+
+
+// Chroma Rush - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Lots of great PvP perks. https://youtu.be/iyBjGAUK1yA tags:pvp
+dimwishlist:item=2598420927&perks=2946784966,1015611457
+dimwishlist:item=2598420927&perks=1570042021,1015611457
+dimwishlist:item=2598420927&perks=2450788523,1015611457
+dimwishlist:item=2598420927&perks=1359896290,1015611457
+
+
+// Chroma Rush - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Lots of great PvP perks. https://youtu.be/iyBjGAUK1yA tags:pvp
+dimwishlist:item=2598420927&perks=1359896290,1890422124
+
+
+// Liturgy - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Rime-stealer better on Headstone weapons. https://youtu.be/xvp3m7lVnEc tags:god-pve
+dimwishlist:item=2599338624&perks=3987942396,2978966579
+dimwishlist:item=2599338624&perks=3987942396,1556840489
+dimwishlist:item=2599338624&perks=2039302152,2978966579
+dimwishlist:item=2599338624&perks=2039302152,1556840489
 
 
 // Liturgy - [Datto E2A1 Revenant Godrolls] (pve)
@@ -7645,6 +7741,16 @@ dimwishlist:item=2599338624&perks=3987942396,4049631843
 dimwishlist:item=2599338624&perks=3032599245,2039302152,1556840489
 dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
 dimwishlist:item=2599338624&perks=3032599245,2039302152,2396489472
+
+
+// Bitter/Sweet - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Base mag only 5, use Mini Frags or Augmented Drum with Backup Mag for 8 in the mag. Jolting Feedback wasted on Heavy GLs. https://youtu.be/xvp3m7lVnEc tags:god-pve
+dimwishlist:item=2599338625&perks=332133599,3987942396,3078487919
+dimwishlist:item=2599338625&perks=332133599,3987942396,3194351027
+dimwishlist:item=2599338625&perks=332133599,3987942396,3751912585
+dimwishlist:item=2599338625&perks=1771897777,3987942396,3078487919
+dimwishlist:item=2599338625&perks=1771897777,3987942396,3194351027
+dimwishlist:item=2599338625&perks=1771897777,3987942396,3751912585
 
 
 // Bitter/Sweet - [Datto E2A1 Revenant Godrolls] (pve)
@@ -8340,6 +8446,21 @@ dimwishlist:item=2761869150&perks=3301904089,1556840489,2319119708
 dimwishlist:item=2761869150&perks=3301904089,1556840489,4104185692
 
 
+// Ignition Code - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Great for both ad control and damage. https://youtu.be/iyBjGAUK1yA tags:god-pve
+dimwishlist:item=2761869150&perks=3032599245,3161816588,4104185692
+
+
+// Ignition Code - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Great for both ad control and damage. https://youtu.be/iyBjGAUK1yA tags:pve
+dimwishlist:item=2761869150&perks=3032599245,1556840489,4104185692,3404929162
+dimwishlist:item=2761869150&perks=3032599245,1556840489,1546637391,3404929162
+dimwishlist:item=2761869150&perks=3032599245,1556840489,2319119708,3404929162
+dimwishlist:item=2761869150&perks=3301904089,1556840489,4104185692,3404929162
+dimwishlist:item=2761869150&perks=3301904089,1556840489,1546637391,3404929162
+dimwishlist:item=2761869150&perks=3301904089,1556840489,2319119708,3404929162
+
+
 // Midnight Coup - [Aegis E1A2 Endgame Analysis] (god-pve)
 //notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Fatebringer (Explosive Payload + Firefly/Frenzy). tags:god-pve
 dimwishlist:item=2763843898&perks=3824105627,4104185692,2489430594
@@ -8792,6 +8913,11 @@ dimwishlist:item=2821677368&perks=243981275,555281244,1988485648
 dimwishlist:item=2821677368&perks=243981275,2319119708,1988485648
 
 
+// Exuviae - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] 120s better for PvP than PvE. https://youtu.be/xvp3m7lVnEc tags:god-pve
+dimwishlist:item=2823644677&perks=1955165503,124408337
+
+
 // Exuviae - [Datto E2A1 Revenant Godrolls] (pve)
 //notes: [Datto E2A1 Revenant Godrolls] Like Something New, go for Stasis synergies (lots of other HCs have SFA+OFA, Explosive Payload, Frenzy, Desperate Measures, Precision Instrument, etc). Rimestealer might not be needed if you're already building into Frost Armor. Slow Reload so go for Mag perks and look out for Dark Ether Reaper trait. https://youtu.be/U8ccd4boIbk tags:pve
 dimwishlist:item=2823644677&perks=1955165503,124408337,2041432007
@@ -8813,6 +8939,18 @@ dimwishlist:item=2823644677&perks=1955165503,124408337
 //notes: [Fallout E2A1 Godrolls] Better PvP perks than Something New. https://youtu.be/BK8mDDgW49I tags:pvp
 dimwishlist:item=2823644677&perks=2579169598,555281244
 dimwishlist:item=2823644677&perks=3619207468,555281244
+
+
+// Exuviae - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] 120s better for PvP than PvE. https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=2823644677&perks=1583705720,3038247973
+dimwishlist:item=2823644677&perks=1583705720,4049631843
+
+
+// Exuviae - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] 120s better for PvP than PvE. https://youtu.be/xvp3m7lVnEc tags:pvp
+dimwishlist:item=2823644677&perks=1195158366,3038247973
+dimwishlist:item=2823644677&perks=1195158366,555281244
 
 
 // Origin Story - [CoolGuy E1A3 Review] (pve)
@@ -9171,6 +9309,16 @@ dimwishlist:item=2896109856&perks=1955165503,557221067
 dimwishlist:item=2896109856&perks=1955165503,95528736
 
 
+// Scavenger's Fate - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Repulsor Brace + Destabilizing Rounds also rolls on Retold Tale. https://youtu.be/xvp3m7lVnEc tags:god-pve
+dimwishlist:item=2913577176&perks=3978468247,4104185692
+dimwishlist:item=2913577176&perks=3978468247,1546637391
+dimwishlist:item=2913577176&perks=1428297954,4104185692
+dimwishlist:item=2913577176&perks=1428297954,1546637391
+dimwishlist:item=2913577176&perks=3161816588,4104185692
+dimwishlist:item=2913577176&perks=3161816588,1546637391
+
+
 // Scavenger's Fate - [Datto E2A1 Revenant Godrolls] (pve)
 //notes: [Datto E2A1 Revenant Godrolls] It's a Void Shotgun, like Nessa's Oblation and Retold Tale, but no One-Two Punch or Trench Barrel. Discord + Harmony looks interesting though. https://youtu.be/U8ccd4boIbk tags:pve
 dimwishlist:item=2913577176&perks=3978468247,438098033
@@ -9192,6 +9340,11 @@ dimwishlist:item=2913577176&perks=3978468247,4104185692
 //notes: [Datto E2A1 Revenant Godrolls] It's a Void Shotgun, like Nessa's Oblation and Retold Tale, but no One-Two Punch or Trench Barrel. Discord + Harmony looks interesting though. https://youtu.be/U8ccd4boIbk tags:pvp
 dimwishlist:item=2913577176&perks=2579169598,1194056669
 dimwishlist:item=2913577176&perks=3161816588,1194056669
+
+
+// Scavenger's Fate - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pvp
+dimwishlist:item=2913577176&perks=1482024992,3142289711,3161816588,1194056669
 
 
 // Loaded Question (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
@@ -10559,6 +10712,12 @@ dimwishlist:item=3388655311&perks=852209214,16392701,3365897133,4293542123
 dimwishlist:item=3388655311&perks=2848615171,4293542123,1489048135
 
 
+// Red Tape - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Rare Lightweight Scout Rifle. https://youtu.be/xvp3m7lVnEc tags:god-pve
+dimwishlist:item=3423493037&perks=3523296417,124408337
+dimwishlist:item=3423493037&perks=3523296417,3038247973
+
+
 // Red Tape - [Datto E2A1 Revenant Godrolls] (pve)
 //notes: [Datto E2A1 Revenant Godrolls] Lots of perks shared with other Scouts, go for Stasis synergy or the traditional perks. https://youtu.be/U8ccd4boIbk tags:pve
 dimwishlist:item=3423493037&perks=1955165503,124408337
@@ -10577,12 +10736,39 @@ dimwishlist:item=3423493037&perks=3523296417,11612903
 dimwishlist:item=3423493037&perks=3523296417,3038247973
 
 
+// Red Tape - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Rare Lightweight Scout Rifle. https://youtu.be/xvp3m7lVnEc tags:pvp
+dimwishlist:item=3423493037&perks=1194056669,2896038713
+dimwishlist:item=3423493037&perks=3619207468,2896038713
+
+
 // Insidious - [Aegis S23 Endgame Analysis] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Role: Champs; Alt: Ogma PR6 (Adaptive Munitions + Disruption Break) tags:god-pve
 dimwishlist:item=3428521585&perks=2938480696,3431277734,3363267119
 dimwishlist:item=3428521585&perks=2938480696,1048183818,3363267119
 dimwishlist:item=3428521585&perks=247725512,3431277734,3363267119
 dimwishlist:item=3428521585&perks=247725512,1048183818,3363267119
+
+
+// Gridskipper - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Has Deterministic Recoil with a weird pattern, check which you prefer. https://youtu.be/iyBjGAUK1yA tags:god-pve
+dimwishlist:item=3433930495&perks=839105230,1968497646,3523296417,4104185692,3404929162
+
+
+// Gridskipper - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Has Deterministic Recoil with a weird pattern, check which you prefer. https://youtu.be/iyBjGAUK1yA tags:god-pve
+dimwishlist:item=3433930495&perks=776531651,2048641572
+
+
+// Gridskipper - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Has Deterministic Recoil with a weird pattern, check which you prefer. https://youtu.be/iyBjGAUK1yA tags:pvp
+dimwishlist:item=3433930495&perks=2450788523,2458213969,3404929162
+
+
+// Gridskipper - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Has Deterministic Recoil with a weird pattern, check which you prefer. https://youtu.be/iyBjGAUK1yA tags:pvp
+dimwishlist:item=3433930495&perks=2387244414,460017080,3404929162
+dimwishlist:item=3433930495&perks=1428297954,460017080,3404929162
 
 
 // Chivalric Fire - [Aegis E1A2 Endgame Analysis] (pve)
@@ -11394,6 +11580,14 @@ dimwishlist:item=3818198556&perks=3828510309,555281244
 dimwishlist:item=3818198556&perks=3828510309,1771339417
 
 
+// Sovereignty - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Withering Gaze gives Weaken on non-Void subclasses. More for utility than damage, Embraced Identity has better damage rolls. Not much for PvP. https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=3818198556&perks=3978468247,1134488199
+dimwishlist:item=3818198556&perks=2848615171,1134488199
+dimwishlist:item=3818198556&perks=509074078,1134488199
+dimwishlist:item=3818198556&perks=3038247973,1134488199
+
+
 // Horror Story - [CoolGuy S18 FotL Review] (god-pvp)
 //notes: [CoolGuy S18 FotL Review] Recoil scope, Range mag, MW Range or Recoil tags:god-pvp
 dimwishlist:item=3829285960&perks=679077873,2450788523,588594999
@@ -11527,6 +11721,18 @@ dimwishlist:item=3830941962&perks=1583705720,4049631843
 dimwishlist:item=3830941962&perks=1583705720,3966416502
 dimwishlist:item=3830941962&perks=684456054,4049631843
 dimwishlist:item=3830941962&perks=684456054,3966416502
+
+
+// Vantage Point - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Incredible 2-burst in PvP with any damage buffs. https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=3830941962&perks=684456054,3966416502
+dimwishlist:item=3830941962&perks=1583705720,3966416502
+
+
+// Vantage Point - [itzTizzle E2A1 Splicer Godrolls] (pvp)
+//notes: [itzTizzle E2A1 Splicer Godrolls] Incredible 2-burst in PvP with any damage buffs. https://youtu.be/xvp3m7lVnEc tags:pvp
+dimwishlist:item=3830941962&perks=3619207468,4082225868
+dimwishlist:item=3830941962&perks=3938834702,4082225868
 
 
 // Hung Jury SR4 - [Aegis S23 Endgame Analysis] (pve)
@@ -12737,6 +12943,18 @@ dimwishlist:item=4224667951&perks=2869569095,1439600632
 dimwishlist:item=4224667951&perks=1955165503,2978966579
 dimwishlist:item=4224667951&perks=1955165503,1439600632
 dimwishlist:item=4224667951&perks=1955165503,438098033
+
+
+// Heretic's Fervor - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=4224667951&perks=3300816228,3194351027
+dimwishlist:item=4224667951&perks=3300816228,2978966579
+dimwishlist:item=4224667951&perks=3300816228,4104185692
+
+
+// Heretic's Fervor - [itzTizzle E2A1 Splicer Godrolls] (pve)
+//notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pve
+dimwishlist:item=4224667951&perks=2869569095,1439600632
 
 
 // Ragnhild-D - [Aegis E1A2 Endgame Analysis] (pve)

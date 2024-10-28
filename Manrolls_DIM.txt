@@ -38,7 +38,7 @@ dimwishlist:item=1681583613&perks=3666208348,2753228730,3949068808
 
 
 // Solipsism - [Deleted rolls]
-//notes: [Solipsism Deleted rolls] Filaments/Verity + Ophidian/Vesper + Filament/Claw + Ophidian/Star-Eater + Apotheosis/Swarm + Stag/Swarm + Filaments/Synthoceps + Stag/Claw + Assassin/Harmony
+//notes: [Solipsism Deleted rolls] Filaments/Verity + Ophidian/Vesper + Filament/Claw + Ophidian/Star-Eater + Apotheosis/Swarm + Stag/Swarm + Filaments/Synthoceps + Stag/Claw + Assassin/Harmony, Apotheosis/Vesper
 dimwishlist:item=-2273643087&perks=183430255,1476923957
 dimwishlist:item=-2273643087&perks=1476923954,183430251
 dimwishlist:item=-2273643087&perks=183430255,183430247
@@ -48,6 +48,7 @@ dimwishlist:item=-2273643087&perks=183430248,183430246
 dimwishlist:item=-2273643087&perks=183430255,1476923956
 dimwishlist:item=-2273643087&perks=183430248,183430247
 dimwishlist:item=-2273643087&perks=1476923952,183430254
+dimwishlist:item=-2273643087&perks=183430250,183430251
 
 
 // Relativism - [Deleted rolls]

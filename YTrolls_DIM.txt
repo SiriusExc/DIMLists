@@ -1247,6 +1247,34 @@ dimwishlist:item=423343404&perks=1821614984,2319119708
 dimwishlist:item=423343404&perks=1821614984,2416023159
 
 
+// Acosmic - [Fallout E2A1 FotL Godrolls] (pve)
+//notes: [Fallout E2A1 FotL Godrolls] Withering Gaze not optimal here, use the new Snipers to proc it (or use another more reliable source of weaken) before switching to the GL here to dump. https://youtu.be/fQkzwZdQz1k tags:pve
+dimwishlist:item=425681240&perks=2284787283,3078487919
+
+
+// Acosmic - [Fallout E2A1 FotL Godrolls] (pvp)
+//notes: [Fallout E2A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pvp
+dimwishlist:item=425681240&perks=409831596,1821614984,2396489472
+
+
+// Acosmic - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=425681240&perks=1134488199,3078487919
+dimwishlist:item=425681240&perks=1134488199,3194351027
+dimwishlist:item=425681240&perks=1134488199,3993379141
+
+
+// Acosmic - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=425681240&perks=2284787283,3751912585
+
+
+// Acosmic - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=425681240&perks=951095735,2396489472
+dimwishlist:item=425681240&perks=563069569,2396489472
+
+
 // Zaouli's Bane - [Aegis E1A2 Endgame Analysis] (god-pve)
 //notes: [Aegis E1A2 Endgame Analysis] Role: Add clear; Alt: Posterity (Voltshot + Frenzy); Also good: Luna's Howl (Heal Clip + Incandescent), Sightline Survey (Enlightened Action + Voltshot). tags:god-pve
 dimwishlist:item=431721920&perks=3038247973,4293542123,120721526
@@ -2434,6 +2462,28 @@ dimwishlist:item=679281855&perks=3161816588,1546637391
 //notes: [CoolGuy S22 Rare Rolls] High impact Disruption Break fusion (no 3rd column perks specified) tags:pvp,pve
 dimwishlist:item=679281855&perks=1683379515,905869860
 dimwishlist:item=679281855&perks=1683379515,3244015567
+
+
+// Jurassic Green - [Fallout E2A1 FotL Godrolls] (pve)
+//notes: [Fallout E2A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pve
+dimwishlist:item=689294985&perks=3017780555,4293542123
+dimwishlist:item=689294985&perks=1820235745,4293542123
+
+
+// Jurassic Green - [Fallout E2A1 FotL Godrolls] (pvp)
+//notes: [Fallout E2A1 FotL Godrolls] There are way better Pulses for PvP. Kill Clip is new to this season's refresh though. https://youtu.be/fQkzwZdQz1k tags:pvp
+dimwishlist:item=689294985&perks=1194056669,1015611457
+dimwishlist:item=689294985&perks=1194056669,460017080
+dimwishlist:item=689294985&perks=1194056669,2109543898
+dimwishlist:item=689294985&perks=2579169598,1015611457
+dimwishlist:item=689294985&perks=2579169598,460017080
+dimwishlist:item=689294985&perks=2579169598,2109543898
+dimwishlist:item=689294985&perks=3619207468,1015611457
+dimwishlist:item=689294985&perks=3619207468,460017080
+dimwishlist:item=689294985&perks=3619207468,2109543898
+dimwishlist:item=689294985&perks=2846385770,1015611457
+dimwishlist:item=689294985&perks=2846385770,460017080
+dimwishlist:item=689294985&perks=2846385770,2109543898
 
 
 // Ascendancy - [Aegis E1A2 Endgame Analysis] (pve)
@@ -6809,6 +6859,26 @@ dimwishlist:item=2272041093&perks=2869569095,4104185692,3988215619
 dimwishlist:item=2298039571&perks=594346985,1087426260,951095735,2978966579
 
 
+// Rake Angle - [itzTizzle E2A1 Review] (god-pve)
+//notes: [itzTizzle E2A1 Review] Rimestealer and Chill Clip only work with the projectile, not the melee. Accurized seems to bring mag from 3 to 4 for some reason. Could run Extended Mag with Adept Backup mod for 7 in the mag. Range increases projectile speed. Go for Range or Shield Duration MW, avoid losing Shield Duration. https://youtu.be/hC-tCfmE6CY tags:god-pve
+dimwishlist:item=2298039571&perks=580685494,3142289711,1966281507,2978966579
+dimwishlist:item=2298039571&perks=580685494,3142289711,1966281507,1782407750
+dimwishlist:item=2298039571&perks=580685494,3142289711,1955165503,2978966579
+dimwishlist:item=2298039571&perks=580685494,3142289711,1955165503,1782407750
+dimwishlist:item=2298039571&perks=580685494,2420895100,1966281507,2978966579
+dimwishlist:item=2298039571&perks=580685494,2420895100,1966281507,1782407750
+dimwishlist:item=2298039571&perks=580685494,2420895100,1955165503,2978966579
+dimwishlist:item=2298039571&perks=580685494,2420895100,1955165503,1782407750
+dimwishlist:item=2298039571&perks=2713678205,3142289711,1966281507,2978966579
+dimwishlist:item=2298039571&perks=2713678205,3142289711,1966281507,1782407750
+dimwishlist:item=2298039571&perks=2713678205,3142289711,1955165503,2978966579
+dimwishlist:item=2298039571&perks=2713678205,3142289711,1955165503,1782407750
+dimwishlist:item=2298039571&perks=2713678205,2420895100,1966281507,2978966579
+dimwishlist:item=2298039571&perks=2713678205,2420895100,1966281507,1782407750
+dimwishlist:item=2298039571&perks=2713678205,2420895100,1955165503,2978966579
+dimwishlist:item=2298039571&perks=2713678205,2420895100,1955165503,1782407750
+
+
 // Rake Angle - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
 //notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:pve
 dimwishlist:item=2298039571&perks=691659142,4082225868
@@ -7407,6 +7477,47 @@ dimwishlist:item=2465372924&perks=588594999,1015611457
 // Reed's Regret (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 8/15 tags:pve
 dimwishlist:item=2475355656&perks=3400784728,1771339417,3988215619
+
+
+// Mechabre - [Fallout E2A1 FotL Godrolls] (pve)
+//notes: [Fallout E2A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pve
+dimwishlist:item=2477980485&perks=3400784728,1771339417
+dimwishlist:item=2477980485&perks=2284787283,1771339417
+
+
+// Mechabre - [Fallout E2A1 FotL Godrolls] (pvp)
+//notes: [Fallout E2A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pvp
+dimwishlist:item=2477980485&perks=957782887,47981717
+
+
+// Mechabre - [Fallout E2A1 FotL Godrolls] (pvp)
+//notes: [Fallout E2A1 FotL Godrolls] New perks for this season, need to give it a try. https://youtu.be/fQkzwZdQz1k tags:pvp
+dimwishlist:item=2477980485&perks=2579169598,1194056669
+
+
+// Mechabre - [itzTizzle E2A1 FotL Godrolls] (pvp)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pvp
+dimwishlist:item=2477980485&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=2477980485&perks=1840239774,3142289711,957782887,1194056669
+dimwishlist:item=2477980485&perks=1840239774,3142289711,3619207468,47981717
+dimwishlist:item=2477980485&perks=1840239774,3142289711,3619207468,1194056669
+dimwishlist:item=2477980485&perks=1840239774,3177308360,957782887,47981717
+dimwishlist:item=2477980485&perks=1840239774,3177308360,957782887,1194056669
+dimwishlist:item=2477980485&perks=1840239774,3177308360,3619207468,47981717
+dimwishlist:item=2477980485&perks=1840239774,3177308360,3619207468,1194056669
+
+
+// Mechabre - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3523296417,2173046394
+
+
+// Mechabre - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1771339417
 
 
 // Forbearance - [Aegis E1A2 Endgame Analysis] (god-pve)
@@ -11232,6 +11343,56 @@ dimwishlist:item=3503019618&perks=1774574192,3523296417,120721526
 dimwishlist:item=3512349612&perks=2010801679,4049631843
 
 
+// BrayTech Werewolf - [Fallout E2A1 FotL Godrolls] (pve)
+//notes: [Fallout E2A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pve
+dimwishlist:item=3558681245&perks=3418782618,3891536761
+dimwishlist:item=3558681245&perks=3418782618,95528736
+dimwishlist:item=3558681245&perks=1820235745,3891536761
+dimwishlist:item=3558681245&perks=1820235745,95528736
+dimwishlist:item=3558681245&perks=3643424744,3891536761
+dimwishlist:item=3558681245&perks=3643424744,95528736
+
+
+// BrayTech Werewolf - [Fallout E2A1 FotL Godrolls] (pvp)
+//notes: [Fallout E2A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pvp
+dimwishlist:item=3558681245&perks=2387244414,1015611457
+dimwishlist:item=3558681245&perks=2387244414,365154968
+dimwishlist:item=3558681245&perks=2387244414,95528736
+dimwishlist:item=3558681245&perks=2387244414,2109543898
+dimwishlist:item=3558681245&perks=1359896290,1015611457
+dimwishlist:item=3558681245&perks=1359896290,365154968
+dimwishlist:item=3558681245&perks=1359896290,95528736
+dimwishlist:item=3558681245&perks=1359896290,2109543898
+dimwishlist:item=3558681245&perks=2579169598,1015611457
+dimwishlist:item=3558681245&perks=2579169598,365154968
+dimwishlist:item=3558681245&perks=2579169598,95528736
+dimwishlist:item=3558681245&perks=2579169598,2109543898
+
+
+// BrayTech Werewolf - [itzTizzle E2A1 FotL Godrolls] (pvp)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pvp
+dimwishlist:item=3558681245&perks=2387244414,1015611457
+dimwishlist:item=3558681245&perks=2387244414,4082225868
+dimwishlist:item=3558681245&perks=2387244414,95528736
+
+
+// BrayTech Werewolf - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=3558681245&perks=1820235745,3891536761
+dimwishlist:item=3558681245&perks=1820235745,95528736
+
+
+// BrayTech Werewolf - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=3558681245&perks=3418782618,95528736
+dimwishlist:item=3558681245&perks=3418782618,365154968
+
+
+// BrayTech Werewolf - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=3558681245&perks=691659142,4082225868
+
+
 // Crowd Pleaser - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 18/21 tags:pve
 dimwishlist:item=3565520715&perks=2284787283,3523296417,515704826
@@ -11488,6 +11649,40 @@ dimwishlist:item=3637669759&perks=1749209109,3913600130,2509860981
 // Geodetic HSm - [Aztecross S23 World Drop Godrolls] (pve)
 //notes: [Aztecross S23 World Drop Godrolls] tags:pve
 dimwishlist:item=3637669759&perks=776531651,2048641572
+
+
+// Arcane Embrace - [Fallout E2A1 FotL Godrolls] (pve)
+//notes: [Fallout E2A1 FotL Godrolls] Surrounded has higher damage buff but harder to proc. https://youtu.be/fQkzwZdQz1k tags:pve
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+
+
+// Arcane Embrace - [Fallout E2A1 FotL Godrolls] (pvp)
+//notes: [Fallout E2A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pvp
+dimwishlist:item=3649985571&perks=4071163871,1194056669
+
+
+// Arcane Embrace - [itzTizzle E2A1 FotL Godrolls] (pvp)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pvp
+dimwishlist:item=3649985571&perks=4071163871,1194056669
+dimwishlist:item=3649985571&perks=3161816588,1194056669
+dimwishlist:item=3649985571&perks=2579169598,1194056669
+
+
+// Arcane Embrace - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+
+
+// Arcane Embrace - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=3649985571&perks=1631667848,4082225868
+
+
+// Arcane Embrace - [itzTizzle E2A1 FotL Godrolls] (pve)
+//notes: [itzTizzle E2A1 FotL Godrolls] https://youtu.be/H2Ne0dEQ3GE tags:pve
+dimwishlist:item=3649985571&perks=25606670,2173046394
 
 
 // Stormchaser - [Duqk's S22 Duality God Rolls] (pve)
@@ -12475,6 +12670,26 @@ dimwishlist:item=3969379530&perks=923806249,831391274
 // Rake Angle (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (god-pve)
 //notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:god-pve
 dimwishlist:item=3997086838&perks=594346985,1087426260,951095735,2978966579
+
+
+// Rake Angle (Adept) - [itzTizzle E2A1 Review] (god-pve)
+//notes: [itzTizzle E2A1 Review] Rimestealer and Chill Clip only work with the projectile, not the melee. Accurized seems to bring mag from 3 to 4 for some reason. Could run Extended Mag with Adept Backup mod for 7 in the mag. Range increases projectile speed. Go for Range or Shield Duration MW, avoid losing Shield Duration. https://youtu.be/hC-tCfmE6CY tags:god-pve
+dimwishlist:item=3997086838&perks=580685494,3142289711,1966281507,2978966579
+dimwishlist:item=3997086838&perks=580685494,3142289711,1966281507,1782407750
+dimwishlist:item=3997086838&perks=580685494,3142289711,1955165503,2978966579
+dimwishlist:item=3997086838&perks=580685494,3142289711,1955165503,1782407750
+dimwishlist:item=3997086838&perks=580685494,2420895100,1966281507,2978966579
+dimwishlist:item=3997086838&perks=580685494,2420895100,1966281507,1782407750
+dimwishlist:item=3997086838&perks=580685494,2420895100,1955165503,2978966579
+dimwishlist:item=3997086838&perks=580685494,2420895100,1955165503,1782407750
+dimwishlist:item=3997086838&perks=2713678205,3142289711,1966281507,2978966579
+dimwishlist:item=3997086838&perks=2713678205,3142289711,1966281507,1782407750
+dimwishlist:item=3997086838&perks=2713678205,3142289711,1955165503,2978966579
+dimwishlist:item=3997086838&perks=2713678205,3142289711,1955165503,1782407750
+dimwishlist:item=3997086838&perks=2713678205,2420895100,1966281507,2978966579
+dimwishlist:item=3997086838&perks=2713678205,2420895100,1966281507,1782407750
+dimwishlist:item=3997086838&perks=2713678205,2420895100,1955165503,2978966579
+dimwishlist:item=3997086838&perks=2713678205,2420895100,1955165503,1782407750
 
 
 // Rake Angle (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (pve)

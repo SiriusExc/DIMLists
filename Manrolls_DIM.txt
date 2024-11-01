@@ -58,12 +58,13 @@ dimwishlist:item=-2273643087&perks=183430248,1476923955
 dimwishlist:item=-2809120022&perks=1476923954,3751917993
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Ophidian/Synthoceps + Bear/Scars + Hoarfrost/Contact + Ophidian/Horn + Bear/Alpha Lupi
+//notes: [Stoicism Deleted rolls] Ophidian/Synthoceps + Bear/Scars + Hoarfrost/Contact + Ophidian/Horn + Bear/Alpha Lupi + Ophidian/Star-Eater
 dimwishlist:item=-266021826&perks=1476923954,1476923956
 dimwishlist:item=-266021826&perks=3573490505,3573490507
 dimwishlist:item=-266021826&perks=3573490508,3573490504
 dimwishlist:item=-266021826&perks=1476923954,3573490506
 dimwishlist:item=-266021826&perks=3573490505,3573490501
+dimwishlist:item=-266021826&perks=1476923954,1476923955
 
 
 // Solipsism - [Datto Snap Everything Build] (pve)

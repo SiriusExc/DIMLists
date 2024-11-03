@@ -12763,6 +12763,14 @@ dimwishlist:item=3997086838&perks=2713678205,2420895100,1955165503,2978966579
 dimwishlist:item=3997086838&perks=2713678205,2420895100,1955165503,1782407750
 
 
+// Rake Angle (Adept) - [Aztecross E2A1 Review] (god-pve)
+//notes: [Aztecross E2A1 Review] First Kinetic Slot Glaive, also Aggressive Frame (prefer Adaptives). Base Mag of 4, get some mag extending perks and Backup Mag mod. Stunning Recovery always proc with Chill Clip. Rimestealer, Chill Clip, and Swashbuckler only work with projectile, not melee attack. Whisper of Fractures/Reversal work with the melee attack. Replenishing Aegis stops working when Chill Clip slows/unstaggers the enemy. https://youtu.be/zX18Ey3Jglg tags:god-pve
+dimwishlist:item=3997086838&perks=1087426260,1955165503,2978966579,1281216113
+dimwishlist:item=3997086838&perks=1087426260,1556840489,2978966579,1281216113
+dimwishlist:item=3997086838&perks=2420895100,1955165503,2978966579,1281216113
+dimwishlist:item=3997086838&perks=2420895100,1556840489,2978966579,1281216113
+
+
 // Rake Angle (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
 //notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:pve
 dimwishlist:item=3997086838&perks=691659142,4082225868
@@ -12772,6 +12780,11 @@ dimwishlist:item=3997086838&perks=691659142,4082225868
 //notes: [itzTizzle E2A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:pve
 dimwishlist:item=3997086838&perks=1966281507,2224838837
 dimwishlist:item=3997086838&perks=1966281507,1782407750
+
+
+// Rake Angle (Adept) - [Aztecross E2A1 Review] (pve)
+//notes: [Aztecross E2A1 Review] First Kinetic Slot Glaive, also Aggressive Frame (prefer Adaptives). Base Mag of 4, get some mag extending perks and Backup Mag mod. Stunning Recovery always proc with Chill Clip. Rimestealer, Chill Clip, and Swashbuckler only work with projectile, not melee attack. Whisper of Fractures/Reversal work with the melee attack. Replenishing Aegis stops working when Chill Clip slows/unstaggers the enemy. https://youtu.be/zX18Ey3Jglg tags:pve
+dimwishlist:item=3997086838&perks=1966281507,2224838837
 
 
 // Heliocentric QSc - [Aztecross S23 Review] (god-pve)

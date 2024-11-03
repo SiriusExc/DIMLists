@@ -57,8 +57,9 @@ dimwishlist:item=-2273643087&perks=1476923952,1476923955
 
 
 // Relativism - [Deleted rolls]
-//notes: [Relativism Deleted rolls] Ophidian/Gyrfalcon
+//notes: [Relativism Deleted rolls] Ophidian/Gyrfalcon, Ophidian/Star-Eater
 dimwishlist:item=-2809120022&perks=1476923954,3751917993
+dimwishlist:item=-2809120022&perks=1476923954,1476923955
 
 // Stoicism - [Deleted rolls]
 //notes: [Stoicism Deleted rolls] Ophidian/Synthoceps + Bear/Scars + Hoarfrost/Contact + Ophidian/Horn + Bear/Alpha Lupi + Ophidian/Star-Eater

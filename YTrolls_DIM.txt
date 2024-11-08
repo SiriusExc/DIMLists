@@ -2486,6 +2486,19 @@ dimwishlist:item=689294985&perks=2846385770,460017080
 dimwishlist:item=689294985&perks=2846385770,2109543898
 
 
+// Jurassic Green - [CoolGuy E2A1 Review] (pve)
+//notes: [CoolGuy E2A1 Review] Stats are not on its side, needs a 5/5 to be worth it. Recoil of 50 base is probably worst in game, need it to end in -5, maybe put on Ballistics Mod, but is it worth enhancing it? Reload is bad so Heal Clip isn't that good, use it on other weapons or pair with Frenzy for 100 Reload. https://youtu.be/C9bFpilDzLw tags:pve
+dimwishlist:item=689294985&perks=3017780555,4104185692
+
+
+// Jurassic Green - [CoolGuy E2A1 Review] (pvp)
+//notes: [CoolGuy E2A1 Review] Stats are not on its side, needs a 5/5 to be worth it. Recoil of 50 base needs Counterbalance Mod. Search Party helps with stats. Lone Wolf and Headseeker doubles up on Aim Assist. Get all the Range and stats you can. Otherwise, there are just about always a better weapon you can use instead. https://youtu.be/C9bFpilDzLw tags:pvp
+dimwishlist:item=689294985&perks=1482024992,3142289711,2579169598,460017080,2250679103
+dimwishlist:item=689294985&perks=1482024992,3142289711,2579169598,1015611457,2250679103
+dimwishlist:item=689294985&perks=1482024992,3142289711,3619207468,460017080,2250679103
+dimwishlist:item=689294985&perks=1482024992,3142289711,3619207468,1015611457,2250679103
+
+
 // Ascendancy - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 23/24 tags:pve
 dimwishlist:item=725408022&perks=951095735,3194351027

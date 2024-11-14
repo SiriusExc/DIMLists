@@ -806,6 +806,14 @@ dimwishlist:item=297296830&perks=3096702027,3431277734,1471995745
 dimwishlist:item=297296830&perks=3096702027,1048183818,1471995745
 
 
+// Tomorrow's Answer (Adept) - [Aztecross E2A1 Review] (god-pve)
+//notes: [Aztecross E2A1 Review] High Impacts recently buffed. Highest Stability and Handling, lowest Velocity. Withering Gaze needs ADS, and Weaken damage buff not applied to 1st rocket that procs it. Bait And Switch easier and better than Explosive Light, get Bipod to also drop for a swap Godroll. Doesn't beat Apex but you'd never have to reload. https://youtu.be/bdsPy6XvyXQ tags:god-pve
+dimwishlist:item=303107619&perks=3796465595,3987942396,3078487919,2988596335
+dimwishlist:item=303107619&perks=3796465595,3987942396,3078487919,1050127423
+dimwishlist:item=303107619&perks=3796465595,3987942396,1439600632,2988596335
+dimwishlist:item=303107619&perks=3796465595,3987942396,1439600632,1050127423
+
+
 // Tomorrow's Answer (Adept) - [Fallout E2A1 Godrolls] (pve)
 //notes: [Fallout E2A1 Godrolls] High Impact Void Rocket Launchers might not be that desirable but it's got some desirable perks. https://youtu.be/BK8mDDgW49I tags:pve
 dimwishlist:item=303107619&perks=968510818,3078487919
@@ -7505,6 +7513,18 @@ dimwishlist:item=2465372924&perks=588594999,1015611457
 dimwishlist:item=2475355656&perks=3400784728,1771339417,3988215619
 
 
+// Mechabre - [Legoleflash E2A1 1-min Godroll] (god-pve)
+//notes: [Legoleflash E2A1 1-min Godroll] Rolls Demolitionist + Discord ammo refund (shared with Naeem's Lance). Go with Handling/Reload MW. https://youtu.be/mkeYHLUSwBI tags:god-pve
+dimwishlist:item=2477980485&perks=1840239774,3230963543,3523296417,3978468247
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3523296417,3978468247
+dimwishlist:item=2477980485&perks=1840239774,1431678320,3523296417,3978468247
+
+
+// Mechabre - [Legoleflash E2A1 1-min Godroll] (god-pvp)
+//notes: [Legoleflash E2A1 1-min Godroll] Lone Wolf synergises with Search Party. Lone Wolf + To The Pain gives +44 Aim Assist for unfair headshots. Go for Handling MW. https://youtu.be/mkeYHLUSwBI tags:god-pvp
+dimwishlist:item=2477980485&perks=1840239774,3142289711,2579169598,1194056669,2250679103
+
+
 // Mechabre - [Fallout E2A1 FotL Godrolls] (pve)
 //notes: [Fallout E2A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pve
 dimwishlist:item=2477980485&perks=3400784728,1771339417
@@ -7544,6 +7564,60 @@ dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1546637391
 dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1771339417
 dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1546637391
 dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1771339417
+
+
+// Mechabre - [CoolGuy E2A1 Review] (pve)
+//notes: [CoolGuy E2A1 Review] https://youtu.be/karVIeZt-X0 tags:pve
+dimwishlist:item=2477980485&perks=3400784728,1546637391
+dimwishlist:item=2477980485&perks=3400784728,1771339417
+
+
+// Mechabre - [CoolGuy E2A1 Review] (pvp)
+//notes: [CoolGuy E2A1 Review] Best PvP Sniper, and it got better from last year. Snapshot Sights and Closing Time build on each other for ADS speed. Discord for free ammo back. https://youtu.be/karVIeZt-X0 tags:pvp
+dimwishlist:item=2477980485&perks=957782887,1194056669,2250679103
+
+
+// Mechabre - [CoolGuy E2A1 Review] (pvp)
+//notes: [CoolGuy E2A1 Review] Best PvP Sniper, and it got better from last year. Snapshot Sights and Closing Time build on each other for ADS speed. Discord for free ammo back. https://youtu.be/karVIeZt-X0 tags:pvp
+dimwishlist:item=2477980485&perks=957782887,3978468247,2250679103
+
+
+// Mechabre - [CoolGuy E2A1 Review] (pvp)
+//notes: [CoolGuy E2A1 Review] Best PvP Sniper, and it got better from last year. Snapshot Sights and Closing Time build on each other for ADS speed. Discord for free ammo back. https://youtu.be/karVIeZt-X0 tags:pvp
+dimwishlist:item=2477980485&perks=2579169598,47981717,2250679103
+
+
+// Mechabre - [Legoleflash E2A1 1-min Godroll] (pve)
+//notes: [Legoleflash E2A1 1-min Godroll] Rolls Demolitionist + Discord ammo refund (shared with Naeem's Lance). Go with Handling/Reload MW. https://youtu.be/mkeYHLUSwBI tags:pve
+dimwishlist:item=2477980485&perks=1840239774,3230963543,2284787283,1771339417
+dimwishlist:item=2477980485&perks=1840239774,3230963543,2284787283,1546637391
+dimwishlist:item=2477980485&perks=1840239774,3230963543,3400784728,1771339417
+dimwishlist:item=2477980485&perks=1840239774,3230963543,3400784728,1546637391
+dimwishlist:item=2477980485&perks=1840239774,3230963543,1421772400,1771339417
+dimwishlist:item=2477980485&perks=1840239774,3230963543,1421772400,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,2284787283,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,3400784728,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1087426260,1421772400,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1087426260,1421772400,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1431678320,2284787283,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1431678320,2284787283,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1431678320,3400784728,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1431678320,3400784728,1546637391
+dimwishlist:item=2477980485&perks=1840239774,1431678320,1421772400,1771339417
+dimwishlist:item=2477980485&perks=1840239774,1431678320,1421772400,1546637391
+
+
+// Mechabre - [Legoleflash E2A1 1-min Godroll] (pvp)
+//notes: [Legoleflash E2A1 1-min Godroll] Lone Wolf synergises with Search Party. Lone Wolf + To The Pain gives +44 Aim Assist for unfair headshots. Go for Handling MW. https://youtu.be/mkeYHLUSwBI tags:pvp
+dimwishlist:item=2477980485&perks=1840239774,3142289711,3619207468,47981717
+dimwishlist:item=2477980485&perks=1840239774,3142289711,957782887,47981717
+
+
+// Mechabre - [Legoleflash E2A1 1-min Godroll] (pvp)
+//notes: [Legoleflash E2A1 1-min Godroll] Lone Wolf synergises with Search Party. Lone Wolf + To The Pain gives +44 Aim Assist for unfair headshots. Go for Handling MW. https://youtu.be/mkeYHLUSwBI tags:pvp
+dimwishlist:item=2477980485&perks=1840239774,3142289711,2579169598,3938834702,2250679103
 
 
 // Forbearance - [Aegis E1A2 Endgame Analysis] (god-pve)
@@ -10285,6 +10359,14 @@ dimwishlist:item=3007479950&perks=3619207468,555281244
 dimwishlist:item=3007479950&perks=3828510309,555281244
 
 
+// Tomorrow's Answer - [Aztecross E2A1 Review] (god-pve)
+//notes: [Aztecross E2A1 Review] High Impacts recently buffed. Highest Stability and Handling, lowest Velocity. Withering Gaze needs ADS, and Weaken damage buff not applied to 1st rocket that procs it. Bait And Switch easier and better than Explosive Light, get Bipod to also drop for a swap Godroll. Doesn't beat Apex but you'd never have to reload. https://youtu.be/bdsPy6XvyXQ tags:god-pve
+dimwishlist:item=3009199534&perks=3796465595,3987942396,3078487919,2988596335
+dimwishlist:item=3009199534&perks=3796465595,3987942396,3078487919,1050127423
+dimwishlist:item=3009199534&perks=3796465595,3987942396,1439600632,2988596335
+dimwishlist:item=3009199534&perks=3796465595,3987942396,1439600632,1050127423
+
+
 // Tomorrow's Answer - [Fallout E2A1 Godrolls] (pve)
 //notes: [Fallout E2A1 Godrolls] High Impact Void Rocket Launchers might not be that desirable but it's got some desirable perks. https://youtu.be/BK8mDDgW49I tags:pve
 dimwishlist:item=3009199534&perks=968510818,3078487919
@@ -10492,6 +10574,30 @@ dimwishlist:item=3105930175&perks=11612903,3523296417,515704826
 //notes: [itzTizzle E2A1 World/Playlist Godrolls] https://youtu.be/wVLX5s_Eijg tags:god-pve
 dimwishlist:item=3106557243&perks=1523832109,1427256713
 dimwishlist:item=3106557243&perks=1523832109,2594592626
+
+
+// PLUG ONE.1 (Adept) - [Legoleflash E2A1 1-min Godroll] (god-pve)
+//notes: [Legoleflash E2A1 1-min Godroll] Slideways, Feeding Frenzy, Voltshot all better on other weapons. Precisions are worst for damage. Go with Charge Time MW. https://youtu.be/_s7-H5ny1AY tags:god-pve
+dimwishlist:item=3106557243&perks=4090651448,2680121939,1523832109,1427256713
+dimwishlist:item=3106557243&perks=4090651448,2680121939,1523832109,2594592626
+dimwishlist:item=3106557243&perks=839105230,2680121939,1523832109,1427256713
+dimwishlist:item=3106557243&perks=839105230,2680121939,1523832109,2594592626
+dimwishlist:item=3106557243&perks=1840239774,2680121939,1523832109,1427256713
+dimwishlist:item=3106557243&perks=1840239774,2680121939,1523832109,2594592626
+dimwishlist:item=3106557243&perks=3250034553,2680121939,1523832109,1427256713
+dimwishlist:item=3106557243&perks=3250034553,2680121939,1523832109,2594592626
+dimwishlist:item=3106557243&perks=1392496348,2680121939,1523832109,1427256713
+dimwishlist:item=3106557243&perks=1392496348,2680121939,1523832109,2594592626
+dimwishlist:item=3106557243&perks=1482024992,2680121939,1523832109,1427256713
+dimwishlist:item=3106557243&perks=1482024992,2680121939,1523832109,2594592626
+
+
+// PLUG ONE.1 (Adept) - [Legoleflash E2A1 1-min Godroll] (god-pvp)
+//notes: [Legoleflash E2A1 1-min Godroll] Faster than an Adaptive, with 100 Range, 98 Aim Assist, and a 5-bolt kill. Health changes give Fusions a 5% buff. Go with Charge Time MW with Adept Charge Time Mod. https://youtu.be/_s7-H5ny1AY tags:god-pvp
+dimwishlist:item=3106557243&perks=202670084,689005463,2579169598,1194056669
+dimwishlist:item=3106557243&perks=202670084,689005463,2579169598,1754714824
+dimwishlist:item=3106557243&perks=202670084,689005463,1645158859,1194056669
+dimwishlist:item=3106557243&perks=202670084,689005463,1645158859,1754714824
 
 
 // PLUG ONE.1 (Adept) - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
@@ -10887,6 +10993,30 @@ dimwishlist:item=3292795429&perks=1870851715,1048183818,4091460919
 //notes: [itzTizzle E2A1 World/Playlist Godrolls] https://youtu.be/wVLX5s_Eijg tags:god-pve
 dimwishlist:item=3293524502&perks=1523832109,1427256713
 dimwishlist:item=3293524502&perks=1523832109,2594592626
+
+
+// PLUG ONE.1 - [Legoleflash E2A1 1-min Godroll] (god-pve)
+//notes: [Legoleflash E2A1 1-min Godroll] Slideways, Feeding Frenzy, Voltshot all better on other weapons. Precisions are worst for damage. Go with Charge Time MW. https://youtu.be/_s7-H5ny1AY tags:god-pve
+dimwishlist:item=3293524502&perks=4090651448,2680121939,1523832109,1427256713
+dimwishlist:item=3293524502&perks=4090651448,2680121939,1523832109,2594592626
+dimwishlist:item=3293524502&perks=839105230,2680121939,1523832109,1427256713
+dimwishlist:item=3293524502&perks=839105230,2680121939,1523832109,2594592626
+dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,1427256713
+dimwishlist:item=3293524502&perks=1840239774,2680121939,1523832109,2594592626
+dimwishlist:item=3293524502&perks=3250034553,2680121939,1523832109,1427256713
+dimwishlist:item=3293524502&perks=3250034553,2680121939,1523832109,2594592626
+dimwishlist:item=3293524502&perks=1392496348,2680121939,1523832109,1427256713
+dimwishlist:item=3293524502&perks=1392496348,2680121939,1523832109,2594592626
+dimwishlist:item=3293524502&perks=1482024992,2680121939,1523832109,1427256713
+dimwishlist:item=3293524502&perks=1482024992,2680121939,1523832109,2594592626
+
+
+// PLUG ONE.1 - [Legoleflash E2A1 1-min Godroll] (god-pvp)
+//notes: [Legoleflash E2A1 1-min Godroll] Faster than an Adaptive, with 100 Range, 98 Aim Assist, and a 5-bolt kill. Health changes give Fusions a 5% buff. Go with Charge Time MW with Adept Charge Time Mod. https://youtu.be/_s7-H5ny1AY tags:god-pvp
+dimwishlist:item=3293524502&perks=202670084,689005463,2579169598,1194056669
+dimwishlist:item=3293524502&perks=202670084,689005463,2579169598,1754714824
+dimwishlist:item=3293524502&perks=202670084,689005463,1645158859,1194056669
+dimwishlist:item=3293524502&perks=202670084,689005463,1645158859,1754714824
 
 
 // PLUG ONE.1 - [itzTizzle E2A1 World/Playlist Godrolls] (pve)
@@ -11447,6 +11577,21 @@ dimwishlist:item=3558681245&perks=1482024992,1885400500,1359896290,1015611457,22
 //notes: [CoolGuy E2A1 Review] Best Range stat, Search Party is basically Moving Target. Go for Range (90+). https://youtu.be/d3mptGeSomw tags:pvp
 dimwishlist:item=3558681245&perks=3250034553,1885400500,2579169598,1890422124,2250679103
 dimwishlist:item=3558681245&perks=1482024992,1885400500,2579169598,1890422124,2250679103
+
+
+// BrayTech Werewolf - [Aztecross E2A1 Review] (pve)
+//notes: [Aztecross E2A1 Review] Great for both Controller and M&K players. 450s are pretty vanilla though. https://youtu.be/RF_1P3swubE tags:pve
+dimwishlist:item=3558681245&perks=3418782618,3891536761
+dimwishlist:item=3558681245&perks=3418782618,95528736
+dimwishlist:item=3558681245&perks=1820235745,3891536761
+dimwishlist:item=3558681245&perks=1820235745,95528736
+
+
+// BrayTech Werewolf - [Aztecross E2A1 Review] (pvp)
+//notes: [Aztecross E2A1 Review] Great for both Controller and M&K players. Solid stats, Range competes with Pulses even, 450s are pretty vanilla though. Lone Wolf and Search Party synergise well, and the Aim Assist buff can be felt. Kill Clip is hard to use (especially in 3s with good players that wait you out), Onslaught even at x1 is decent, Target Lock is marginal, Tap The Trigger is good if you hit min-TTK consistently. https://youtu.be/RF_1P3swubE tags:pvp
+dimwishlist:item=3558681245&perks=2579169598,95528736,2250679103
+dimwishlist:item=3558681245&perks=2579169598,1890422124,2250679103
+dimwishlist:item=3558681245&perks=2579169598,365154968,2250679103
 
 
 // Crowd Pleaser - [Aegis E1A2 Endgame Analysis] (pve)
@@ -12313,6 +12458,23 @@ dimwishlist:item=3830941962&perks=1583705720,4049631843,2041432007
 // Vantage Point - [Llama E2A1 Review] (pve)
 //notes: [Llama E2A1 Review] https://youtu.be/BmpDiV4aDGw tags:pve
 dimwishlist:item=3830941962&perks=684456054,3047969693
+
+
+// Vantage Point - [CoolGuy E2A1 Review] (pve)
+//notes: [CoolGuy E2A1 Review] Replaces some other weapons for me. Stats are a bit behind but perks make up for it. Origin Trait gets around reloading. 5th burst Jolts with Jolting Feedback, 4th burst when Amplified with no cooldown. https://youtu.be/e8hqMgw8qHI tags:pve
+dimwishlist:item=3830941962&perks=684456054,3966416502,2041432007
+dimwishlist:item=3830941962&perks=1583705720,3966416502,2041432007
+
+
+// Vantage Point - [CoolGuy E2A1 Review] (pve)
+//notes: [CoolGuy E2A1 Review] Replaces some other weapons for me. Stats are a bit behind but perks make up for it. Origin Trait gets around reloading. 5th burst Jolts with Jolting Feedback, 4th burst when Amplified with no cooldown. https://youtu.be/e8hqMgw8qHI tags:pve
+dimwishlist:item=3830941962&perks=1583705720,4049631843
+
+
+// Vantage Point - [CoolGuy E2A1 Review] (pvp)
+//notes: [CoolGuy E2A1 Review] Dark Ether Charge doesn't really appear, don't count on it. Swashbuckler x1 allows for 2-bursts. Very consistent with Headseeker. Hard to compete with High Impact Pulses though. https://youtu.be/e8hqMgw8qHI tags:pvp
+dimwishlist:item=3830941962&perks=2579169598,460017080
+dimwishlist:item=3830941962&perks=2579169598,4082225868
 
 
 // Hung Jury SR4 - [Aegis S23 Endgame Analysis] (pve)

@@ -38,8 +38,9 @@ dimwishlist:item=1681583613&perks=3666208348,2753228730,3949068808
 
 
 // Solipsism - [Deleted rolls]
-//notes: [Solipsism Deleted rolls] Filament/Claw + Stag/Claw + Assassin/Harmony + Necrotic/Harmony + Ophidian/Harmony + Ophidian/Star-Eater + Stag/Star-Eater + Filaments/Star-Eater + Necrotic/Star-Eater + Assassin/Star-Eater + Apotheosis/Swarm + Stag/Swarm + Filaments/Synthoceps + Filaments/Verity + Necrotic/Verity + Ophidian/Vesper + Apotheosis/Vesper + Necrotic/Vesper + Osmiomancy/Vesper
+//notes: [Solipsism Deleted rolls] Filament/Claw + Ophidian/Claw + Stag/Claw + Assassin/Harmony + Necrotic/Harmony + Ophidian/Harmony + Ophidian/Star-Eater + Stag/Star-Eater + Filaments/Star-Eater + Necrotic/Star-Eater + Assassin/Star-Eater + Apotheosis/Swarm + Stag/Swarm + Filaments/Synthoceps + Filaments/Verity + Necrotic/Verity + Ophidian/Vesper + Apotheosis/Vesper + Necrotic/Vesper + Osmiomancy/Vesper
 dimwishlist:item=-2273643087&perks=183430255,183430247
+dimwishlist:item=-2273643087&perks=1476923954,183430247
 dimwishlist:item=-2273643087&perks=183430248,183430247
 dimwishlist:item=-2273643087&perks=1476923952,183430254
 dimwishlist:item=-2273643087&perks=183430252,183430254

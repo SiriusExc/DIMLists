@@ -1236,6 +1236,21 @@ dimwishlist:item=414045521&perks=4071163871,2109543898
 dimwishlist:item=414045521&perks=3938834702,1194056669
 
 
+// Insurmountable - [CoolGuy E2A1 Review] (pve)
+//notes: [CoolGuy E2A1 Review] Stats are fine, perks are more important. Origin Trait helps with flow without needing reloading. Sidearms are suited for close range perks like Surrounded and Threat Detector. https://youtu.be/rojyXAoJldg tags:pve
+dimwishlist:item=414045521&perks=776531651,2048641572,2041432007
+
+
+// Insurmountable - [CoolGuy E2A1 Review] (pve)
+//notes: [CoolGuy E2A1 Review] Stats are fine, perks are more important. Origin Trait helps with flow without needing reloading. Sidearms are suited for close range perks like Surrounded and Threat Detector. https://youtu.be/rojyXAoJldg tags:pve
+dimwishlist:item=414045521&perks=4071163871,3708227201,2041432007
+
+
+// Insurmountable - [CoolGuy E2A1 Review] (pvp)
+//notes: [CoolGuy E2A1 Review] Stats are fine, perks are more important. Double Harmony weapons are effective. https://youtu.be/rojyXAoJldg tags:pvp
+dimwishlist:item=414045521&perks=2579169598,438098033
+
+
 // Controlling Vision - [CoolGuy E1A2 Review] (god-pvp)
 //notes: [CoolGuy E1A2 Review] Low stat package but Range stat is clamped anyway. Sidearms are spam weapons rather than precision, hard-hitting ones; great for hip-firing. All 3rd column perks are good. High Ground currently bugged, doing one ability jump (beyond one-tap jump) grants High Ground x3 effects without the buff text. Equip best barrel/mag/masterwork. tags:god-pvp
 dimwishlist:item=423343404&perks=1195158366,2416023159
@@ -3231,6 +3246,16 @@ dimwishlist:item=1051949956&perks=684456054,2173046394
 //notes: [CoolGuy E2A1 Review] Good base stats, comparable to Heliocentric. Lone Wolf helps with Aim Assist, which falls off on Sidearms more. https://youtu.be/DuGqN1TlzdU tags:god-pvp
 dimwishlist:item=1051949956&perks=2579169598,555281244
 dimwishlist:item=1051949956&perks=2579169598,1015611457
+
+
+// Anonymous Autumn - [True Vanguard E2A1 Review] (pvp)
+//notes: [True Vanguard E2A1 Review] Comparable to the Heliocentric, nice stats with juiced perks. Lightweight Sidearms are spam weapons, Stability and Accuracy help is good. https://youtu.be/i6EGqa9d37w tags:pvp
+dimwishlist:item=1051949956&perks=1194056669,1015611457,2120661319
+dimwishlist:item=1051949956&perks=1194056669,555281244,2120661319
+dimwishlist:item=1051949956&perks=1194056669,3673922083,2120661319
+dimwishlist:item=1051949956&perks=2579169598,1015611457,2120661319
+dimwishlist:item=1051949956&perks=2579169598,555281244,2120661319
+dimwishlist:item=1051949956&perks=2579169598,3673922083,2120661319
 
 
 // Timeworn Wayfarer - [CoolGuy E1A1 Review] (god-pve)
@@ -8153,6 +8178,11 @@ dimwishlist:item=2598420927&perks=1820235745,4104185692
 dimwishlist:item=2598420927&perks=1820235745,3891536761
 
 
+// Chroma Rush - [CoolGuy E2A1 Review] (god-pvp)
+//notes: [CoolGuy E2A1 Review] Hybrid SMG with close to SMG TTKs. Origin Trait great for compulsive reloaders, feels great at max stacks. Heating Up is the best Accuracy perk. Great chaining with Kill Clip. https://youtu.be/SXKDrUWZPh4 tags:god-pvp
+dimwishlist:item=2598420927&perks=3230963543,1570042021,1015611457,3404929162
+
+
 // Chroma Rush - [Fallout E2A1 Godrolls] (pve)
 //notes: [Fallout E2A1 Godrolls] Splicer Surge Origin Trait lingers until stow/swap and has great uptime. https://youtu.be/BK8mDDgW49I tags:pve
 dimwishlist:item=2598420927&perks=1820235745,3891536761,3404929162
@@ -8176,6 +8206,12 @@ dimwishlist:item=2598420927&perks=1359896290,1015611457
 // Chroma Rush - [itzTizzle E2A1 Splicer Godrolls] (pvp)
 //notes: [itzTizzle E2A1 Splicer Godrolls] Lots of great PvP perks. https://youtu.be/iyBjGAUK1yA tags:pvp
 dimwishlist:item=2598420927&perks=1359896290,1890422124
+
+
+// Chroma Rush - [CoolGuy E2A1 Review] (pve)
+//notes: [CoolGuy E2A1 Review] Hybrid SMG with close to SMG TTKs. Origin Trait great for compulsive reloaders, feels great at max stacks. https://youtu.be/SXKDrUWZPh4 tags:pve
+dimwishlist:item=2598420927&perks=1820235745,3891536761,3404929162
+dimwishlist:item=2598420927&perks=1820235745,4104185692,3404929162
 
 
 // Liturgy - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
@@ -11324,6 +11360,16 @@ dimwishlist:item=3433930495&perks=2387244414,460017080,3404929162
 dimwishlist:item=3433930495&perks=1428297954,460017080,3404929162
 
 
+// Gridskipper - [True Vanguard E2A2 Review] (pvp)
+//notes: [True Vanguard E2A2 Review] Not the king of Rapid Fires (Horror's Least) but it's good. Range is good, a but jumpy for Recoil but manageable. https://youtu.be/cViJiDO__9w tags:pvp
+dimwishlist:item=3433930495&perks=2387244414,2458213969,3404929162
+dimwishlist:item=3433930495&perks=2387244414,460017080,3404929162
+dimwishlist:item=3433930495&perks=2579169598,2458213969,3404929162
+dimwishlist:item=3433930495&perks=2579169598,460017080,3404929162
+dimwishlist:item=3433930495&perks=2450788523,2458213969,3404929162
+dimwishlist:item=3433930495&perks=2450788523,460017080,3404929162
+
+
 // Chivalric Fire - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier F Rank 31/33 Probably only good for quirky builds like Gyrfalcons tags:pve
 dimwishlist:item=3438139008&perks=776531651,2048641572,4091460919
@@ -11592,6 +11638,12 @@ dimwishlist:item=3558681245&perks=1820235745,95528736
 dimwishlist:item=3558681245&perks=2579169598,95528736,2250679103
 dimwishlist:item=3558681245&perks=2579169598,1890422124,2250679103
 dimwishlist:item=3558681245&perks=2579169598,365154968,2250679103
+
+
+// BrayTech Werewolf - [True Vanguard E2A1 Review] (pvp)
+//notes: [True Vanguard E2A1 Review] Powerhouse of a weapon, great Range. Lone Wolf makes it worth regrinding it. https://youtu.be/YxuchCGrJDk tags:pvp
+dimwishlist:item=3558681245&perks=3250034553,1885400500,2579169598,1015611457,2250679103
+dimwishlist:item=3558681245&perks=3250034553,1885400500,2579169598,95528736,2250679103
 
 
 // Crowd Pleaser - [Aegis E1A2 Endgame Analysis] (pve)
@@ -13829,6 +13881,13 @@ dimwishlist:item=4232480042&perks=243981275,4082225868,4139916815
 //notes: [Fallout E2A1 Vesper's Host Godrolls] https://youtu.be/kr0kE-dAZMQ tags:pve
 dimwishlist:item=4232480042&perks=243981275,3966416502,4139916815
 dimwishlist:item=4232480042&perks=684456054,3966416502,4139916815
+
+
+// VS Pyroelectric Propellant - [True Vanguard E2A1 Review] (pvp)
+//notes: [True Vanguard E2A1 Review] Better stats than Summoner except Handling/Reload. https://youtu.be/d5ACrClLEgo tags:pvp
+dimwishlist:item=4232480042&perks=2450788523,95528736,4139916815
+dimwishlist:item=4232480042&perks=2451262963,95528736,4139916815
+dimwishlist:item=4232480042&perks=880644845,95528736,4139916815
 
 
 // Marcato-45 - [Aegis E1A2 Endgame Analysis] (god-pve)

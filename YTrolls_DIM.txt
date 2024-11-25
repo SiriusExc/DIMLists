@@ -8214,6 +8214,16 @@ dimwishlist:item=2598420927&perks=1820235745,3891536761,3404929162
 dimwishlist:item=2598420927&perks=1820235745,4104185692,3404929162
 
 
+// Chroma Rush - [True Vanguard E2A2 Review] (pvp)
+//notes: [True Vanguard E2A2 Review] Would've been good 3 years ago, now it's B grade—not the best, not bad. Struggles against SMGs and 140 HCs. Lowest Range 720 Auto, treat like SMG. Splicer Surge makes up for lower Stability and Handling, otherwise stats are lower compared to others. Needs skill to use, and only for more casual play. https://youtu.be/4cuDmlb7W-k tags:pvp
+dimwishlist:item=2598420927&perks=1570042021,1890422124,3404929162
+dimwishlist:item=2598420927&perks=1570042021,3891536761,3404929162
+dimwishlist:item=2598420927&perks=1570042021,1015611457,3404929162
+dimwishlist:item=2598420927&perks=2450788523,1890422124,3404929162
+dimwishlist:item=2598420927&perks=2450788523,3891536761,3404929162
+dimwishlist:item=2598420927&perks=2450788523,1015611457,3404929162
+
+
 // Liturgy - [itzTizzle E2A1 Splicer Godrolls] (god-pve)
 //notes: [itzTizzle E2A1 Splicer Godrolls] Rime-stealer better on Headstone weapons. https://youtu.be/xvp3m7lVnEc tags:god-pve
 dimwishlist:item=2599338624&perks=3987942396,2978966579
@@ -11349,6 +11359,11 @@ dimwishlist:item=3433930495&perks=839105230,1968497646,3523296417,4104185692,340
 dimwishlist:item=3433930495&perks=776531651,2048641572
 
 
+// Gridskipper - [CoolGuy E2A2 Review] (god-pvp)
+//notes: [CoolGuy E2A2 Review] Great stats. Recoil 55 > 85 > 100 > 65 > 80 > 70. One of the best Origin Traits, covers the base low Handling/Reload. Lone Wolf adds to the stats nicely. Go with Ballistics Mod. https://youtu.be/mH1brULjh-0 tags:god-pvp
+dimwishlist:item=3433930495&perks=202670084,1885400500,2579169598,460017080,3404929162
+
+
 // Gridskipper - [itzTizzle E2A1 Splicer Godrolls] (pvp)
 //notes: [itzTizzle E2A1 Splicer Godrolls] Has Deterministic Recoil with a weird pattern, check which you prefer. https://youtu.be/iyBjGAUK1yA tags:pvp
 dimwishlist:item=3433930495&perks=2450788523,2458213969,3404929162
@@ -11368,6 +11383,29 @@ dimwishlist:item=3433930495&perks=2579169598,2458213969,3404929162
 dimwishlist:item=3433930495&perks=2579169598,460017080,3404929162
 dimwishlist:item=3433930495&perks=2450788523,2458213969,3404929162
 dimwishlist:item=3433930495&perks=2450788523,460017080,3404929162
+
+
+// Gridskipper - [CoolGuy E2A2 Review] (pve)
+//notes: [CoolGuy E2A2 Review] Great stats. Recoil 55 > 85 > 100 > 65 > 80 > 70. One of the best Origin Traits, covers the base low Handling/Reload. Only Void non-raid weapon with Demolitionist + Frenzy. https://youtu.be/mH1brULjh-0 tags:pve
+dimwishlist:item=3433930495&perks=3523296417,4104185692,3404929162
+dimwishlist:item=3433930495&perks=3523296417,2109543898,3404929162
+
+
+// Gridskipper - [CoolGuy E2A2 Review] (pvp)
+//notes: [CoolGuy E2A2 Review] Great stats. Recoil 55 > 85 > 100 > 65 > 80 > 70. One of the best Origin Traits, covers the base low Handling/Reload. Lone Wolf adds to the stats nicely. Go with Ballistics Mod. https://youtu.be/mH1brULjh-0 tags:pvp
+dimwishlist:item=3433930495&perks=2579169598,2458213969,3404929162
+
+
+// Gridskipper - [CoolGuy E2A2 Review] (pvp)
+//notes: [CoolGuy E2A2 Review] Great stats. Recoil 55 > 85 > 100 > 65 > 80 > 70. One of the best Origin Traits, covers the base low Handling/Reload. Lone Wolf adds to the stats nicely. Go with Ballistics Mod. https://youtu.be/mH1brULjh-0 tags:pvp
+dimwishlist:item=3433930495&perks=1428297954,3511092054,3404929162
+
+
+// Gridskipper - [CoolGuy E2A2 Review] (pvp)
+//notes: [CoolGuy E2A2 Review] Great stats. Recoil 55 > 85 > 100 > 65 > 80 > 70. One of the best Origin Traits, covers the base low Handling/Reload. Lone Wolf adds to the stats nicely. Go with Ballistics Mod. https://youtu.be/mH1brULjh-0 tags:pvp
+dimwishlist:item=3433930495&perks=2450788523,460017080,3404929162
+dimwishlist:item=3433930495&perks=1428297954,460017080,3404929162
+dimwishlist:item=3433930495&perks=2387244414,460017080,3404929162
 
 
 // Chivalric Fire - [Aegis E1A2 Endgame Analysis] (pve)

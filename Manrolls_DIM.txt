@@ -38,41 +38,77 @@ dimwishlist:item=1681583613&perks=3666208348,2753228730,3949068808
 
 
 // Solipsism - [Deleted rolls]
-//notes: [Solipsism Deleted rolls] Filament/Claw + Ophidian/Claw + Stag/Claw + Assassin/Harmony + Necrotic/Harmony + Ophidian/Harmony + Ophidian/Star-Eater + Stag/Star-Eater + Filaments/Star-Eater + Necrotic/Star-Eater + Assassin/Star-Eater + Apotheosis/Swarm + Stag/Swarm + Filaments/Synthoceps + Filaments/Verity + Necrotic/Verity + Ophidian/Vesper + Apotheosis/Vesper + Necrotic/Vesper + Osmiomancy/Vesper
+//notes: [Solipsism Deleted rolls] Filament/Claw + Ophidian/Claw + Stag/Claw
 dimwishlist:item=-2273643087&perks=183430255,183430247
 dimwishlist:item=-2273643087&perks=1476923954,183430247
 dimwishlist:item=-2273643087&perks=183430248,183430247
+
+// Solipsism - [Deleted rolls]
+//notes: [Solipsism Deleted rolls] Assassin/Harmony + Necrotic/Harmony + Ophidian/Harmony
 dimwishlist:item=-2273643087&perks=1476923952,183430254
 dimwishlist:item=-2273643087&perks=183430252,183430254
 dimwishlist:item=-2273643087&perks=1476923954,183430254
+
+// Solipsism - [Deleted rolls]
+//notes: [Solipsism Deleted rolls] Ophidian/Star-Eater + Stag/Star-Eater + Filaments/Star-Eater + Necrotic/Star-Eater + Assassin/Star-Eater
 dimwishlist:item=-2273643087&perks=1476923954,1476923955
 dimwishlist:item=-2273643087&perks=183430248,1476923955
 dimwishlist:item=-2273643087&perks=183430255,1476923955
 dimwishlist:item=-2273643087&perks=183430252,1476923955
 dimwishlist:item=-2273643087&perks=1476923952,1476923955
+
+// Solipsism - [Deleted rolls]
+//notes: [Solipsism Deleted rolls] Apotheosis/Swarm + Assassin/Swarm + Stag/Swarm
 dimwishlist:item=-2273643087&perks=183430250,183430246
+dimwishlist:item=-2273643087&perks=1476923952,183430246
 dimwishlist:item=-2273643087&perks=183430248,183430246
+
+// Solipsism - [Deleted rolls]
+//notes: [Solipsism Deleted rolls] Filaments/Synthoceps
 dimwishlist:item=-2273643087&perks=183430255,1476923956
+
+// Solipsism - [Deleted rolls]
+//notes: [Solipsism Deleted rolls] Filaments/Verity + Necrotic/Verity
 dimwishlist:item=-2273643087&perks=183430255,1476923957
 dimwishlist:item=-2273643087&perks=183430252,1476923957
+
+// Solipsism - [Deleted rolls]
+//notes: [Solipsism Deleted rolls] Ophidian/Vesper + Apotheosis/Vesper + Necrotic/Vesper + Osmiomancy/Vesper
 dimwishlist:item=-2273643087&perks=1476923954,183430251
 dimwishlist:item=-2273643087&perks=183430250,183430251
 dimwishlist:item=-2273643087&perks=183430252,183430251
 dimwishlist:item=-2273643087&perks=183430253,183430251
+
 
 // Relativism - [Deleted rolls]
 //notes: [Relativism Deleted rolls] Ophidian/Gyrfalcon, Ophidian/Star-Eater
 dimwishlist:item=-2809120022&perks=1476923954,3751917993
 dimwishlist:item=-2809120022&perks=1476923954,1476923955
 
+
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Bear/Alpha Lupi + Hoarfrost/Contact + Bear/Contact + Ophidian/Horn + Bear/Scars + Ophidian/Star-Eater + Abeyant/Synthoceps + Eternal Warrior/Synthoceps + Hoarfrost/Synthoceps + Ophidian/Synthoceps 
+//notes: [Stoicism Deleted rolls] Bear/Alpha Lupi
 dimwishlist:item=-266021826&perks=3573490505,3573490501
+
+// Stoicism - [Deleted rolls]
+//notes: [Stoicism Deleted rolls] Hoarfrost/Contact + Bear/Contact
 dimwishlist:item=-266021826&perks=3573490508,3573490504
 dimwishlist:item=-266021826&perks=3573490505,3573490504
+
+// Stoicism - [Deleted rolls]
+//notes: [Stoicism Deleted rolls] Ophidian/Horn
 dimwishlist:item=-266021826&perks=1476923954,3573490506
+
+// Stoicism - [Deleted rolls]
+//notes: [Stoicism Deleted rolls] Bear/Scars
 dimwishlist:item=-266021826&perks=3573490505,3573490507
+
+// Stoicism - [Deleted rolls]
+//notes: [Stoicism Deleted rolls] Ophidian/Star-Eater
 dimwishlist:item=-266021826&perks=1476923954,1476923955
+
+// Stoicism - [Deleted rolls]
+//notes: [Stoicism Deleted rolls] Abeyant/Synthoceps + Eternal Warrior/Synthoceps + Hoarfrost/Synthoceps + Ophidian/Synthoceps
 dimwishlist:item=-266021826&perks=3573490510,1476923956
 dimwishlist:item=-266021826&perks=3573490511,1476923956
 dimwishlist:item=-266021826&perks=3573490508,1476923956

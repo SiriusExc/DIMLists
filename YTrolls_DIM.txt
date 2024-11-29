@@ -1471,6 +1471,22 @@ dimwishlist:item=471518543&perks=1820235745,11612903
 dimwishlist:item=471518543&perks=1820235745,4049631843
 
 
+// Tinasha's Mastery - [Aztecross E2A2 Review] (god-pve)
+//notes: [Aztecross E2A2 Review] Best Rocket Sidearm but middle-of-the-road stats. Air Trigger gives extra ammo (base > AT > Enhanced: 39 > 49 > 51) and faster reloads. Deconstruct reloads for you and provides a 3rd-column damage perk. Impulse Amplifier makes it more like a hitscan weapon. Go for Velocity, and add Backup Mod for more Chill Clip. https://youtu.be/WxDBTy0BrIY tags:god-pve
+dimwishlist:item=480368036&perks=1380253176,1421772400,2978966579
+dimwishlist:item=480368036&perks=1380253176,1421772400,4049631843
+dimwishlist:item=480368036&perks=1380253176,1421772400,3708227201
+dimwishlist:item=480368036&perks=1380253176,3993379141,2978966579
+dimwishlist:item=480368036&perks=1380253176,3993379141,4049631843
+dimwishlist:item=480368036&perks=1380253176,3993379141,3708227201
+
+
+// Tinasha's Mastery - [itzTizzle E2A2 Rewiew] (god-pve)
+//notes: [itzTizzle E2A2 Rewiew] Go for Velocity. https://youtu.be/C3mpux8WKL4 tags:god-pve
+dimwishlist:item=480368036&perks=981914802,1380253176,1421772400,2978966579
+dimwishlist:item=480368036&perks=981914802,106909392,1421772400,2978966579
+
+
 // Tinasha's Mastery - [Fallout E2A1 Godrolls] (pve)
 //notes: [Fallout E2A1 Godrolls] Column 3 slightly weak. https://youtu.be/BK8mDDgW49I tags:pve
 dimwishlist:item=480368036&perks=951095735,2978966579
@@ -1479,6 +1495,30 @@ dimwishlist:item=480368036&perks=951095735,3708227201
 dimwishlist:item=480368036&perks=563069569,2978966579
 dimwishlist:item=480368036&perks=563069569,4104185692
 dimwishlist:item=480368036&perks=563069569,3708227201
+
+
+// Tinasha's Mastery - [Datto E2A2 Review] (pve)
+//notes: [Datto E2A2 Review] Longer range and faster firing than Chill Clip Fusions. Besides Chill Clip all other 4th column perks are damage perks, but you could just craft The Call instead of grinding Iron Banner. Air Trigger gives more reserves which helps with ammo efficiency. Origin Trait is useless in PvE. https://youtu.be/Hoh0q8MxbOU tags:pve
+dimwishlist:item=480368036&perks=1421772400,2978966579
+dimwishlist:item=480368036&perks=1421772400,4049631843
+dimwishlist:item=480368036&perks=951095735,2978966579
+dimwishlist:item=480368036&perks=951095735,4049631843
+dimwishlist:item=480368036&perks=1119449540,2978966579
+dimwishlist:item=480368036&perks=1119449540,4049631843
+
+
+// Tinasha's Mastery - [True Vanguard E2A2 Review] (pve)
+//notes: [True Vanguard E2A2 Review] Worth it for the Stasis build synergy, especially with this Artifact. https://youtu.be/qzpf_lUs0co tags:pve
+dimwishlist:item=480368036&perks=1421772400,2978966579
+dimwishlist:item=480368036&perks=1119449540,2978966579
+
+
+// Tinasha's Mastery - [itzTizzle E2A2 Rewiew] (pve)
+//notes: [itzTizzle E2A2 Rewiew] Go for Velocity. https://youtu.be/C3mpux8WKL4 tags:pve
+dimwishlist:item=480368036&perks=981914802,1380253176,1421772400,3708227201
+dimwishlist:item=480368036&perks=981914802,1380253176,1421772400,4104185692
+dimwishlist:item=480368036&perks=981914802,106909392,1421772400,3708227201
+dimwishlist:item=480368036&perks=981914802,106909392,1421772400,4104185692
 
 
 // Rufus's Fury - [Aegis S22 Endgame Analysis] (god-pve)

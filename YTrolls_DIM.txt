@@ -1192,6 +1192,11 @@ dimwishlist:item=413901114&perks=2869569095,3751912585,2509860981
 dimwishlist:item=413901114&perks=2869569095,3194351027,2509860981
 
 
+// Insurmountable - [True Vanguard E2A2 Review] (god-pvp)
+//notes: [True Vanguard E2A2 Review] Best Precision Sidearm ever. Highest total stat package, but slightly lower Range—yet uniquely has Accurized Rounds. Lone Wolf and Closing Time allows you to hit more crits. Season Pass roll is a 4/5 godroll (need a Range MW). https://youtu.be/zg0yzfT4Sbs tags:god-pvp
+dimwishlist:item=414045521&perks=2579169598,1194056669
+
+
 // Insurmountable - [Datto E2A1 Revenant Godrolls] (pve)
 //notes: [Datto E2A1 Revenant Godrolls] Rare Precision Frame Void Sidearm. Lots of good perks but I didn't like the feel of the weapon. https://youtu.be/U8ccd4boIbk tags:pve
 dimwishlist:item=414045521&perks=776531651,2048641572
@@ -1485,6 +1490,15 @@ dimwishlist:item=480368036&perks=1380253176,3993379141,3708227201
 //notes: [itzTizzle E2A2 Rewiew] Go for Velocity. https://youtu.be/C3mpux8WKL4 tags:god-pve
 dimwishlist:item=480368036&perks=981914802,1380253176,1421772400,2978966579
 dimwishlist:item=480368036&perks=981914802,106909392,1421772400,2978966579
+
+
+// Tinasha's Mastery - [CoolGuy E2A2 Review] (god-pve)
+//notes: [CoolGuy E2A2 Review] Deals with Champs, clears ads. High Explosive Ordinance with Backup Mod and 1 Reserve Mod gives more ammo than Extended Mag/Backup Mod/3 Reserve Mods. For Reload Speed: Enh Air Trigger > Enh Impulse Amplifier > Loose Change > Impulse Amplifier > Enlightened Action. Don't use it in PvP. https://youtu.be/bELdFFZIgg0 tags:god-pve
+dimwishlist:item=480368036&perks=1380253176,1421772400,2978966579
+dimwishlist:item=480368036&perks=1380253176,951095735,2978966579
+dimwishlist:item=480368036&perks=1380253176,1119449540,2978966579
+dimwishlist:item=480368036&perks=1380253176,3828510309,2978966579
+dimwishlist:item=480368036&perks=1380253176,3993379141,2978966579
 
 
 // Tinasha's Mastery - [Fallout E2A1 Godrolls] (pve)
@@ -11404,6 +11418,11 @@ dimwishlist:item=3433930495&perks=776531651,2048641572
 dimwishlist:item=3433930495&perks=202670084,1885400500,2579169598,460017080,3404929162
 
 
+// Gridskipper - [Aztecross E2A2 Review] (god-pve)
+//notes: [Aztecross E2A2 Review] Repulsor Brace and Multikill Clip great on Gyrfalcon's builds, pairs well with Splicer Surge. https://youtu.be/pipsOmuBRiE tags:god-pve
+dimwishlist:item=3433930495&perks=776531651,2458213969,3404929162
+
+
 // Gridskipper - [itzTizzle E2A1 Splicer Godrolls] (pvp)
 //notes: [itzTizzle E2A1 Splicer Godrolls] Has Deterministic Recoil with a weird pattern, check which you prefer. https://youtu.be/iyBjGAUK1yA tags:pvp
 dimwishlist:item=3433930495&perks=2450788523,2458213969,3404929162
@@ -11446,6 +11465,20 @@ dimwishlist:item=3433930495&perks=1428297954,3511092054,3404929162
 dimwishlist:item=3433930495&perks=2450788523,460017080,3404929162
 dimwishlist:item=3433930495&perks=1428297954,460017080,3404929162
 dimwishlist:item=3433930495&perks=2387244414,460017080,3404929162
+
+
+// Gridskipper - [Aztecross E2A2 Review] (pve)
+//notes: [Aztecross E2A2 Review] Repulsor Brace and Multikill Clip great on Gyrfalcon's builds, pairs well with Splicer Surge. https://youtu.be/pipsOmuBRiE tags:pve
+dimwishlist:item=3433930495&perks=776531651,2048641572,3404929162
+dimwishlist:item=3433930495&perks=3523296417,2048641572,3404929162
+
+
+// Gridskipper - [Aztecross E2A2 Review] (pvp)
+//notes: [Aztecross E2A2 Review] Second-best Range, and good Stability, Handling, Reload, Aim Assist; highest Zoom. Headseeker is great, Multikill Clip also here even if you're only at 1 stack most of the time. https://youtu.be/pipsOmuBRiE tags:pvp
+dimwishlist:item=3433930495&perks=2387244414,460017080,3404929162
+dimwishlist:item=3433930495&perks=2387244414,2458213969,3404929162
+dimwishlist:item=3433930495&perks=2579169598,460017080,3404929162
+dimwishlist:item=3433930495&perks=2579169598,2458213969,3404929162
 
 
 // Chivalric Fire - [Aegis E1A2 Endgame Analysis] (pve)

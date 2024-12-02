@@ -8237,6 +8237,16 @@ dimwishlist:item=2598420927&perks=1820235745,3891536761
 dimwishlist:item=2598420927&perks=3230963543,1570042021,1015611457,3404929162
 
 
+// Chroma Rush - [Aztecross E2A2 Review] (god-pve)
+//notes: [Aztecross E2A2 Review] Best damage Auto Rifle archetype, Kinetic Tremor adds on top of it. https://youtu.be/aZ3SkK1r5_Y tags:god-pve
+dimwishlist:item=2598420927&perks=1820235745,3891536761,3404929162
+
+
+// Chroma Rush - [Aztecross E2A2 Review] (god-pvp)
+//notes: [Aztecross E2A2 Review] Kinetic Tremors is disgusting on this archetype. Not the best stats though. https://youtu.be/aZ3SkK1r5_Y tags:god-pvp
+dimwishlist:item=2598420927&perks=3250034553,3142289711,1359896290,3891536761,3404929162
+
+
 // Chroma Rush - [Fallout E2A1 Godrolls] (pve)
 //notes: [Fallout E2A1 Godrolls] Splicer Surge Origin Trait lingers until stow/swap and has great uptime. https://youtu.be/BK8mDDgW49I tags:pve
 dimwishlist:item=2598420927&perks=1820235745,3891536761,3404929162

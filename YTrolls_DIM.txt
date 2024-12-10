@@ -2181,6 +2181,26 @@ dimwishlist:item=599895591&perks=3300816228,4104185692
 dimwishlist:item=599895591&perks=3300816228,3708227201
 
 
+// Zephyr - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,3650930298
+dimwishlist:item=601948197&perks=3666208348,269888150,243981275,3650930298
+dimwishlist:item=601948197&perks=436053704,269888150,1749209109,3650930298
+dimwishlist:item=601948197&perks=436053704,269888150,243981275,3650930298
+
+
+// Zephyr - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,4049631843
+dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,2396489472
+dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,3708227201
+dimwishlist:item=601948197&perks=436053704,269888150,1749209109,3913600130
+dimwishlist:item=601948197&perks=436053704,269888150,1749209109,4049631843
+dimwishlist:item=601948197&perks=436053704,269888150,1749209109,2396489472
+dimwishlist:item=601948197&perks=436053704,269888150,1749209109,3708227201
+
+
 // Hollow Words - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier D Rank 19/31 tags:pve
 dimwishlist:item=607191995&perks=1556840489,1546637391
@@ -3063,6 +3083,23 @@ dimwishlist:item=959037361&perks=3525010810,3301904089,1523832109,1546637391
 dimwishlist:item=959037361&perks=3525010810,3301904089,1523832109,3078487919
 
 
+// Ancient Gospel - [Aztecross E2A2 Review] (pve)
+//notes: [Aztecross E2A2 Review] Now Void instead of Solar, probably replacing Palindrome forever. Photoinhibition is a weaker Under-over and Shield Disorient, wait for Anti-barrier mods for it. Max Mag size is 14, Alloy Mag with Backup Mag mod puts it at 13 already, not worth using other Mags for 1 more extra bullet. https://youtu.be/vuTyyRd-ItY tags:pve
+dimwishlist:item=963574173&perks=3523296417,3038247973,511914882
+dimwishlist:item=963574173&perks=2048641572,3038247973,511914882
+dimwishlist:item=963574173&perks=3425386926,3038247973,511914882
+
+
+// Ancient Gospel - [Aztecross E2A2 Review] (pvp)
+//notes: [Aztecross E2A2 Review] Now Void instead of Solar, probably replacing Palindrome forever. Photoinhibition is a weaker Under-over and Shield Disorient, wait for Anti-barrier mods for it. Max Mag size is 14, Alloy Mag with Backup Mag mod puts it at 13 already, not worth using other Mags for 1 more extra bullet. The flinch is horrendous even with Anti-flinch mod. Kill Clip nerf has almost killed the Rampage + Kill Clip former godroll. Closing Time won't work unless you prime before every gunfight. https://youtu.be/vuTyyRd-ItY tags:pvp
+dimwishlist:item=963574173&perks=3250034553,3142289711,2579169598,3038247973
+dimwishlist:item=963574173&perks=3250034553,3142289711,2579169598,1015611457
+dimwishlist:item=963574173&perks=3250034553,3142289711,699525795,3038247973
+dimwishlist:item=963574173&perks=3250034553,3142289711,699525795,1015611457
+dimwishlist:item=963574173&perks=3250034553,3142289711,247725512,3038247973
+dimwishlist:item=963574173&perks=3250034553,3142289711,247725512,1015611457
+
+
 // Aurvandil FR6 - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 24/31 tags:pve
 dimwishlist:item=963710795&perks=1523832109,2978966579,2839173408
@@ -3415,6 +3452,27 @@ dimwishlist:item=1106635211&perks=968510818,4293542123
 dimwishlist:item=1123421440&perks=1482024992,1885400500,1583705720,4293542123,164468655
 
 
+// Stay Frosty - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1123433952&perks=1955165503,124408337
+dimwishlist:item=1123433952&perks=1955165503,4104185692
+dimwishlist:item=1123433952&perks=3828510309,124408337
+dimwishlist:item=1123433952&perks=3828510309,4104185692
+
+
+// Stay Frosty - [itzTizzle E2A2 Review] (pvp)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pvp
+dimwishlist:item=1123433952&perks=1195158366,1015611457
+dimwishlist:item=1123433952&perks=588594999,1015611457
+dimwishlist:item=1123433952&perks=2579169598,1015611457
+dimwishlist:item=1123433952&perks=2946784966,1015611457
+
+
+// Stay Frosty - [itzTizzle E2A2 Review] (pvp)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pvp
+dimwishlist:item=1123433952&perks=588594999,460017080
+
+
 // New Pacific Epitaph - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier C Rank 17/22 tags:pve
 dimwishlist:item=1125217994&perks=3523296417,1015611457,398661035
@@ -3555,6 +3613,29 @@ dimwishlist:item=1168625549&perks=2209918983,2360754333
 // Felwinter's Lie - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 40/46 tags:pve
 dimwishlist:item=1179141605&perks=3436462433,1546637391
+
+
+// Glacioclasm - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1183116657&perks=689005463,1421772400,1134488199
+
+
+// Glacioclasm - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1183116657&perks=689005463,968510818,2594592626
+dimwishlist:item=1183116657&perks=689005463,968510818,1427256713
+dimwishlist:item=1183116657&perks=689005463,3643424744,2594592626
+dimwishlist:item=1183116657&perks=689005463,3643424744,1427256713
+dimwishlist:item=1183116657&perks=689005463,1421772400,2594592626
+dimwishlist:item=1183116657&perks=689005463,1421772400,1427256713
+
+
+// Glacioclasm - [itzTizzle E2A2 Review] (pvp)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pvp
+dimwishlist:item=1183116657&perks=689005463,2579169598,1194056669
+dimwishlist:item=1183116657&perks=689005463,2579169598,2213355989
+dimwishlist:item=1183116657&perks=689005463,1645158859,1194056669
+dimwishlist:item=1183116657&perks=689005463,1645158859,2213355989
 
 
 // Sailspy Pitchglass (god-pve)
@@ -5391,6 +5472,48 @@ dimwishlist:item=1821724780&perks=3300816228,1546637391
 dimwishlist:item=1821724780&perks=3300816228,2360754333
 dimwishlist:item=1821724780&perks=1556840489,1546637391
 dimwishlist:item=1821724780&perks=1556840489,2360754333
+
+
+// Albedo Wing - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1845372864&perks=580685494,3142289711,684456054,2173046394
+dimwishlist:item=1845372864&perks=580685494,3142289711,1421772400,2173046394
+dimwishlist:item=1845372864&perks=580685494,1087426260,684456054,2173046394
+dimwishlist:item=1845372864&perks=580685494,1087426260,1421772400,2173046394
+
+
+// Albedo Wing - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1845372864&perks=580685494,3142289711,1966281507,1782407750
+dimwishlist:item=1845372864&perks=580685494,3142289711,1631667848,1782407750
+dimwishlist:item=1845372864&perks=580685494,1087426260,1966281507,1782407750
+dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,1782407750
+
+
+// Albedo Wing - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1845372864&perks=580685494,3142289711,1421772400,3523296417
+dimwishlist:item=1845372864&perks=580685494,3142289711,880644845,3523296417
+dimwishlist:item=1845372864&perks=580685494,1087426260,1421772400,3523296417
+dimwishlist:item=1845372864&perks=580685494,1087426260,880644845,3523296417
+
+
+// Avalanche - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] Incandescent will proc Subsistence if you kill enough targets. https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1845978721&perks=1820235745,4293542123
+dimwishlist:item=1845978721&perks=3300816228,4293542123
+dimwishlist:item=1845978721&perks=2848615171,4293542123
+
+
+// Avalanche - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1845978721&perks=3300816228,3751912585
+dimwishlist:item=1845978721&perks=3300816228,2610012052
+
+
+// Avalanche - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=1845978721&perks=3418782618,365154968
 
 
 // Jararaca-3sr - [Aztecross S23 World Drop Godrolls] (pvp)
@@ -9926,6 +10049,11 @@ dimwishlist:item=2913577176&perks=3161816588,4104185692
 dimwishlist:item=2913577176&perks=3161816588,1546637391
 
 
+// Scavenger's Fate - [CoolGuy E2A2 Review] (god-pvp)
+//notes: [CoolGuy E2A2 Review] Best Shotgun in the game. 100 Handling with scalars is great; Closing Time at base (1 bullet as you get in PvP) is faster than Threat Detector x1, Slickdraw, Quickdraw; not to mention the Range boost. Aim for 50 Handling, 80 Range, paired with Closing Time. Enhance it once you get it for even more stats. https://youtu.be/B6WcwQ8fOW0 tags:god-pvp
+dimwishlist:item=2913577176&perks=1300023272,3142289711,3978468247,1194056669
+
+
 // Scavenger's Fate - [Datto E2A1 Revenant Godrolls] (pve)
 //notes: [Datto E2A1 Revenant Godrolls] It's a Void Shotgun, like Nessa's Oblation and Retold Tale, but no One-Two Punch or Trench Barrel. Discord + Harmony looks interesting though. https://youtu.be/U8ccd4boIbk tags:pve
 dimwishlist:item=2913577176&perks=3978468247,438098033
@@ -9952,6 +10080,20 @@ dimwishlist:item=2913577176&perks=3161816588,1194056669
 // Scavenger's Fate - [itzTizzle E2A1 Splicer Godrolls] (pvp)
 //notes: [itzTizzle E2A1 Splicer Godrolls] https://youtu.be/xvp3m7lVnEc tags:pvp
 dimwishlist:item=2913577176&perks=1482024992,3142289711,3161816588,1194056669
+
+
+// Scavenger's Fate - [CoolGuy E2A2 Review] (pvp)
+//notes: [CoolGuy E2A2 Review] Best Shotgun in the game. 100 Handling with scalars is great; Closing Time at base (1 bullet as you get in PvP) is faster than Threat Detector x1, Slickdraw, Quickdraw; not to mention the Range boost. Aim for 50 Handling, 80 Range, paired with Closing Time. Enhance it once you get it for even more stats. https://youtu.be/B6WcwQ8fOW0 tags:pvp
+dimwishlist:item=2913577176&perks=1300023272,3142289711,2579169598,1194056669
+dimwishlist:item=2913577176&perks=1300023272,3142289711,3161816588,1194056669
+dimwishlist:item=2913577176&perks=1300023272,3142289711,1428297954,1194056669
+dimwishlist:item=2913577176&perks=1300023272,3142289711,776531651,1194056669
+
+
+// Scavenger's Fate - [CoolGuy E2A2 Review] (pve)
+//notes: [CoolGuy E2A2 Review] Best Shotgun in the game. Pairs well with Doom Fang Pauldron or No Backup Plans. Mostly a PvP weapons though. https://youtu.be/B6WcwQ8fOW0 tags:pve
+dimwishlist:item=2913577176&perks=3978468247,2048641572,2041432007
+dimwishlist:item=2913577176&perks=3978468247,3708227201,2041432007
 
 
 // Loaded Question (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
@@ -11532,6 +11674,15 @@ dimwishlist:item=3473290087&perks=3300816228,1546637391,4091460919
 dimwishlist:item=3473290087&perks=3300816228,3523296417,4091460919
 dimwishlist:item=3473290087&perks=1556840489,1546637391,4091460919
 dimwishlist:item=3473290087&perks=1556840489,3523296417,4091460919
+
+
+// Mistral Lift - [itzTizzle E2A2 Review] (pve)
+//notes: [itzTizzle E2A2 Review] Not optimal for team DPS (waiting to ADS for Withering Gaze), but good for solo content. Beats Taipan-4FR, Doomed Petitioner. Go for Handling MW. https://youtu.be/d3FG0Vpiwdw tags:pve
+dimwishlist:item=3483485727&perks=1840239774,689005463,1134488199,3078487919
+dimwishlist:item=3483485727&perks=1840239774,689005463,3987942396,3078487919
+dimwishlist:item=3483485727&perks=1840239774,689005463,2284787283,3078487919
+dimwishlist:item=3483485727&perks=1840239774,689005463,968510818,3078487919
+dimwishlist:item=3483485727&perks=1840239774,689005463,1523832109,3078487919
 
 
 // Prosecutor - [Aztecross S23 Prophecy Guide] (god-pvp)

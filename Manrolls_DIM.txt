@@ -73,7 +73,8 @@ dimwishlist:item=-2273643087&perks=183430255,1476923957
 dimwishlist:item=-2273643087&perks=183430252,1476923957
 
 // Solipsism - [Deleted rolls]
-//notes: [Solipsism Deleted rolls] Ophidian/Vesper + Apotheosis/Vesper + Necrotic/Vesper + Osmiomancy/Vesper
+//notes: [Solipsism Deleted rolls] Inmost-Light/Vesper + Ophidian/Vesper + Apotheosis/Vesper + Necrotic/Vesper + Osmiomancy/Vesper
+dimwishlist:item=-2273643087&perks=1476923953,183430251
 dimwishlist:item=-2273643087&perks=1476923954,183430251
 dimwishlist:item=-2273643087&perks=183430250,183430251
 dimwishlist:item=-2273643087&perks=183430252,183430251

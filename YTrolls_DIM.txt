@@ -360,6 +360,19 @@ dimwishlist:item=136525518&perks=2869569095,3523296417
 dimwishlist:item=136525518&perks=3300816228,3523296417
 
 
+// Omniscient Eye - [Datto E2A2 GoS Godrolls] (pve)
+//notes: [Datto E2A2 GoS Godrolls] Vorpal faster to proc than Precision Instrument, but PI builds up higher (if you don't miss). Envious Arsenal needs proper setup/encounter conditions. https://youtu.be/g-Hw2P0xziM tags:pve
+dimwishlist:item=147444292&perks=1354429876,1546637391
+dimwishlist:item=147444292&perks=1354429876,555281244
+dimwishlist:item=147444292&perks=3987942396,1546637391
+dimwishlist:item=147444292&perks=3987942396,555281244
+
+
+// Omniscient Eye - [Datto E2A2 GoS Godrolls] (pvp)
+//notes: [Datto E2A2 GoS Godrolls] https://youtu.be/g-Hw2P0xziM tags:pvp
+dimwishlist:item=147444292&perks=2579169598,957782887
+
+
 // Critical Anomaly (Adept) - [Aegis E1A2 Endgame Analysis] (god-pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier S Rank 2/43 tags:god-pve
 dimwishlist:item=172461430&perks=2978966579,3640170453,1878756191
@@ -2181,16 +2194,16 @@ dimwishlist:item=599895591&perks=3300816228,4104185692
 dimwishlist:item=599895591&perks=3300816228,3708227201
 
 
-// Zephyr - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Zephyr - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,3650930298
 dimwishlist:item=601948197&perks=3666208348,269888150,243981275,3650930298
 dimwishlist:item=601948197&perks=436053704,269888150,1749209109,3650930298
 dimwishlist:item=601948197&perks=436053704,269888150,243981275,3650930298
 
 
-// Zephyr - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Zephyr - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,4049631843
 dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,2396489472
@@ -2199,6 +2212,16 @@ dimwishlist:item=601948197&perks=436053704,269888150,1749209109,3913600130
 dimwishlist:item=601948197&perks=436053704,269888150,1749209109,4049631843
 dimwishlist:item=601948197&perks=436053704,269888150,1749209109,2396489472
 dimwishlist:item=601948197&perks=436053704,269888150,1749209109,3708227201
+
+
+// Zephyr - [Fallout E2A2 Dawning Godrolls] (pve)
+//notes: [Fallout E2A2 Dawning Godrolls] Rimestealer makes it interesting. https://youtu.be/3sHeUNViTe4 tags:pve
+dimwishlist:item=601948197&perks=1955165503,3650930298
+
+
+// Zephyr - [Fallout E2A2 Dawning Godrolls] (pve)
+//notes: [Fallout E2A2 Dawning Godrolls] Rimestealer makes it interesting. https://youtu.be/3sHeUNViTe4 tags:pve
+dimwishlist:item=601948197&perks=1749209109,3913600130
 
 
 // Hollow Words - [Aegis E1A2 Endgame Analysis] (pve)
@@ -2678,6 +2701,17 @@ dimwishlist:item=825495813&perks=2726471870,2109543898
 dimwishlist:item=825495813&perks=3938834702,365154968
 
 
+// Noxious Vetiver - [CoolGuy E2A2 Review] (pve)
+//notes: [CoolGuy E2A2 Review] More a PvE weapon, but has bad stats for 600 rpm SMG, you need to get around it with perks. Get to 28 rounds in mag for 2 jolts while Amplified with Jolting Feedback (also anti-Overload). Thresh and Unrelenting should be good pairings but the Reload is very bad; Loose Change with a Mag perk makes the most sense. https://youtu.be/SMoO7zym8fc tags:pve
+dimwishlist:item=825495813&perks=1119449540,3966416502,2041432007
+
+
+// Noxious Vetiver - [CoolGuy E2A2 Review] (pvp)
+//notes: [CoolGuy E2A2 Review] More a PvE weapon, but has bad stats for 600 rpm SMG, you need to get around it with perks, and there aren't many PvP perks here. Shayura's is right there. https://youtu.be/SMoO7zym8fc tags:pvp
+dimwishlist:item=825495813&perks=1570042021,365154968
+dimwishlist:item=825495813&perks=1570042021,3425386926
+
+
 // The Inquisitor (Adept) - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier F Rank 42/46 tags:pve
 dimwishlist:item=825554997&perks=3523296417,2610012052,4008116374
@@ -3100,6 +3134,17 @@ dimwishlist:item=963574173&perks=3250034553,3142289711,247725512,3038247973
 dimwishlist:item=963574173&perks=3250034553,3142289711,247725512,1015611457
 
 
+// Ancient Gospel - [Datto E2A2 GoS Godrolls] (pve)
+//notes: [Datto E2A2 GoS Godrolls] First Void HC since Exalted Truth. Destabilizing Rounds about the only unique thing here, use the other HCs otherwise. https://youtu.be/g-Hw2P0xziM tags:pve
+dimwishlist:item=963574173&perks=2048641572,3038247973
+
+
+// Ancient Gospel - [Datto E2A2 GoS Godrolls] (pvp)
+//notes: [Datto E2A2 GoS Godrolls] First Void HC since Exalted Truth. Destabilizing Rounds about the only unique thing here, use the other HCs otherwise. https://youtu.be/g-Hw2P0xziM tags:pvp
+dimwishlist:item=963574173&perks=2579169598,1194056669
+dimwishlist:item=963574173&perks=699525795,1194056669
+
+
 // Aurvandil FR6 - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier E Rank 24/31 tags:pve
 dimwishlist:item=963710795&perks=1523832109,2978966579,2839173408
@@ -3452,25 +3497,50 @@ dimwishlist:item=1106635211&perks=968510818,4293542123
 dimwishlist:item=1123421440&perks=1482024992,1885400500,1583705720,4293542123,164468655
 
 
-// Stay Frosty - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Stay Frosty - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1123433952&perks=1955165503,124408337
 dimwishlist:item=1123433952&perks=1955165503,4104185692
 dimwishlist:item=1123433952&perks=3828510309,124408337
 dimwishlist:item=1123433952&perks=3828510309,4104185692
 
 
-// Stay Frosty - [itzTizzle E2A2 Review] (pvp)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pvp
+// Stay Frosty - [itzTizzle E2A2 Dawning Godrolls] (pvp)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pvp
 dimwishlist:item=1123433952&perks=1195158366,1015611457
 dimwishlist:item=1123433952&perks=588594999,1015611457
 dimwishlist:item=1123433952&perks=2579169598,1015611457
 dimwishlist:item=1123433952&perks=2946784966,1015611457
 
 
-// Stay Frosty - [itzTizzle E2A2 Review] (pvp)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pvp
+// Stay Frosty - [itzTizzle E2A2 Dawning Godrolls] (pvp)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pvp
 dimwishlist:item=1123433952&perks=588594999,460017080
+
+
+// Stay Frosty - [Fallout E2A2 Dawning Godrolls] (pvp)
+//notes: [Fallout E2A2 Dawning Godrolls] https://youtu.be/3sHeUNViTe4 tags:pvp
+dimwishlist:item=1123433952&perks=2579169598,1015611457
+dimwishlist:item=1123433952&perks=2579169598,460017080
+dimwishlist:item=1123433952&perks=2579169598,2109543898
+dimwishlist:item=1123433952&perks=588594999,1015611457
+dimwishlist:item=1123433952&perks=588594999,460017080
+dimwishlist:item=1123433952&perks=588594999,2109543898
+dimwishlist:item=1123433952&perks=2450788523,1015611457
+dimwishlist:item=1123433952&perks=2450788523,460017080
+dimwishlist:item=1123433952&perks=2450788523,2109543898
+dimwishlist:item=1123433952&perks=2946784966,1015611457
+dimwishlist:item=1123433952&perks=2946784966,460017080
+dimwishlist:item=1123433952&perks=2946784966,2109543898
+dimwishlist:item=1123433952&perks=1195158366,1015611457
+dimwishlist:item=1123433952&perks=1195158366,460017080
+dimwishlist:item=1123433952&perks=1195158366,2109543898
+
+
+// Stay Frosty - [Fallout E2A2 Dawning Godrolls] (pve)
+//notes: [Fallout E2A2 Dawning Godrolls] https://youtu.be/3sHeUNViTe4 tags:pve
+dimwishlist:item=1123433952&perks=1955165503,124408337
+dimwishlist:item=1123433952&perks=1955165503,4104185692
 
 
 // New Pacific Epitaph - [Aegis E1A2 Endgame Analysis] (pve)
@@ -3615,13 +3685,13 @@ dimwishlist:item=1168625549&perks=2209918983,2360754333
 dimwishlist:item=1179141605&perks=3436462433,1546637391
 
 
-// Glacioclasm - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Glacioclasm - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1183116657&perks=689005463,1421772400,1134488199
 
 
-// Glacioclasm - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Glacioclasm - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1183116657&perks=689005463,968510818,2594592626
 dimwishlist:item=1183116657&perks=689005463,968510818,1427256713
 dimwishlist:item=1183116657&perks=689005463,3643424744,2594592626
@@ -3630,12 +3700,18 @@ dimwishlist:item=1183116657&perks=689005463,1421772400,2594592626
 dimwishlist:item=1183116657&perks=689005463,1421772400,1427256713
 
 
-// Glacioclasm - [itzTizzle E2A2 Review] (pvp)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pvp
+// Glacioclasm - [itzTizzle E2A2 Dawning Godrolls] (pvp)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pvp
 dimwishlist:item=1183116657&perks=689005463,2579169598,1194056669
 dimwishlist:item=1183116657&perks=689005463,2579169598,2213355989
 dimwishlist:item=1183116657&perks=689005463,1645158859,1194056669
 dimwishlist:item=1183116657&perks=689005463,1645158859,2213355989
+
+
+// Glacioclasm - [Fallout E2A2 Dawning Godrolls] (pvp)
+//notes: [Fallout E2A2 Dawning Godrolls] High Impacts not the best in PvE, but has potential for PvP. Needs some Aim Assist help (Lone Wolf). https://youtu.be/3sHeUNViTe4 tags:pvp
+dimwishlist:item=1183116657&perks=2579169598,1194056669
+dimwishlist:item=1183116657&perks=1645158859,1194056669
 
 
 // Sailspy Pitchglass (god-pve)
@@ -5474,46 +5550,67 @@ dimwishlist:item=1821724780&perks=1556840489,1546637391
 dimwishlist:item=1821724780&perks=1556840489,2360754333
 
 
-// Albedo Wing - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Albedo Wing - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1845372864&perks=580685494,3142289711,684456054,2173046394
 dimwishlist:item=1845372864&perks=580685494,3142289711,1421772400,2173046394
 dimwishlist:item=1845372864&perks=580685494,1087426260,684456054,2173046394
 dimwishlist:item=1845372864&perks=580685494,1087426260,1421772400,2173046394
 
 
-// Albedo Wing - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Albedo Wing - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1845372864&perks=580685494,3142289711,1966281507,1782407750
 dimwishlist:item=1845372864&perks=580685494,3142289711,1631667848,1782407750
 dimwishlist:item=1845372864&perks=580685494,1087426260,1966281507,1782407750
 dimwishlist:item=1845372864&perks=580685494,1087426260,1631667848,1782407750
 
 
-// Albedo Wing - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Albedo Wing - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1845372864&perks=580685494,3142289711,1421772400,3523296417
 dimwishlist:item=1845372864&perks=580685494,3142289711,880644845,3523296417
 dimwishlist:item=1845372864&perks=580685494,1087426260,1421772400,3523296417
 dimwishlist:item=1845372864&perks=580685494,1087426260,880644845,3523296417
 
 
-// Avalanche - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] Incandescent will proc Subsistence if you kill enough targets. https://youtu.be/d3FG0Vpiwdw tags:pve
+// Albedo Wing - [Fallout E2A2 Dawning Godrolls] (pve)
+//notes: [Fallout E2A2 Dawning Godrolls] Not a Glaive guy but has some "unique" perks. https://youtu.be/3sHeUNViTe4 tags:pve
+dimwishlist:item=1845372864&perks=1421772400,2173046394
+
+
+// Albedo Wing - [Fallout E2A2 Dawning Godrolls] (pvp)
+//notes: [Fallout E2A2 Dawning Godrolls] Not a Glaive guy but has some "unique" perks. (No preferred 4th column perk.) https://youtu.be/3sHeUNViTe4 tags:pvp
+dimwishlist:item=1845372864&perks=1194056669,4264904777
+dimwishlist:item=1845372864&perks=1194056669,1607056502
+
+
+// Avalanche - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] Incandescent will proc Subsistence if you kill enough targets. https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1845978721&perks=1820235745,4293542123
 dimwishlist:item=1845978721&perks=3300816228,4293542123
 dimwishlist:item=1845978721&perks=2848615171,4293542123
 
 
-// Avalanche - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Avalanche - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1845978721&perks=3300816228,3751912585
 dimwishlist:item=1845978721&perks=3300816228,2610012052
 
 
-// Avalanche - [itzTizzle E2A2 Review] (pve)
-//notes: [itzTizzle E2A2 Review] https://youtu.be/d3FG0Vpiwdw tags:pve
+// Avalanche - [itzTizzle E2A2 Dawning Godrolls] (pve)
+//notes: [itzTizzle E2A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=1845978721&perks=3418782618,365154968
+
+
+// Avalanche - [Fallout E2A2 Dawning Godrolls] (pve)
+//notes: [Fallout E2A2 Dawning Godrolls] Rewind Rounds + Target Lock for Champs, Auto-loading + Incandescent for ad clear. https://youtu.be/3sHeUNViTe4 tags:pve
+dimwishlist:item=1845978721&perks=2420895100,3418782618,365154968
+
+
+// Avalanche - [Fallout E2A2 Dawning Godrolls] (pve)
+//notes: [Fallout E2A2 Dawning Godrolls] Rewind Rounds + Target Lock for Champs, Auto-loading + Incandescent for ad clear. https://youtu.be/3sHeUNViTe4 tags:pve
+dimwishlist:item=1845978721&perks=3300816228,4293542123
 
 
 // Jararaca-3sr - [Aztecross S23 World Drop Godrolls] (pvp)
@@ -6170,6 +6267,12 @@ dimwishlist:item=1987769101&perks=3418782618,4104185692
 dimwishlist:item=1987769101&perks=3418782618,2213355989
 
 
+// Reckless Oracle - [Datto E2A2 GoS Godrolls] (pve)
+//notes: [Datto E2A2 GoS Godrolls] First Rapid-fire Void Auto since the first time this came around (Riposte is Lightweight). Build into the Void-ness with Destabilizing Rounds + Repulsor Brace. https://youtu.be/g-Hw2P0xziM tags:pve
+dimwishlist:item=1992309064&perks=2048641572,776531651
+dimwishlist:item=1992309064&perks=2048641572,3215448563
+
+
 // Likely Suspect - [Aegis E1A2 Endgame Analysis] (pve)
 //notes: [Aegis E1A2 Endgame Analysis] Tier F Rank 26/31 tags:pve
 dimwishlist:item=1994645182&perks=2039302152,2610012052,2171055345
@@ -6679,6 +6782,17 @@ dimwishlist:item=2140635451&perks=2869569095,1439600632,930692523
 dimwishlist:item=2140635451&perks=3300816228,1439600632,930692523
 
 
+// Prophet of Doom - [Datto E2A2 GoS Godrolls] (pvp)
+//notes: [Datto E2A2 GoS Godrolls] Unseating Matador. Not aimed at PvE though. https://youtu.be/g-Hw2P0xziM tags:pvp
+dimwishlist:item=2145441168&perks=4071163871,1194056669
+
+
+// Prophet of Doom - [Datto E2A2 GoS Godrolls] (pve)
+//notes: [Datto E2A2 GoS Godrolls] Unseating Matador. Not aimed at PvE though. https://youtu.be/g-Hw2P0xziM tags:pve
+dimwishlist:item=2145441168&perks=1523832109,2679249093
+dimwishlist:item=2145441168&perks=1523832109,2360754333
+
+
 // IKELOS_SMG_v1.0.3 - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Role: Add clear tags:god-pve
 dimwishlist:item=2149683300&perks=4071163871,2173046394,566815328
@@ -7036,6 +7150,20 @@ dimwishlist:item=2233545123&perks=1354429876,1771339417
 // Fugue-55 - [Aztecross S23 World Drop Godrolls] (pve)
 //notes: [Aztecross S23 World Drop Godrolls] For solo plays tags:pve
 dimwishlist:item=2233545123&perks=1354429876,1546637391
+
+
+// Sacred Provenance - [Datto E2A2 GoS Godrolls] (pve)
+//notes: [Datto E2A2 GoS Godrolls] Blast Furnace has come out since this was last released, PvE rolls are good enough there. https://youtu.be/g-Hw2P0xziM tags:pve
+dimwishlist:item=2241507890&perks=1583705720,4049631843
+dimwishlist:item=2241507890&perks=1583705720,3891536761
+
+
+// Sacred Provenance - [Datto E2A2 GoS Godrolls] (pvp)
+//notes: [Datto E2A2 GoS Godrolls] Blast Furnace has come out since this was last released, PvE rolls are good enough there. https://youtu.be/g-Hw2P0xziM tags:pvp
+dimwishlist:item=2241507890&perks=247725512,1015611457
+dimwishlist:item=2241507890&perks=247725512,460017080
+dimwishlist:item=2241507890&perks=2579169598,1015611457
+dimwishlist:item=2241507890&perks=2579169598,460017080
 
 
 // Patron of Lost Causes - [Datto E1 Review] (pve)
@@ -9032,6 +9160,22 @@ dimwishlist:item=2720651699&perks=202670084,2969185026,1645158859,1194056669
 //notes: [Legoleflash E2A1 Review] Cracked Rapid Fire Fusion, expecting a nerf. Stats don't show the special feeling in actual use. First Lead From Gold Fusion with good damage 4th column perks. Origin Trait is Under-over lite with added disorienting. Reservoir Burst is fun but impractical in real activities where enemies don't die in one shot. Go for Charge Time MW. Go for Tactical mod. https://youtu.be/Lw5IkAE3zSg tags:pve
 dimwishlist:item=2720651699&perks=3250034553,1687452232,2048641572,1427256713
 dimwishlist:item=2720651699&perks=3250034553,2969185026,2048641572,1427256713
+
+
+// Zealot's Reward - [Datto E2A2 GoS Godrolls] (pve)
+//notes: [Datto E2A2 GoS Godrolls] First Rapid-fire Void Fusion since Likely Suspect. https://youtu.be/g-Hw2P0xziM tags:pve
+dimwishlist:item=2720651699&perks=3300816228,2594592626
+
+
+// Zealot's Reward - [Datto E2A2 GoS Godrolls] (pve)
+//notes: [Datto E2A2 GoS Godrolls] First Rapid-fire Void Fusion since Likely Suspect. https://youtu.be/g-Hw2P0xziM tags:pve
+dimwishlist:item=2720651699&perks=2048641572,1427256713
+dimwishlist:item=2720651699&perks=1820235745,1427256713
+
+
+// Zealot's Reward - [Datto E2A2 GoS Godrolls] (pvp)
+//notes: [Datto E2A2 GoS Godrolls] First Rapid-fire Void Fusion since Likely Suspect. https://youtu.be/g-Hw2P0xziM tags:pvp
+dimwishlist:item=2720651699&perks=1645158859,1194056669
 
 
 // Tarnation - [Aegis E1A2 Endgame Analysis] (pve)
@@ -11676,13 +11820,18 @@ dimwishlist:item=3473290087&perks=1556840489,1546637391,4091460919
 dimwishlist:item=3473290087&perks=1556840489,3523296417,4091460919
 
 
-// Mistral Lift - [itzTizzle E2A2 Review] (pve)
+// Mistral Lift - [itzTizzle E2A2 Dawning Godrolls] (pve)
 //notes: [itzTizzle E2A2 Review] Not optimal for team DPS (waiting to ADS for Withering Gaze), but good for solo content. Beats Taipan-4FR, Doomed Petitioner. Go for Handling MW. https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=3483485727&perks=1840239774,689005463,1134488199,3078487919
 dimwishlist:item=3483485727&perks=1840239774,689005463,3987942396,3078487919
 dimwishlist:item=3483485727&perks=1840239774,689005463,2284787283,3078487919
 dimwishlist:item=3483485727&perks=1840239774,689005463,968510818,3078487919
 dimwishlist:item=3483485727&perks=1840239774,689005463,1523832109,3078487919
+
+
+// Mistral Lift - [Fallout E2A2 Dawning Godrolls] (pve)
+//notes: [Fallout E2A2 Dawning Godrolls] Withering Gaze not optimal here with ADS timer, use another more reliable source of weaken. https://youtu.be/3sHeUNViTe4 tags:pve
+dimwishlist:item=3483485727&perks=2680121939,3987942396,3078487919,3988215619
 
 
 // Prosecutor - [Aztecross S23 Prophecy Guide] (god-pvp)
@@ -12153,6 +12302,14 @@ dimwishlist:item=3615421669&perks=968510818,1771339417,3988215619
 dimwishlist:item=3616586446&perks=3300816228,1546637391
 dimwishlist:item=3616586446&perks=3300816228,3708227201
 dimwishlist:item=3616586446&perks=3300816228,3523296417
+
+
+// Accrued Redemption - [Datto E2A2 GoS Godrolls] (pve)
+//notes: [Datto E2A2 GoS Godrolls] First Kinetic Precision Frame Bow since Biting Wind. I still prefer Exotic Bows though. https://youtu.be/g-Hw2P0xziM tags:pve
+dimwishlist:item=3621336854&perks=201365942,3414324643
+dimwishlist:item=3621336854&perks=201365942,3891536761
+dimwishlist:item=3621336854&perks=201365942,3824105627
+dimwishlist:item=3621336854&perks=201365942,3365897133
 
 
 // Negative Space - [Aegis E1A2 Endgame Analysis] (pve)

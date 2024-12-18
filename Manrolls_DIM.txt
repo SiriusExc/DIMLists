@@ -58,9 +58,10 @@ dimwishlist:item=-2273643087&perks=183430252,1476923955
 dimwishlist:item=-2273643087&perks=1476923952,1476923955
 
 // Solipsism - [Deleted rolls]
-//notes: [Solipsism Deleted rolls] Apotheosis/Swarm + Assassin/Swarm + Stag/Swarm
+//notes: [Solipsism Deleted rolls] Apotheosis/Swarm + Assassin/Swarm + Filaments/Swarm + Stag/Swarm
 dimwishlist:item=-2273643087&perks=183430250,183430246
 dimwishlist:item=-2273643087&perks=1476923952,183430246
+dimwishlist:item=-2273643087&perks=183430255,183430246
 dimwishlist:item=-2273643087&perks=183430248,183430246
 
 // Solipsism - [Deleted rolls]

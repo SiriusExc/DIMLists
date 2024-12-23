@@ -44,8 +44,9 @@ dimwishlist:item=-2273643087&perks=1476923954,183430247
 dimwishlist:item=-2273643087&perks=183430248,183430247
 
 // Solipsism - [Deleted rolls]
-//notes: [Solipsism Deleted rolls] Assassin/Harmony + Necrotic/Harmony + Ophidian/Harmony
+//notes: [Solipsism Deleted rolls] Assassin/Harmony + Filaments/Harmony + Necrotic/Harmony + Ophidian/Harmony
 dimwishlist:item=-2273643087&perks=1476923952,183430254
+dimwishlist:item=-2273643087&perks=183430255,183430254
 dimwishlist:item=-2273643087&perks=183430252,183430254
 dimwishlist:item=-2273643087&perks=1476923954,183430254
 

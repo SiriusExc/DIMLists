@@ -26,6 +26,33 @@ dimwishlist:item=5159537&perks=2779035018,124408337
 dimwishlist:item=5159537&perks=2779035018,2610012052
 
 
+// Boondoggle Mk. 55 - [Aztecross S26A1 Playtest] (pvp)
+//notes: [Aztecross S26A1 Playtest] Use with RDM and hip-firing. https://youtu.be/AfjG5xT82V0 tags:pvp
+dimwishlist:item=32287609&perks=1866048759,2416023159
+
+
+// Boondoggle Mk. 55 - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] Hip-firing legendary Huckleberry. https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=32287609&perks=691659142,4082225868,2437618208
+
+
+// Boondoggle Mk. 55 - [Aztecross S26A1 Heresy World Loot] (pvp)
+//notes: [Aztecross S26A1 Heresy World Loot] Hip-firing legendary Huckleberry. https://youtu.be/MyMA5reS2IY tags:pvp
+dimwishlist:item=32287609&perks=3938834702,1890422124
+dimwishlist:item=32287609&perks=3938834702,3673922083
+dimwishlist:item=32287609&perks=3938834702,2450788523
+
+
+// Boondoggle Mk. 55 - [itzTizzle S26A1 World Drop Godrolls] (pve)
+//notes: [itzTizzle S26A1 World Drop Godrolls] Basically a legendary Huckleberry, with Tex Balanced Stock. https://youtu.be/KNLtJR4mMFo tags:pve
+dimwishlist:item=32287609&perks=691659142,4082225868
+
+
+// Boondoggle Mk. 55 - [itzTizzle S26A1 World Drop Godrolls] (pvp)
+//notes: [itzTizzle S26A1 World Drop Godrolls] Basically a legendary Huckleberry, with Tex Balanced Stock. https://youtu.be/KNLtJR4mMFo tags:pvp
+dimwishlist:item=32287609&perks=1866048759,2416023159,2437618208
+
+
 // Temptation's Hook - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier F Rank 33/33 tags:pve
 dimwishlist:item=35794111&perks=1749209109,3708227201
@@ -382,6 +409,27 @@ dimwishlist:item=147444292&perks=3987942396,555281244
 // Omniscient Eye - [Datto S25A2 GoS Godrolls] (pvp)
 //notes: [Datto S25A2 GoS Godrolls] https://youtu.be/g-Hw2P0xziM tags:pvp
 dimwishlist:item=147444292&perks=2579169598,957782887
+
+
+// Joxer's Longsword - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Heavy Bursts feel amazing. Rare Withering Gaze on a Primary, good for GMs. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=157601190&perks=3700496672,1134488199
+dimwishlist:item=157601190&perks=3700496672,2048641572
+dimwishlist:item=157601190&perks=3523296417,1134488199
+dimwishlist:item=157601190&perks=3523296417,2048641572
+dimwishlist:item=157601190&perks=776531651,1134488199
+dimwishlist:item=157601190&perks=776531651,2048641572
+
+
+// Joxer's Longsword - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Heavy Bursts feel amazing. Rare Withering Gaze on a Primary, good for GMs. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=157601190&perks=2848615171,2048641572
+dimwishlist:item=157601190&perks=880644845,2048641572
+
+
+// Joxer's Longsword - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Heavy Bursts feel amazing. Rare Withering Gaze on a Primary, good for GMs. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=157601190&perks=2579169598,2387244414
 
 
 // Critical Anomaly (Adept) - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -742,6 +790,22 @@ dimwishlist:item=267089201&perks=3828510309,1546637391
 dimwishlist:item=267089201&perks=3828510309,4104185692
 
 
+// Backfang - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Not quite a hit as Bygones. Has Jolting Feedback, better than Voltshot on Unexpected Resurgence. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=267672635&perks=951095735,3966416502
+dimwishlist:item=267672635&perks=1966281507,3966416502
+
+
+// Backfang - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Not quite a hit as Bygones. Has Jolting Feedback, better than Voltshot on Unexpected Resurgence. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=267672635&perks=1631667848,4082225868
+dimwishlist:item=267672635&perks=1631667848,3708227201
+dimwishlist:item=267672635&perks=1631667848,1782407750
+dimwishlist:item=267672635&perks=3773585912,4082225868
+dimwishlist:item=267672635&perks=3773585912,3708227201
+dimwishlist:item=267672635&perks=3773585912,1782407750
+
+
 // Regnant - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier A Rank 3/21 tags:god-pve
 dimwishlist:item=268260372&perks=968510818,3751912585,1823011807
@@ -871,6 +935,47 @@ dimwishlist:item=337578911&perks=4293542123,3038247973
 dimwishlist:item=337578911&perks=4293542123,3824105627
 dimwishlist:item=337578911&perks=3017780555,3038247973
 dimwishlist:item=337578911&perks=3017780555,3824105627
+
+
+// Vision of Confluence (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Frenzy-buffed Reloading Heal Clip is great. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=337578911&perks=3017780555,4104185692
+dimwishlist:item=337578911&perks=3017780555,3215448563
+dimwishlist:item=337578911&perks=3418782618,4104185692
+dimwishlist:item=337578911&perks=3418782618,3215448563
+
+
+// Vision of Confluence (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Frenzy-buffed Reloading Heal Clip is great. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=337578911&perks=4293542123,3824105627
+dimwishlist:item=337578911&perks=4293542123,3038247973
+
+
+// Vision of Confluence (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=337578911&perks=2387244414,1015611457
+
+
+// Hollow Words - [Legoleflash S26A1 Review] (god-pvp)
+//notes: [Legoleflash S26A1 Review] Stats are near the bottom but Zoom is higher. Can replace Plug.ONE in certain circumstances—using enhanced Slickdraw; use other Fusions if you want other perks. Go for Range. https://youtu.be/W8DDcxuqzs0 tags:god-pvp
+dimwishlist:item=342027677&perks=202670084,2969185026,1821614984,2652708987
+
+
+// Hollow Words - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=342027677&perks=1556840489,3218042543
+dimwishlist:item=342027677&perks=1119449540,3218042543
+dimwishlist:item=342027677&perks=2010801679,3218042543
+
+
+// Hollow Words - [Aztecross S26A1 Heresy World Loot] (pvp)
+//notes: [Aztecross S26A1 Heresy World Loot] https://youtu.be/MyMA5reS2IY tags:pvp
+dimwishlist:item=342027677&perks=1821614984,2652708987
+
+
+// Hollow Words - [Legoleflash S26A1 Review] (pve)
+//notes: [Legoleflash S26A1 Review] Only Precision Fusion with Lead From Gold. A plethora of reload perks as if it's a Primary? Honestly go for Cruoris unless you like the feel of this one. Go for Charge Time. https://youtu.be/W8DDcxuqzs0 tags:pve
+dimwishlist:item=342027677&perks=1840239774,2680121939,1556840489,3218042543
 
 
 // Rufus's Fury (Adept) - [Aegis S22 Endgame Analysis] (god-pve)
@@ -1874,6 +1979,18 @@ dimwishlist:item=557165046&perks=1821614984,1546637391,3989629871
 dimwishlist:item=557165046&perks=3978468247,1546637391,3989629871
 
 
+// Cold Denial - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] Zoom no longer tied to Range, makes this one of the best High Impact Pulses, but not for PvE. Also High Impacts just got nerfed for Lightweights in PvP. https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=558794124&perks=2010801679,2458213969
+dimwishlist:item=558794124&perks=2010801679,3047969693
+
+
+// Cold Denial - [Aztecross S26A1 Heresy World Loot] (pvp)
+//notes: [Aztecross S26A1 Heresy World Loot] Zoom no longer tied to Range, makes this one of the best High Impact Pulses, but not for PvE. Also High Impacts just got nerfed for Lightweights in PvP. https://youtu.be/MyMA5reS2IY tags:pvp
+dimwishlist:item=558794124&perks=2387244414,460017080
+dimwishlist:item=558794124&perks=2387244414,3047969693
+
+
 // THE SWARM (Adept) - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier F Rank 24/25 tags:pve
 dimwishlist:item=566740455&perks=2779035018,2848615171,744217850
@@ -2218,10 +2335,31 @@ dimwishlist:item=599895591&perks=3300816228,4104185692
 dimwishlist:item=599895591&perks=3300816228,3708227201
 
 
+// Adamantite (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=601574723&perks=692399809,2298656195
+
+
 // Adamantite (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Support Frame so lean into the support aspect. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=601574723&perks=692399809,2298656195
 dimwishlist:item=601574723&perks=692399809,960997401
+
+
+// Adamantite (Adept) - [Aztecross S26A1 Heresy Godrolls] (pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pve
+dimwishlist:item=601574723&perks=923806249,960997401
+dimwishlist:item=601574723&perks=923806249,831391274
+
+
+// Adamantite (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. New Support Frame Auto, this one spawning Unraveling projectiles instead of providing Restoration, could pair with Edge of Intent. Basically build into the support aspect, it's not best in slot for other uses. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=601574723&perks=692399809,2298656195
+
+
+// Adamantite (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. New Support Frame Auto, this one spawning Unraveling projectiles instead of providing Restoration, could pair with Edge of Intent. Basically build into the support aspect, it's not best in slot for other uses. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=601574723&perks=923806249,960997401
 
 
 // Zephyr - [itzTizzle S25A2 Dawning Godrolls] (pve)
@@ -2649,6 +2787,32 @@ dimwishlist:item=689294985&perks=1482024992,3142289711,3619207468,460017080,2250
 dimwishlist:item=689294985&perks=1482024992,3142289711,3619207468,1015611457,2250679103
 
 
+// Whispering Slab - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] Just use Accrued Redemption. https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=690341468&perks=3523296417,11612903
+
+
+// Whispering Slab - [Aztecross S26A1 Heresy World Loot] (pvp)
+//notes: [Aztecross S26A1 Heresy World Loot] Just use Accrued Redemption. https://youtu.be/MyMA5reS2IY tags:pvp
+dimwishlist:item=690341468&perks=201365942,47981717
+
+
+// Cynosure - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Elemental Honing played right could beat Bait And Switch. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=694275488&perks=3987942396,1089671869,744217850
+dimwishlist:item=694275488&perks=3987942396,3194351027,744217850
+dimwishlist:item=694275488&perks=3987942396,1439600632,744217850
+dimwishlist:item=694275488&perks=3643424744,1089671869,744217850
+dimwishlist:item=694275488&perks=3643424744,3194351027,744217850
+dimwishlist:item=694275488&perks=3643424744,1439600632,744217850
+
+
+// Cynosure - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Elemental Honing played right could beat Bait And Switch. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=694275488&perks=2869569095,1439600632,744217850
+dimwishlist:item=694275488&perks=1523832109,1439600632,744217850
+
+
 // Found Verdict - [Datto S26A1 VoG Loot Refresh] (pve)
 //notes: [Datto S26A1 VoG Loot Refresh] More a One-Two Punch than Trench Barrel shotgun. But more a PvP shotgun than PvE anyway. https://youtu.be/ZOfY4m3k2Lg tags:pve
 dimwishlist:item=694500607&perks=4071163871,2679249093
@@ -2661,6 +2825,36 @@ dimwishlist:item=694500607&perks=4071163871,47981717
 dimwishlist:item=694500607&perks=3161816588,47981717
 
 
+// Found Verdict - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] Been power crept by Lone Wolf et al but it's still craftable. Still, other Shotguns are often better. https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=694500607&perks=4090651448,3142289711,3161816588,47981717
+dimwishlist:item=694500607&perks=4090651448,3142289711,4071163871,47981717
+
+
+// Found Verdict - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=694500607&perks=3978468247,2679249093
+dimwishlist:item=694500607&perks=3978468247,2360754333
+
+
+// Found Verdict - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=694500607&perks=691659142,2679249093
+dimwishlist:item=694500607&perks=691659142,3218042543
+
+
+// Psychopomp (Adept) - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:god-pve
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3218042543,120721526
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,2888557110,120721526
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,4104185692,120721526
+dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,1089671869,120721526
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,3218042543,120721526
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,2888557110,120721526
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,4104185692,120721526
+dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,1089671869,120721526
+
+
 // Psychopomp (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Rolling Storm is great for clustered ad encounters with Arc builds. Full Court is hard to proc, Frenzy is more consistent for slightly less damage. Harmony with Envious Arsenal and an LMG might work? https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=704410186&perks=684456054,3218042543
@@ -2668,10 +2862,43 @@ dimwishlist:item=704410186&perks=1583705720,3218042543
 dimwishlist:item=704410186&perks=2010801679,3218042543
 
 
+// Psychopomp (Adept) - [Aztecross S26A1 Review] (pve)
+//notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:pve
+dimwishlist:item=704410186&perks=3525010810,2822142346,691659142,4104185692
+dimwishlist:item=704410186&perks=3525010810,2822142346,691659142,3523296417
+
+
+// Psychopomp (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Area Denials don't really stack in teams, good for solo content but not hard content. Bolt Charges give Melee energy, pair with Pugilist for instant Melee charges. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=704410186&perks=691659142,3218042543
+
+
+// Psychopomp (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Area Denials don't really stack in teams, good for solo content but not hard content. Bolt Charges give Melee energy, pair with Pugilist for instant Melee charges. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=704410186&perks=3987942396,4104185692
+dimwishlist:item=704410186&perks=2010801679,4104185692
+
+
 // Ascendancy - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 23/24 tags:pve
 dimwishlist:item=725408022&perks=951095735,3194351027
 dimwishlist:item=725408022&perks=2010801679,3194351027
+
+
+// Qua Furor V - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] Not too crazy about this one. https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=751880654&perks=1955165503,4049631843,1050127423
+dimwishlist:item=751880654&perks=1955165503,2848615171,1050127423
+dimwishlist:item=751880654&perks=1955165503,3425386926,1050127423
+dimwishlist:item=751880654&perks=1955165503,1089671869,1050127423
+dimwishlist:item=751880654&perks=1955165503,2610012052,1050127423
+
+
+// Qua Furor V - [itzTizzle S26A1 World Drop Godrolls] (pve)
+//notes: [itzTizzle S26A1 World Drop Godrolls] More Aggressive 600rpm LMGs, which feel good. Wild Card is quite rare, good for ad clearing help. Recycled Energy needs a reload, probably not the best on LMGs. https://youtu.be/KNLtJR4mMFo tags:pve
+dimwishlist:item=751880654&perks=3400784728,1089671869,1050127423
+dimwishlist:item=751880654&perks=3400784728,2610012052,1050127423
+dimwishlist:item=751880654&perks=3400784728,4049631843,1050127423
 
 
 // Deliverance - [Aegis S24A2 Endgame Analysis] (pve)
@@ -2905,6 +3132,24 @@ dimwishlist:item=851296754&perks=4071163871,47981717
 dimwishlist:item=851296754&perks=3161816588,47981717
 
 
+// Found Verdict (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] Been power crept by Lone Wolf et al but it's still craftable. Still, other Shotguns are often better. https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=851296754&perks=4090651448,3142289711,3161816588,47981717
+dimwishlist:item=851296754&perks=4090651448,3142289711,4071163871,47981717
+
+
+// Found Verdict (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=851296754&perks=3978468247,2679249093
+dimwishlist:item=851296754&perks=3978468247,2360754333
+
+
+// Found Verdict (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=851296754&perks=691659142,2679249093
+dimwishlist:item=851296754&perks=691659142,3218042543
+
+
 // Occluded Finality - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 22/43 tags:pve
 dimwishlist:item=852551895&perks=3300816228,1771339417,4008116374
@@ -2960,6 +3205,12 @@ dimwishlist:item=859869931&perks=3824105627,4293542123
 dimwishlist:item=859869931&perks=3017780555,3640170453
 
 
+// Afterlight (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Synergises with artifact, and also Void. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=861521336&perks=2010801679,1427256713,120721526
+dimwishlist:item=861521336&perks=3978468247,1427256713,120721526
+
+
 // Afterlight (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] No Controlled Burst so not for sustained DPS, but has some ammo perks. Use with Runneth Over if you can. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=861521336&perks=3978468247,1427256713
@@ -2968,6 +3219,17 @@ dimwishlist:item=861521336&perks=2010801679,1427256713
 dimwishlist:item=861521336&perks=2010801679,2048641572
 dimwishlist:item=861521336&perks=1556840489,1427256713
 dimwishlist:item=861521336&perks=1556840489,2048641572
+
+
+// Afterlight (Adept) - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=861521336&perks=1645158859,1799762209
+
+
+// Afterlight (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Go with Glacioclasm for DPS, the USP for this is Discord refunding ammo. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=861521336&perks=3978468247,1427256713
+dimwishlist:item=861521336&perks=3978468247,2048641572
 
 
 // Marsilion-C - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -3036,6 +3298,48 @@ dimwishlist:item=874623537&perks=3300816228,3078487919
 // Rose - [Aztecross S23 Random Drop Tryout] (god-pvp)
 //notes: [Aztecross S23 Random Drop Tryout] Range MW. This one's protected in gambas, never deleting it. tags:god-pvp
 dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,3038247973,862848869
+
+
+// Cruoris FR4 - [Legoleflash S26A1 Review] (god-pve)
+//notes: [Legoleflash S26A1 Review] Best legendary Fusion all around in PvE. Aggressive Frames now shoot 3 batches of 4 bolts in a horizontal fireworks pattern, but you can't control bolt spread. Best frame for ad clearing now, especially with Discord for zero ammo use. Elemental Honing has a bad rap but actually lasts a long time with great damage buffs, often don't even need to keep track of it. In PvP, just don't; Barrel Constrictor needs a kill and good luck doing that on this frame. Nothing else saves this in PvP, except if there was an Agg Frame Heavy Fusion for spawn killing. https://youtu.be/MKaO1OZ17RY tags:god-pve
+dimwishlist:item=891996636&perks=1840239774,2680121939,3978468247,1089671869
+
+
+// Cruoris FR4 - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] Aggressive Fusions got a rework, but don't use it inside PvP. https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=891996636&perks=3978468247,3218042543
+dimwishlist:item=891996636&perks=3978468247,4049631843
+
+
+// Cruoris FR4 - [Legoleflash S26A1 Review] (pve)
+//notes: [Legoleflash S26A1 Review] Best legendary Fusion all around in PvE. Aggressive Frames now shoot 3 batches of 4 bolts in a horizontal fireworks pattern, but you can't control bolt spread. Best frame for ad clearing now, especially with Discord for zero ammo use. Elemental Honing has a bad rap but actually lasts a long time with great damage buffs, often don't even need to keep track of it. In PvP, just don't; Barrel Constrictor needs a kill and good luck doing that on this frame. Nothing else saves this in PvP, except if there was an Agg Frame Heavy Fusion for spawn killing. https://youtu.be/MKaO1OZ17RY tags:pve
+dimwishlist:item=891996636&perks=3978468247,3218042543
+dimwishlist:item=891996636&perks=3978468247,1089671869
+dimwishlist:item=891996636&perks=3978468247,4049631843
+dimwishlist:item=891996636&perks=3978468247,2652708987
+dimwishlist:item=891996636&perks=4071163871,3218042543
+dimwishlist:item=891996636&perks=4071163871,1089671869
+dimwishlist:item=891996636&perks=4071163871,4049631843
+dimwishlist:item=891996636&perks=4071163871,2652708987
+
+
+// Cruoris FR4 - [itzTizzle S26A1 World Drop Godrolls] (pve)
+//notes: [itzTizzle S26A1 World Drop Godrolls] Aggressive Frame Fusion, sounds like Bastion firing pattern. https://youtu.be/KNLtJR4mMFo tags:pve
+dimwishlist:item=891996636&perks=3978468247,4049631843
+dimwishlist:item=891996636&perks=3978468247,1089671869
+dimwishlist:item=891996636&perks=1583705720,4049631843
+dimwishlist:item=891996636&perks=1583705720,1089671869
+
+
+// Cruoris FR4 - [itzTizzle S26A1 World Drop Godrolls] (pve)
+//notes: [itzTizzle S26A1 World Drop Godrolls] Aggressive Frame Fusion, sounds like Bastion firing pattern. https://youtu.be/KNLtJR4mMFo tags:pve
+dimwishlist:item=891996636&perks=3713215006,3218042543,2839173408
+
+
+// Cruoris FR4 - [itzTizzle S26A1 World Drop Godrolls] (pvp)
+//notes: [itzTizzle S26A1 World Drop Godrolls] Aggressive Frame Fusion, sounds like Bastion firing pattern. https://youtu.be/KNLtJR4mMFo tags:pvp
+dimwishlist:item=891996636&perks=4071163871,1754714824
+dimwishlist:item=891996636&perks=4071163871,2652708987
 
 
 // Nullify (Adept) - [CoolGuy S24A1 Review] (god-pve)
@@ -3970,6 +4274,54 @@ dimwishlist:item=1197771438&perks=1556840489,3523296417
 dimwishlist:item=1197771438&perks=1556840489,563069569
 
 
+// Exalted Truth (Adept) - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Destabilizing Rounds' Volatile AoE can discharge Bolt Charge. Void ties in with this season's artifact mods very well. Alacrity might be good for solo content. https://youtu.be/qm1y-xlCpPE tags:god-pve
+dimwishlist:item=1201528146&perks=106909392,2048641572,4049631843
+dimwishlist:item=1201528146&perks=1087426260,2048641572,4049631843
+
+
+// Exalted Truth (Adept) - [Aztecross S26A1 Review] (god-pvp)
+//notes: [Aztecross S26A1 Review] Highest base Range/Stability of 140s, can hit 100 for both, but low Aim Assistance. Withering Gaze with Precision Instrument allows for 1b2c kills, just ADS for 1.4-1.5 seconds before shooting. Go for Range. https://youtu.be/qm1y-xlCpPE tags:god-pvp
+dimwishlist:item=1201528146&perks=3250034553,3142289711,1134488199,555281244,4008116374
+
+
+// Exalted Truth (Adept) - [Aztecross S26A1 Review] (pve)
+//notes: [Aztecross S26A1 Review] Destabilizing Rounds' Volatile AoE can discharge Bolt Charge. Void ties in with this season's artifact mods very well. Alacrity might be good for solo content. https://youtu.be/qm1y-xlCpPE tags:pve
+dimwishlist:item=1201528146&perks=2048641572,4049631843
+dimwishlist:item=1201528146&perks=2048641572,776531651
+dimwishlist:item=1201528146&perks=2048641572,1464081238
+
+
+// Exalted Truth (Adept) - [Aztecross S26A1 Review] (pvp)
+//notes: [Aztecross S26A1 Review] Highest base Range/Stability of 140s, can hit 100 for both, but low Aim Assistance. Withering Gaze with Precision Instrument allows for 1b2c kills, just ADS for 1.4-1.5 seconds before shooting. Go for Range. https://youtu.be/qm1y-xlCpPE tags:pvp
+dimwishlist:item=1201528146&perks=2579169598,699525795
+dimwishlist:item=1201528146&perks=2579169598,2720533289
+
+
+// Exalted Truth (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Rare Withering Gaze on Primary. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=1201528146&perks=1134488199,776531651
+dimwishlist:item=1201528146&perks=1134488199,1464081238
+
+
+// Exalted Truth (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Rare Withering Gaze on Primary. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=1201528146&perks=2387244414,555281244
+dimwishlist:item=1201528146&perks=2387244414,699525795
+
+
+// Exalted Truth (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Rare Withering Gaze on Primary. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=1201528146&perks=588594999,699525795
+dimwishlist:item=1201528146&perks=588594999,2720533289
+dimwishlist:item=1201528146&perks=3619207468,699525795
+dimwishlist:item=1201528146&perks=3619207468,2720533289
+dimwishlist:item=1201528146&perks=3161816588,699525795
+dimwishlist:item=1201528146&perks=3161816588,2720533289
+dimwishlist:item=1201528146&perks=2579169598,699525795
+dimwishlist:item=1201528146&perks=2579169598,2720533289
+
+
 // Fatebringer (Timelost) - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Alt for Midnight Coup; Role: Add clear. tags:pve
 dimwishlist:item=1216319404&perks=3038247973,3824105627
@@ -4613,6 +4965,38 @@ dimwishlist:item=1303313141&perks=1820235745,4198902903
 dimwishlist:item=1303313141&perks=1820235745,557221067
 
 
+// Unsworn - [Aztecross S26A1 SD Godrolls] (pve)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. Detonator Beam with Subjugation is excellent. Can go with traditional Hatchling/Killing Tally/Target Lock/Bait And Switch but Detonator Beam is the unique roll here. https://youtu.be/mEQLcwtMtcs tags:pve
+dimwishlist:item=1303313141&perks=960997401,4198902903,1298135794
+dimwishlist:item=1303313141&perks=3700496672,4198902903,1298135794
+dimwishlist:item=1303313141&perks=3418782618,4198902903,1298135794
+dimwishlist:item=1303313141&perks=1820235745,4198902903,1298135794
+
+
+// Unsworn - [itzTizzle S26A1 SD Godrolls] (pve)
+//notes: [itzTizzle S26A1 SD Godrolls] Great Origin Trait. https://youtu.be/KW5x4YGVRtI tags:pve
+dimwishlist:item=1303313141&perks=3418782618,1089671869
+dimwishlist:item=1303313141&perks=3418782618,557221067
+dimwishlist:item=1303313141&perks=3418782618,4198902903
+dimwishlist:item=1303313141&perks=3418782618,831391274
+dimwishlist:item=1303313141&perks=1583705720,1089671869
+dimwishlist:item=1303313141&perks=1583705720,557221067
+dimwishlist:item=1303313141&perks=1583705720,4198902903
+dimwishlist:item=1303313141&perks=1583705720,831391274
+dimwishlist:item=1303313141&perks=3700496672,1089671869
+dimwishlist:item=1303313141&perks=3700496672,557221067
+dimwishlist:item=1303313141&perks=3700496672,4198902903
+dimwishlist:item=1303313141&perks=3700496672,831391274
+dimwishlist:item=1303313141&perks=1820235745,1089671869
+dimwishlist:item=1303313141&perks=1820235745,557221067
+dimwishlist:item=1303313141&perks=1820235745,4198902903
+dimwishlist:item=1303313141&perks=1820235745,831391274
+dimwishlist:item=1303313141&perks=2726471870,1089671869
+dimwishlist:item=1303313141&perks=2726471870,557221067
+dimwishlist:item=1303313141&perks=2726471870,4198902903
+dimwishlist:item=1303313141&perks=2726471870,831391274
+
+
 // Dimensional Hypotrochoid - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier C Rank 15/21 tags:pve
 dimwishlist:item=1311684613&perks=968510818,1546637391,164468655
@@ -4790,6 +5174,28 @@ dimwishlist:item=1387987271&perks=3400784728,1771339417
 dimwishlist:item=1387987271&perks=3400784728,1771339417,1281216113
 dimwishlist:item=1387987271&perks=3400784728,2896038713,1281216113
 dimwishlist:item=1387987271&perks=3400784728,3523296417,1281216113
+
+
+// False Promises - [Aztecross S26A1 Heresy World Loot] (pvp)
+//notes: [Aztecross S26A1 Heresy World Loot] High Impact Autos are pretty good. High Ground got nerfed but Surplus counts multiple charges of abilities. https://youtu.be/MyMA5reS2IY tags:pvp
+dimwishlist:item=1390080550&perks=1359896290,3425386926
+dimwishlist:item=1390080550&perks=1359896290,2387244414
+dimwishlist:item=1390080550&perks=3436462433,3425386926
+dimwishlist:item=1390080550&perks=3436462433,2387244414
+
+
+// False Promises - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=1390080550&perks=1119449540,124408337
+dimwishlist:item=1390080550&perks=1119449540,3425386926
+dimwishlist:item=1390080550&perks=1119449540,4082225868
+dimwishlist:item=1390080550&perks=1119449540,2319119708
+dimwishlist:item=1390080550&perks=1119449540,3751912585
+dimwishlist:item=1390080550&perks=2010801679,124408337
+dimwishlist:item=1390080550&perks=2010801679,3425386926
+dimwishlist:item=1390080550&perks=2010801679,4082225868
+dimwishlist:item=1390080550&perks=2010801679,2319119708
+dimwishlist:item=1390080550&perks=2010801679,3751912585
 
 
 // Trustee - [Aegis S23 Endgame Analysis] (pve)
@@ -5343,6 +5749,16 @@ dimwishlist:item=1572896086&perks=2869569095,124408337,1536798515
 // Mindbender's Ambition - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier E Rank 39/46 tags:pve
 dimwishlist:item=1586231351&perks=4071163871,1546637391,1281216113
+
+
+// Temptation's Hook - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] Most use Casters with heavy attacks so Tireless may be better than Relentless. https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=1587953057&perks=2590710093,2396489472
+dimwishlist:item=1587953057&perks=2590710093,3913600130
+dimwishlist:item=1587953057&perks=2590710093,1685431615
+dimwishlist:item=1587953057&perks=1749209109,2396489472
+dimwishlist:item=1587953057&perks=1749209109,3913600130
+dimwishlist:item=1587953057&perks=1749209109,1685431615
 
 
 // Enyo-D (god-pve,god-pvp)
@@ -6426,6 +6842,25 @@ dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,1015611457
 dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,460017080
 
 
+// Keen Thistle - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] There are many Solar Snipers, here's another if you still need one. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=1893967086&perks=3987942396,3078487919
+
+
+// Keen Thistle - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] There are many Solar Snipers, here's another if you still need one. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=1893967086&perks=3400784728,1354429876
+dimwishlist:item=1893967086&perks=3400784728,1546637391
+
+
+// Keen Thistle - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] There are many Solar Snipers, here's another if you still need one. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=1893967086&perks=957782887,47981717
+dimwishlist:item=1893967086&perks=957782887,588594999
+dimwishlist:item=1893967086&perks=2579169598,47981717
+dimwishlist:item=1893967086&perks=2579169598,588594999
+
+
 // Hammerhead - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier A Rank 5/25 tags:god-pve
 dimwishlist:item=1896309757&perks=3418782618,557221067,2489430594
@@ -6752,6 +7187,52 @@ dimwishlist:item=1968410628&perks=3619207468,3751912585,2437618208
 // The Prophet - [Aztecross S23 Review] (pve)
 //notes: [Aztecross S23 Review] Stat monster, better than all other 120rpm Scouts in just about everything. tags:pve
 dimwishlist:item=1968410628&perks=3978468247,3751912585
+
+
+// Warlord's Spear - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Trace Rifles are used like Primaries, Envious Assassin less necessary; Rewind Rounds is much better. Jolting Feedback's Jolts don't seem to discharge Bolt Charge, unlike Destabilizing Rounds' Volatile. Traces are not DPS weapons, shooting forever with Rewind + FTTC/Target Lock isn't the play. Skulking Wolf now causes enemies to shoot at your previous position instead. Detonator Beam works better with Unsworn's Subjugation. https://youtu.be/IJJSM736QpY tags:god-pve
+dimwishlist:item=1968711238&perks=1482024992,2680121939,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1482024992,2680121939,3418782618,557221067
+dimwishlist:item=1968711238&perks=1482024992,1483536627,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1482024992,1483536627,3418782618,557221067
+dimwishlist:item=1968711238&perks=1482024992,2749775325,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1482024992,2749775325,3418782618,557221067
+dimwishlist:item=1968711238&perks=1482024992,732557052,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1482024992,732557052,3418782618,557221067
+dimwishlist:item=1968711238&perks=1392496348,2680121939,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1392496348,2680121939,3418782618,557221067
+dimwishlist:item=1968711238&perks=1392496348,1483536627,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1392496348,1483536627,3418782618,557221067
+dimwishlist:item=1968711238&perks=1392496348,2749775325,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1392496348,2749775325,3418782618,557221067
+dimwishlist:item=1968711238&perks=1392496348,732557052,3418782618,3966416502
+dimwishlist:item=1968711238&perks=1392496348,732557052,3418782618,557221067
+dimwishlist:item=1968711238&perks=4090651448,2680121939,3418782618,3966416502
+dimwishlist:item=1968711238&perks=4090651448,2680121939,3418782618,557221067
+dimwishlist:item=1968711238&perks=4090651448,1483536627,3418782618,3966416502
+dimwishlist:item=1968711238&perks=4090651448,1483536627,3418782618,557221067
+dimwishlist:item=1968711238&perks=4090651448,2749775325,3418782618,3966416502
+dimwishlist:item=1968711238&perks=4090651448,2749775325,3418782618,557221067
+dimwishlist:item=1968711238&perks=4090651448,732557052,3418782618,3966416502
+dimwishlist:item=1968711238&perks=4090651448,732557052,3418782618,557221067
+
+
+// Warlord's Spear - [Aztecross S26A1 Review] (pvp)
+//notes: [Aztecross S26A1 Review] Just use Lodestar so you don't need to keep picking up ammo. https://youtu.be/IJJSM736QpY tags:pvp
+dimwishlist:item=1968711238&perks=2213355989,365154968
+dimwishlist:item=1968711238&perks=1866048759,365154968
+
+
+// Warlord's Spear - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Jolting Feedback is one of the best perks. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=1968711238&perks=3418782618,3966416502
+dimwishlist:item=1968711238&perks=3418782618,365154968
+dimwishlist:item=1968711238&perks=3418782618,1354429876
+
+
+// Warlord's Spear - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Jolting Feedback is one of the best perks. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=1968711238&perks=968510818,4198902903
 
 
 // Nightshade - [CoolGuy's S22 Review] (pvp)
@@ -7628,6 +8109,35 @@ dimwishlist:item=2226158470&perks=247725512,4104185692
 dimwishlist:item=2226158470&perks=247725512,3215448563
 
 
+// Unworthy - [Aztecross S26A1 SD Godrolls] (pve)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. Firefly + Voltshot deals two damage types for Elemental Honing. https://youtu.be/mEQLcwtMtcs tags:pve
+dimwishlist:item=2226158470&perks=3418782618,3218042543
+
+
+// Unworthy - [Aztecross S26A1 SD Godrolls] (pve)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. Firefly + Voltshot deals two damage types for Elemental Honing. https://youtu.be/mEQLcwtMtcs tags:pve
+dimwishlist:item=2226158470&perks=3824105627,2173046394
+
+
+// Unworthy - [Aztecross S26A1 SD Godrolls] (pvp)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. https://youtu.be/mEQLcwtMtcs tags:pvp
+dimwishlist:item=2226158470&perks=3619207468,555281244
+
+
+// Unworthy - [itzTizzle S26A1 SD Godrolls] (pve)
+//notes: [itzTizzle S26A1 SD Godrolls] Great Origin Trait. If Voltshot were Jolting Feedback it'd be the best legendary in the game. https://youtu.be/KW5x4YGVRtI tags:pve
+dimwishlist:item=2226158470&perks=1840239774,3230963543,3824105627,4104185692
+dimwishlist:item=2226158470&perks=1840239774,3230963543,3824105627,555281244
+dimwishlist:item=2226158470&perks=1840239774,3230963543,3824105627,3218042543
+dimwishlist:item=2226158470&perks=1840239774,3230963543,3824105627,3215448563
+dimwishlist:item=2226158470&perks=1840239774,3230963543,3824105627,2173046394
+dimwishlist:item=2226158470&perks=1840239774,1968497646,3824105627,4104185692
+dimwishlist:item=2226158470&perks=1840239774,1968497646,3824105627,555281244
+dimwishlist:item=2226158470&perks=1840239774,1968497646,3824105627,3218042543
+dimwishlist:item=2226158470&perks=1840239774,1968497646,3824105627,3215448563
+dimwishlist:item=2226158470&perks=1840239774,1968497646,3824105627,2173046394
+
+
 // Edge Transit - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier S Rank 1/21 tags:god-pve
 dimwishlist:item=2228325504&perks=968510818,3078487919,2489430594
@@ -7741,6 +8251,19 @@ dimwishlist:item=2263839058&perks=2621346526,776531651,1905044254
 // Hezen Vengeance - [Datto S26A1 VoG Loot Refresh] (pve)
 //notes: [Datto S26A1 VoG Loot Refresh] Now the best Rocket Launcher in the game. https://youtu.be/ZOfY4m3k2Lg tags:pve
 dimwishlist:item=2265407516&perks=3987942396,3078487919
+
+
+// Hezen Vengeance - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Tomorrow's Answer but Solar for better synergy. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=2265407516&perks=3987942396,3078487919
+dimwishlist:item=2265407516&perks=3643424744,3078487919
+
+
+// Hezen Vengeance - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Tomorrow's Answer but Solar for better synergy. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=2265407516&perks=3643424744,1439600632
+dimwishlist:item=2265407516&perks=3643424744,1089671869
+dimwishlist:item=2265407516&perks=3643424744,3194351027
 
 
 // Fire and Forget - [Aegis S24A2 Endgame Analysis] (pve)
@@ -8096,6 +8619,19 @@ dimwishlist:item=2334480463&perks=3824105627,1134488199
 dimwishlist:item=2334480463&perks=3824105627,557221067
 
 
+// Corrective Measure (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Even with Commemoration and Hammerhead, don't sleep on this one. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=2334480463&perks=2048641572,1464081238
+dimwishlist:item=2334480463&perks=2048641572,4049631843
+dimwishlist:item=2334480463&perks=3523296417,1464081238
+dimwishlist:item=2334480463&perks=3523296417,4049631843
+
+
+// Corrective Measure (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Even with Commemoration and Hammerhead, don't sleep on this one. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=2334480463&perks=3523296417,11612903
+
+
 // Ogma PR6 - [Aztecross S23 World Drop Godrolls] (pve)
 //notes: [Aztecross S23 World Drop Godrolls] tags:pve
 dimwishlist:item=2342054803&perks=3523296417,3592538738
@@ -8174,6 +8710,20 @@ dimwishlist:item=2362652544&perks=3987942396,3078487919
 dimwishlist:item=2362652544&perks=3987942396,4104185692
 dimwishlist:item=2362652544&perks=3891536761,3078487919
 dimwishlist:item=2362652544&perks=3891536761,4104185692
+
+
+// Praedyth's Revenge (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Power creeping The Supremacy with Kinetic Tremors + Bait And Switch as KT is buffed by BnS. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=2362652544&perks=3891536761,3078487919,2589407652
+dimwishlist:item=2362652544&perks=3418782618,3078487919,2589407652
+dimwishlist:item=2362652544&perks=3987942396,3078487919,2589407652
+dimwishlist:item=2362652544&perks=3978468247,3078487919,2589407652
+dimwishlist:item=2362652544&perks=1354429876,3078487919,2589407652
+
+
+// Praedyth's Revenge (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Very high Aim Assist makes it feel great, pair it with high Handling. https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=2362652544&perks=1840239774,2866798147,47981717
 
 
 // Blast Furnace - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -8588,6 +9138,56 @@ dimwishlist:item=2485881870&perks=831391274,960997401
 dimwishlist:item=2485881870&perks=2848615171,960997401
 
 
+// Unloved - [Aztecross S26A1 SD Godrolls] (pve)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. https://youtu.be/mEQLcwtMtcs tags:pve
+dimwishlist:item=2485881870&perks=2848615171,4104185692
+dimwishlist:item=2485881870&perks=2848615171,3215448563
+dimwishlist:item=2485881870&perks=2848615171,1089671869
+dimwishlist:item=2485881870&perks=2848615171,960997401
+dimwishlist:item=2485881870&perks=831391274,4104185692
+dimwishlist:item=2485881870&perks=831391274,3215448563
+dimwishlist:item=2485881870&perks=831391274,1089671869
+dimwishlist:item=2485881870&perks=831391274,960997401
+dimwishlist:item=2485881870&perks=247725512,4104185692
+dimwishlist:item=2485881870&perks=247725512,3215448563
+dimwishlist:item=2485881870&perks=247725512,1089671869
+dimwishlist:item=2485881870&perks=247725512,960997401
+
+
+// Unloved - [Aztecross S26A1 SD Godrolls] (pvp)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. https://youtu.be/mEQLcwtMtcs tags:pvp
+dimwishlist:item=2485881870&perks=247725512,1015611457
+
+
+// Unloved - [itzTizzle S26A1 SD Godrolls] (pve)
+//notes: [itzTizzle S26A1 SD Godrolls] Great Origin Trait. Feels nice too. https://youtu.be/KW5x4YGVRtI tags:pve
+dimwishlist:item=2485881870&perks=1840239774,3230963543,831391274,1089671869
+dimwishlist:item=2485881870&perks=1840239774,3230963543,831391274,3215448563
+dimwishlist:item=2485881870&perks=1840239774,3230963543,831391274,4104185692
+dimwishlist:item=2485881870&perks=1840239774,3230963543,2848615171,1089671869
+dimwishlist:item=2485881870&perks=1840239774,3230963543,2848615171,3215448563
+dimwishlist:item=2485881870&perks=1840239774,3230963543,2848615171,4104185692
+dimwishlist:item=2485881870&perks=1840239774,3230963543,247725512,1089671869
+dimwishlist:item=2485881870&perks=1840239774,3230963543,247725512,3215448563
+dimwishlist:item=2485881870&perks=1840239774,3230963543,247725512,4104185692
+dimwishlist:item=2485881870&perks=1840239774,3230963543,1168162263,1089671869
+dimwishlist:item=2485881870&perks=1840239774,3230963543,1168162263,3215448563
+dimwishlist:item=2485881870&perks=1840239774,3230963543,1168162263,4104185692
+
+
+// Unloved - [itzTizzle S26A1 SD Godrolls] (pve)
+//notes: [itzTizzle S26A1 SD Godrolls] Great Origin Trait. Feels nice too. https://youtu.be/KW5x4YGVRtI tags:pve
+dimwishlist:item=2485881870&perks=831391274,960997401
+
+
+// Unloved - [itzTizzle S26A1 SD Godrolls] (pvp)
+//notes: [itzTizzle S26A1 SD Godrolls] Great Origin Trait. https://youtu.be/KW5x4YGVRtI tags:pvp
+dimwishlist:item=2485881870&perks=2450788523,1015611457
+dimwishlist:item=2485881870&perks=2450788523,1194056669
+dimwishlist:item=2485881870&perks=1570042021,1015611457
+dimwishlist:item=2485881870&perks=1570042021,1194056669
+
+
 // Code Duello - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier B Rank 11/24 tags:pve
 dimwishlist:item=2496242052&perks=3300816228,4104185692
@@ -8768,9 +9368,22 @@ dimwishlist:item=2499720827&perks=1840239774,3230963543,3700496672,3891536761
 dimwishlist:item=2499720827&perks=1840239774,3230963543,243981275,3891536761
 
 
+// Division (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Two round burst Sidearms are the best for M&K users. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=2501377328&perks=684456054,2173046394
+dimwishlist:item=2501377328&perks=684456054,31345821
+
+
 // Division (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] First Arc Sidearm since Plunder. You're probably just using Voltshot—or PvP perks. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=2501377328&perks=684456054,2173046394
+
+
+// Division (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2501377328&perks=691659142,2173046394
+dimwishlist:item=2501377328&perks=691659142,4082225868
+dimwishlist:item=2501377328&perks=691659142,3708227201
 
 
 // Caretaker - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -9711,6 +10324,25 @@ dimwishlist:item=2680976411&perks=580685494,3721627275,1631667848,243981275
 dimwishlist:item=2680976411&perks=580685494,3721627275,1631667848,3523296417
 
 
+// Lotus-Eater (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Void one to round out Rocket Sidearms. Withering Gaze gives access to Weaken for other subclasses. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=2697143634&perks=776531651,2048641572
+dimwishlist:item=2697143634&perks=776531651,1134488199
+dimwishlist:item=2697143634&perks=776531651,4049631843
+dimwishlist:item=2697143634&perks=880644845,2048641572
+dimwishlist:item=2697143634&perks=880644845,1134488199
+dimwishlist:item=2697143634&perks=880644845,4049631843
+dimwishlist:item=2697143634&perks=3700496672,2048641572
+dimwishlist:item=2697143634&perks=3700496672,1134488199
+dimwishlist:item=2697143634&perks=3700496672,4049631843
+dimwishlist:item=2697143634&perks=1523832109,2048641572
+dimwishlist:item=2697143634&perks=1523832109,1134488199
+dimwishlist:item=2697143634&perks=1523832109,4049631843
+dimwishlist:item=2697143634&perks=2859149211,2048641572
+dimwishlist:item=2697143634&perks=2859149211,1134488199
+dimwishlist:item=2697143634&perks=2859149211,4049631843
+
+
 // BxR-55 Battler - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Oversoul Edict; Role: Add clear tags:pve
 dimwishlist:item=2708806099&perks=1906147653,2675184851,1260401931
@@ -9875,10 +10507,34 @@ dimwishlist:item=2738601016&perks=2869569095,3078487919
 dimwishlist:item=2738601016&perks=3300816228,3078487919
 
 
+// Refusal of the Call (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=2755584425&perks=923806249,1782407750
+dimwishlist:item=2755584425&perks=923806249,31345821
+dimwishlist:item=2755584425&perks=923806249,3773585912
+
+
 // Refusal of the Call (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] First Strand Glaive, and first Discord Glaive. Good for glaive users but unlikely to persuade new believers. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=2755584425&perks=1966281507,1782407750
 dimwishlist:item=2755584425&perks=1966281507,3773585912
+
+
+// Refusal of the Call (Adept) - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Impulse Amplifier makes the projectile almost hitscan. (No preferred fourth column traits.) Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=2755584425&perks=951095735,878237828
+dimwishlist:item=2755584425&perks=951095735,120721526
+
+
+// Refusal of the Call (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2755584425&perks=951095735,3773585912
+dimwishlist:item=2755584425&perks=951095735,1782407750
+
+
+// Refusal of the Call (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2755584425&perks=1966281507,2224838837
 
 
 // THE SWARM - [Aegis S24A2 Endgame Analysis] (pve)
@@ -10559,6 +11215,13 @@ dimwishlist:item=2852052802&perks=839105230,679225683,1820235745,4049631843
 dimwishlist:item=2855157553&perks=4071163871,4104185692
 
 
+// Watchful Eye (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not exactly a DPS weapon but with Rolling Storm it doesn't do too badly. Rapid Fire (900) LMGs still do more damage overall though. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=2856225832&perks=3643424744,3218042543
+dimwishlist:item=2856225832&perks=684456054,3218042543
+dimwishlist:item=2856225832&perks=2869569095,3218042543
+
+
 // Watchful Eye (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Rare "normal speed" Arc LMG for non-raiders. Use with Runneth Over if possible. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=2856225832&perks=2869569095,557221067
@@ -10571,6 +11234,20 @@ dimwishlist:item=2856225832&perks=3643424744,3708227201
 //notes: [Datto S26A1 Heresy Godrolls] Rare "normal speed" Arc LMG for non-raiders. Use with Runneth Over if possible. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=2856225832&perks=684456054,3218042543
 dimwishlist:item=2856225832&perks=684456054,3966416502
+
+
+// Watchful Eye (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Not as good as raid equivalents but those are raid weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2856225832&perks=3592538738,3966416502
+dimwishlist:item=2856225832&perks=3592538738,3218042543
+
+
+// Watchful Eye (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Not as good as raid equivalents but those are raid weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2856225832&perks=3643424744,557221067
+dimwishlist:item=2856225832&perks=3643424744,31345821
+dimwishlist:item=2856225832&perks=2869569095,557221067
+dimwishlist:item=2856225832&perks=2869569095,31345821
 
 
 // Syncopation-53 - [Aztecross S23 World Drop Godrolls] (pvp)
@@ -10674,6 +11351,31 @@ dimwishlist:item=2869466318&perks=1359896290,1365187766
 dimwishlist:item=2869466318&perks=3161816588,1015611457
 dimwishlist:item=2869466318&perks=744594675,1015611457
 dimwishlist:item=2869466318&perks=691659142,1015611457
+
+
+// The Palindrome - [Aztecross S26A1 Review] (god-pvp)
+//notes: [Aztecross S26A1 Review] Was Void, now Arc. Best PvP HC currently. Tied-highest Range/Stability stats. To The Pain feels great on Palindrome but stacks are removed when stowed. Go for Range. https://youtu.be/o-Y4fwHoytg tags:god-pvp
+dimwishlist:item=2876244791&perks=4090651448,3938834702,3081867624,1050127423
+dimwishlist:item=2876244791&perks=4090651448,3938834702,3081867624,744217850
+dimwishlist:item=2876244791&perks=3250034553,3938834702,3081867624,1050127423
+dimwishlist:item=2876244791&perks=3250034553,3938834702,3081867624,744217850
+
+
+// The Palindrome - [Aztecross S26A1 Review] (pve)
+//notes: [Aztecross S26A1 Review] Was Void, now Arc. Tied-highest Range/Stability stats. No Voltshot or Jolting Feedback but has Rolling Storm. Not that good in PvE though. https://youtu.be/o-Y4fwHoytg tags:pve
+dimwishlist:item=2876244791&perks=3038247973,3218042543
+
+
+// The Palindrome - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Used to be better. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=2876244791&perks=3038247973,3081867624
+dimwishlist:item=2876244791&perks=3038247973,2109543898
+dimwishlist:item=2876244791&perks=3038247973,2720533289
+
+
+// The Palindrome - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Used to be better. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=2876244791&perks=3713215006,3218042543
 
 
 // Until Its Return - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -11481,6 +12183,14 @@ dimwishlist:item=3019024381&perks=3978468247,3751912585
 dimwishlist:item=3044460004&perks=1556840489,4104185692
 
 
+// Abyssal Edge (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Wave frames are great. Redirection's buff puts it above other damage traits like En Garde, Surrounded, Sword Logic, etc. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=3054597646&perks=1749209109,3201496230
+dimwishlist:item=3054597646&perks=2590710093,3201496230
+dimwishlist:item=3054597646&perks=923806249,3201496230
+dimwishlist:item=3054597646&perks=2244851822,3201496230
+
+
 // Abyssal Edge (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] A rare Strand sword, also a Wave frame. Tireless Blade with En Garde might be nice as a swap weapon. Elemental Honing might be a play but it's very build and encounter dependent. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=3054597646&perks=2590710093,1685431615
@@ -11496,6 +12206,17 @@ dimwishlist:item=3054597646&perks=1749209109,3708227201
 dimwishlist:item=3054597646&perks=1749209109,3201496230
 dimwishlist:item=3054597646&perks=2590710093,3201496230
 dimwishlist:item=3054597646&perks=2244851822,3201496230
+
+
+// Abyssal Edge (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3054597646&perks=2590710093,31345821
+dimwishlist:item=3054597646&perks=2590710093,831391274
+
+
+// Abyssal Edge (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3054597646&perks=1749209109,3708227201
 
 
 // Timelines' Vertex - [Aegis S24A2 Endgame Analysis] (pve)
@@ -11914,6 +12635,39 @@ dimwishlist:item=3211624072&perks=1359896290,3891536761,2120661319
 dimwishlist:item=3216652511&perks=509074078,4082225868,4091460919
 
 
+// Redrix's Estoc - [Aztecross S26A1 Godroll] (god-pvp)
+//notes: [Aztecross S26A1 Godroll] Don't think Headseeker/Rapid Hit are needed, Kill Clip is great. Go for max Range. https://youtu.be/EWQJR1AAVA8 tags:god-pvp
+dimwishlist:item=3218364298&perks=3250034553,3142289711,2579169598,1015611457
+
+
+// Redrix's Estoc - [Aztecross S26A1 Godroll] (pve)
+//notes: [Aztecross S26A1 Godroll] https://youtu.be/EWQJR1AAVA8 tags:pve
+dimwishlist:item=3218364298&perks=3250034553,106909392,1955165503,124408337
+dimwishlist:item=3218364298&perks=3250034553,106909392,3523296417,124408337
+
+
+// Redrix's Estoc - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Same amazing frame as BxR Battler. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=3218364298&perks=3523296417,124408337
+dimwishlist:item=3218364298&perks=3523296417,31345821
+
+
+// Redrix's Estoc - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Same amazing frame as BxR Battler. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=3218364298&perks=1428297954,1015611457
+dimwishlist:item=3218364298&perks=1428297954,247725512
+dimwishlist:item=3218364298&perks=2387244414,1015611457
+dimwishlist:item=3218364298&perks=2387244414,247725512
+dimwishlist:item=3218364298&perks=2579169598,1015611457
+dimwishlist:item=3218364298&perks=2579169598,247725512
+
+
+// Redrix's Estoc - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Same amazing frame as BxR Battler. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=3218364298&perks=1195158366,3047969693
+dimwishlist:item=3218364298&perks=1195158366,460017080
+
+
 // Laser Painter - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 12/15 tags:pve
 dimwishlist:item=3221722018&perks=2284787283,2896038713,3988215619
@@ -12236,6 +12990,46 @@ dimwishlist:item=3360937899&perks=2048641572,1464081238
 dimwishlist:item=3360937899&perks=2579169598,1194056669
 
 
+// Unvoiced - [Aztecross S26A1 SD Godrolls] (pve)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. https://youtu.be/mEQLcwtMtcs tags:pve
+dimwishlist:item=3360937899&perks=2048641572,1464081238
+
+
+// Unvoiced - [Aztecross S26A1 SD Godrolls] (pve)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. https://youtu.be/mEQLcwtMtcs tags:pve
+dimwishlist:item=3360937899&perks=1354429876,3078487919
+dimwishlist:item=3360937899&perks=3987942396,3078487919
+
+
+// Unvoiced - [Aztecross S26A1 SD Godrolls] (pve)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. https://youtu.be/mEQLcwtMtcs tags:pve
+dimwishlist:item=3360937899&perks=3201496230,4104185692
+dimwishlist:item=3360937899&perks=3201496230,1546637391
+dimwishlist:item=3360937899&perks=3201496230,3078487919
+
+
+// Unvoiced - [Aztecross S26A1 SD Godrolls] (pvp)
+//notes: [Aztecross S26A1 SD Godrolls] Great Origin Trait, essentially free Explosive Payload against redbars; Exhaust and reduced Flinch seems bugged though, can't tell the difference. Go for max Range. https://youtu.be/mEQLcwtMtcs tags:pvp
+dimwishlist:item=3360937899&perks=2579169598,1194056669
+
+
+// Unvoiced - [itzTizzle S26A1 SD Godrolls] (pve)
+//notes: [itzTizzle S26A1 SD Godrolls] Great Origin Trait. Some rolls you can't get on Nessa's Oblation. https://youtu.be/KW5x4YGVRtI tags:pve
+dimwishlist:item=3360937899&perks=4090651448,791862061,3987942396,3078487919
+dimwishlist:item=3360937899&perks=4090651448,791862061,1354429876,3078487919
+
+
+// Unvoiced - [itzTizzle S26A1 SD Godrolls] (pve)
+//notes: [itzTizzle S26A1 SD Godrolls] Great Origin Trait. Some rolls you can't get on Nessa's Oblation. https://youtu.be/KW5x4YGVRtI tags:pve
+dimwishlist:item=3360937899&perks=4090651448,791862061,2048641572,1464081238
+
+
+// Unvoiced - [itzTizzle S26A1 SD Godrolls] (pvp)
+//notes: [itzTizzle S26A1 SD Godrolls] Great Origin Trait. Some rolls you can't get on Nessa's Oblation. https://youtu.be/KW5x4YGVRtI tags:pvp
+dimwishlist:item=3360937899&perks=4090651448,3142289711,2579169598,1194056669
+dimwishlist:item=3360937899&perks=1482024992,3142289711,2579169598,1194056669
+
+
 // Bequest - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier S Rank 5/33 tags:god-pve
 dimwishlist:item=3366545721&perks=1749209109,3708227201,766321425
@@ -12446,6 +13240,71 @@ dimwishlist:item=3433930495&perks=2579169598,460017080,3404929162
 dimwishlist:item=3433930495&perks=2579169598,2458213969,3404929162
 
 
+// Exalted Truth - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Destabilizing Rounds' Volatile AoE can discharge Bolt Charge. Void ties in with this season's artifact mods very well. Alacrity might be good for solo content. https://youtu.be/qm1y-xlCpPE tags:god-pve
+dimwishlist:item=3436626079&perks=106909392,2048641572,4049631843
+dimwishlist:item=3436626079&perks=1087426260,2048641572,4049631843
+
+
+// Exalted Truth - [Aztecross S26A1 Review] (god-pvp)
+//notes: [Aztecross S26A1 Review] Highest base Range/Stability of 140s, can hit 100 for both, but low Aim Assistance. Withering Gaze with Precision Instrument allows for 1b2c kills, just ADS for 1.4-1.5 seconds before shooting. Go for Range. https://youtu.be/qm1y-xlCpPE tags:god-pvp
+dimwishlist:item=3436626079&perks=3250034553,3142289711,1134488199,555281244,4008116374
+
+
+// Exalted Truth - [Aztecross S26A1 Review] (pve)
+//notes: [Aztecross S26A1 Review] Destabilizing Rounds' Volatile AoE can discharge Bolt Charge. Void ties in with this season's artifact mods very well. Alacrity might be good for solo content. https://youtu.be/qm1y-xlCpPE tags:pve
+dimwishlist:item=3436626079&perks=2048641572,4049631843
+dimwishlist:item=3436626079&perks=2048641572,776531651
+dimwishlist:item=3436626079&perks=2048641572,1464081238
+
+
+// Exalted Truth - [Aztecross S26A1 Review] (pvp)
+//notes: [Aztecross S26A1 Review] Highest base Range/Stability of 140s, can hit 100 for both, but low Aim Assistance. Withering Gaze with Precision Instrument allows for 1b2c kills, just ADS for 1.4-1.5 seconds before shooting. Go for Range. https://youtu.be/qm1y-xlCpPE tags:pvp
+dimwishlist:item=3436626079&perks=2579169598,699525795
+dimwishlist:item=3436626079&perks=2579169598,2720533289
+
+
+// Exalted Truth - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Rare Withering Gaze on Primary. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=3436626079&perks=1134488199,776531651
+dimwishlist:item=3436626079&perks=1134488199,1464081238
+
+
+// Exalted Truth - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Rare Withering Gaze on Primary. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=3436626079&perks=2387244414,555281244
+dimwishlist:item=3436626079&perks=2387244414,699525795
+
+
+// Exalted Truth - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Rare Withering Gaze on Primary. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=3436626079&perks=588594999,699525795
+dimwishlist:item=3436626079&perks=588594999,2720533289
+dimwishlist:item=3436626079&perks=3619207468,699525795
+dimwishlist:item=3436626079&perks=3619207468,2720533289
+dimwishlist:item=3436626079&perks=3161816588,699525795
+dimwishlist:item=3436626079&perks=3161816588,2720533289
+dimwishlist:item=3436626079&perks=2579169598,699525795
+dimwishlist:item=3436626079&perks=2579169598,2720533289
+
+
+// Peacebond - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=3437370193&perks=124408337,1955165503
+
+
+// Peacebond - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=3437370193&perks=1820235745,4104185692
+dimwishlist:item=3437370193&perks=124408337,4104185692
+
+
+// Peacebond - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=3437370193&perks=588594999,1015611457
+dimwishlist:item=3437370193&perks=2387244414,1015611457
+
+
 // Chivalric Fire - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier F Rank 31/33 Probably only good for quirky builds like Gyrfalcons tags:pve
 dimwishlist:item=3438139008&perks=776531651,2048641572,4091460919
@@ -12482,6 +13341,25 @@ dimwishlist:item=3444688218&perks=4293542123,3038247973
 dimwishlist:item=3444688218&perks=4293542123,3824105627
 dimwishlist:item=3444688218&perks=3017780555,3038247973
 dimwishlist:item=3444688218&perks=3017780555,3824105627
+
+
+// Vision of Confluence - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Frenzy-buffed Reloading Heal Clip is great. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=3444688218&perks=3017780555,4104185692
+dimwishlist:item=3444688218&perks=3017780555,3215448563
+dimwishlist:item=3444688218&perks=3418782618,4104185692
+dimwishlist:item=3444688218&perks=3418782618,3215448563
+
+
+// Vision of Confluence - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Frenzy-buffed Reloading Heal Clip is great. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=3444688218&perks=4293542123,3824105627
+dimwishlist:item=3444688218&perks=4293542123,3038247973
+
+
+// Vision of Confluence - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=3444688218&perks=2387244414,1015611457
 
 
 // Omniscient Eye - [Aegis S24A2 Endgame Analysis] (pve)
@@ -12660,6 +13538,25 @@ dimwishlist:item=3503019618&perks=3700496672,1771339417,120721526
 dimwishlist:item=3503019618&perks=3700496672,3523296417,120721526
 dimwishlist:item=3503019618&perks=1774574192,1771339417,120721526
 dimwishlist:item=3503019618&perks=1774574192,3523296417,120721526
+
+
+// Keen Thistle (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] There are many Solar Snipers, here's another if you still need one. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=3503560035&perks=3987942396,3078487919
+
+
+// Keen Thistle (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] There are many Solar Snipers, here's another if you still need one. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=3503560035&perks=3400784728,1354429876
+dimwishlist:item=3503560035&perks=3400784728,1546637391
+
+
+// Keen Thistle (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pvp)
+//notes: [itzTizzle S26A1 Playlist Godrolls] There are many Solar Snipers, here's another if you still need one. https://youtu.be/M2wS8acGScg tags:pvp
+dimwishlist:item=3503560035&perks=957782887,47981717
+dimwishlist:item=3503560035&perks=957782887,588594999
+dimwishlist:item=3503560035&perks=2579169598,47981717
+dimwishlist:item=3503560035&perks=2579169598,588594999
 
 
 // Coriolis Force - [Aegis S24A2 Endgame Analysis] (pve)
@@ -13023,6 +13920,19 @@ dimwishlist:item=3621336854&perks=201365942,3365897133
 dimwishlist:item=3623686757&perks=3987942396,3078487919
 
 
+// Hezen Vengeance (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Tomorrow's Answer but Solar for better synergy. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=3623686757&perks=3987942396,3078487919
+dimwishlist:item=3623686757&perks=3643424744,3078487919
+
+
+// Hezen Vengeance (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Tomorrow's Answer but Solar for better synergy. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=3623686757&perks=3643424744,1439600632
+dimwishlist:item=3623686757&perks=3643424744,1089671869
+dimwishlist:item=3623686757&perks=3643424744,3194351027
+
+
 // Negative Space - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier B Rank 11/33 tags:pve
 dimwishlist:item=3629968765&perks=1749209109,3708227201
@@ -13163,6 +14073,19 @@ dimwishlist:item=3654744298&perks=3418782618,557221067
 dimwishlist:item=3654744298&perks=3824105627,1464081238
 dimwishlist:item=3654744298&perks=3824105627,1134488199
 dimwishlist:item=3654744298&perks=3824105627,557221067
+
+
+// Corrective Measure - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Even with Commemoration and Hammerhead, don't sleep on this one. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=3654744298&perks=2048641572,1464081238
+dimwishlist:item=3654744298&perks=2048641572,4049631843
+dimwishlist:item=3654744298&perks=3523296417,1464081238
+dimwishlist:item=3654744298&perks=3523296417,4049631843
+
+
+// Corrective Measure - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Even with Commemoration and Hammerhead, don't sleep on this one. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=3654744298&perks=3523296417,11612903
 
 
 // BrayTech Osprey - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -13405,6 +14328,42 @@ dimwishlist:item=3757612024&perks=3017780555,4293542123,2489430594
 // Luna's Howl - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Alt for Zaouli's Bane; Role: Add clear. tags:pve
 dimwishlist:item=3757612024&perks=3017780555,4293542123
+
+
+// Admetus-D - [Aztecross S26A1 Heresy World Loot] (pvp)
+//notes: [Aztecross S26A1 Heresy World Loot] Not a bad archetype for PvP, but not good in PvE, only has Void synergy going for it this season. https://youtu.be/MyMA5reS2IY tags:pvp
+dimwishlist:item=3776430252&perks=2579169598,1134488199
+dimwishlist:item=3776430252&perks=2579169598,555281244
+
+
+// Admetus-D - [Aztecross S26A1 Heresy World Loot] (pve)
+//notes: [Aztecross S26A1 Heresy World Loot] Not a bad archetype for PvP, but not good in PvE, only has Void synergy going for it this season. https://youtu.be/MyMA5reS2IY tags:pve
+dimwishlist:item=3776430252&perks=776531651,1464081238
+dimwishlist:item=3776430252&perks=776531651,1134488199
+dimwishlist:item=3776430252&perks=776531651,1089671869
+dimwishlist:item=3776430252&perks=776531651,4104185692
+dimwishlist:item=3776430252&perks=3713215006,1464081238
+dimwishlist:item=3776430252&perks=3713215006,1134488199
+dimwishlist:item=3776430252&perks=3713215006,1089671869
+dimwishlist:item=3776430252&perks=3713215006,4104185692
+
+
+// Admetus-D - [itzTizzle S26A1 World Drop Godrolls] (pve)
+//notes: [itzTizzle S26A1 World Drop Godrolls] Feels tanky in hands but hits hard in exchange, especially with Hakke Breach Armaments. Rare Withering Gaze on a Primary. https://youtu.be/KNLtJR4mMFo tags:pve
+dimwishlist:item=3776430252&perks=776531651,1134488199
+dimwishlist:item=3776430252&perks=776531651,1464081238
+dimwishlist:item=3776430252&perks=3713215006,1134488199
+dimwishlist:item=3776430252&perks=3713215006,1464081238
+
+
+// Admetus-D - [itzTizzle S26A1 World Drop Godrolls] (pvp)
+//notes: [itzTizzle S26A1 World Drop Godrolls] Feels tanky in hands but hits hard in exchange, especially with Hakke Breach Armaments. Rare Withering Gaze on a Primary. https://youtu.be/KNLtJR4mMFo tags:pvp
+dimwishlist:item=3776430252&perks=2579169598,1194056669
+dimwishlist:item=3776430252&perks=2579169598,555281244
+dimwishlist:item=3776430252&perks=247725512,1194056669
+dimwishlist:item=3776430252&perks=247725512,555281244
+dimwishlist:item=3776430252&perks=3619207468,1194056669
+dimwishlist:item=3776430252&perks=3619207468,555281244
 
 
 // Abyss Defiant (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
@@ -13713,6 +14672,20 @@ dimwishlist:item=3844610113&perks=3891536761,3078487919
 dimwishlist:item=3844610113&perks=3891536761,4104185692
 
 
+// Praedyth's Revenge - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Power creeping The Supremacy with Kinetic Tremors + Bait And Switch as KT is buffed by BnS. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=3844610113&perks=3891536761,3078487919,2589407652
+dimwishlist:item=3844610113&perks=3418782618,3078487919,2589407652
+dimwishlist:item=3844610113&perks=3987942396,3078487919,2589407652
+dimwishlist:item=3844610113&perks=3978468247,3078487919,2589407652
+dimwishlist:item=3844610113&perks=1354429876,3078487919,2589407652
+
+
+// Praedyth's Revenge - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Very high Aim Assist makes it feel great, pair it with high Handling. https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=3844610113&perks=1840239774,2866798147,47981717
+
+
 // Sola's Scar (Adept) - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier E Rank 27/33 tags:pve
 dimwishlist:item=3847137620&perks=1749209109,4104185692
@@ -13928,6 +14901,25 @@ dimwishlist:item=3920310144&perks=968510818,3751912585,164468655
 dimwishlist:item=3920310144&perks=968510818,1771339417,164468655
 
 
+// Lotus-Eater - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Void one to round out Rocket Sidearms. Withering Gaze gives access to Weaken for other subclasses. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=3922217119&perks=776531651,2048641572
+dimwishlist:item=3922217119&perks=776531651,1134488199
+dimwishlist:item=3922217119&perks=776531651,4049631843
+dimwishlist:item=3922217119&perks=880644845,2048641572
+dimwishlist:item=3922217119&perks=880644845,1134488199
+dimwishlist:item=3922217119&perks=880644845,4049631843
+dimwishlist:item=3922217119&perks=3700496672,2048641572
+dimwishlist:item=3922217119&perks=3700496672,1134488199
+dimwishlist:item=3922217119&perks=3700496672,4049631843
+dimwishlist:item=3922217119&perks=1523832109,2048641572
+dimwishlist:item=3922217119&perks=1523832109,1134488199
+dimwishlist:item=3922217119&perks=1523832109,4049631843
+dimwishlist:item=3922217119&perks=2859149211,2048641572
+dimwishlist:item=3922217119&perks=2859149211,1134488199
+dimwishlist:item=3922217119&perks=2859149211,4049631843
+
+
 // Parabellum - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Role: Champs; Alt: Out of Bounds (Threat Detector/Demolitionist + Under-Over. Adaptive frame not that good in PvE tags:god-pve
 dimwishlist:item=3926811686&perks=3828510309,1870851715,43555494
@@ -13996,6 +14988,22 @@ dimwishlist:item=3947966653&perks=1583705720,2458213969
 dimwishlist:item=3947966653&perks=1583705720,831391274
 
 
+// Anamnesis (Adept) - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Need to see how Demoralize synergises with Dragonfly. Draw Time capped at 500ms pre-scalar. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 https://youtu.be/2892J4w99To tags:god-pve
+dimwishlist:item=3949253499&perks=2801223209,16392701,776531651,2048641572
+dimwishlist:item=3949253499&perks=2801223209,16392701,776531651,1464081238
+dimwishlist:item=3949253499&perks=2801223209,16392701,2848615171,2048641572
+dimwishlist:item=3949253499&perks=2801223209,16392701,2848615171,1464081238
+dimwishlist:item=3949253499&perks=2801223209,16392701,201365942,2048641572
+dimwishlist:item=3949253499&perks=2801223209,16392701,201365942,1464081238
+dimwishlist:item=3949253499&perks=4067834857,16392701,776531651,2048641572
+dimwishlist:item=3949253499&perks=4067834857,16392701,776531651,1464081238
+dimwishlist:item=3949253499&perks=4067834857,16392701,2848615171,2048641572
+dimwishlist:item=3949253499&perks=4067834857,16392701,2848615171,1464081238
+dimwishlist:item=3949253499&perks=4067834857,16392701,201365942,2048641572
+dimwishlist:item=3949253499&perks=4067834857,16392701,201365942,1464081238
+
+
 // Anamnesis (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=3949253499&perks=776531651,2048641572
@@ -14012,6 +15020,20 @@ dimwishlist:item=3949253499&perks=2848615171,1464081238
 //notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=3949253499&perks=201365942,3365897133
 dimwishlist:item=3949253499&perks=2652708987,3365897133
+
+
+// Anamnesis (Adept) - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=3949253499&perks=2652708987,951095735
+dimwishlist:item=3949253499&perks=201365942,951095735
+
+
+// Anamnesis (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Another Lightweight Void Bow. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3949253499&perks=2848615171,1464081238
+dimwishlist:item=3949253499&perks=2848615171,2048641572
+dimwishlist:item=3949253499&perks=776531651,1464081238
+dimwishlist:item=3949253499&perks=776531651,2048641572
 
 
 // Imminence (Adept) - [Aztecross S24 Review] (god-pve)
@@ -14622,6 +15644,31 @@ dimwishlist:item=4067556514&perks=3643424744,1771339417,1536798515
 dimwishlist:item=4067556514&perks=3643424744,2896038713,1536798515
 
 
+// The Palindrome (Adept) - [Aztecross S26A1 Review] (god-pvp)
+//notes: [Aztecross S26A1 Review] Was Void, now Arc. Best PvP HC currently. Tied-highest Range/Stability stats. To The Pain feels great on Palindrome but stacks are removed when stowed. Go for Range. https://youtu.be/o-Y4fwHoytg tags:god-pvp
+dimwishlist:item=4077588826&perks=4090651448,3938834702,3081867624,1050127423
+dimwishlist:item=4077588826&perks=4090651448,3938834702,3081867624,744217850
+dimwishlist:item=4077588826&perks=3250034553,3938834702,3081867624,1050127423
+dimwishlist:item=4077588826&perks=3250034553,3938834702,3081867624,744217850
+
+
+// The Palindrome (Adept) - [Aztecross S26A1 Review] (pve)
+//notes: [Aztecross S26A1 Review] Was Void, now Arc. Tied-highest Range/Stability stats. No Voltshot or Jolting Feedback but has Rolling Storm. Not that good in PvE though. https://youtu.be/o-Y4fwHoytg tags:pve
+dimwishlist:item=4077588826&perks=3038247973,3218042543
+
+
+// The Palindrome (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Used to be better. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=4077588826&perks=3038247973,3081867624
+dimwishlist:item=4077588826&perks=3038247973,2109543898
+dimwishlist:item=4077588826&perks=3038247973,2720533289
+
+
+// The Palindrome (Adept) - [itzTizzle S26A1 Playlist Godrolls] (pve)
+//notes: [itzTizzle S26A1 Playlist Godrolls] Used to be better. https://youtu.be/M2wS8acGScg tags:pve
+dimwishlist:item=4077588826&perks=3713215006,3218042543
+
+
 // Accrued Redemption - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Raconteur; Role: Add clear, Champs tags:pve
 dimwishlist:item=4095896073&perks=201365942,3365897133
@@ -14770,6 +15817,13 @@ dimwishlist:item=4114929480&perks=280464955,2652708987
 dimwishlist:item=4114929480&perks=1427256713,2839173408
 
 
+// Mirror Imago (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Permeability is here for some reason, not sure why yet, but we'll find it. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=4116546788&perks=1820235745,831391274,120721526
+dimwishlist:item=4116546788&perks=1820235745,4082225868,120721526
+dimwishlist:item=4116546788&perks=1820235745,31345821,120721526
+
+
 // Mirror Imago (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Only Strand 900rpm besides Imminence, but isn't really better besides specific builds. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=4116546788&perks=1631667848,4082225868
@@ -14779,6 +15833,23 @@ dimwishlist:item=4116546788&perks=691659142,4082225868
 // Mirror Imago (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Only Strand 900rpm besides Imminence, but isn't really better besides specific builds. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=4116546788&perks=1820235745,831391274
+
+
+// Mirror Imago (Adept) - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Go for Range. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=4116546788&perks=588594999,365154968,878237828
+
+
+// Mirror Imago (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=4116546788&perks=3713215006,4082225868
+dimwishlist:item=4116546788&perks=691659142,4082225868
+
+
+// Mirror Imago (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=4116546788&perks=1820235745,831391274
+dimwishlist:item=4116546788&perks=1820235745,31345821
 
 
 // Locus Locutus - [Aegis S24A2 Endgame Analysis] (pve)
@@ -15048,9 +16119,21 @@ dimwishlist:item=4169225313&perks=1126264488,2679249093
 dimwishlist:item=4169225313&perks=1631667848,2360754333,1380061575
 
 
+// Eyes Unveiled (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Great synergy with current artifact, but otherwise not much going for it against other LFRs. Discord/Withering Gaze would be great if in the third column. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=4173311704&perks=2010801679,1427256713,120721526
+dimwishlist:item=4173311704&perks=3643424744,1427256713,120721526
+
+
 // Eyes Unveiled (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Not the best DPS LFR. Is it an ad-clear LFR? Discord being in 4th column is a bit restrictive. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=4173311704&perks=3400784728,4104185692
+
+
+// Eyes Unveiled (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Has strong perks but on the wrong weapon (LFR for ad clear?), or other Void LFRs do better. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=4173311704&perks=3643424744,1427256713
+dimwishlist:item=4173311704&perks=3643424744,4104185692
 
 
 // Fatebringer - [Datto S26A1 VoG Loot Refresh] (pve)
@@ -15059,6 +16142,30 @@ dimwishlist:item=4184168210&perks=3038247973,3824105627
 dimwishlist:item=4184168210&perks=3038247973,4049631843
 dimwishlist:item=4184168210&perks=3418782618,3824105627
 dimwishlist:item=4184168210&perks=3418782618,4049631843
+
+
+// Fatebringer - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Osmosis + Firefly has good Empyrean synergy. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=4184168210&perks=3038247973,4104185692
+dimwishlist:item=4184168210&perks=3038247973,4049631843
+dimwishlist:item=4184168210&perks=3891536761,4104185692
+dimwishlist:item=4184168210&perks=3891536761,4049631843
+
+
+// Fatebringer - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Osmosis + Firefly has good Empyrean synergy. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=4184168210&perks=1774574192,3824105627
+
+
+// Fatebringer - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=4184168210&perks=47981717,699525795
+
+
+// Fatebringer - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=4184168210&perks=3619207468,555281244
+dimwishlist:item=4184168210&perks=3619207468,2720533289
 
 
 // Adored - [Aegis S24A2 Endgame Analysis] (pve)
@@ -15132,6 +16239,30 @@ dimwishlist:item=4219826183&perks=3038247973,3824105627
 dimwishlist:item=4219826183&perks=3038247973,4049631843
 dimwishlist:item=4219826183&perks=3418782618,3824105627
 dimwishlist:item=4219826183&perks=3418782618,4049631843
+
+
+// Fatebringer (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Osmosis + Firefly has good Empyrean synergy. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=4219826183&perks=3038247973,4104185692
+dimwishlist:item=4219826183&perks=3038247973,4049631843
+dimwishlist:item=4219826183&perks=3891536761,4104185692
+dimwishlist:item=4219826183&perks=3891536761,4049631843
+
+
+// Fatebringer (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pve)
+//notes: [itzTizzle S26A1 VoG Godrolls] Very strong Origin Trait. Osmosis + Firefly has good Empyrean synergy. https://youtu.be/WwJQILc1KzI tags:pve
+dimwishlist:item=4219826183&perks=1774574192,3824105627
+
+
+// Fatebringer (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=4219826183&perks=47981717,699525795
+
+
+// Fatebringer (Timelost) - [itzTizzle S26A1 VoG Godrolls] (pvp)
+//notes: [itzTizzle S26A1 VoG Godrolls] https://youtu.be/WwJQILc1KzI tags:pvp
+dimwishlist:item=4219826183&perks=3619207468,555281244
+dimwishlist:item=4219826183&perks=3619207468,2720533289
 
 
 // Avalanche - [Aegis S24A2 Endgame Analysis] (pve)
@@ -15467,3 +16598,926 @@ dimwishlist:item=4255586669&perks=3301904089,1556840489,1546637391,2120661319
 dimwishlist:item=4287947559&perks=4071163871,2679249093,1004814308
 
 
+// Abyssal Edge - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Wave frames are great. Redirection's buff puts it above other damage traits like En Garde, Surrounded, Sword Logic, etc. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=547165496&perks=1749209109,3201496230
+dimwishlist:item=547165496&perks=2590710093,3201496230
+dimwishlist:item=547165496&perks=923806249,3201496230
+dimwishlist:item=547165496&perks=2244851822,3201496230
+
+
+// Abyssal Edge - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] A rare Strand sword, also a Wave frame. Tireless Blade with En Garde might be nice as a swap weapon. Elemental Honing might be a play but it's very build and encounter dependent. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=547165496&perks=2590710093,1685431615
+
+
+// Abyssal Edge - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] A rare Strand sword, also a Wave frame. Tireless Blade with En Garde might be nice as a swap weapon. Elemental Honing might be a play but it's very build and encounter dependent. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=547165496&perks=1749209109,3708227201
+
+
+// Abyssal Edge - [Fallout S26A1 Redirection Rework] (pve)
+//notes: [Fallout S26A1 Redirection Rework] Redirection way more forgiving now, fewer kills for more buffed shots. Ammo refund perks on swords make it easier to build stacks. Flash Counter explosions count as hits for Redirection stacks. https://youtu.be/5jFide-8l0g tags:pve
+dimwishlist:item=547165496&perks=1749209109,3201496230
+dimwishlist:item=547165496&perks=2590710093,3201496230
+dimwishlist:item=547165496&perks=2244851822,3201496230
+
+
+// Abyssal Edge - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=547165496&perks=2590710093,31345821
+dimwishlist:item=547165496&perks=2590710093,831391274
+
+
+// Abyssal Edge - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=547165496&perks=1749209109,3708227201
+
+
+// Abyssal Edge - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Wave frames are great. Redirection's buff puts it above other damage traits like En Garde, Surrounded, Sword Logic, etc. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=4221591387&perks=1749209109,3201496230
+dimwishlist:item=4221591387&perks=2590710093,3201496230
+dimwishlist:item=4221591387&perks=923806249,3201496230
+dimwishlist:item=4221591387&perks=2244851822,3201496230
+
+
+// Abyssal Edge - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] A rare Strand sword, also a Wave frame. Tireless Blade with En Garde might be nice as a swap weapon. Elemental Honing might be a play but it's very build and encounter dependent. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=4221591387&perks=2590710093,1685431615
+
+
+// Abyssal Edge - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] A rare Strand sword, also a Wave frame. Tireless Blade with En Garde might be nice as a swap weapon. Elemental Honing might be a play but it's very build and encounter dependent. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=4221591387&perks=1749209109,3708227201
+
+
+// Abyssal Edge - [Fallout S26A1 Redirection Rework] (pve)
+//notes: [Fallout S26A1 Redirection Rework] Redirection way more forgiving now, fewer kills for more buffed shots. Ammo refund perks on swords make it easier to build stacks. Flash Counter explosions count as hits for Redirection stacks. https://youtu.be/5jFide-8l0g tags:pve
+dimwishlist:item=4221591387&perks=1749209109,3201496230
+dimwishlist:item=4221591387&perks=2590710093,3201496230
+dimwishlist:item=4221591387&perks=2244851822,3201496230
+
+
+// Abyssal Edge - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=4221591387&perks=2590710093,31345821
+dimwishlist:item=4221591387&perks=2590710093,831391274
+
+
+// Abyssal Edge - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=4221591387&perks=1749209109,3708227201
+
+
+// Abyssal Edge (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Wave frames are great. Redirection's buff puts it above other damage traits like En Garde, Surrounded, Sword Logic, etc. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=2712683313&perks=1749209109,3201496230
+dimwishlist:item=2712683313&perks=2590710093,3201496230
+dimwishlist:item=2712683313&perks=923806249,3201496230
+dimwishlist:item=2712683313&perks=2244851822,3201496230
+
+
+// Abyssal Edge (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] A rare Strand sword, also a Wave frame. Tireless Blade with En Garde might be nice as a swap weapon. Elemental Honing might be a play but it's very build and encounter dependent. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=2712683313&perks=2590710093,1685431615
+
+
+// Abyssal Edge (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] A rare Strand sword, also a Wave frame. Tireless Blade with En Garde might be nice as a swap weapon. Elemental Honing might be a play but it's very build and encounter dependent. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=2712683313&perks=1749209109,3708227201
+
+
+// Abyssal Edge (Adept) - [Fallout S26A1 Redirection Rework] (pve)
+//notes: [Fallout S26A1 Redirection Rework] Redirection way more forgiving now, fewer kills for more buffed shots. Ammo refund perks on swords make it easier to build stacks. Flash Counter explosions count as hits for Redirection stacks. https://youtu.be/5jFide-8l0g tags:pve
+dimwishlist:item=2712683313&perks=1749209109,3201496230
+dimwishlist:item=2712683313&perks=2590710093,3201496230
+dimwishlist:item=2712683313&perks=2244851822,3201496230
+
+
+// Abyssal Edge (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2712683313&perks=2590710093,31345821
+dimwishlist:item=2712683313&perks=2590710093,831391274
+
+
+// Abyssal Edge (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2712683313&perks=1749209109,3708227201
+
+
+// Adamantite - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=3229982889&perks=692399809,2298656195
+
+
+// Adamantite - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Support Frame so lean into the support aspect. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3229982889&perks=692399809,2298656195
+dimwishlist:item=3229982889&perks=692399809,960997401
+
+
+// Adamantite - [Aztecross S26A1 Heresy Godrolls] (pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pve
+dimwishlist:item=3229982889&perks=923806249,960997401
+dimwishlist:item=3229982889&perks=923806249,831391274
+
+
+// Adamantite - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. New Support Frame Auto, this one spawning Unraveling projectiles instead of providing Restoration, could pair with Edge of Intent. Basically build into the support aspect, it's not best in slot for other uses. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3229982889&perks=692399809,2298656195
+
+
+// Adamantite - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. New Support Frame Auto, this one spawning Unraveling projectiles instead of providing Restoration, could pair with Edge of Intent. Basically build into the support aspect, it's not best in slot for other uses. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3229982889&perks=923806249,960997401
+
+
+// Adamantite - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=2987244302&perks=692399809,2298656195
+
+
+// Adamantite - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Support Frame so lean into the support aspect. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=2987244302&perks=692399809,2298656195
+dimwishlist:item=2987244302&perks=692399809,960997401
+
+
+// Adamantite - [Aztecross S26A1 Heresy Godrolls] (pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pve
+dimwishlist:item=2987244302&perks=923806249,960997401
+dimwishlist:item=2987244302&perks=923806249,831391274
+
+
+// Adamantite - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. New Support Frame Auto, this one spawning Unraveling projectiles instead of providing Restoration, could pair with Edge of Intent. Basically build into the support aspect, it's not best in slot for other uses. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2987244302&perks=692399809,2298656195
+
+
+// Adamantite - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. New Support Frame Auto, this one spawning Unraveling projectiles instead of providing Restoration, could pair with Edge of Intent. Basically build into the support aspect, it's not best in slot for other uses. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2987244302&perks=923806249,960997401
+
+
+// Adamantite (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=3485029080&perks=692399809,2298656195
+
+
+// Adamantite (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Support Frame so lean into the support aspect. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3485029080&perks=692399809,2298656195
+dimwishlist:item=3485029080&perks=692399809,960997401
+
+
+// Adamantite (Adept) - [Aztecross S26A1 Heresy Godrolls] (pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pve
+dimwishlist:item=3485029080&perks=923806249,960997401
+dimwishlist:item=3485029080&perks=923806249,831391274
+
+
+// Adamantite (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. New Support Frame Auto, this one spawning Unraveling projectiles instead of providing Restoration, could pair with Edge of Intent. Basically build into the support aspect, it's not best in slot for other uses. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3485029080&perks=692399809,2298656195
+
+
+// Adamantite (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. New Support Frame Auto, this one spawning Unraveling projectiles instead of providing Restoration, could pair with Edge of Intent. Basically build into the support aspect, it's not best in slot for other uses. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3485029080&perks=923806249,960997401
+
+
+// Afterlight - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Synergises with artifact, and also Void. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+//dimwishlist:item=8x61521336&perks=2010801679,1427256713
+//dimwishlist:item=8x61521336&perks=3978468247,1427256713
+
+
+// Afterlight - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] No Controlled Burst so not for sustained DPS, but has some ammo perks. Use with Runneth Over if you can. https://youtu.be/OV_ryUDFWUE tags:pve
+//dimwishlist:item=8x61521336&perks=3978468247,1427256713
+//dimwishlist:item=8x61521336&perks=3978468247,2048641572
+//dimwishlist:item=8x61521336&perks=2010801679,1427256713
+//dimwishlist:item=8x61521336&perks=2010801679,2048641572
+//dimwishlist:item=8x61521336&perks=1556840489,1427256713
+//dimwishlist:item=8x61521336&perks=1556840489,2048641572
+
+
+// Afterlight - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+//dimwishlist:item=8x61521336&perks=1645158859,1799762209
+
+
+// Afterlight - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Go with Glacioclasm for DPS, the USP for this is Discord refunding ammo. https://youtu.be/6a7dDmo2BgY tags:pve
+//dimwishlist:item=8x61521336&perks=3978468247,1427256713
+//dimwishlist:item=8x61521336&perks=3978468247,2048641572
+
+
+// Afterlight - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Synergises with artifact, and also Void. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=1834313033&perks=2010801679,1427256713,120721526
+dimwishlist:item=1834313033&perks=3978468247,1427256713,120721526
+
+
+// Afterlight - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] No Controlled Burst so not for sustained DPS, but has some ammo perks. Use with Runneth Over if you can. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=1834313033&perks=3978468247,1427256713
+dimwishlist:item=1834313033&perks=3978468247,2048641572
+dimwishlist:item=1834313033&perks=2010801679,1427256713
+dimwishlist:item=1834313033&perks=2010801679,2048641572
+dimwishlist:item=1834313033&perks=1556840489,1427256713
+dimwishlist:item=1834313033&perks=1556840489,2048641572
+
+
+// Afterlight - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=1834313033&perks=1645158859,1799762209
+
+
+// Afterlight - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Go with Glacioclasm for DPS, the USP for this is Discord refunding ammo. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=1834313033&perks=3978468247,1427256713
+dimwishlist:item=1834313033&perks=3978468247,2048641572
+
+
+// Afterlight (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Synergises with artifact, and also Void. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=3953163559&perks=2010801679,1427256713
+dimwishlist:item=3953163559&perks=3978468247,1427256713
+
+
+// Afterlight (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] No Controlled Burst so not for sustained DPS, but has some ammo perks. Use with Runneth Over if you can. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3953163559&perks=3978468247,1427256713
+dimwishlist:item=3953163559&perks=3978468247,2048641572
+dimwishlist:item=3953163559&perks=2010801679,1427256713
+dimwishlist:item=3953163559&perks=2010801679,2048641572
+dimwishlist:item=3953163559&perks=1556840489,1427256713
+dimwishlist:item=3953163559&perks=1556840489,2048641572
+
+
+// Afterlight (Adept) - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=3953163559&perks=1645158859,1799762209
+
+
+// Afterlight (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Go with Glacioclasm for DPS, the USP for this is Discord refunding ammo. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3953163559&perks=3978468247,1427256713
+dimwishlist:item=3953163559&perks=3978468247,2048641572
+
+
+// Anamnesis - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Need to see how Demoralize synergises with Dragonfly. Draw Time capped at 500ms pre-scalar. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 https://youtu.be/2892J4w99To tags:god-pve
+//dimwishlist:item=3x949253499&perks=2801223209,16392701,776531651,2048641572
+//dimwishlist:item=3x949253499&perks=2801223209,16392701,776531651,1464081238
+//dimwishlist:item=3x949253499&perks=2801223209,16392701,2848615171,2048641572
+//dimwishlist:item=3x949253499&perks=2801223209,16392701,2848615171,1464081238
+//dimwishlist:item=3x949253499&perks=2801223209,16392701,201365942,2048641572
+//dimwishlist:item=3x949253499&perks=2801223209,16392701,201365942,1464081238
+//dimwishlist:item=3x949253499&perks=4067834857,16392701,776531651,2048641572
+//dimwishlist:item=3x949253499&perks=4067834857,16392701,776531651,1464081238
+//dimwishlist:item=3x949253499&perks=4067834857,16392701,2848615171,2048641572
+//dimwishlist:item=3x949253499&perks=4067834857,16392701,2848615171,1464081238
+//dimwishlist:item=3x949253499&perks=4067834857,16392701,201365942,2048641572
+//dimwishlist:item=3x949253499&perks=4067834857,16392701,201365942,1464081238
+
+
+// Anamnesis - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+//dimwishlist:item=3x949253499&perks=776531651,2048641572
+//dimwishlist:item=3x949253499&perks=201365942,2048641572
+//dimwishlist:item=3x949253499&perks=2652708987,2048641572
+
+
+// Anamnesis - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+//dimwishlist:item=3x949253499&perks=2848615171,1464081238
+
+
+// Anamnesis - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+//dimwishlist:item=3x949253499&perks=201365942,3365897133
+//dimwishlist:item=3x949253499&perks=2652708987,3365897133
+
+
+// Anamnesis - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+//dimwishlist:item=3x949253499&perks=2652708987,951095735
+//dimwishlist:item=3x949253499&perks=201365942,951095735
+
+
+// Anamnesis - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Another Lightweight Void Bow. https://youtu.be/6a7dDmo2BgY tags:pve
+//dimwishlist:item=3x949253499&perks=2848615171,1464081238
+//dimwishlist:item=3x949253499&perks=2848615171,2048641572
+//dimwishlist:item=3x949253499&perks=776531651,1464081238
+//dimwishlist:item=3x949253499&perks=776531651,20486415723x949253499
+
+
+// Anamnesis - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Need to see how Demoralize synergises with Dragonfly. Draw Time capped at 500ms pre-scalar. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 https://youtu.be/2892J4w99To tags:god-pve
+dimwishlist:item=3417731926&perks=2801223209,16392701,776531651,2048641572
+dimwishlist:item=3417731926&perks=2801223209,16392701,776531651,1464081238
+dimwishlist:item=3417731926&perks=2801223209,16392701,2848615171,2048641572
+dimwishlist:item=3417731926&perks=2801223209,16392701,2848615171,1464081238
+dimwishlist:item=3417731926&perks=2801223209,16392701,201365942,2048641572
+dimwishlist:item=3417731926&perks=2801223209,16392701,201365942,1464081238
+dimwishlist:item=3417731926&perks=4067834857,16392701,776531651,2048641572
+dimwishlist:item=3417731926&perks=4067834857,16392701,776531651,1464081238
+dimwishlist:item=3417731926&perks=4067834857,16392701,2848615171,2048641572
+dimwishlist:item=3417731926&perks=4067834857,16392701,2848615171,1464081238
+dimwishlist:item=3417731926&perks=4067834857,16392701,201365942,2048641572
+dimwishlist:item=3417731926&perks=4067834857,16392701,201365942,1464081238
+
+
+// Anamnesis - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3417731926&perks=776531651,2048641572
+dimwishlist:item=3417731926&perks=201365942,2048641572
+dimwishlist:item=3417731926&perks=2652708987,2048641572
+
+
+// Anamnesis - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3417731926&perks=2848615171,1464081238
+
+
+// Anamnesis - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3417731926&perks=201365942,3365897133
+dimwishlist:item=3417731926&perks=2652708987,3365897133
+
+
+// Anamnesis - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=3417731926&perks=2652708987,951095735
+dimwishlist:item=3417731926&perks=201365942,951095735
+
+
+// Anamnesis - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Another Lightweight Void Bow. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3417731926&perks=2848615171,1464081238
+dimwishlist:item=3417731926&perks=2848615171,2048641572
+dimwishlist:item=3417731926&perks=776531651,1464081238
+dimwishlist:item=3417731926&perks=776531651,2048641572
+
+
+// Anamnesis (Adept) - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Need to see how Demoralize synergises with Dragonfly. Draw Time capped at 500ms pre-scalar. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 https://youtu.be/2892J4w99To tags:god-pve
+dimwishlist:item=1536325168&perks=2801223209,16392701,776531651,2048641572
+dimwishlist:item=1536325168&perks=2801223209,16392701,776531651,1464081238
+dimwishlist:item=1536325168&perks=2801223209,16392701,2848615171,2048641572
+dimwishlist:item=1536325168&perks=2801223209,16392701,2848615171,1464081238
+dimwishlist:item=1536325168&perks=2801223209,16392701,201365942,2048641572
+dimwishlist:item=1536325168&perks=2801223209,16392701,201365942,1464081238
+dimwishlist:item=1536325168&perks=4067834857,16392701,776531651,2048641572
+dimwishlist:item=1536325168&perks=4067834857,16392701,776531651,1464081238
+dimwishlist:item=1536325168&perks=4067834857,16392701,2848615171,2048641572
+dimwishlist:item=1536325168&perks=4067834857,16392701,2848615171,1464081238
+dimwishlist:item=1536325168&perks=4067834857,16392701,201365942,2048641572
+dimwishlist:item=1536325168&perks=4067834857,16392701,201365942,1464081238
+
+
+// Anamnesis (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=1536325168&perks=776531651,2048641572
+dimwishlist:item=1536325168&perks=201365942,2048641572
+dimwishlist:item=1536325168&perks=2652708987,2048641572
+
+
+// Anamnesis (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=1536325168&perks=2848615171,1464081238
+
+
+// Anamnesis (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Destabilizing Rounds got a massive buff, but Dragonfly + Demoralize has nice AoE too. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=1536325168&perks=201365942,3365897133
+dimwishlist:item=1536325168&perks=2652708987,3365897133
+
+
+// Anamnesis (Adept) - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=1536325168&perks=2652708987,951095735
+dimwishlist:item=1536325168&perks=201365942,951095735
+
+
+// Anamnesis (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Another Lightweight Void Bow. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=1536325168&perks=2848615171,1464081238
+dimwishlist:item=1536325168&perks=2848615171,2048641572
+dimwishlist:item=1536325168&perks=776531651,1464081238
+dimwishlist:item=1536325168&perks=776531651,2048641572
+
+
+// Division - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Two round burst Sidearms are the best for M&K users. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+//dimwishlist:item=2x501377328&perks=684456054,2173046394
+//dimwishlist:item=2x501377328&perks=684456054,31345821
+
+
+// Division - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] First Arc Sidearm since Plunder. You're probably just using Voltshot—or PvP perks. https://youtu.be/OV_ryUDFWUE tags:pve
+//dimwishlist:item=2x501377328&perks=684456054,2173046394
+
+
+// Division - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+//dimwishlist:item=2x501377328&perks=691659142,2173046394
+//dimwishlist:item=2x501377328&perks=691659142,4082225868
+//dimwishlist:item=2x501377328&perks=691659142,3708227201
+
+
+// Division - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Two round burst Sidearms are the best for M&K users. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=2992463569&perks=684456054,2173046394
+dimwishlist:item=2992463569&perks=684456054,31345821
+
+
+// Division - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] First Arc Sidearm since Plunder. You're probably just using Voltshot—or PvP perks. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=2992463569&perks=684456054,2173046394
+
+
+// Division - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2992463569&perks=691659142,2173046394
+dimwishlist:item=2992463569&perks=691659142,4082225868
+dimwishlist:item=2992463569&perks=691659142,3708227201
+
+
+// Division (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Two round burst Sidearms are the best for M&K users. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=3734001727&perks=684456054,2173046394
+dimwishlist:item=3734001727&perks=684456054,31345821
+
+
+// Division (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] First Arc Sidearm since Plunder. You're probably just using Voltshot—or PvP perks. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3734001727&perks=684456054,2173046394
+
+
+// Division (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3734001727&perks=691659142,2173046394
+dimwishlist:item=3734001727&perks=691659142,4082225868
+dimwishlist:item=3734001727&perks=691659142,3708227201
+
+
+// Eyes Unveiled - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Great synergy with current artifact, but otherwise not much going for it against other LFRs. Discord/Withering Gaze would be great if in the third column. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=727781522&perks=2010801679,1427256713
+dimwishlist:item=727781522&perks=3643424744,1427256713
+
+
+// Eyes Unveiled - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Not the best DPS LFR. Is it an ad-clear LFR? Discord being in 4th column is a bit restrictive. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=727781522&perks=3400784728,4104185692
+
+
+// Eyes Unveiled - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Has strong perks but on the wrong weapon (LFR for ad clear?), or other Void LFRs do better. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=727781522&perks=3643424744,1427256713
+dimwishlist:item=727781522&perks=3643424744,4104185692
+
+
+// Eyes Unveiled - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Great synergy with current artifact, but otherwise not much going for it against other LFRs. Discord/Withering Gaze would be great if in the third column. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=615373993&perks=2010801679,1427256713,120721526
+dimwishlist:item=615373993&perks=3643424744,1427256713,120721526
+
+
+// Eyes Unveiled - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Not the best DPS LFR. Is it an ad-clear LFR? Discord being in 4th column is a bit restrictive. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=615373993&perks=3400784728,4104185692
+
+
+// Eyes Unveiled - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Has strong perks but on the wrong weapon (LFR for ad clear?), or other Void LFRs do better. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=615373993&perks=3643424744,1427256713
+dimwishlist:item=615373993&perks=3643424744,4104185692
+
+
+// Eyes Unveiled (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Great synergy with current artifact, but otherwise not much going for it against other LFRs. Discord/Withering Gaze would be great if in the third column. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=282549639&perks=2010801679,1427256713
+dimwishlist:item=282549639&perks=3643424744,1427256713
+
+
+// Eyes Unveiled (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Not the best DPS LFR. Is it an ad-clear LFR? Discord being in 4th column is a bit restrictive. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=282549639&perks=3400784728,4104185692
+
+
+// Eyes Unveiled (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Has strong perks but on the wrong weapon (LFR for ad clear?), or other Void LFRs do better. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=282549639&perks=3643424744,1427256713
+dimwishlist:item=282549639&perks=3643424744,4104185692
+
+
+// Mirror Imago - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Permeability is here for some reason, not sure why yet, but we'll find it. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+//dimwishlist:item=4x116546788&perks=1820235745,831391274
+//dimwishlist:item=4x116546788&perks=1820235745,4082225868
+//dimwishlist:item=4x116546788&perks=1820235745,31345821
+
+
+// Mirror Imago - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Only Strand 900rpm besides Imminence, but isn't really better besides specific builds. https://youtu.be/OV_ryUDFWUE tags:pve
+//dimwishlist:item=4x116546788&perks=1631667848,4082225868
+//dimwishlist:item=4x116546788&perks=691659142,4082225868
+
+
+// Mirror Imago - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Only Strand 900rpm besides Imminence, but isn't really better besides specific builds. https://youtu.be/OV_ryUDFWUE tags:pve
+//dimwishlist:item=4x116546788&perks=1820235745,831391274
+
+
+// Mirror Imago - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Go for Range. https://youtu.be/vkC-oOTWSN0 tags:pvp
+//dimwishlist:item=4x116546788&perks=588594999,365154968,878237828
+
+
+// Mirror Imago - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
+//dimwishlist:item=4x116546788&perks=3713215006,4082225868
+//dimwishlist:item=4x116546788&perks=691659142,4082225868
+
+
+// Mirror Imago - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
+//dimwishlist:item=4x116546788&perks=1820235745,831391274
+//dimwishlist:item=4x116546788&perks=1820235745,31345821
+
+
+// Mirror Imago - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Permeability is here for some reason, not sure why yet, but we'll find it. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=3877448149&perks=1820235745,831391274,120721526
+dimwishlist:item=3877448149&perks=1820235745,4082225868,120721526
+dimwishlist:item=3877448149&perks=1820235745,31345821,120721526
+
+
+// Mirror Imago - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Only Strand 900rpm besides Imminence, but isn't really better besides specific builds. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3877448149&perks=1631667848,4082225868
+dimwishlist:item=3877448149&perks=691659142,4082225868
+
+
+// Mirror Imago - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Only Strand 900rpm besides Imminence, but isn't really better besides specific builds. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3877448149&perks=1820235745,831391274
+
+
+// Mirror Imago - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Go for Range. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=3877448149&perks=588594999,365154968,878237828
+
+
+// Mirror Imago - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3877448149&perks=3713215006,4082225868
+dimwishlist:item=3877448149&perks=691659142,4082225868
+
+
+// Mirror Imago - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3877448149&perks=1820235745,831391274
+dimwishlist:item=3877448149&perks=1820235745,31345821
+
+
+// Mirror Imago (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Permeability is here for some reason, not sure why yet, but we'll find it. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=302039451&perks=1820235745,831391274
+dimwishlist:item=302039451&perks=1820235745,4082225868
+dimwishlist:item=302039451&perks=1820235745,31345821
+
+
+// Mirror Imago (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Only Strand 900rpm besides Imminence, but isn't really better besides specific builds. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=302039451&perks=1631667848,4082225868
+dimwishlist:item=302039451&perks=691659142,4082225868
+
+
+// Mirror Imago (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Only Strand 900rpm besides Imminence, but isn't really better besides specific builds. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=302039451&perks=1820235745,831391274
+
+
+// Mirror Imago (Adept) - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Go for Range. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=302039451&perks=588594999,365154968,878237828
+
+
+// Mirror Imago (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=302039451&perks=3713215006,4082225868
+dimwishlist:item=302039451&perks=691659142,4082225868
+
+
+// Mirror Imago (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=302039451&perks=1820235745,831391274
+dimwishlist:item=302039451&perks=1820235745,31345821
+
+
+// Psychopomp - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:god-pve
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,2888557110
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,4104185692
+dimwishlist:item=4028298892&perks=3525010810,2822142346,2010801679,1089671869
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,2888557110
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=4028298892&perks=3525010810,2822142346,3987942396,1089671869
+
+
+// Psychopomp - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rolling Storm is great for clustered ad encounters with Arc builds. Full Court is hard to proc, Frenzy is more consistent for slightly less damage. Harmony with Envious Arsenal and an LMG might work? https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=4028298892&perks=684456054,3218042543
+dimwishlist:item=4028298892&perks=1583705720,3218042543
+dimwishlist:item=4028298892&perks=2010801679,3218042543
+
+
+// Psychopomp - [Aztecross S26A1 Review] (pve)
+//notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:pve
+dimwishlist:item=4028298892&perks=3525010810,2822142346,691659142,4104185692
+dimwishlist:item=4028298892&perks=3525010810,2822142346,691659142,3523296417
+
+
+// Psychopomp - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Area Denials don't really stack in teams, good for solo content but not hard content. Bolt Charges give Melee energy, pair with Pugilist for instant Melee charges. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=4028298892&perks=691659142,3218042543
+
+
+// Psychopomp - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Area Denials don't really stack in teams, good for solo content but not hard content. Bolt Charges give Melee energy, pair with Pugilist for instant Melee charges. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=4028298892&perks=3987942396,4104185692
+dimwishlist:item=4028298892&perks=2010801679,4104185692
+
+
+// Psychopomp - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:god-pve
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,3218042543,120721526
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,2888557110,120721526
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,4104185692,120721526
+dimwishlist:item=3840794631&perks=3525010810,2822142346,2010801679,1089671869,120721526
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,3218042543,120721526
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,2888557110,120721526
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,4104185692,120721526
+dimwishlist:item=3840794631&perks=3525010810,2822142346,3987942396,1089671869,120721526
+
+
+// Psychopomp - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rolling Storm is great for clustered ad encounters with Arc builds. Full Court is hard to proc, Frenzy is more consistent for slightly less damage. Harmony with Envious Arsenal and an LMG might work? https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=3840794631&perks=684456054,3218042543
+dimwishlist:item=3840794631&perks=1583705720,3218042543
+dimwishlist:item=3840794631&perks=2010801679,3218042543
+
+
+// Psychopomp - [Aztecross S26A1 Review] (pve)
+//notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:pve
+dimwishlist:item=3840794631&perks=3525010810,2822142346,691659142,4104185692
+dimwishlist:item=3840794631&perks=3525010810,2822142346,691659142,3523296417
+
+
+// Psychopomp - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Area Denials don't really stack in teams, good for solo content but not hard content. Bolt Charges give Melee energy, pair with Pugilist for instant Melee charges. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3840794631&perks=691659142,3218042543
+
+
+// Psychopomp - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Area Denials don't really stack in teams, good for solo content but not hard content. Bolt Charges give Melee energy, pair with Pugilist for instant Melee charges. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=3840794631&perks=3987942396,4104185692
+dimwishlist:item=3840794631&perks=2010801679,4104185692
+
+
+// Psychopomp (Adept) - [Aztecross S26A1 Review] (god-pve)
+//notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:god-pve
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,3218042543
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,2888557110
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,4104185692
+dimwishlist:item=2553380021&perks=3525010810,2822142346,2010801679,1089671869
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,3218042543
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,2888557110
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,4104185692
+dimwishlist:item=2553380021&perks=3525010810,2822142346,3987942396,1089671869
+
+
+// Psychopomp (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rolling Storm is great for clustered ad encounters with Arc builds. Full Court is hard to proc, Frenzy is more consistent for slightly less damage. Harmony with Envious Arsenal and an LMG might work? https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=2553380021&perks=684456054,3218042543
+dimwishlist:item=2553380021&perks=1583705720,3218042543
+dimwishlist:item=2553380021&perks=2010801679,3218042543
+
+
+// Psychopomp (Adept) - [Aztecross S26A1 Review] (pve)
+//notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:pve
+dimwishlist:item=2553380021&perks=3525010810,2822142346,691659142,4104185692
+dimwishlist:item=2553380021&perks=3525010810,2822142346,691659142,3523296417
+
+
+// Psychopomp (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Area Denials don't really stack in teams, good for solo content but not hard content. Bolt Charges give Melee energy, pair with Pugilist for instant Melee charges. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2553380021&perks=691659142,3218042543
+
+
+// Psychopomp (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Area Denials don't really stack in teams, good for solo content but not hard content. Bolt Charges give Melee energy, pair with Pugilist for instant Melee charges. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2553380021&perks=3987942396,4104185692
+dimwishlist:item=2553380021&perks=2010801679,4104185692
+
+
+// Refusal of the Call - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+//dimwishlist:item=2x755584425&perks=923806249,1782407750
+//dimwishlist:item=2x755584425&perks=923806249,31345821
+//dimwishlist:item=2x755584425&perks=923806249,3773585912
+
+
+// Refusal of the Call - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] First Strand Glaive, and first Discord Glaive. Good for glaive users but unlikely to persuade new believers. https://youtu.be/OV_ryUDFWUE tags:pve
+//dimwishlist:item=2x755584425&perks=1966281507,1782407750
+//dimwishlist:item=2x755584425&perks=1966281507,3773585912
+
+
+// Refusal of the Call - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Impulse Amplifier makes the projectile almost hitscan. (No preferred fourth column traits.) Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+//dimwishlist:item=2x755584425&perks=951095735,878237828
+
+
+// Refusal of the Call - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+//dimwishlist:item=2x755584425&perks=951095735,3773585912
+//dimwishlist:item=2x755584425&perks=951095735,1782407750
+
+
+// Refusal of the Call - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+//dimwishlist:item=2x755584425&perks=1966281507,2224838837
+
+
+// Refusal of the Call - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=2671849376&perks=923806249,1782407750
+dimwishlist:item=2671849376&perks=923806249,31345821
+dimwishlist:item=2671849376&perks=923806249,3773585912
+
+
+// Refusal of the Call - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] First Strand Glaive, and first Discord Glaive. Good for glaive users but unlikely to persuade new believers. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=2671849376&perks=1966281507,1782407750
+dimwishlist:item=2671849376&perks=1966281507,3773585912
+
+
+// Refusal of the Call - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Impulse Amplifier makes the projectile almost hitscan. (No preferred fourth column traits.) Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=2671849376&perks=951095735,878237828
+dimwishlist:item=2671849376&perks=951095735,120721526
+
+
+// Refusal of the Call - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2671849376&perks=951095735,3773585912
+dimwishlist:item=2671849376&perks=951095735,1782407750
+
+
+// Refusal of the Call - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=2671849376&perks=1966281507,2224838837
+
+
+// Refusal of the Call (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=25228802&perks=923806249,1782407750
+dimwishlist:item=25228802&perks=923806249,31345821
+dimwishlist:item=25228802&perks=923806249,3773585912
+
+
+// Refusal of the Call (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] First Strand Glaive, and first Discord Glaive. Good for glaive users but unlikely to persuade new believers. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=25228802&perks=1966281507,1782407750
+dimwishlist:item=25228802&perks=1966281507,3773585912
+
+
+// Refusal of the Call (Adept) - [Aztecross S26A1 Heresy Godrolls] (pvp)
+//notes: [Aztecross S26A1 Heresy Godrolls] Impulse Amplifier makes the projectile almost hitscan. (No preferred fourth column traits.) Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:pvp
+dimwishlist:item=25228802&perks=951095735,878237828
+
+
+// Refusal of the Call (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=25228802&perks=951095735,3773585912
+dimwishlist:item=25228802&perks=951095735,1782407750
+
+
+// Refusal of the Call (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=25228802&perks=1966281507,2224838837
+
+
+// Watchful Eye - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not exactly a DPS weapon but with Rolling Storm it doesn't do too badly. Rapid Fire (900) LMGs still do more damage overall though. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=1757177186&perks=3643424744,3218042543
+dimwishlist:item=1757177186&perks=684456054,3218042543
+dimwishlist:item=1757177186&perks=2869569095,3218042543
+
+
+// Watchful Eye - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rare "normal speed" Arc LMG for non-raiders. Use with Runneth Over if possible. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=1757177186&perks=2869569095,557221067
+dimwishlist:item=1757177186&perks=2869569095,3708227201
+dimwishlist:item=1757177186&perks=3643424744,557221067
+dimwishlist:item=1757177186&perks=3643424744,3708227201
+
+
+// Watchful Eye - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rare "normal speed" Arc LMG for non-raiders. Use with Runneth Over if possible. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=1757177186&perks=684456054,3218042543
+dimwishlist:item=1757177186&perks=684456054,3966416502
+
+
+// Watchful Eye - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Not as good as raid equivalents but those are raid weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=1757177186&perks=3592538738,3966416502
+dimwishlist:item=1757177186&perks=3592538738,3218042543
+
+
+// Watchful Eye - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Not as good as raid equivalents but those are raid weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=1757177186&perks=3643424744,557221067
+dimwishlist:item=1757177186&perks=3643424744,31345821
+dimwishlist:item=1757177186&perks=2869569095,557221067
+dimwishlist:item=1757177186&perks=2869569095,31345821
+
+
+// Watchful Eye - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not exactly a DPS weapon but with Rolling Storm it doesn't do too badly. Rapid Fire (900) LMGs still do more damage overall though. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=768610585&perks=3643424744,3218042543
+dimwishlist:item=768610585&perks=684456054,3218042543
+dimwishlist:item=768610585&perks=2869569095,3218042543
+
+
+// Watchful Eye - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rare "normal speed" Arc LMG for non-raiders. Use with Runneth Over if possible. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=768610585&perks=2869569095,557221067
+dimwishlist:item=768610585&perks=2869569095,3708227201
+dimwishlist:item=768610585&perks=3643424744,557221067
+dimwishlist:item=768610585&perks=3643424744,3708227201
+
+
+// Watchful Eye - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rare "normal speed" Arc LMG for non-raiders. Use with Runneth Over if possible. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=768610585&perks=684456054,3218042543
+dimwishlist:item=768610585&perks=684456054,3966416502
+
+
+// Watchful Eye - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Not as good as raid equivalents but those are raid weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=768610585&perks=3592538738,3966416502
+dimwishlist:item=768610585&perks=3592538738,3218042543
+
+
+// Watchful Eye - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Not as good as raid equivalents but those are raid weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=768610585&perks=3643424744,557221067
+dimwishlist:item=768610585&perks=3643424744,31345821
+dimwishlist:item=768610585&perks=2869569095,557221067
+dimwishlist:item=768610585&perks=2869569095,31345821
+
+
+// Watchful Eye (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)
+//notes: [Aztecross S26A1 Heresy Godrolls] Not exactly a DPS weapon but with Rolling Storm it doesn't do too badly. Rapid Fire (900) LMGs still do more damage overall though. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
+dimwishlist:item=737409399&perks=3643424744,3218042543
+dimwishlist:item=737409399&perks=684456054,3218042543
+dimwishlist:item=737409399&perks=2869569095,3218042543
+
+
+// Watchful Eye (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rare "normal speed" Arc LMG for non-raiders. Use with Runneth Over if possible. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=737409399&perks=2869569095,557221067
+dimwishlist:item=737409399&perks=2869569095,3708227201
+dimwishlist:item=737409399&perks=3643424744,557221067
+dimwishlist:item=737409399&perks=3643424744,3708227201
+
+
+// Watchful Eye (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
+//notes: [Datto S26A1 Heresy Godrolls] Rare "normal speed" Arc LMG for non-raiders. Use with Runneth Over if possible. https://youtu.be/OV_ryUDFWUE tags:pve
+dimwishlist:item=737409399&perks=684456054,3218042543
+dimwishlist:item=737409399&perks=684456054,3966416502
+
+
+// Watchful Eye (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Not as good as raid equivalents but those are raid weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=737409399&perks=3592538738,3966416502
+dimwishlist:item=737409399&perks=3592538738,3218042543
+
+
+// Watchful Eye (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
+//notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Not as good as raid equivalents but those are raid weapons. https://youtu.be/6a7dDmo2BgY tags:pve
+dimwishlist:item=737409399&perks=3643424744,557221067
+dimwishlist:item=737409399&perks=3643424744,31345821
+dimwishlist:item=737409399&perks=2869569095,557221067
+dimwishlist:item=737409399&perks=2869569095,31345821

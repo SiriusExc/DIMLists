@@ -86,6 +86,21 @@ dimwishlist:item=45643573&perks=3700496672,3365897133,1823011807
 dimwishlist:item=45643573&perks=3700496672,124408337,1823011807
 
 
+// The Title - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=55393445&perks=776531651,2048641572
+
+
+// The Title - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=55393445&perks=4071163871,3708227201
+
+
+// The Title - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=55393445&perks=1631667848,4082225868
+
+
 // Nation of Beasts - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Zaouli's Bane; Role: Add clear tags:pve
 dimwishlist:item=70083888&perks=169755979,64866129,1489048135
@@ -3229,6 +3244,21 @@ dimwishlist:item=861521336&perks=1645158859,1799762209
 // Afterlight (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
 //notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Go with Glacioclasm for DPS, the USP for this is Discord refunding ammo. https://youtu.be/6a7dDmo2BgY tags:pve
 dimwishlist:item=861521336&perks=3978468247,1427256713
+dimwishlist:item=861521336&perks=3978468247,2048641572
+
+
+// Afterlight (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=861521336&perks=1556840489,1546637391
+
+
+// Afterlight (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=861521336&perks=2010801679,1427256713
+
+
+// Afterlight (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
 dimwishlist:item=861521336&perks=3978468247,2048641572
 
 
@@ -7436,6 +7466,12 @@ dimwishlist:item=2026755633&perks=1467527085,679225683,1195158366,3673922083
 dimwishlist:item=2026755633&perks=1195158366,95528736
 
 
+// Keraunios - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2029899814&perks=3643424744,3218042543
+dimwishlist:item=2029899814&perks=684456054,3218042543
+
+
 // Deadlock - [Fallout S25A1 Godrolls] (pvp)
 //notes: [Fallout S25A1 Godrolls] Nice alternative in case you missed out on Compass Rose. https://youtu.be/BK8mDDgW49I tags:pvp
 dimwishlist:item=2035738085&perks=4071163871,47981717
@@ -9386,6 +9422,17 @@ dimwishlist:item=2501377328&perks=691659142,4082225868
 dimwishlist:item=2501377328&perks=691659142,3708227201
 
 
+// Division (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Voltshot great for ad clear, but Sword Logic is just about always up. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2501377328&perks=684456054,31345821
+dimwishlist:item=2501377328&perks=684456054,2173046394
+
+
+// Division (Adept) - [Fallout S26A2 Godrolls] (pvp)
+//notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pvp
+dimwishlist:item=2501377328&perks=3938834702,31345821
+
+
 // Caretaker - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 21/33 tags:god-pve
 dimwishlist:item=2508948099&perks=1749209109,3708227201,1823011807
@@ -9680,6 +9727,17 @@ dimwishlist:item=2591257541&perks=839105230,2680121939,968510818,1427256713,3988
 // The Enigma - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier A Rank 5/9 tags:god-pve
 dimwishlist:item=2595497736&perks=951095735,4104185692,357495645
+
+
+// Taraxippos - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Missing Kinetic Tremors and Shoot To Loot as desirable traits on Scouts. Tear also can't roll with Hatchling, breaks my heart. Precision Instrument helps take down beefy targets from across the map (FTTC to not reload). Explosive Payload is just extra damage. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2595813005&perks=1354429876,555281244
+dimwishlist:item=2595813005&perks=1354429876,3038247973
+
+
+// Taraxippos - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Missing Kinetic Tremors and Shoot To Loot as desirable traits on Scouts. Tear also can't roll with Hatchling, breaks my heart. Precision Instrument helps take down beefy targets from across the map (FTTC to not reload). Explosive Payload is just extra damage. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2595813005&perks=3828510309,3038247973
 
 
 // Chroma Rush - [itzTizzle S25A1 Splicer Godrolls] (god-pve)
@@ -10046,6 +10104,21 @@ dimwishlist:item=2653171213&perks=4071163871,1546637391,2988596335
 dimwishlist:item=2653171213&perks=4071163871,3751912585,2988596335
 
 
+// Hullabaloo - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Field Prep + One For All is specifically for Raniks, others are for good ad clearing. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2666273249&perks=2869569095,4049631843
+
+
+// Hullabaloo - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Field Prep + One For All is specifically for Raniks, others are for good ad clearing. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2666273249&perks=3523296417,2396489472
+
+
+// Hullabaloo - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Field Prep + One For All is specifically for Raniks, others are for good ad clearing. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2666273249&perks=2173046394,3218042543
+
+
 // Pure Poetry (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=2671639706&perks=1482024992,1885400500,1168162263,2896038713
@@ -10343,6 +10416,17 @@ dimwishlist:item=2697143634&perks=2859149211,1134488199
 dimwishlist:item=2697143634&perks=2859149211,4049631843
 
 
+// Lotus-Eater (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Best of the Act 2 weapons. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2697143634&perks=776531651,2048641572
+dimwishlist:item=2697143634&perks=3700496672,2048641572
+
+
+// Lotus-Eater (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Best of the Act 2 weapons. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2697143634&perks=3700496672,1134488199
+
+
 // BxR-55 Battler - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Oversoul Edict; Role: Add clear tags:pve
 dimwishlist:item=2708806099&perks=1906147653,2675184851,1260401931
@@ -10535,6 +10619,17 @@ dimwishlist:item=2755584425&perks=951095735,1782407750
 // Refusal of the Call (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
 //notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
 dimwishlist:item=2755584425&perks=1966281507,2224838837
+
+
+// Refusal of the Call (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Artifact mods Hold The Line and No Bell makes Glaives great this season. Discord will probably only work with projectile kills, but still good to get ammo back. Disruption Break works with Glaive melees, so shoot to break the shield and stab away. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2755584425&perks=3978468247,31345821
+
+
+// Refusal of the Call (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Artifact mods Hold The Line and No Bell makes Glaives great this season. Discord will probably only work with projectile kills, but still good to get ammo back. Disruption Break works with Glaive melees, so shoot to break the shield and stab away. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2755584425&perks=923806249,1683379515
+dimwishlist:item=2755584425&perks=923806249,1782407750
 
 
 // THE SWARM - [Aegis S24A2 Endgame Analysis] (pve)
@@ -14920,6 +15015,17 @@ dimwishlist:item=3922217119&perks=2859149211,1134488199
 dimwishlist:item=3922217119&perks=2859149211,4049631843
 
 
+// Lotus-Eater - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Best of the Act 2 weapons. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3922217119&perks=776531651,2048641572
+dimwishlist:item=3922217119&perks=3700496672,2048641572
+
+
+// Lotus-Eater - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Best of the Act 2 weapons. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3922217119&perks=3700496672,1134488199
+
+
 // Parabellum - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
 //notes: [Aegis S23 Endgame Analysis] Role: Champs; Alt: Out of Bounds (Threat Detector/Demolitionist + Under-Over. Adaptive frame not that good in PvE tags:god-pve
 dimwishlist:item=3926811686&perks=3828510309,1870851715,43555494
@@ -15034,6 +15140,18 @@ dimwishlist:item=3949253499&perks=2848615171,1464081238
 dimwishlist:item=3949253499&perks=2848615171,2048641572
 dimwishlist:item=3949253499&perks=776531651,1464081238
 dimwishlist:item=3949253499&perks=776531651,2048641572
+
+
+// Anamnesis (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Make the room go boom. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3949253499&perks=201365942,2048641572
+dimwishlist:item=3949253499&perks=2848615171,2048641572
+dimwishlist:item=3949253499&perks=776531651,2048641572
+
+
+// Anamnesis (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Make the room go boom. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3949253499&perks=201365942,1464081238
 
 
 // Imminence (Adept) - [Aztecross S24 Review] (god-pve)
@@ -15852,6 +15970,17 @@ dimwishlist:item=4116546788&perks=1820235745,831391274
 dimwishlist:item=4116546788&perks=1820235745,31345821
 
 
+// Mirror Imago (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=4116546788&perks=1631667848,4082225868
+
+
+// Mirror Imago (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=4116546788&perks=1820235745,31345821
+dimwishlist:item=4116546788&perks=3643424744,31345821
+
+
 // Locus Locutus - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 19/43 tags:pve
 dimwishlist:item=4132072834&perks=3643424744,1771339417,2565067140
@@ -16598,6 +16727,10 @@ dimwishlist:item=4255586669&perks=3301904089,1556840489,1546637391,2120661319
 dimwishlist:item=4287947559&perks=4071163871,2679249093,1004814308
 
 
+// YTrollsP ^
+// HomonymrollsP v
+
+
 // Abyssal Edge - [Aztecross S26A1 Heresy Godrolls] (god-pve)
 //notes: [Aztecross S26A1 Heresy Godrolls] Wave frames are great. Redirection's buff puts it above other damage traits like En Garde, Surrounded, Sword Logic, etc. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
 dimwishlist:item=547165496&perks=1749209109,3201496230
@@ -16868,6 +17001,51 @@ dimwishlist:item=3953163559&perks=3978468247,1427256713
 dimwishlist:item=3953163559&perks=3978468247,2048641572
 
 
+// Afterlight - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3228630258&perks=1556840489,1546637391
+
+
+// Afterlight - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3228630258&perks=2010801679,1427256713
+
+
+// Afterlight - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3228630258&perks=3978468247,2048641572
+
+
+// Afterlight - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=1834313033&perks=1556840489,1546637391
+
+
+// Afterlight - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=1834313033&perks=2010801679,1427256713
+
+
+// Afterlight - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=1834313033&perks=3978468247,2048641572
+
+
+// Afterlight (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3953163559&perks=1556840489,1546637391
+
+
+// Afterlight (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3953163559&perks=2010801679,1427256713
+
+
+// Afterlight (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here because you can just craft Zealot's Reward with Under Pressure and Successful Warm-up for a quicker-firing PvP Fusion. Use Runneth Over to further help Reservoir Burst. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3953163559&perks=3978468247,2048641572
+
+
 // Anamnesis - [Aztecross S26A1 Review] (god-pve)
 //notes: [Aztecross S26A1 Review] Pretty solid bow despite being Lightweight, which is getting regularly buffed. Need to see how Demoralize synergises with Dragonfly. Draw Time capped at 500ms pre-scalar. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 https://youtu.be/2892J4w99To tags:god-pve
 dimwishlist:item=2291392465&perks=2801223209,16392701,776531651,2048641572
@@ -17012,6 +17190,42 @@ dimwishlist:item=1536325168&perks=776531651,1464081238
 dimwishlist:item=1536325168&perks=776531651,2048641572
 
 
+// Anamnesis - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Make the room go boom. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2291392465&perks=201365942,2048641572
+dimwishlist:item=2291392465&perks=2848615171,2048641572
+dimwishlist:item=2291392465&perks=776531651,2048641572
+
+
+// Anamnesis - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Make the room go boom. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2291392465&perks=201365942,1464081238
+
+
+// Anamnesis - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Make the room go boom. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3417731926&perks=201365942,2048641572
+dimwishlist:item=3417731926&perks=2848615171,2048641572
+dimwishlist:item=3417731926&perks=776531651,2048641572
+
+
+// Anamnesis - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Make the room go boom. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3417731926&perks=201365942,1464081238
+
+
+// Anamnesis (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Make the room go boom. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=1536325168&perks=201365942,2048641572
+dimwishlist:item=1536325168&perks=2848615171,2048641572
+dimwishlist:item=1536325168&perks=776531651,2048641572
+
+
+// Anamnesis (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Make the room go boom. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=1536325168&perks=201365942,1464081238
+
+
 // Division - [Aztecross S26A1 Heresy Godrolls] (god-pve)
 //notes: [Aztecross S26A1 Heresy Godrolls] Two round burst Sidearms are the best for M&K users. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
 dimwishlist:item=2903168058&perks=684456054,2173046394
@@ -17064,6 +17278,39 @@ dimwishlist:item=3734001727&perks=684456054,2173046394
 dimwishlist:item=3734001727&perks=691659142,2173046394
 dimwishlist:item=3734001727&perks=691659142,4082225868
 dimwishlist:item=3734001727&perks=691659142,3708227201
+
+
+// Division - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Voltshot great for ad clear, but Sword Logic is just about always up. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2903168058&perks=684456054,31345821
+dimwishlist:item=2903168058&perks=684456054,2173046394
+
+
+// Division - [Fallout S26A2 Godrolls] (pvp)
+//notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pvp
+dimwishlist:item=2903168058&perks=3938834702,31345821
+
+
+// Division - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Voltshot great for ad clear, but Sword Logic is just about always up. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2992463569&perks=684456054,31345821
+dimwishlist:item=2992463569&perks=684456054,2173046394
+
+
+// Division - [Fallout S26A2 Godrolls] (pvp)
+//notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pvp
+dimwishlist:item=2992463569&perks=3938834702,31345821
+
+
+// Division (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Voltshot great for ad clear, but Sword Logic is just about always up. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3734001727&perks=684456054,31345821
+dimwishlist:item=3734001727&perks=684456054,2173046394
+
+
+// Division (Adept) - [Fallout S26A2 Godrolls] (pvp)
+//notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pvp
+dimwishlist:item=3734001727&perks=3938834702,31345821
 
 
 // Eyes Unveiled - [Aztecross S26A1 Heresy Godrolls] (god-pve)
@@ -17220,6 +17467,39 @@ dimwishlist:item=302039451&perks=691659142,4082225868
 //notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Imminence is best in slot but that's a raid weapon. https://youtu.be/6a7dDmo2BgY tags:pve
 dimwishlist:item=302039451&perks=1820235745,831391274
 dimwishlist:item=302039451&perks=1820235745,31345821
+
+
+// Mirror Imago - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3234363830&perks=1631667848,4082225868
+
+
+// Mirror Imago - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3234363830&perks=1820235745,31345821
+dimwishlist:item=3234363830&perks=3643424744,31345821
+
+
+// Mirror Imago - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3877448149&perks=1631667848,4082225868
+
+
+// Mirror Imago - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3877448149&perks=1820235745,31345821
+dimwishlist:item=3877448149&perks=3643424744,31345821
+
+
+// Mirror Imago (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=302039451&perks=1631667848,4082225868
+
+
+// Mirror Imago (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=302039451&perks=1820235745,31345821
+dimwishlist:item=302039451&perks=3643424744,31345821
 
 
 // Psychopomp - [Aztecross S26A1 Review] (god-pve)
@@ -17416,6 +17696,39 @@ dimwishlist:item=25228802&perks=951095735,1782407750
 // Refusal of the Call (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
 //notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. https://youtu.be/6a7dDmo2BgY tags:pve
 dimwishlist:item=25228802&perks=1966281507,2224838837
+
+
+// Refusal of the Call - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Artifact mods Hold The Line and No Bell makes Glaives great this season. Discord will probably only work with projectile kills, but still good to get ammo back. Disruption Break works with Glaive melees, so shoot to break the shield and stab away. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3269398063&perks=3978468247,31345821
+
+
+// Refusal of the Call - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Artifact mods Hold The Line and No Bell makes Glaives great this season. Discord will probably only work with projectile kills, but still good to get ammo back. Disruption Break works with Glaive melees, so shoot to break the shield and stab away. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=3269398063&perks=923806249,1683379515
+dimwishlist:item=3269398063&perks=923806249,1782407750
+
+
+// Refusal of the Call - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Artifact mods Hold The Line and No Bell makes Glaives great this season. Discord will probably only work with projectile kills, but still good to get ammo back. Disruption Break works with Glaive melees, so shoot to break the shield and stab away. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2671849376&perks=3978468247,31345821
+
+
+// Refusal of the Call - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Artifact mods Hold The Line and No Bell makes Glaives great this season. Discord will probably only work with projectile kills, but still good to get ammo back. Disruption Break works with Glaive melees, so shoot to break the shield and stab away. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=2671849376&perks=923806249,1683379515
+dimwishlist:item=2671849376&perks=923806249,1782407750
+
+
+// Refusal of the Call (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Artifact mods Hold The Line and No Bell makes Glaives great this season. Discord will probably only work with projectile kills, but still good to get ammo back. Disruption Break works with Glaive melees, so shoot to break the shield and stab away. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=25228802&perks=3978468247,31345821
+
+
+// Refusal of the Call (Adept) - [Fallout S26A2 Godrolls] (pve)
+//notes: [Fallout S26A2 Godrolls] Artifact mods Hold The Line and No Bell makes Glaives great this season. Discord will probably only work with projectile kills, but still good to get ammo back. Disruption Break works with Glaive melees, so shoot to break the shield and stab away. https://youtu.be/4AVt-MVbeIA tags:pve
+dimwishlist:item=25228802&perks=923806249,1683379515
+dimwishlist:item=25228802&perks=923806249,1782407750
 
 
 // Watchful Eye - [Aztecross S26A1 Heresy Godrolls] (god-pve)

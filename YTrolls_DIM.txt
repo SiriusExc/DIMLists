@@ -10427,6 +10427,19 @@ dimwishlist:item=2697143634&perks=3700496672,2048641572
 dimwishlist:item=2697143634&perks=3700496672,1134488199
 
 
+// Lotus-Eater (Adept) - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] Small nerf to ad clearing (impact/blast damage balancing), but buff to Destabilizing Rounds enables whole-room clearing anyway. Reverberation is practically useless now after nerf. One For All doesn't proc from Volatile rounds, need to get impact or blast damage. Go for Velocity and Reload/Mag size. But: Extended Mag + Adept Mag gives 20 in mag but 39 in reserves; Appended Mag + Adept Mag gives 18 in mag and 45 in reserves. https://youtu.be/FE0kSNs5Ru0 tags:pve
+dimwishlist:item=2697143634&perks=3525010810,1087426260,776531651,2048641572,1281216113
+
+
+// Lotus-Eater (Adept) - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] Small nerf to ad clearing (impact/blast damage balancing), but buff to Destabilizing Rounds enables whole-room clearing anyway. Reverberation is practically useless now after nerf. One For All doesn't proc from Volatile rounds, need to get impact or blast damage. Go for Velocity and Reload/Mag size. But: Extended Mag + Adept Mag gives 20 in mag but 39 in reserves; Appended Mag + Adept Mag gives 18 in mag and 45 in reserves. https://youtu.be/FE0kSNs5Ru0 tags:pve
+dimwishlist:item=2697143634&perks=1523832109,2048641572,1281216113
+dimwishlist:item=2697143634&perks=1523832109,4049631843,1281216113
+dimwishlist:item=2697143634&perks=880644845,2048641572,1281216113
+dimwishlist:item=2697143634&perks=880644845,4049631843,1281216113
+
+
 // BxR-55 Battler - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Oversoul Edict; Role: Add clear tags:pve
 dimwishlist:item=2708806099&perks=1906147653,2675184851,1260401931
@@ -14996,6 +15009,11 @@ dimwishlist:item=3920310144&perks=968510818,3751912585,164468655
 dimwishlist:item=3920310144&perks=968510818,1771339417,164468655
 
 
+// Lotus-Eater - [Aztecross S26A2 Review] (god-pve)
+//notes: [Aztecross S26A2 Review] Small nerf to ad clearing (impact/blast damage balancing), but buff to Destabilizing Rounds enables whole-room clearing anyway. Reverberation is practically useless now after nerf. One For All doesn't proc from Volatile rounds, need to get impact or blast damage. Go for Velocity and Reload/Mag size. But: Extended Mag + Adept Mag gives 20 in mag but 39 in reserves; Appended Mag + Adept Mag gives 18 in mag and 45 in reserves. https://youtu.be/FE0kSNs5Ru0 tags:god-pve
+dimwishlist:item=3922217119&perks=3525010810,1087426260,776531651,2048641572,1281216113
+
+
 // Lotus-Eater - [itzTizzle S26A1 Playlist Godrolls] (pve)
 //notes: [itzTizzle S26A1 Playlist Godrolls] Void one to round out Rocket Sidearms. Withering Gaze gives access to Weaken for other subclasses. https://youtu.be/M2wS8acGScg tags:pve
 dimwishlist:item=3922217119&perks=776531651,2048641572
@@ -15024,6 +15042,14 @@ dimwishlist:item=3922217119&perks=3700496672,2048641572
 // Lotus-Eater - [Fallout S26A2 Godrolls] (pve)
 //notes: [Fallout S26A2 Godrolls] Best of the Act 2 weapons. https://youtu.be/4AVt-MVbeIA tags:pve
 dimwishlist:item=3922217119&perks=3700496672,1134488199
+
+
+// Lotus-Eater - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] Small nerf to ad clearing (impact/blast damage balancing), but buff to Destabilizing Rounds enables whole-room clearing anyway. Reverberation is practically useless now after nerf. One For All doesn't proc from Volatile rounds, need to get impact or blast damage. Go for Velocity and Reload/Mag size. But: Extended Mag + Adept Mag gives 20 in mag but 39 in reserves; Appended Mag + Adept Mag gives 18 in mag and 45 in reserves. https://youtu.be/FE0kSNs5Ru0 tags:pve
+dimwishlist:item=3922217119&perks=1523832109,2048641572
+dimwishlist:item=3922217119&perks=1523832109,4049631843
+dimwishlist:item=3922217119&perks=880644845,2048641572
+dimwishlist:item=3922217119&perks=880644845,4049631843
 
 
 // Parabellum - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)

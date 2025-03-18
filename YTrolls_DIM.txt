@@ -7466,6 +7466,22 @@ dimwishlist:item=2026755633&perks=1467527085,679225683,1195158366,3673922083
 dimwishlist:item=2026755633&perks=1195158366,95528736
 
 
+// Keraunios - [Aztecross S26A2 Review] (god-pve)
+//notes: [Aztecross S26A2 Review] Lots of options here. Overflow + Detonator Beam is a good agnostic roll; Enhanced Detonator Beam with any extra ammo over base mag allows for 5 detonations per mag. Jolting Feedback with mag overflow or reloading perks are great (Triple Tap gives free ammo). Rolling Storm (not available on Warlord's Spear) Bolt Charges can be discharged with elemental effects like Unravel, Volatile, etc. Classy Contender is great especially with Storm's Keep Titans. https://youtu.be/CfEdgICzGIU tags:god-pve
+dimwishlist:item=2029899814&perks=3643424744,4198902903,1702976605
+dimwishlist:item=2029899814&perks=3643424744,557221067,1702976605
+dimwishlist:item=2029899814&perks=3643424744,3218042543,1702976605
+dimwishlist:item=2029899814&perks=3643424744,3966416502,1702976605
+dimwishlist:item=2029899814&perks=3400784728,4198902903,1702976605
+dimwishlist:item=2029899814&perks=3400784728,557221067,1702976605
+dimwishlist:item=2029899814&perks=3400784728,3218042543,1702976605
+dimwishlist:item=2029899814&perks=3400784728,3966416502,1702976605
+dimwishlist:item=2029899814&perks=684456054,4198902903,1702976605
+dimwishlist:item=2029899814&perks=684456054,557221067,1702976605
+dimwishlist:item=2029899814&perks=684456054,3218042543,1702976605
+dimwishlist:item=2029899814&perks=684456054,3966416502,1702976605
+
+
 // Keraunios - [Fallout S26A2 Godrolls] (pve)
 //notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pve
 dimwishlist:item=2029899814&perks=3643424744,3218042543

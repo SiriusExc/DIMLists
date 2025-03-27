@@ -9426,6 +9426,16 @@ dimwishlist:item=2501377328&perks=684456054,2173046394
 dimwishlist:item=2501377328&perks=684456054,31345821
 
 
+// Division (Adept) - [Aztecross S26A2 Review] (god-pvp)
+//notes: [Aztecross S26A2 Review] Hard-hitting Heavy Burst like Breachlight, pretty good. Very hard to push against. Rolls Hip-fire Grip + Offhand Strike for great Radiant Dance Machines synergy like Boondoggle. To The Pain won't work well on Sidearms, other things kill you too fast. Go for Range. https://youtu.be/TE8KWTumqaU tags:god-pvp
+dimwishlist:item=2501377328&perks=3250034553,3142289711,1866048759,2416023159,878237828
+dimwishlist:item=2501377328&perks=3250034553,3142289711,1866048759,1015611457,878237828
+dimwishlist:item=2501377328&perks=3250034553,3142289711,1866048759,31345821,878237828
+dimwishlist:item=2501377328&perks=202670084,3142289711,1866048759,2416023159,878237828
+dimwishlist:item=2501377328&perks=202670084,3142289711,1866048759,1015611457,878237828
+dimwishlist:item=2501377328&perks=202670084,3142289711,1866048759,31345821,878237828
+
+
 // Division (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] First Arc Sidearm since Plunder. You're probably just using Voltshot—or PvP perks. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=2501377328&perks=684456054,2173046394
@@ -9447,6 +9457,14 @@ dimwishlist:item=2501377328&perks=684456054,2173046394
 // Division (Adept) - [Fallout S26A2 Godrolls] (pvp)
 //notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pvp
 dimwishlist:item=2501377328&perks=3938834702,31345821
+
+
+// Division (Adept) - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] Hard-hitting Heavy Burst like Breachlight, pretty good. Middle of the pack stat-wise. Great ad-clearing with Voltshot, be careful not to conflict with Runneth Over. https://youtu.be/TE8KWTumqaU tags:pve
+dimwishlist:item=2501377328&perks=1087426260,684456054,2173046394
+dimwishlist:item=2501377328&perks=1087426260,684456054,31345821
+dimwishlist:item=2501377328&perks=106909392,684456054,2173046394
+dimwishlist:item=2501377328&perks=106909392,684456054,31345821
 
 
 // Caretaker - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -16023,6 +16041,32 @@ dimwishlist:item=4116546788&perks=1820235745,31345821
 dimwishlist:item=4116546788&perks=3643424744,31345821
 
 
+// Mirror Imago (Adept) - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Any "extra ammo" perk in the 3rd column is good; Overflow doesn't stack with Runneth Over though. Fragile Mod Power of Ambition is great, gives DoT, anti-Overload, and surges the weapon in certain activities. Mag perk is good (except Extended Mag that tanks Reload). https://youtu.be/jphcCuePSWE tags:pve
+dimwishlist:item=4116546788&perks=4090651448,106909392,1820235745,31345821,120721526
+dimwishlist:item=4116546788&perks=4090651448,1087426260,1820235745,31345821,120721526
+dimwishlist:item=4116546788&perks=4090651448,1431678320,1820235745,31345821,120721526
+dimwishlist:item=4116546788&perks=1840239774,106909392,1820235745,31345821,120721526
+dimwishlist:item=4116546788&perks=1840239774,1087426260,1820235745,31345821,120721526
+dimwishlist:item=4116546788&perks=1840239774,1431678320,1820235745,31345821,120721526
+
+
+// Mirror Imago (Adept) - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Any "extra ammo" perk in the 3rd column is good; Overflow doesn't stack with Runneth Over though. Fragile Mod Power of Ambition is great, gives DoT, anti-Overload, and surges the weapon in certain activities. Mag perk is good (except Extended Mag that tanks Reload). https://youtu.be/jphcCuePSWE tags:pve
+dimwishlist:item=4116546788&perks=4090651448,106909392,1631667848,4082225868
+dimwishlist:item=4116546788&perks=4090651448,1087426260,1631667848,4082225868
+dimwishlist:item=4116546788&perks=4090651448,1431678320,1631667848,4082225868
+dimwishlist:item=4116546788&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=4116546788&perks=1840239774,1087426260,1631667848,4082225868
+dimwishlist:item=4116546788&perks=1840239774,1431678320,1631667848,4082225868
+
+
+// Mirror Imago (Adept) - [Aztecross S26A2 Review] (pvp)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Out-paces Imminence in many stats, but Immortal is still better. Unraveling Orbs Artifact Mod works in PvP. https://youtu.be/jphcCuePSWE tags:pvp
+dimwishlist:item=4116546788&perks=3938834702,365154968
+dimwishlist:item=4116546788&perks=588594999,365154968
+
+
 // Locus Locutus - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 19/43 tags:pve
 dimwishlist:item=4132072834&perks=3643424744,1771339417,2565067140
@@ -17354,6 +17398,59 @@ dimwishlist:item=3734001727&perks=684456054,2173046394
 //notes: [Fallout S26A2 Godrolls] https://youtu.be/4AVt-MVbeIA tags:pvp
 dimwishlist:item=3734001727&perks=3938834702,31345821
 
+// Division - [Aztecross S26A2 Review] (god-pvp)
+//notes: [Aztecross S26A2 Review] Hard-hitting Heavy Burst like Breachlight, pretty good. Very hard to push against. Rolls Hip-fire Grip + Offhand Strike for great Radiant Dance Machines synergy like Boondoggle. To The Pain won't work well on Sidearms, other things kill you too fast. Go for Range. https://youtu.be/TE8KWTumqaU tags:god-pvp
+dimwishlist:item=2903168058&perks=3250034553,3142289711,1866048759,2416023159,878237828
+dimwishlist:item=2903168058&perks=3250034553,3142289711,1866048759,1015611457,878237828
+dimwishlist:item=2903168058&perks=3250034553,3142289711,1866048759,31345821,878237828
+dimwishlist:item=2903168058&perks=202670084,3142289711,1866048759,2416023159,878237828
+dimwishlist:item=2903168058&perks=202670084,3142289711,1866048759,1015611457,878237828
+dimwishlist:item=2903168058&perks=202670084,3142289711,1866048759,31345821,878237828
+
+
+// Division - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] Hard-hitting Heavy Burst like Breachlight, pretty good. Middle of the pack stat-wise. Great ad-clearing with Voltshot, be careful not to conflict with Runneth Over. https://youtu.be/TE8KWTumqaU tags:pve
+dimwishlist:item=2903168058&perks=1087426260,684456054,2173046394
+dimwishlist:item=2903168058&perks=1087426260,684456054,31345821
+dimwishlist:item=2903168058&perks=106909392,684456054,2173046394
+dimwishlist:item=2903168058&perks=106909392,684456054,31345821
+
+
+// Division - [Aztecross S26A2 Review] (god-pvp)
+//notes: [Aztecross S26A2 Review] Hard-hitting Heavy Burst like Breachlight, pretty good. Very hard to push against. Rolls Hip-fire Grip + Offhand Strike for great Radiant Dance Machines synergy like Boondoggle. To The Pain won't work well on Sidearms, other things kill you too fast. Go for Range. https://youtu.be/TE8KWTumqaU tags:god-pvp
+dimwishlist:item=2992463569&perks=3250034553,3142289711,1866048759,2416023159,878237828
+dimwishlist:item=2992463569&perks=3250034553,3142289711,1866048759,1015611457,878237828
+dimwishlist:item=2992463569&perks=3250034553,3142289711,1866048759,31345821,878237828
+dimwishlist:item=2992463569&perks=202670084,3142289711,1866048759,2416023159,878237828
+dimwishlist:item=2992463569&perks=202670084,3142289711,1866048759,1015611457,878237828
+dimwishlist:item=2992463569&perks=202670084,3142289711,1866048759,31345821,878237828
+
+
+// Division - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] Hard-hitting Heavy Burst like Breachlight, pretty good. Middle of the pack stat-wise. Great ad-clearing with Voltshot, be careful not to conflict with Runneth Over. https://youtu.be/TE8KWTumqaU tags:pve
+dimwishlist:item=2992463569&perks=1087426260,684456054,2173046394
+dimwishlist:item=2992463569&perks=1087426260,684456054,31345821
+dimwishlist:item=2992463569&perks=106909392,684456054,2173046394
+dimwishlist:item=2992463569&perks=106909392,684456054,31345821
+
+
+// Division (Adept) - [Aztecross S26A2 Review] (god-pvp)
+//notes: [Aztecross S26A2 Review] Hard-hitting Heavy Burst like Breachlight, pretty good. Very hard to push against. Rolls Hip-fire Grip + Offhand Strike for great Radiant Dance Machines synergy like Boondoggle. To The Pain won't work well on Sidearms, other things kill you too fast. Go for Range. https://youtu.be/TE8KWTumqaU tags:god-pvp
+dimwishlist:item=3734001727&perks=3250034553,3142289711,1866048759,2416023159,878237828
+dimwishlist:item=3734001727&perks=3250034553,3142289711,1866048759,1015611457,878237828
+dimwishlist:item=3734001727&perks=3250034553,3142289711,1866048759,31345821,878237828
+dimwishlist:item=3734001727&perks=202670084,3142289711,1866048759,2416023159,878237828
+dimwishlist:item=3734001727&perks=202670084,3142289711,1866048759,1015611457,878237828
+dimwishlist:item=3734001727&perks=202670084,3142289711,1866048759,31345821,878237828
+
+
+// Division (Adept) - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] Hard-hitting Heavy Burst like Breachlight, pretty good. Middle of the pack stat-wise. Great ad-clearing with Voltshot, be careful not to conflict with Runneth Over. https://youtu.be/TE8KWTumqaU tags:pve
+dimwishlist:item=3734001727&perks=1087426260,684456054,2173046394
+dimwishlist:item=3734001727&perks=1087426260,684456054,31345821
+dimwishlist:item=3734001727&perks=106909392,684456054,2173046394
+dimwishlist:item=3734001727&perks=106909392,684456054,31345821
+
 
 // Eyes Unveiled - [Aztecross S26A1 Heresy Godrolls] (god-pve)
 //notes: [Aztecross S26A1 Heresy Godrolls] Great synergy with current artifact, but otherwise not much going for it against other LFRs. Discord/Withering Gaze would be great if in the third column. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
@@ -17542,6 +17639,84 @@ dimwishlist:item=302039451&perks=1631667848,4082225868
 //notes: [Fallout S26A2 Godrolls] Only PvE rolls here, 900rpm SMGs aren't great in PvP. https://youtu.be/4AVt-MVbeIA tags:pve
 dimwishlist:item=302039451&perks=1820235745,31345821
 dimwishlist:item=302039451&perks=3643424744,31345821
+
+
+// Mirror Imago - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Any "extra ammo" perk in the 3rd column is good; Overflow doesn't stack with Runneth Over though. Fragile Mod Power of Ambition is great, gives DoT, anti-Overload, and surges the weapon in certain activities. Mag perk is good (except Extended Mag that tanks Reload). https://youtu.be/jphcCuePSWE tags:pve
+dimwishlist:item=3234363830&perks=4090651448,106909392,1820235745,31345821
+dimwishlist:item=3234363830&perks=4090651448,1087426260,1820235745,31345821
+dimwishlist:item=3234363830&perks=4090651448,1431678320,1820235745,31345821
+dimwishlist:item=3234363830&perks=1840239774,106909392,1820235745,31345821
+dimwishlist:item=3234363830&perks=1840239774,1087426260,1820235745,31345821
+dimwishlist:item=3234363830&perks=1840239774,1431678320,1820235745,31345821
+
+
+// Mirror Imago - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Any "extra ammo" perk in the 3rd column is good; Overflow doesn't stack with Runneth Over though. Fragile Mod Power of Ambition is great, gives DoT, anti-Overload, and surges the weapon in certain activities. Mag perk is good (except Extended Mag that tanks Reload). https://youtu.be/jphcCuePSWE tags:pve
+dimwishlist:item=3234363830&perks=4090651448,106909392,1631667848,4082225868
+dimwishlist:item=3234363830&perks=4090651448,1087426260,1631667848,4082225868
+dimwishlist:item=3234363830&perks=4090651448,1431678320,1631667848,4082225868
+dimwishlist:item=3234363830&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=3234363830&perks=1840239774,1087426260,1631667848,4082225868
+dimwishlist:item=3234363830&perks=1840239774,1431678320,1631667848,4082225868
+
+
+// Mirror Imago - [Aztecross S26A2 Review] (pvp)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Out-paces Imminence in many stats, but Immortal is still better. Unraveling Orbs Artifact Mod works in PvP. https://youtu.be/jphcCuePSWE tags:pvp
+dimwishlist:item=3234363830&perks=3938834702,365154968
+dimwishlist:item=3234363830&perks=588594999,365154968
+
+
+// Mirror Imago - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Any "extra ammo" perk in the 3rd column is good; Overflow doesn't stack with Runneth Over though. Fragile Mod Power of Ambition is great, gives DoT, anti-Overload, and surges the weapon in certain activities. Mag perk is good (except Extended Mag that tanks Reload). https://youtu.be/jphcCuePSWE tags:pve
+dimwishlist:item=3877448149&perks=4090651448,106909392,1820235745,31345821,120721526
+dimwishlist:item=3877448149&perks=4090651448,1087426260,1820235745,31345821,120721526
+dimwishlist:item=3877448149&perks=4090651448,1431678320,1820235745,31345821,120721526
+dimwishlist:item=3877448149&perks=1840239774,106909392,1820235745,31345821,120721526
+dimwishlist:item=3877448149&perks=1840239774,1087426260,1820235745,31345821,120721526
+dimwishlist:item=3877448149&perks=1840239774,1431678320,1820235745,31345821,120721526
+
+
+// Mirror Imago - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Any "extra ammo" perk in the 3rd column is good; Overflow doesn't stack with Runneth Over though. Fragile Mod Power of Ambition is great, gives DoT, anti-Overload, and surges the weapon in certain activities. Mag perk is good (except Extended Mag that tanks Reload). https://youtu.be/jphcCuePSWE tags:pve
+dimwishlist:item=3877448149&perks=4090651448,106909392,1631667848,4082225868
+dimwishlist:item=3877448149&perks=4090651448,1087426260,1631667848,4082225868
+dimwishlist:item=3877448149&perks=4090651448,1431678320,1631667848,4082225868
+dimwishlist:item=3877448149&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=3877448149&perks=1840239774,1087426260,1631667848,4082225868
+dimwishlist:item=3877448149&perks=1840239774,1431678320,1631667848,4082225868
+
+
+// Mirror Imago - [Aztecross S26A2 Review] (pvp)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Out-paces Imminence in many stats, but Immortal is still better. Unraveling Orbs Artifact Mod works in PvP. https://youtu.be/jphcCuePSWE tags:pvp
+dimwishlist:item=3877448149&perks=3938834702,365154968
+dimwishlist:item=3877448149&perks=588594999,365154968
+
+
+// Mirror Imago (Adept) - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Any "extra ammo" perk in the 3rd column is good; Overflow doesn't stack with Runneth Over though. Fragile Mod Power of Ambition is great, gives DoT, anti-Overload, and surges the weapon in certain activities. Mag perk is good (except Extended Mag that tanks Reload). https://youtu.be/jphcCuePSWE tags:pve
+dimwishlist:item=302039451&perks=4090651448,106909392,1820235745,31345821
+dimwishlist:item=302039451&perks=4090651448,1087426260,1820235745,31345821
+dimwishlist:item=302039451&perks=4090651448,1431678320,1820235745,31345821
+dimwishlist:item=302039451&perks=1840239774,106909392,1820235745,31345821
+dimwishlist:item=302039451&perks=1840239774,1087426260,1820235745,31345821
+dimwishlist:item=302039451&perks=1840239774,1431678320,1820235745,31345821
+
+
+// Mirror Imago (Adept) - [Aztecross S26A2 Review] (pve)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Any "extra ammo" perk in the 3rd column is good; Overflow doesn't stack with Runneth Over though. Fragile Mod Power of Ambition is great, gives DoT, anti-Overload, and surges the weapon in certain activities. Mag perk is good (except Extended Mag that tanks Reload). https://youtu.be/jphcCuePSWE tags:pve
+dimwishlist:item=302039451&perks=4090651448,106909392,1631667848,4082225868
+dimwishlist:item=302039451&perks=4090651448,1087426260,1631667848,4082225868
+dimwishlist:item=302039451&perks=4090651448,1431678320,1631667848,4082225868
+dimwishlist:item=302039451&perks=1840239774,106909392,1631667848,4082225868
+dimwishlist:item=302039451&perks=1840239774,1087426260,1631667848,4082225868
+dimwishlist:item=302039451&perks=1840239774,1431678320,1631667848,4082225868
+
+
+// Mirror Imago (Adept) - [Aztecross S26A2 Review] (pvp)
+//notes: [Aztecross S26A2 Review] First Strand 900rpm Adaptive SMG, a rare frame; lags a bit in DPS but higher body damage compared to 900rpm Lightweights (more forgiveness). Bit weak on Range and Handling verses other Adaptives but not bad, feels good except the sound. Out-paces Imminence in many stats, but Immortal is still better. Unraveling Orbs Artifact Mod works in PvP. https://youtu.be/jphcCuePSWE tags:pvp
+dimwishlist:item=302039451&perks=3938834702,365154968
+dimwishlist:item=302039451&perks=588594999,365154968
 
 
 // Psychopomp - [Aztecross S26A1 Review] (god-pve)

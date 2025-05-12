@@ -1,4 +1,4 @@
-htitle:YT rolls wishlist (manual)
+title:YT rolls wishlist (manual)
 description:Rolls from TheAegisRelic, CoolGuy, Aztecross, FalloutPlays, Demonjoe, and others
 
 // item=name
@@ -100,12 +100,17 @@ dimwishlist:item=-2809120022&perks=1476923954,1476923955
 dimwishlist:item=-266021826&perks=3573490505,3573490501
 
 // Stoicism - [Deleted rolls]
+//notes: [Stoicism Deleted rolls] Assassin/Horn
+
+// Stoicism - [Deleted rolls]
 //notes: [Stoicism Deleted rolls] Hoarfrost/Contact + Bear/Contact
 dimwishlist:item=-266021826&perks=3573490508,3573490504
 dimwishlist:item=-266021826&perks=3573490505,3573490504
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Ophidian/Horn
+//notes: [Stoicism Deleted rolls] Assassin/Horn + Eternal Warrior/Horn + Ophidian/Horn
+dimwishlist:item=-266021826&perks=1476923952,3573490506
+dimwishlist:item=-266021826&perks=3573490511,3573490506
 dimwishlist:item=-266021826&perks=1476923954,3573490506
 
 // Stoicism - [Deleted rolls]

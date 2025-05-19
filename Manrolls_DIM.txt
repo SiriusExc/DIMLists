@@ -108,9 +108,10 @@ dimwishlist:item=-266021826&perks=3573490508,3573490504
 dimwishlist:item=-266021826&perks=3573490505,3573490504
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Assassin/Horn + Eternal Warrior/Horn + Ophidian/Horn
+//notes: [Stoicism Deleted rolls] Assassin/Horn + Eternal Warrior/Horn + Inmost/Horn + Ophidian/Horn
 dimwishlist:item=-266021826&perks=1476923952,3573490506
 dimwishlist:item=-266021826&perks=3573490511,3573490506
+dimwishlist:item=-266021826&perks=1476923953,3573490506
 dimwishlist:item=-266021826&perks=1476923954,3573490506
 
 // Stoicism - [Deleted rolls]

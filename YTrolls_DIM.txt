@@ -714,6 +714,40 @@ dimwishlist:item=231031173&perks=3418782618,831391274,3186078099
 dimwishlist:item=232928045&perks=2801223209,16392701,201365942,2652708987
 
 
+// Cruel Mercy - [Aztecross S26A3 Review] (god-pvp)
+//notes: [Aztecross S26A3 Review] One of the best Heavy Burst Pulses, despite many alternatives. Stats are middle of the pack, with Range/Stability second only to Nullify, but it works out better than Nullify. Headseeker helps with forgiveness. https://youtu.be/dZPXrRlDFRA tags:god-pvp
+dimwishlist:item=233635202&perks=4090651448,1885400500,3619207468,460017080,2839173408
+dimwishlist:item=233635202&perks=4090651448,1885400500,3619207468,3047969693,2839173408
+dimwishlist:item=233635202&perks=4090651448,1885400500,2579169598,460017080,2839173408
+dimwishlist:item=233635202&perks=4090651448,1885400500,2579169598,3047969693,2839173408
+dimwishlist:item=233635202&perks=4090651448,1561002382,3619207468,460017080,2839173408
+dimwishlist:item=233635202&perks=4090651448,1561002382,3619207468,3047969693,2839173408
+dimwishlist:item=233635202&perks=4090651448,1561002382,2579169598,460017080,2839173408
+dimwishlist:item=233635202&perks=4090651448,1561002382,2579169598,3047969693,2839173408
+dimwishlist:item=233635202&perks=1840239774,1885400500,3619207468,460017080,2839173408
+dimwishlist:item=233635202&perks=1840239774,1885400500,3619207468,3047969693,2839173408
+dimwishlist:item=233635202&perks=1840239774,1885400500,2579169598,460017080,2839173408
+dimwishlist:item=233635202&perks=1840239774,1885400500,2579169598,3047969693,2839173408
+dimwishlist:item=233635202&perks=1840239774,1561002382,3619207468,460017080,2839173408
+dimwishlist:item=233635202&perks=1840239774,1561002382,3619207468,3047969693,2839173408
+dimwishlist:item=233635202&perks=1840239774,1561002382,2579169598,460017080,2839173408
+dimwishlist:item=233635202&perks=1840239774,1561002382,2579169598,3047969693,2839173408
+dimwishlist:item=233635202&perks=1392496348,1885400500,3619207468,460017080,2839173408
+dimwishlist:item=233635202&perks=1392496348,1885400500,3619207468,3047969693,2839173408
+dimwishlist:item=233635202&perks=1392496348,1885400500,2579169598,460017080,2839173408
+dimwishlist:item=233635202&perks=1392496348,1885400500,2579169598,3047969693,2839173408
+dimwishlist:item=233635202&perks=1392496348,1561002382,3619207468,460017080,2839173408
+dimwishlist:item=233635202&perks=1392496348,1561002382,3619207468,3047969693,2839173408
+dimwishlist:item=233635202&perks=1392496348,1561002382,2579169598,460017080,2839173408
+dimwishlist:item=233635202&perks=1392496348,1561002382,2579169598,3047969693,2839173408
+
+
+// Cruel Mercy - [Aztecross S26A3 Review] (pve)
+//notes: [Aztecross S26A3 Review] One of the best Heavy Burst Pulses, despite many alternatives. Stats are middle of the pack, with Range/Stability second only to Nullify. Heavy Pulses still have highest Primary DPS. Rolling Storm makes it useful against Corrasion and Vantage Point, provides Bolt Charge to builds without it. https://youtu.be/dZPXrRlDFRA tags:pve
+dimwishlist:item=233635202&perks=684456054,3218042543
+dimwishlist:item=233635202&perks=2848615171,3218042543
+
+
 // Compass Rose - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Tier C Rank 25/43 tags:pve
 dimwishlist:item=233896077&perks=1631667848,2360754333,1380061575
@@ -2900,6 +2934,50 @@ dimwishlist:item=725408022&perks=951095735,3194351027
 dimwishlist:item=725408022&perks=2010801679,3194351027
 
 
+// Prosecutor (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Replacement for Shadow Price. Target Lock only mildly makes it easier to kill, won't lower TTK. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=749483159&perks=2848615171,3218042543
+
+
+// Prosecutor (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Replacement for Shadow Price. Target Lock only mildly makes it easier to kill, won't lower TTK. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=749483159&perks=684456054,2173046394
+dimwishlist:item=749483159&perks=2848615171,2173046394
+
+
+// Prosecutor (Adept) - [Fallout S26A3 RotN Godrolls] (pvp)
+//notes: [Fallout S26A3 RotN Godrolls] Replacement for Shadow Price. Target Lock only mildly makes it easier to kill, won't lower TTK. https://youtu.be/9BNsIO0FMO4 tags:pvp
+dimwishlist:item=749483159&perks=2387244414,3215448563
+dimwishlist:item=749483159&perks=3619207468,3215448563
+
+
+// Prosecutor (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Main competitor would be VS Pyroelectric Propellant with Strategist + Jolting Feedback. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=749483159&perks=3619207468,2173046394
+dimwishlist:item=749483159&perks=3619207468,3218042543
+dimwishlist:item=749483159&perks=684456054,2173046394
+dimwishlist:item=749483159&perks=684456054,3218042543
+
+
+// Prosecutor (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Main competitor would be VS Pyroelectric Propellant with Strategist + Jolting Feedback. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=749483159&perks=1820235745,95528736
+dimwishlist:item=749483159&perks=1820235745,3218042543
+
+
+// Prosecutor (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Main competitor would be VS Pyroelectric Propellant with Strategist + Jolting Feedback. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=749483159&perks=2848615171,3215448563
+dimwishlist:item=749483159&perks=2848615171,2173046394
+dimwishlist:item=749483159&perks=2848615171,3218042543
+
+
+// Prosecutor (Adept) - [Datto S26A3 RotN Godrolls] (pvp)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Main competitor would be VS Pyroelectric Propellant with Strategist + Jolting Feedback. https://youtu.be/2EeqvjOiXTU tags:pvp
+dimwishlist:item=749483159&perks=2387244414,365154968
+dimwishlist:item=749483159&perks=3619207468,365154968
+
+
 // Qua Furor V - [Aztecross S26A1 Heresy World Loot] (pve)
 //notes: [Aztecross S26A1 Heresy World Loot] Not too crazy about this one. https://youtu.be/MyMA5reS2IY tags:pve
 dimwishlist:item=751880654&perks=1955165503,4049631843,1050127423
@@ -3727,6 +3805,38 @@ dimwishlist:item=1039915310&perks=2801223209,3827198035,1866048759,3414324643
 dimwishlist:item=1039915310&perks=2801223209,3827198035,1866048759,2173046394
 
 
+// Greasy Luck (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] It's a Glaive, but I'm liking it more and more especially with the current Artifact Mods. Incandescent for Scorch integration, otherwise Chain Reaction is great. Heal Clip is unique here. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=1050582210&perks=1556840489,1782407750
+
+
+// Greasy Luck (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] It's a Glaive, but I'm liking it more and more especially with the current Artifact Mods. Incandescent for Scorch integration, otherwise Chain Reaction is great. Heal Clip is unique here. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=1050582210&perks=3017780555,4293542123
+dimwishlist:item=1050582210&perks=3017780555,2396489472
+
+
+// Greasy Luck (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. GotD has probably the strongest weapons of the batch. It's a Glaive (so use Glaive perks). https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=1050582210&perks=1556840489,4293542123
+dimwishlist:item=1050582210&perks=1966281507,4293542123
+
+
+// Greasy Luck (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. GotD has probably the strongest weapons of the batch. It's a Glaive (so use Glaive perks). https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=1050582210&perks=3773585912,1782407750
+
+
+// Greasy Luck (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Some nice options here, even for Glaives. Reconstruction still good outside of DPS rotations. https://youtu.be/prtaBIVbZcg tags:pve
+dimwishlist:item=1050582210&perks=594346985,679225683,3017780555,4293542123
+dimwishlist:item=1050582210&perks=594346985,679225683,3017780555,2396489472
+dimwishlist:item=1050582210&perks=594346985,679225683,3017780555,3201496230
+dimwishlist:item=1050582210&perks=594346985,679225683,1556840489,4293542123
+dimwishlist:item=1050582210&perks=594346985,679225683,1556840489,2396489472
+dimwishlist:item=1050582210&perks=594346985,679225683,1556840489,3201496230
+
+
 // The Recluse - [Aztecross S23 ITL God Rolls] (pvp)
 //notes: [Aztecross S23 ITL God Rolls] Go for Range MW. tags:pvp
 dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,1890422124
@@ -3844,6 +3954,35 @@ dimwishlist:item=1064132738&perks=968510818,1439600632,744217850
 dimwishlist:item=1064132738&perks=968510818,4104185692,744217850
 dimwishlist:item=1064132738&perks=2869569095,1439600632,744217850
 dimwishlist:item=1064132738&perks=2869569095,4104185692,744217850
+
+
+// Relentless (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] High Impacts were nerfed in favour of Redrix/BXR but some rolls here anyway. Only Firefly + Hatchling Pulse, and first High Impact with Lone Wolf. Paracausal Affinity is Kill-Clip-at-home and self-procs for 0.6s TTK. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=1066598837&perks=923806249,831391274
+dimwishlist:item=1066598837&perks=3824105627,831391274
+
+
+// Relentless (Adept) - [Fallout S26A3 RotN Godrolls] (pvp)
+//notes: [Fallout S26A3 RotN Godrolls] High Impacts were nerfed in favour of Redrix/BXR but some rolls here anyway. Only Firefly + Hatchling Pulse, and first High Impact with Lone Wolf. Paracausal Affinity is Kill-Clip-at-home and self-procs for 0.6s TTK. https://youtu.be/9BNsIO0FMO4 tags:pvp
+dimwishlist:item=1066598837&perks=2579169598,460017080
+dimwishlist:item=1066598837&perks=2579169598,3215448563
+
+
+// Relentless (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Still not sure on Tear/Slice. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=1066598837&perks=3824105627,1089671869
+
+
+// Relentless (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Still not sure on Tear/Slice. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=1066598837&perks=247725512,3215448563
+
+
+// Relentless (Adept) - [Datto S26A3 RotN Godrolls] (pvp)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Still not sure on Tear/Slice. https://youtu.be/2EeqvjOiXTU tags:pvp
+dimwishlist:item=1066598837&perks=2579169598,460017080
+dimwishlist:item=1066598837&perks=3619207468,460017080
+dimwishlist:item=1066598837&perks=247725512,460017080
 
 
 // Pressurized Precision - [Aegis S24A2 Endgame Analysis] (pve)
@@ -4138,6 +4277,47 @@ dimwishlist:item=1151688091&perks=3523296417,2173046394
 //notes: [Aztecross S23 Review] Being Amplified helps keep Eddy Current proc'd. Ambitious Assassin works against Voltshot. Demolitionist helps with ability spam along with Ionic Traces. tags:pve
 dimwishlist:item=1151688091&perks=3523296417,2173046394
 dimwishlist:item=1151688091&perks=684456054,2173046394
+
+
+// No Survivors (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Great alternative to Calus Mini-Tool if you missed out on that. Has both Master Of Arms and Sword Logic (albeit in the same column), better than Target Lock in both TTK and forgiveness. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=1157220231&perks=3017780555,4293542123
+dimwishlist:item=1157220231&perks=3523296417,4293542123
+
+
+// No Survivors (Adept) - [Fallout S26A3 RotN Godrolls] (pvp)
+//notes: [Fallout S26A3 RotN Godrolls] Great alternative to Calus Mini-Tool if you missed out on that. Has both Master Of Arms and Sword Logic (albeit in the same column), better than Target Lock in both TTK and forgiveness. https://youtu.be/9BNsIO0FMO4 tags:pvp
+dimwishlist:item=1157220231&perks=2846385770,3081867624
+dimwishlist:item=1157220231&perks=2846385770,31345821
+
+
+// No Survivors (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. GotD has probably the strongest weapons of the batch. No Survivors didn't drop at a good time (Calus Mini-Tool was available) and 720rpm isn't quite 600 nor 900. I'm a believer in Heal Clip + Incandescent after Heliocentric in Vesper's Host. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=1157220231&perks=3017780555,4293542123
+dimwishlist:item=1157220231&perks=3017780555,3081867624
+dimwishlist:item=1157220231&perks=3418782618,4293542123
+dimwishlist:item=1157220231&perks=3418782618,3081867624
+
+
+// No Survivors (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Heal Clip + Incandescent all day long. Also some PvP rolls, good enough to not need Zen Moment. https://youtu.be/prtaBIVbZcg tags:pve
+dimwishlist:item=1157220231&perks=3017780555,4293542123
+dimwishlist:item=1157220231&perks=3017780555,3081867624
+dimwishlist:item=1157220231&perks=3017780555,31345821
+dimwishlist:item=1157220231&perks=3418782618,4293542123
+dimwishlist:item=1157220231&perks=3418782618,3081867624
+dimwishlist:item=1157220231&perks=3418782618,31345821
+dimwishlist:item=1157220231&perks=243981275,4293542123
+dimwishlist:item=1157220231&perks=243981275,3081867624
+dimwishlist:item=1157220231&perks=243981275,31345821
+
+
+// No Survivors (Adept) - [Aztecross S26A3 RotN Godrolls] (pvp)
+//notes: [Aztecross S26A3 RotN Godrolls] Heal Clip + Incandescent all day long. Also some PvP rolls, good enough to not need Zen Moment. https://youtu.be/prtaBIVbZcg tags:pvp
+dimwishlist:item=1157220231&perks=3436462433,3081867624
+dimwishlist:item=1157220231&perks=3436462433,365154968
+dimwishlist:item=1157220231&perks=3436462433,31345821
+dimwishlist:item=1157220231&perks=3436462433,2387244414
 
 
 // IKELOS_SG_v1.0.3 - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -7808,6 +7988,40 @@ dimwishlist:item=2126178511&perks=3828510309,2173046394
 dimwishlist:item=2126178511&perks=684456054,2173046394
 
 
+// Cold Comfort (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Reconstruction + Chill Clip great for Champs in Grandmasters. Elemental Honing is 35% damage buff for 20 seconds if you build for it, but Bait And Switch is probably what most are going for. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=2126543269&perks=3796465595,3987942396,3078487919
+dimwishlist:item=2126543269&perks=3796465595,3987942396,1089671869
+
+
+// Cold Comfort (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Reconstruction + Chill Clip great for Champs in Grandmasters. Elemental Honing is 35% damage buff for 20 seconds if you build for it, but Bait And Switch is probably what most are going for. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=2126543269&perks=3796465595,1523832109,2978966579
+
+
+// Cold Comfort (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. GotD has probably the strongest weapons of the batch. Priority One here for those without a Hezen Vengenance. Reconstruction + Bipod more for fun, not serious content. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=2126543269&perks=3987942396,3078487919
+
+
+// Cold Comfort (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. GotD has probably the strongest weapons of the batch. Priority One here for those without a Hezen Vengenance. Reconstruction + Bipod more for fun, not serious content. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=2126543269&perks=1523832109,1439600632
+
+
+// Cold Comfort (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Stick with Hezen Vengeance if you have it, but this is a solid alternative. https://youtu.be/prtaBIVbZcg tags:pve
+dimwishlist:item=2126543269&perks=3987942396,3078487919,398661035
+dimwishlist:item=2126543269&perks=3987942396,1089671869,398661035
+dimwishlist:item=2126543269&perks=1523832109,3078487919,398661035
+dimwishlist:item=2126543269&perks=1523832109,1089671869,398661035
+
+
+// Cold Comfort (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Stick with Hezen Vengeance if you have it, but this is a solid alternative. https://youtu.be/prtaBIVbZcg tags:pve
+dimwishlist:item=2126543269&perks=1955165503,2978966579
+
+
 // Sojourner's Tale - [itzTizzle S25A1 Splicer Godrolls] (pvp)
 //notes: [itzTizzle S25A1 Splicer Godrolls] No more Auto-loading Holster + Frenzy, unfortunately. Quickdraw + Opening Shot gives stupid range. https://youtu.be/iyBjGAUK1yA tags:pvp
 dimwishlist:item=2130875369&perks=1482024992,3142289711,706527188,47981717
@@ -8721,6 +8935,40 @@ dimwishlist:item=2342054803&perks=839105230,3230963543,1583705720,2848615171
 dimwishlist:item=2342054803&perks=839105230,3230963543,1583705720,11612903
 
 
+// Cruel Mercy (Adept) - [Aztecross S26A3 Review] (god-pvp)
+//notes: [Aztecross S26A3 Review] One of the best Heavy Burst Pulses, despite many alternatives. Stats are middle of the pack, with Range/Stability second only to Nullify, but it works out better than Nullify. Headseeker helps with forgiveness. https://youtu.be/dZPXrRlDFRA tags:god-pvp
+dimwishlist:item=2347178967&perks=4090651448,1885400500,3619207468,460017080,2839173408
+dimwishlist:item=2347178967&perks=4090651448,1885400500,3619207468,3047969693,2839173408
+dimwishlist:item=2347178967&perks=4090651448,1885400500,2579169598,460017080,2839173408
+dimwishlist:item=2347178967&perks=4090651448,1885400500,2579169598,3047969693,2839173408
+dimwishlist:item=2347178967&perks=4090651448,1561002382,3619207468,460017080,2839173408
+dimwishlist:item=2347178967&perks=4090651448,1561002382,3619207468,3047969693,2839173408
+dimwishlist:item=2347178967&perks=4090651448,1561002382,2579169598,460017080,2839173408
+dimwishlist:item=2347178967&perks=4090651448,1561002382,2579169598,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1840239774,1885400500,3619207468,460017080,2839173408
+dimwishlist:item=2347178967&perks=1840239774,1885400500,3619207468,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1840239774,1885400500,2579169598,460017080,2839173408
+dimwishlist:item=2347178967&perks=1840239774,1885400500,2579169598,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1840239774,1561002382,3619207468,460017080,2839173408
+dimwishlist:item=2347178967&perks=1840239774,1561002382,3619207468,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1840239774,1561002382,2579169598,460017080,2839173408
+dimwishlist:item=2347178967&perks=1840239774,1561002382,2579169598,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1885400500,3619207468,460017080,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1885400500,3619207468,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1885400500,2579169598,460017080,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1885400500,2579169598,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1561002382,3619207468,460017080,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1561002382,3619207468,3047969693,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1561002382,2579169598,460017080,2839173408
+dimwishlist:item=2347178967&perks=1392496348,1561002382,2579169598,3047969693,2839173408
+
+
+// Cruel Mercy (Adept) - [Aztecross S26A3 Review] (pve)
+//notes: [Aztecross S26A3 Review] One of the best Heavy Burst Pulses, despite many alternatives. Stats are middle of the pack, with Range/Stability second only to Nullify. Heavy Pulses still have highest Primary DPS. Rolling Storm makes it useful against Corrasion and Vantage Point, provides Bolt Charge to builds without it. https://youtu.be/dZPXrRlDFRA tags:pve
+dimwishlist:item=2347178967&perks=684456054,3218042543
+dimwishlist:item=2347178967&perks=2848615171,3218042543
+
+
 // Sightline Survey - [CoolGuy S24A1 Review] (god-pve)
 //notes: [CoolGuy S24A1 Review] Air Trigger gives fastest reloads. Radiolaria pools help clean up. Go for Range. tags:god-pve
 dimwishlist:item=2350330520&perks=202670084,1087426260,1421772400,2173046394,253121539
@@ -9024,6 +9272,28 @@ dimwishlist:item=2465372924&perks=588594999,1015611457
 // Reed's Regret (Adept) - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier C Rank 8/15 tags:pve
 dimwishlist:item=2475355656&perks=3400784728,1771339417,3988215619
+
+
+// Wilderflight (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] If you want Repulsor Brace + Destabilizing Rounds, just go for Lotus-Eater please. Envious Arsenal for adding into a DPS rotation with another Envious Arsenal + Bait And Switch heavy. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=2477408004&perks=3987942396,4104185692
+dimwishlist:item=2477408004&perks=3987942396,1546637391
+
+
+// Wilderflight (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] If you want Repulsor Brace + Destabilizing Rounds, just go for Lotus-Eater please. Envious Arsenal for adding into a DPS rotation with another Envious Arsenal + Bait And Switch heavy. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=2477408004&perks=3032599245,3161816588,1556840489
+
+
+// Wilderflight (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. First Double-Fire GL, not been a fan, though it's used for Speedrunners—and look at that, Envious Arsenal and Bait And Switch is here, pair it with Hezen's or something. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=2477408004&perks=3987942396,3078487919
+dimwishlist:item=2477408004&perks=3300816228,3078487919
+
+
+// Wilderflight (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. First Double-Fire GL, not been a fan, though it's used for Speedrunners—and look at that, Envious Arsenal and Bait And Switch is here, pair it with Hezen's or something. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=2477408004&perks=3032599245,3161816588
 
 
 // Mechabre - [Legoleflash S25A1 1-min Godroll] (god-pve)
@@ -10923,6 +11193,46 @@ dimwishlist:item=2763843899&perks=3017780555,4293542123,2489430594
 dimwishlist:item=2763843899&perks=3017780555,4293542123
 
 
+// A Sudden Death (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Closing Time better on Slugs, so Opening Shot wins out here. One-Two Punch + Trench Barrel is unique here, other Shotguns only have them in the same column. Discord + Destabilzing Round is infinite ammo + room-go-boom. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=2764074355&perks=2679249093,2360754333
+
+
+// A Sudden Death (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Closing Time better on Slugs, so Opening Shot wins out here. One-Two Punch + Trench Barrel is unique here, other Shotguns only have them in the same column. Discord + Destabilzing Round is infinite ammo + room-go-boom. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=2764074355&perks=3978468247,2048641572
+
+
+// A Sudden Death (Adept) - [Fallout S26A3 RotN Godrolls] (pvp)
+//notes: [Fallout S26A3 RotN Godrolls] Closing Time better on Slugs, so Opening Shot wins out here. One-Two Punch + Trench Barrel is unique here, other Shotguns only have them in the same column. Discord + Destabilzing Round is infinite ammo + room-go-boom. https://youtu.be/9BNsIO0FMO4 tags:pvp
+dimwishlist:item=2764074355&perks=4071163871,47981717
+dimwishlist:item=2764074355&perks=4071163871,1194056669
+dimwishlist:item=2764074355&perks=3161816588,47981717
+dimwishlist:item=2764074355&perks=3161816588,1194056669
+
+
+// A Sudden Death (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Has a bit of everything but still has good PvP combinations. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=2764074355&perks=2679249093,3215448563
+
+
+// A Sudden Death (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Has a bit of everything but still has good PvP combinations. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=2764074355&perks=776531651,2048641572
+
+
+// A Sudden Death (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Has a bit of everything but still has good PvP combinations. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=2764074355&perks=3978468247,3215448563
+dimwishlist:item=2764074355&perks=3978468247,3201496230
+
+
+// A Sudden Death (Adept) - [Datto S26A3 RotN Godrolls] (pvp)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Has a bit of everything but still has good PvP combinations. https://youtu.be/2EeqvjOiXTU tags:pvp
+dimwishlist:item=2764074355&perks=3161816588,47981717
+dimwishlist:item=2764074355&perks=4071163871,47981717
+
+
 // Nox Perennial V - [demonjoe S23 World Loot Guide] (god-pve)
 //notes: [demonjoe S23 World Loot Guide] Good for long damage phases tags:god-pve
 dimwishlist:item=2767393525&perks=839105230,689005463,968510818,2594592626
@@ -12694,6 +13004,27 @@ dimwishlist:item=3175851496&perks=2869569095,4104185692,82180537
 dimwishlist:item=3184681056&perks=1556840489,2360754333
 
 
+// New Pacific Epitaph (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Most will run Lost Signal instead, but still some good ones here for Wave Frame lovers. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=3185151619&perks=1556840489,3201496230
+dimwishlist:item=3185151619&perks=1556840489,2396489472
+dimwishlist:item=3185151619&perks=3523296417,3201496230
+dimwishlist:item=3185151619&perks=3523296417,2396489472
+
+
+// New Pacific Epitaph (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. GotD has probably the strongest weapons of the batch. Collective Action is gone but Chain Reaction is added. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=3185151619&perks=3523296417,11612903
+dimwishlist:item=3185151619&perks=3523296417,2396489472
+dimwishlist:item=3185151619&perks=3523296417,3201496230
+
+
+// New Pacific Epitaph (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Lost some useless perks and gained some good ones compared to the original from Ghosts. https://youtu.be/prtaBIVbZcg tags:pve
+dimwishlist:item=3185151619&perks=1556840489,2396489472
+dimwishlist:item=3185151619&perks=1556840489,3201496230
+
+
 // Found Verdict - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 32/46 tags:pve
 dimwishlist:item=3197270240&perks=3436462433,4104185692
@@ -12987,6 +13318,39 @@ dimwishlist:item=3326850591&perks=3643424744,1771339417
 dimwishlist:item=3326850591&perks=3643424744,4104185692
 
 
+// Judgment (Adept) - [Fallout S26A3 RotN Godrolls] (pvp)
+//notes: [Fallout S26A3 RotN Godrolls] Mostly PvP Handcannon, but with some nice PvE perks. https://youtu.be/9BNsIO0FMO4 tags:pvp
+dimwishlist:item=3329218848&perks=3161816588,555281244
+dimwishlist:item=3329218848&perks=3161816588,3215448563
+dimwishlist:item=3329218848&perks=3161816588,47981717
+dimwishlist:item=3329218848&perks=3619207468,555281244
+dimwishlist:item=3329218848&perks=3619207468,3215448563
+dimwishlist:item=3329218848&perks=3619207468,47981717
+dimwishlist:item=3329218848&perks=2579169598,555281244
+dimwishlist:item=3329218848&perks=2579169598,3215448563
+dimwishlist:item=3329218848&perks=2579169598,47981717
+dimwishlist:item=3329218848&perks=247725512,555281244
+dimwishlist:item=3329218848&perks=247725512,3215448563
+dimwishlist:item=3329218848&perks=247725512,47981717
+
+
+// Judgment (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=3329218848&perks=124408337,1955165503
+
+
+// Judgment (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=3329218848&perks=3523296417,11612903
+dimwishlist:item=3329218848&perks=3523296417,3215448563
+
+
+// Judgment (Adept) - [Datto S26A3 RotN Godrolls] (pvp)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. https://youtu.be/2EeqvjOiXTU tags:pvp
+dimwishlist:item=3329218848&perks=3161816588,47981717
+dimwishlist:item=3329218848&perks=3161816588,555281244
+
+
 // Aisha's Care (Adept) - [Aztecross S24A1 Review] (god-pvp)
 //notes: [Aztecross S24A1 Review] Better than most people give it credit for. Desperado is good for 6v6, less so for duels. Zen Moment always good, To The Pain great as you keep the stacks until weapon is stowed. Weak against other Pulses, treat this like a Scout. tags:god-pvp
 dimwishlist:item=3332125295&perks=839105230,1561002382,2387244414,460017080,2839173408
@@ -13264,6 +13628,39 @@ dimwishlist:item=3388655311&perks=852209214,16392701,3365897133,4293542123
 // Tyranny of Heaven - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Alt for Non-Denouement; Role: Add clear. tags:pve
 dimwishlist:item=3388655311&perks=2848615171,4293542123,1489048135
+
+
+// Liminal Vigil (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Don't usually like Heavy Burst Sidearms but this hits hard in PvP: 2 burst 0.47s kills with Kill Clip. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=3421639790&perks=124408337,1955165503
+
+
+// Liminal Vigil (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Don't usually like Heavy Burst Sidearms but this hits hard in PvP: 2 burst 0.47s kills with Kill Clip. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=3421639790&perks=243981275,2109543898
+
+
+// Liminal Vigil (Adept) - [Fallout S26A3 RotN Godrolls] (pvp)
+//notes: [Fallout S26A3 RotN Godrolls] Don't usually like Heavy Burst Sidearms but this hits hard in PvP: 2 burst 0.47s kills with Kill Clip. https://youtu.be/9BNsIO0FMO4 tags:pvp
+dimwishlist:item=3421639790&perks=2579169598,1015611457
+dimwishlist:item=3421639790&perks=1890422124,1015611457
+
+
+// Liminal Vigil (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Never really touched this weapon, but I'd go full-in on Stasis if I did. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=3421639790&perks=124408337,1955165503
+dimwishlist:item=3421639790&perks=124408337,2109543898
+dimwishlist:item=3421639790&perks=124408337,3047969693
+
+
+// Liminal Vigil (Adept) - [Datto S26A3 RotN Godrolls] (pvp)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Never really touched this weapon, but I'd go full-in on Stasis if I did. https://youtu.be/2EeqvjOiXTU tags:pvp
+dimwishlist:item=3421639790&perks=1890422124,1015611457
+dimwishlist:item=3421639790&perks=1890422124,3938834702
+dimwishlist:item=3421639790&perks=1428297954,1015611457
+dimwishlist:item=3421639790&perks=1428297954,3938834702
+dimwishlist:item=3421639790&perks=2579169598,1015611457
+dimwishlist:item=3421639790&perks=2579169598,3938834702
 
 
 // Red Tape - [itzTizzle S25A1 Splicer Godrolls] (god-pve)
@@ -14353,6 +14750,38 @@ dimwishlist:item=3686538757&perks=1556840489,4049631843,744217850
 //notes: [Aegis S24A2 Endgame Analysis] Tier C Rank 12/21 tags:pve
 dimwishlist:item=3690523502&perks=3300816228,2888557110
 dimwishlist:item=3690523502&perks=2284787283,2888557110
+
+
+// Long Arm (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] Should be fine in PvE but really want it to be good in PvP, hard to beat DMT. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=3692140710&perks=247725512,3218042543
+dimwishlist:item=3692140710&perks=247725512,2848615171
+dimwishlist:item=3692140710&perks=247725512,3201496230
+dimwishlist:item=3692140710&perks=1820235745,3218042543
+dimwishlist:item=3692140710&perks=1820235745,2848615171
+dimwishlist:item=3692140710&perks=1820235745,3201496230
+
+
+// Long Arm (Adept) - [Fallout S26A3 RotN Godrolls] (pvp)
+//notes: [Fallout S26A3 RotN Godrolls] Should be fine in PvE but really want it to be good in PvP, hard to beat DMT. https://youtu.be/9BNsIO0FMO4 tags:pvp
+dimwishlist:item=3692140710&perks=2579169598,555281244
+dimwishlist:item=3692140710&perks=1866048759,555281244
+
+
+// Long Arm (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. First legendary Aggressive Scout but didn't replace DMT for me back then. Explosive Payload may be bugged, and is getting outclassed in some cases anyway. Redirection and Precision Instrument also not bad but not my style. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=3692140710&perks=1820235745,2848615171
+dimwishlist:item=3692140710&perks=1820235745,3218042543
+dimwishlist:item=3692140710&perks=1820235745,3038247973
+dimwishlist:item=3692140710&perks=247725512,2848615171
+dimwishlist:item=3692140710&perks=247725512,3218042543
+dimwishlist:item=3692140710&perks=247725512,3038247973
+dimwishlist:item=3692140710&perks=25606670,2848615171
+dimwishlist:item=3692140710&perks=25606670,3218042543
+dimwishlist:item=3692140710&perks=25606670,3038247973
+dimwishlist:item=3692140710&perks=1866048759,2848615171
+dimwishlist:item=3692140710&perks=1866048759,3218042543
+dimwishlist:item=3692140710&perks=1866048759,3038247973
 
 
 // Lethophobia - [Aegis S23 Weapon Meta Update] (pve)
@@ -16808,13 +17237,54 @@ dimwishlist:item=4255586669&perks=3301904089,1556840489,3523296417,2120661319
 dimwishlist:item=4255586669&perks=3301904089,1556840489,1546637391,2120661319
 
 
+// Terminus Horizon (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] We just got Watchful Eye, and Song of Ir Yut also exists, but there's some unique perks/combos here like Precision Instrument and Triple Tap + Jolting Feedback. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=4267192886&perks=3400784728,3966416502
+
+
+// Terminus Horizon (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] We just got Watchful Eye, and Song of Ir Yut also exists, but there's some unique perks/combos here like Precision Instrument and Triple Tap + Jolting Feedback. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=4267192886&perks=1523832109,557221067
+
+
+// Terminus Horizon (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
+//notes: [Fallout S26A3 RotN Godrolls] We just got Watchful Eye, and Song of Ir Yut also exists, but there's some unique perks/combos here like Precision Instrument and Triple Tap + Jolting Feedback. https://youtu.be/9BNsIO0FMO4 tags:pve
+dimwishlist:item=4267192886&perks=3400784728,555281244
+
+
+// Terminus Horizon (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. I prefer 600rpm LMGs, and Watchful Eye was just released, so this is a bit devalued; still some good rolls though. Don't try to do boss damage with it. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=4267192886&perks=2848615171,3966416502
+
+
+// Terminus Horizon (Adept) - [Datto S26A3 RotN Godrolls] (pve)
+//notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. I prefer 600rpm LMGs, and Watchful Eye was just released, so this is a bit devalued; still some good rolls though. Don't try to do boss damage with it. https://youtu.be/2EeqvjOiXTU tags:pve
+dimwishlist:item=4267192886&perks=1523832109,557221067
+dimwishlist:item=4267192886&perks=2848615171,557221067
+
+
+// Terminus Horizon (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Overall an upgrade on the original Spire version, especially Rolling Storm and Jolting Feedback versus Voltshot (unfortunately Dragonfly procs neither). Stats are ok, with perks able to compensate for the weaker Reload. No good for DPS but nice for ad clear, plenty of synergy with this Artifact. https://youtu.be/Dy1M7mSBUBU tags:pve
+dimwishlist:item=4267192886&perks=839105230,1087426260,1523832109,3218042543,59871045
+dimwishlist:item=4267192886&perks=839105230,1087426260,1523832109,3966416502,59871045
+dimwishlist:item=4267192886&perks=839105230,1087426260,1523832109,557221067,59871045
+dimwishlist:item=4267192886&perks=839105230,1087426260,3987942396,3218042543,59871045
+dimwishlist:item=4267192886&perks=839105230,1087426260,3987942396,3966416502,59871045
+dimwishlist:item=4267192886&perks=839105230,1087426260,3987942396,557221067,59871045
+dimwishlist:item=4267192886&perks=839105230,1087426260,3523296417,3218042543,59871045
+dimwishlist:item=4267192886&perks=839105230,1087426260,3523296417,3966416502,59871045
+dimwishlist:item=4267192886&perks=839105230,1087426260,3523296417,557221067,59871045
+
+
 // Last Man Standing - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier E Rank 37/46 tags:pve
 dimwishlist:item=4287947559&perks=4071163871,2679249093,1004814308
 
 
+
 // YTrollsP ^
 // HomonymrollsP v
+
 
 
 // Abyssal Edge - [Aztecross S26A1 Heresy Godrolls] (god-pve)

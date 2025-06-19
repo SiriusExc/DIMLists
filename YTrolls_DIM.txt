@@ -2389,6 +2389,11 @@ dimwishlist:item=599895591&perks=3300816228,3708227201
 dimwishlist:item=601574723&perks=692399809,2298656195
 
 
+// Adamantite (Adept) - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Healing is always useful for contest content, this one being in Kinetic slot automatically makes it must-have, to free up your Energy slot. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=601574723&perks=692399809,4104185692
+
+
 // Adamantite (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Support Frame so lean into the support aspect. https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=601574723&perks=692399809,2298656195
@@ -2904,6 +2909,16 @@ dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,4104185692,120
 dimwishlist:item=704410186&perks=3525010810,2822142346,3987942396,1089671869,120721526
 
 
+// Psychopomp (Adept) - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Arc in damage rotations is a bit hard to come by in general, pair with, say, Liturgy and Hezen Vengeance (also with Elemental Honing). Rolling Storm for general Transcendence energy building. Use Runneth Over if available. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=704410186&perks=2010801679,3218042543
+
+
+// Psychopomp (Adept) - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Arc in damage rotations is a bit hard to come by in general, pair with, say, Liturgy and Hezen Vengeance (also with Elemental Honing). Rolling Storm for general Transcendence energy building. Use Runneth Over if available. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=704410186&perks=3987942396,1089671869
+
+
 // Psychopomp (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
 //notes: [Datto S26A1 Heresy Godrolls] Rolling Storm is great for clustered ad encounters with Arc builds. Full Court is hard to proc, Frenzy is more consistent for slightly less damage. Harmony with Envious Arsenal and an LMG might work? https://youtu.be/OV_ryUDFWUE tags:pve
 dimwishlist:item=704410186&perks=684456054,3218042543
@@ -2978,6 +2993,27 @@ dimwishlist:item=749483159&perks=2387244414,365154968
 dimwishlist:item=749483159&perks=3619207468,365154968
 
 
+// Prosecutor (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Lost Golden Tricorn and Frenzy which hurts it, but some nice new Arc perks. Zen Moment not needed for PvP as it's stable enough. https://youtu.be/O13_Z7NrzSg tags:pve
+dimwishlist:item=749483159&perks=2848615171,3218042543
+dimwishlist:item=749483159&perks=2848615171,2173046394
+dimwishlist:item=749483159&perks=2848615171,95528736
+dimwishlist:item=749483159&perks=684456054,3218042543
+dimwishlist:item=749483159&perks=684456054,2173046394
+dimwishlist:item=749483159&perks=684456054,95528736
+dimwishlist:item=749483159&perks=1820235745,3218042543
+dimwishlist:item=749483159&perks=1820235745,2173046394
+dimwishlist:item=749483159&perks=1820235745,95528736
+
+
+// Prosecutor (Adept) - [Aztecross S26A3 RotN Godrolls] (pvp)
+//notes: [Aztecross S26A3 RotN Godrolls] Lost Golden Tricorn and Frenzy which hurts it, but some nice new Arc perks. Zen Moment not needed for PvP as it's stable enough. https://youtu.be/O13_Z7NrzSg tags:pvp
+dimwishlist:item=749483159&perks=1885400500,3619207468,95528736
+dimwishlist:item=749483159&perks=1885400500,3619207468,1890422124
+dimwishlist:item=749483159&perks=1561002382,3619207468,95528736
+dimwishlist:item=749483159&perks=1561002382,3619207468,1890422124
+
+
 // Qua Furor V - [Aztecross S26A1 Heresy World Loot] (pve)
 //notes: [Aztecross S26A1 Heresy World Loot] Not too crazy about this one. https://youtu.be/MyMA5reS2IY tags:pve
 dimwishlist:item=751880654&perks=1955165503,4049631843,1050127423
@@ -3036,6 +3072,11 @@ dimwishlist:item=820890091&perks=1631667848,691659142,3907865655
 // Noxious Vetiver - [itzTizzle S25A1 Splicer Godrolls] (god-pve)
 //notes: [itzTizzle S25A1 Splicer Godrolls] Jolting Feedback great for higher-end content where kills for Voltshot is hard with SMGs. https://youtu.be/xvp3m7lVnEc tags:god-pve
 dimwishlist:item=825495813&perks=1119449540,3966416502
+
+
+// Noxious Vetiver - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Not the strongest archetype, but Dark Ether Reaper allows for extra damage, reload, and overflow. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=825495813&perks=243981275,3966416502,2041432007
 
 
 // Noxious Vetiver - [Datto S25A1 Revenant Godrolls] (pve)
@@ -3837,6 +3878,118 @@ dimwishlist:item=1050582210&perks=594346985,679225683,1556840489,2396489472
 dimwishlist:item=1050582210&perks=594346985,679225683,1556840489,3201496230
 
 
+// Greasy Luck (Adept) - [Aztecross S26A3 Review] (pve)
+//notes: [Aztecross S26A3 Review] (Projectile Roll) This Glaive is more projectile-based, rather than melee-based. Some nice perks but the way they work make it not the best among other Solar Glaives. Beacon Rounds tracking feels inconsistent, only its Reload/Aim Assist Cone reduction is worth it; overall not worth using. Reconstruction is a slower, passive version of Replenishing Aegis. There are better projectile damage buffs than Unstoppable Force in Redirection and Sword Logic. Chain Reaction is nice as-is, but Enhanced gives 1 Reserve Mod worth of Inventory. Haft go for Shield Duration, Mag go for Reload, Mag Size, Swap Speed. Go for Shield Duration, Handling, or Reload MW. Pair with Wormgod's (buffed melee and projectile damage) or Triton Vice (less-buffed damage but with ad-clear explosions). https://youtu.be/pSOTi5KsvRU tags:pve
+dimwishlist:item=1050582210&perks=580685494,1431678320,1523832109,2396489472
+dimwishlist:item=1050582210&perks=580685494,1431678320,1523832109,4293542123
+dimwishlist:item=1050582210&perks=580685494,1431678320,1523832109,3201496230
+dimwishlist:item=1050582210&perks=580685494,1431678320,1523832109,31345821
+dimwishlist:item=1050582210&perks=580685494,1431678320,1556840489,2396489472
+dimwishlist:item=1050582210&perks=580685494,1431678320,1556840489,4293542123
+dimwishlist:item=1050582210&perks=580685494,1431678320,1556840489,3201496230
+dimwishlist:item=1050582210&perks=580685494,1431678320,1556840489,31345821
+dimwishlist:item=1050582210&perks=580685494,1431678320,3017780555,2396489472
+dimwishlist:item=1050582210&perks=580685494,1431678320,3017780555,4293542123
+dimwishlist:item=1050582210&perks=580685494,1431678320,3017780555,3201496230
+dimwishlist:item=1050582210&perks=580685494,1431678320,3017780555,31345821
+dimwishlist:item=1050582210&perks=580685494,1087426260,1523832109,2396489472
+dimwishlist:item=1050582210&perks=580685494,1087426260,1523832109,4293542123
+dimwishlist:item=1050582210&perks=580685494,1087426260,1523832109,3201496230
+dimwishlist:item=1050582210&perks=580685494,1087426260,1523832109,31345821
+dimwishlist:item=1050582210&perks=580685494,1087426260,1556840489,2396489472
+dimwishlist:item=1050582210&perks=580685494,1087426260,1556840489,4293542123
+dimwishlist:item=1050582210&perks=580685494,1087426260,1556840489,3201496230
+dimwishlist:item=1050582210&perks=580685494,1087426260,1556840489,31345821
+dimwishlist:item=1050582210&perks=580685494,1087426260,3017780555,2396489472
+dimwishlist:item=1050582210&perks=580685494,1087426260,3017780555,4293542123
+dimwishlist:item=1050582210&perks=580685494,1087426260,3017780555,3201496230
+dimwishlist:item=1050582210&perks=580685494,1087426260,3017780555,31345821
+dimwishlist:item=1050582210&perks=580685494,679225683,1523832109,2396489472
+dimwishlist:item=1050582210&perks=580685494,679225683,1523832109,4293542123
+dimwishlist:item=1050582210&perks=580685494,679225683,1523832109,3201496230
+dimwishlist:item=1050582210&perks=580685494,679225683,1523832109,31345821
+dimwishlist:item=1050582210&perks=580685494,679225683,1556840489,2396489472
+dimwishlist:item=1050582210&perks=580685494,679225683,1556840489,4293542123
+dimwishlist:item=1050582210&perks=580685494,679225683,1556840489,3201496230
+dimwishlist:item=1050582210&perks=580685494,679225683,1556840489,31345821
+dimwishlist:item=1050582210&perks=580685494,679225683,3017780555,2396489472
+dimwishlist:item=1050582210&perks=580685494,679225683,3017780555,4293542123
+dimwishlist:item=1050582210&perks=580685494,679225683,3017780555,3201496230
+dimwishlist:item=1050582210&perks=580685494,679225683,3017780555,31345821
+dimwishlist:item=1050582210&perks=580685494,3721627275,1523832109,2396489472
+dimwishlist:item=1050582210&perks=580685494,3721627275,1523832109,4293542123
+dimwishlist:item=1050582210&perks=580685494,3721627275,1523832109,3201496230
+dimwishlist:item=1050582210&perks=580685494,3721627275,1523832109,31345821
+dimwishlist:item=1050582210&perks=580685494,3721627275,1556840489,2396489472
+dimwishlist:item=1050582210&perks=580685494,3721627275,1556840489,4293542123
+dimwishlist:item=1050582210&perks=580685494,3721627275,1556840489,3201496230
+dimwishlist:item=1050582210&perks=580685494,3721627275,1556840489,31345821
+dimwishlist:item=1050582210&perks=580685494,3721627275,3017780555,2396489472
+dimwishlist:item=1050582210&perks=580685494,3721627275,3017780555,4293542123
+dimwishlist:item=1050582210&perks=580685494,3721627275,3017780555,3201496230
+dimwishlist:item=1050582210&perks=580685494,3721627275,3017780555,31345821
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1523832109,2396489472
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1523832109,4293542123
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1523832109,3201496230
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1523832109,31345821
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1556840489,2396489472
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1556840489,4293542123
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1556840489,3201496230
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1556840489,31345821
+dimwishlist:item=1050582210&perks=2713678205,1431678320,3017780555,2396489472
+dimwishlist:item=1050582210&perks=2713678205,1431678320,3017780555,4293542123
+dimwishlist:item=1050582210&perks=2713678205,1431678320,3017780555,3201496230
+dimwishlist:item=1050582210&perks=2713678205,1431678320,3017780555,31345821
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1523832109,2396489472
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1523832109,4293542123
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1523832109,3201496230
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1523832109,31345821
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1556840489,2396489472
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1556840489,4293542123
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1556840489,3201496230
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1556840489,31345821
+dimwishlist:item=1050582210&perks=2713678205,1087426260,3017780555,2396489472
+dimwishlist:item=1050582210&perks=2713678205,1087426260,3017780555,4293542123
+dimwishlist:item=1050582210&perks=2713678205,1087426260,3017780555,3201496230
+dimwishlist:item=1050582210&perks=2713678205,1087426260,3017780555,31345821
+dimwishlist:item=1050582210&perks=2713678205,679225683,1523832109,2396489472
+dimwishlist:item=1050582210&perks=2713678205,679225683,1523832109,4293542123
+dimwishlist:item=1050582210&perks=2713678205,679225683,1523832109,3201496230
+dimwishlist:item=1050582210&perks=2713678205,679225683,1523832109,31345821
+dimwishlist:item=1050582210&perks=2713678205,679225683,1556840489,2396489472
+dimwishlist:item=1050582210&perks=2713678205,679225683,1556840489,4293542123
+dimwishlist:item=1050582210&perks=2713678205,679225683,1556840489,3201496230
+dimwishlist:item=1050582210&perks=2713678205,679225683,1556840489,31345821
+dimwishlist:item=1050582210&perks=2713678205,679225683,3017780555,2396489472
+dimwishlist:item=1050582210&perks=2713678205,679225683,3017780555,4293542123
+dimwishlist:item=1050582210&perks=2713678205,679225683,3017780555,3201496230
+dimwishlist:item=1050582210&perks=2713678205,679225683,3017780555,31345821
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1523832109,2396489472
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1523832109,4293542123
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1523832109,3201496230
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1523832109,31345821
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1556840489,2396489472
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1556840489,4293542123
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1556840489,3201496230
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1556840489,31345821
+dimwishlist:item=1050582210&perks=2713678205,3721627275,3017780555,2396489472
+dimwishlist:item=1050582210&perks=2713678205,3721627275,3017780555,4293542123
+dimwishlist:item=1050582210&perks=2713678205,3721627275,3017780555,3201496230
+dimwishlist:item=1050582210&perks=2713678205,3721627275,3017780555,31345821
+
+
+// Greasy Luck (Adept) - [Aztecross S26A3 Review] (pve)
+//notes: [Aztecross S26A3 Review] (Melee Roll) This Glaive is more projectile-based, rather than melee-based. Some nice perks but the way they work make it not the best among other Solar Glaives. Beacon Rounds tracking feels inconsistent, only its Reload/Aim Assist Cone reduction is worth it; overall not worth using. Reconstruction is a slower, passive version of Replenishing Aegis. There are better projectile damage buffs than Unstoppable Force in Redirection and Sword Logic. Chain Reaction is nice as-is, but Enhanced gives 1 Reserve Mod worth of Inventory. Haft go for Shield Duration, Mag go for Reload, Mag Size, Swap Speed. Go for Shield Duration, Handling, or Reload MW. Pair with Wormgod's (buffed melee and projectile damage) or Triton Vice (less-buffed damage but with ad-clear explosions). https://youtu.be/pSOTi5KsvRU tags:pve
+dimwishlist:item=1050582210&perks=580685494,1431678320,1966281507,1782407750
+dimwishlist:item=1050582210&perks=580685494,1087426260,1966281507,1782407750
+dimwishlist:item=1050582210&perks=580685494,679225683,1966281507,1782407750
+dimwishlist:item=1050582210&perks=580685494,3721627275,1966281507,1782407750
+dimwishlist:item=1050582210&perks=2713678205,1431678320,1966281507,1782407750
+dimwishlist:item=1050582210&perks=2713678205,1087426260,1966281507,1782407750
+dimwishlist:item=1050582210&perks=2713678205,679225683,1966281507,1782407750
+dimwishlist:item=1050582210&perks=2713678205,3721627275,1966281507,1782407750
+
+
 // The Recluse - [Aztecross S23 ITL God Rolls] (pvp)
 //notes: [Aztecross S23 ITL God Rolls] Go for Range MW. tags:pvp
 dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,1890422124
@@ -3956,6 +4109,18 @@ dimwishlist:item=1064132738&perks=2869569095,1439600632,744217850
 dimwishlist:item=1064132738&perks=2869569095,4104185692,744217850
 
 
+// Relentless (Adept) - [Llama S26A3 Review] (god-pve)
+//notes: [Llama S26A3 Review] Firefly is rare on Strand primaries, and this is the first with it in the 3rd column. Crossing Over is barely noticeable on a primary though, use Gravity Well. Unfortunately Tear and Slice are in the same column; Tear doesn't rely on Class ability so is more recommended. Four stacks of Elemental Honing is good already, fifth stack is only 5% more (30% to 35%). Building into Sever this season is potent. https://youtu.be/Z-CliTKU_yw tags:god-pve
+dimwishlist:item=1066598837&perks=3824105627,1089671869,59871045
+dimwishlist:item=1066598837&perks=3824105627,3215448563,59871045
+
+
+// Relentless (Adept) - [Llama S26A3 Review] (god-pve)
+//notes: [Llama S26A3 Review] Firefly is rare on Strand primaries, and this is the first with it in the 3rd column. Crossing Over is barely noticeable on a primary though, use Gravity Well. Unfortunately Tear and Slice are in the same column; Tear doesn't rely on Class ability so is more recommended. Four stacks of Elemental Honing is good already, fifth stack is only 5% more (30% to 35%). Building into Sever this season is potent. https://youtu.be/Z-CliTKU_yw tags:god-pve
+dimwishlist:item=1066598837&perks=960997401,831391274,59871045
+dimwishlist:item=1066598837&perks=923806249,831391274,59871045
+
+
 // Relentless (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
 //notes: [Fallout S26A3 RotN Godrolls] High Impacts were nerfed in favour of Redrix/BXR but some rolls here anyway. Only Firefly + Hatchling Pulse, and first High Impact with Lone Wolf. Paracausal Affinity is Kill-Clip-at-home and self-procs for 0.6s TTK. https://youtu.be/9BNsIO0FMO4 tags:pve
 dimwishlist:item=1066598837&perks=923806249,831391274
@@ -3983,6 +4148,68 @@ dimwishlist:item=1066598837&perks=247725512,3215448563
 dimwishlist:item=1066598837&perks=2579169598,460017080
 dimwishlist:item=1066598837&perks=3619207468,460017080
 dimwishlist:item=1066598837&perks=247725512,460017080
+
+
+// Relentless (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Strand now (since previous rework), lots of nice synergies here. High Impact though, not for DPS right now, nor the best in PvP. Closing Time and Crossing Over might convince you to prime before engagement though. https://youtu.be/O13_Z7NrzSg tags:pve
+dimwishlist:item=1066598837&perks=923806249,831391274
+dimwishlist:item=1066598837&perks=923806249,1089671869
+dimwishlist:item=1066598837&perks=923806249,3215448563
+dimwishlist:item=1066598837&perks=960997401,831391274
+dimwishlist:item=1066598837&perks=960997401,1089671869
+dimwishlist:item=1066598837&perks=960997401,3215448563
+
+
+// Relentless (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Strand now (since previous rework), lots of nice synergies here. High Impact though, not for DPS right now, nor the best in PvP. Closing Time and Crossing Over might convince you to prime before engagement though. https://youtu.be/O13_Z7NrzSg tags:pve
+dimwishlist:item=1066598837&perks=3824105627,1089671869
+
+
+// Relentless (Adept) - [Aztecross S26A3 RotN Godrolls] (pvp)
+//notes: [Aztecross S26A3 RotN Godrolls] Strand now (since previous rework), lots of nice synergies here. High Impact though, not for DPS right now, nor the best in PvP. Closing Time and Crossing Over might convince you to prime before engagement though. https://youtu.be/O13_Z7NrzSg tags:pvp
+dimwishlist:item=1066598837&perks=3619207468,460017080,4129855581
+dimwishlist:item=1066598837&perks=3619207468,1194056669,4129855581
+dimwishlist:item=1066598837&perks=2579169598,460017080,4129855581
+dimwishlist:item=1066598837&perks=2579169598,1194056669,4129855581
+
+
+// Relentless (Adept) - [Llama S26A3 Review] (pve)
+//notes: [Llama S26A3 Review] Firefly is rare on Strand primaries, and this is the first with it in the 3rd column. Crossing Over is barely noticeable on a primary though, use Gravity Well. Unfortunately Tear and Slice are in the same column; Tear doesn't rely on Class ability so is more recommended. Four stacks of Elemental Honing is good already, fifth stack is only 5% more (30% to 35%). Building into Sever this season is potent. https://youtu.be/Z-CliTKU_yw tags:pve
+dimwishlist:item=1066598837&perks=960997401,3047969693,59871045
+dimwishlist:item=1066598837&perks=960997401,831391274,59871045
+dimwishlist:item=1066598837&perks=960997401,3215448563,59871045
+dimwishlist:item=1066598837&perks=247725512,3047969693,59871045
+dimwishlist:item=1066598837&perks=247725512,831391274,59871045
+dimwishlist:item=1066598837&perks=247725512,3215448563,59871045
+dimwishlist:item=1066598837&perks=923806249,3047969693,59871045
+dimwishlist:item=1066598837&perks=923806249,831391274,59871045
+dimwishlist:item=1066598837&perks=923806249,3215448563,59871045
+dimwishlist:item=1066598837&perks=3824105627,3047969693,59871045
+dimwishlist:item=1066598837&perks=3824105627,831391274,59871045
+dimwishlist:item=1066598837&perks=3824105627,3215448563,59871045
+
+
+// Relentless (Adept) - [Aztecross S26A3 Review] (pve)
+//notes: [Aztecross S26A3 Review] The only Strand High Impact Pulse, not the best DPS in PvE and nerfed in PvP. Tear has no practical cooldown but requires a precision kill, verses Slice that gives 5 Sever debuffs on hits after Class ability usage (but hard to control which targets you Sever). Firefly on a Strand weapon gives 2/5 elements for Elemental Honing, great for Prismatic Warlocks on a Getaway Artist + Bleak Watcher build. Paracausal Affinity actually buffs Firefly's damage too. In PvP it requires perfect 6-crit, 2-burst shots for a kill, any bodies will require a 3rd burst. Elsie's Rifle is a better High Impact, and Redrix's Estoc is a better Pulse overall. https://youtu.be/93-ueOBEf8c tags:pve
+dimwishlist:item=1066598837&perks=3824105627,1089671869
+
+
+// Relentless (Adept) - [Aztecross S26A3 Review] (pve)
+//notes: [Aztecross S26A3 Review] The only Strand High Impact Pulse, not the best DPS in PvE and nerfed in PvP. Tear has no practical cooldown but requires a precision kill, verses Slice that gives 5 Sever debuffs on hits after Class ability usage (but hard to control which targets you Sever). Firefly on a Strand weapon gives 2/5 elements for Elemental Honing, great for Prismatic Warlocks on a Getaway Artist + Bleak Watcher build. Paracausal Affinity actually buffs Firefly's damage too. In PvP it requires perfect 6-crit, 2-burst shots for a kill, any bodies will require a 3rd burst. Elsie's Rifle is a better High Impact, and Redrix's Estoc is a better Pulse overall. https://youtu.be/93-ueOBEf8c tags:pve
+dimwishlist:item=1066598837&perks=960997401,1089671869
+dimwishlist:item=1066598837&perks=960997401,831391274
+dimwishlist:item=1066598837&perks=960997401,3215448563
+dimwishlist:item=1066598837&perks=923806249,1089671869
+dimwishlist:item=1066598837&perks=923806249,831391274
+dimwishlist:item=1066598837&perks=923806249,3215448563
+
+
+// Relentless (Adept) - [Aztecross S26A3 Review] (pvp)
+//notes: [Aztecross S26A3 Review] The only Strand High Impact Pulse, not the best DPS in PvE and nerfed in PvP. Tear has no practical cooldown but requires a precision kill, verses Slice that gives 5 Sever debuffs on hits after Class ability usage (but hard to control which targets you Sever). Firefly on a Strand weapon gives 2/5 elements for Elemental Honing, great for Prismatic Warlocks on a Getaway Artist + Bleak Watcher build. Paracausal Affinity actually buffs Firefly's damage too. In PvP it requires perfect 6-crit, 2-burst shots for a kill, any bodies will require a 3rd burst. Elsie's Rifle is a better High Impact, and Redrix's Estoc is a better Pulse overall. https://youtu.be/93-ueOBEf8c tags:pvp
+dimwishlist:item=1066598837&perks=2579169598,3047969693,4129855581
+dimwishlist:item=1066598837&perks=2579169598,460017080,4129855581
+dimwishlist:item=1066598837&perks=3619207468,3047969693,4129855581
+dimwishlist:item=1066598837&perks=3619207468,460017080,4129855581
 
 
 // Pressurized Precision - [Aegis S24A2 Endgame Analysis] (pve)
@@ -4279,6 +4506,19 @@ dimwishlist:item=1151688091&perks=3523296417,2173046394
 dimwishlist:item=1151688091&perks=684456054,2173046394
 
 
+// No Survivors (Adept) - [Aztecross S26A3 Review] (god-pve)
+//notes: [Aztecross S26A3 Review] Not the best stats but about same as IKELOS and just under Immortal. Heal Clip with Incandescent is chef's kiss. Sword Logic on Primaries won't get you to 4 stacks/50% damage buff, but good to get a constant damage buff going; can also use Master Of Arms. Gravity Well is nice to not have to think about picking up ammo. Attrition Orbs do not proc off Incandescent kills. Worth retiring Calus Mini-Tool for. https://youtu.be/JRf5mwH0r7U tags:god-pve
+dimwishlist:item=1157220231&perks=3017780555,4293542123
+dimwishlist:item=1157220231&perks=3017780555,3081867624
+dimwishlist:item=1157220231&perks=3523296417,4293542123
+dimwishlist:item=1157220231&perks=3523296417,3081867624
+
+
+// No Survivors (Adept) - [Aztecross S26A3 Review] (god-pvp)
+//notes: [Aztecross S26A3 Review] Not the best stats but about same as IKELOS and just under Immortal. Need some more Stability; Surplus helps, especially on Prismatic with multiple ability charges. Proc and keep Radiant to drop TTK with Master Of Arms or Sword Logic. Ultimately Immortal is slightly better, but No Survivors can be Enhanced. https://youtu.be/JRf5mwH0r7U tags:god-pvp
+dimwishlist:item=1157220231&perks=3250034553,1885400500,3436462433,365154968
+
+
 // No Survivors (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
 //notes: [Fallout S26A3 RotN Godrolls] Great alternative to Calus Mini-Tool if you missed out on that. Has both Master Of Arms and Sword Logic (albeit in the same column), better than Target Lock in both TTK and forgiveness. https://youtu.be/9BNsIO0FMO4 tags:pve
 dimwishlist:item=1157220231&perks=3017780555,4293542123
@@ -4466,6 +4706,12 @@ dimwishlist:item=1197771438&perks=3300816228,4049631843,253121539
 dimwishlist:item=1197771438&perks=1556840489,1546637391,253121539
 dimwishlist:item=1197771438&perks=1556840489,3523296417,253121539
 dimwishlist:item=1197771438&perks=1556840489,4049631843,253121539
+
+
+// Lost Signal - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] First Area Denial GL, rapidly builds Darkness Transcendence energy, and gives lots of ticks for Bolt Charge DPS strats. One For All for Transcendence energy building, Vorpal Weapon for boss damage rotations. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=1197771438&perks=3300816228,4049631843
+dimwishlist:item=1197771438&perks=3300816228,1546637391
 
 
 // Lost Signal - [Datto S24 Review] (pve)
@@ -5069,6 +5315,17 @@ dimwishlist:item=1298672084&perks=1300023272,106909392,3161816588,2360754333,283
 dimwishlist:item=1298672084&perks=1300023272,106909392,3161816588,2679249093,2838996248
 dimwishlist:item=1298672084&perks=1300023272,106909392,25606670,2360754333,2838996248
 dimwishlist:item=1298672084&perks=1300023272,106909392,25606670,2679249093,2838996248
+
+
+// Perfect Paradox - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Most powerful version yet, and best legendary Shotgun in the game. Cast No Shadows reloads 2 ammo per melee hit; Incinerator Snap reloads the entire magazine when all flames hit. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=1298672084&perks=2869569095,2360754333,2838996248
+
+
+// Perfect Paradox - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Most powerful version yet, and best legendary Shotgun in the game. Cast No Shadows reloads 2 ammo per melee hit; Incinerator Snap reloads the entire magazine when all flames hit. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=1298672084&perks=4071163871,2679249093,2838996248
+dimwishlist:item=1298672084&perks=1126264488,2679249093,2838996248
 
 
 // Perfect Paradox - [Llama S24A2 God Rolls] (pve)
@@ -6984,6 +7241,11 @@ dimwishlist:item=1886840007&perks=3250034553,2969185026,3511092054,2319119708
 dimwishlist:item=1886840007&perks=3250034553,2969185026,880644845,2319119708
 
 
+// Chronophage - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Only Void Trace with Shoot To Loot. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=1886840007&perks=3700496672,2048641572
+
+
 // Chronophage - [Datto S24 Review] (pve)
 //notes: [Datto S24 Review] tags:pve
 dimwishlist:item=1886840007&perks=776531651,2048641572
@@ -7988,6 +8250,26 @@ dimwishlist:item=2126178511&perks=3828510309,2173046394
 dimwishlist:item=2126178511&perks=684456054,2173046394
 
 
+// Cold Comfort (Adept) - [Aztecross S26A3 Review] (god-pve)
+//notes: [Aztecross S26A3 Review] Competitor to Hezen Vengeance, and is not as good as it due to Timelost Magazine. Rimestealer isn't consistent in proccing multiple stacks of Frost Armor from one rocket. Chill Clip activates on every shot, both shots if paired with Reconstruction; if you initiate Slow stacks on an enemy with Cold Comfort, the Shatter damage takes on the rocket's damage scalar. Gravity Well doesn't proc off reload perks (eg. Envious Arsenal) but will proc ammo pick up perks (eg. Lead From Gold, Overflow). Go for Velocity MW. https://youtu.be/GEByj7PahLI tags:god-pve
+dimwishlist:item=2126543269&perks=3798852852,3796465595,3987942396,3078487919
+dimwishlist:item=2126543269&perks=3798852852,3796465595,3987942396,1089671869
+dimwishlist:item=2126543269&perks=3798852852,3796465595,3987942396,2978966579
+dimwishlist:item=2126543269&perks=3525010810,3796465595,3987942396,3078487919
+dimwishlist:item=2126543269&perks=3525010810,3796465595,3987942396,1089671869
+dimwishlist:item=2126543269&perks=3525010810,3796465595,3987942396,2978966579
+dimwishlist:item=2126543269&perks=981914802,3796465595,3987942396,3078487919
+dimwishlist:item=2126543269&perks=981914802,3796465595,3987942396,1089671869
+dimwishlist:item=2126543269&perks=981914802,3796465595,3987942396,2978966579
+
+
+// Cold Comfort (Adept) - [Llama S26A3 Review] (god-pve)
+//notes: [Llama S26A3 Review] Envious Arsenal is the only 3rd column you need. 4th column has more good choices. If you have Bipod and Elemental Honing on the same rocket, there's a reserves tech if you do a perk swap. Envious Arsenal on Liturgy with a Cartesian Coordinate allow for a 4.7mil/4.6mil (Pris Lock/Pris Titan) phase on Greg. Not quite as good as Timelost Magazine on Hezen Vengeance but easier to farm. https://youtu.be/tHfTIZtC2xI tags:god-pve
+dimwishlist:item=2126543269&perks=3987942396,1089671869,398661035
+dimwishlist:item=2126543269&perks=3987942396,1439600632,398661035
+dimwishlist:item=2126543269&perks=3987942396,3078487919,398661035
+
+
 // Cold Comfort (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
 //notes: [Fallout S26A3 RotN Godrolls] Reconstruction + Chill Clip great for Champs in Grandmasters. Elemental Honing is 35% damage buff for 20 seconds if you build for it, but Bait And Switch is probably what most are going for. https://youtu.be/9BNsIO0FMO4 tags:pve
 dimwishlist:item=2126543269&perks=3796465595,3987942396,3078487919
@@ -8020,6 +8302,16 @@ dimwishlist:item=2126543269&perks=1523832109,1089671869,398661035
 // Cold Comfort (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
 //notes: [Aztecross S26A3 RotN Godrolls] Stick with Hezen Vengeance if you have it, but this is a solid alternative. https://youtu.be/prtaBIVbZcg tags:pve
 dimwishlist:item=2126543269&perks=1955165503,2978966579
+
+
+// Cold Comfort (Adept) - [Aztecross S26A3 Review] (pve)
+//notes: [Aztecross S26A3 Review] Competitor to Hezen Vengeance, and is not as good as it due to Timelost Magazine. Rimestealer isn't consistent in proccing multiple stacks of Frost Armor from one rocket. Chill Clip activates on every shot, both shots if paired with Reconstruction; if you initiate Slow stacks on an enemy with Cold Comfort, the Shatter damage takes on the rocket's damage scalar. Gravity Well doesn't proc off reload perks (eg. Envious Arsenal) but will proc ammo pick up perks (eg. Lead From Gold, Overflow). Go for Velocity MW. https://youtu.be/GEByj7PahLI tags:pve
+dimwishlist:item=2126543269&perks=3798852852,3796465595,1955165503,2978966579
+dimwishlist:item=2126543269&perks=3798852852,3796465595,1523832109,2978966579
+dimwishlist:item=2126543269&perks=3525010810,3796465595,1955165503,2978966579
+dimwishlist:item=2126543269&perks=3525010810,3796465595,1523832109,2978966579
+dimwishlist:item=2126543269&perks=981914802,3796465595,1955165503,2978966579
+dimwishlist:item=2126543269&perks=981914802,3796465595,1523832109,2978966579
 
 
 // Sojourner's Tale - [itzTizzle S25A1 Splicer Godrolls] (pvp)
@@ -8203,6 +8495,13 @@ dimwishlist:item=2198166292&perks=981914802,2822142346,880644845,3523296417
 dimwishlist:item=2198166292&perks=981914802,2822142346,880644845,4293542123
 dimwishlist:item=2198166292&perks=981914802,2822142346,691659142,3523296417
 dimwishlist:item=2198166292&perks=981914802,2822142346,691659142,4293542123
+
+
+// Aberrant Action - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Heal Clip Rocket Sidearm that goes hard in Ultimatum content. New Edge Of Fate Solar Rocket Sidearm Pure Recollection may not have Heal Clip. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+dimwishlist:item=2198166292&perks=3017780555,4082225868
+dimwishlist:item=2198166292&perks=3017780555,3523296417
 
 
 // Aberrant Action - [Llama S24A2 God Rolls] (pve)
@@ -9218,6 +9517,11 @@ dimwishlist:item=2448907086&perks=3300816228,2284787283,744217850
 dimwishlist:item=2448907086&perks=3300816228,3927722942,744217850
 
 
+// Line in the Sand - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Unique roll that's very niche. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=2450049485&perks=3993379141,3078487919
+
+
 // Line in the Sand - [Datto S24 Review] (pve)
 //notes: [Datto S24 Review] Mag size doesn't go high enough to be worth using Reservoir Burst. tags:pve
 dimwishlist:item=2450049485&perks=2284787283,3078487919
@@ -9946,6 +10250,12 @@ dimwishlist:item=2584830733&perks=3300816228,4293542123,2838996248
 dimwishlist:item=2584830733&perks=3300816228,1015611457,2838996248
 
 
+// Martyr's Retribution - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Totally outclassed by Area Denials but still good to have on hand. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+dimwishlist:item=2584830733&perks=968510818,4293542123
+
+
 // Martyr's Retribution - [Datto S24 Review] (pve)
 //notes: [Datto S24 Review] tags:pve
 dimwishlist:item=2584830733&perks=3017780555,4293542123
@@ -10114,6 +10424,11 @@ dimwishlist:item=2599338624&perks=2039302152,2978966579
 dimwishlist:item=2599338624&perks=2039302152,1556840489
 
 
+// Liturgy - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Most unique GL in the game, Chill Clip constantly applies Darkness debuff for Facet of Courage damage buff. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=2599338624&perks=3987942396,2978966579
+
+
 // Liturgy - [Datto S25A1 Revenant Godrolls] (pve)
 //notes: [Datto S25A1 Revenant Godrolls] A non-'Wild' Double Fire GL. Missing some easy Reloading/Autoloading perks. Most 4th column perks are good. https://youtu.be/U8ccd4boIbk tags:pve
 dimwishlist:item=2599338624&perks=3032599245,1955165503,2978966579
@@ -10144,6 +10459,11 @@ dimwishlist:item=2599338625&perks=332133599,3987942396,3751912585
 dimwishlist:item=2599338625&perks=1771897777,3987942396,3078487919
 dimwishlist:item=2599338625&perks=1771897777,3987942396,3194351027
 dimwishlist:item=2599338625&perks=1771897777,3987942396,3751912585
+
+
+// Bitter/Sweet - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Not the damage meta right now but it's the only Arc GL with Envious Arsenal + Bait And Switch. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=2599338625&perks=3987942396,3078487919
 
 
 // Bitter/Sweet - [Datto S25A1 Revenant Godrolls] (pve)
@@ -10949,6 +11269,11 @@ dimwishlist:item=2755584425&perks=923806249,1683379515
 dimwishlist:item=2755584425&perks=923806249,1782407750
 
 
+// Refusal of the Call (Adept) - [Llama S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Glaives are niche, but rolls Slice (no 4th column perks specified). https://youtu.be/T_bD5nO8qSo tags:pve
+dimwishlist:item=2755584425&perks=923806249,878237828
+
+
 // THE SWARM - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier F Rank 24/25 tags:pve
 dimwishlist:item=2759590322&perks=2779035018,2848615171,744217850
@@ -11193,6 +11518,32 @@ dimwishlist:item=2763843899&perks=3017780555,4293542123,2489430594
 dimwishlist:item=2763843899&perks=3017780555,4293542123
 
 
+// A Sudden Death (Adept) - [Aztecross S26A3 Review] (god-pve)
+//notes: [Aztecross S26A3 Review] Aggressives hits harder, shoots slower, but increase Rate of Fire after a kill, pretty unique. Lost 3 perks from previous iteration, quite few. One-Two Punch and Trench Barrel getting buffed in EOF with Melee stat giving melee damage boosts. Redirection is inconsistent, both in gaining and using stacks, potentially counting it per shot in a burst, likely a bug or oversight; maybe keep a roll (with Envious Assassin or Discord) and try it when it's fixed. Competes with Perfect Paradox and Unvoiced, with tradeoffs in shoot speed and crit forgiveness. Gravity Well has great utility, better than the buffs given by Crossing Over. https://youtu.be/RNEdz6a3mm8 tags:god-pve
+dimwishlist:item=2764074355&perks=791862061,2679249093,2360754333
+
+
+// A Sudden Death (Adept) - [Aztecross S26A3 Review] (god-pvp)
+//notes: [Aztecross S26A3 Review] Not a Slug nor Precision Shotgun so not meta, but I still like it for some reason; it's not the best but not the worst. Go for Range. https://youtu.be/RNEdz6a3mm8 tags:god-pvp
+dimwishlist:item=2764074355&perks=1300023272,3142289711,3161816588,47981717,4129855581
+dimwishlist:item=2764074355&perks=1300023272,3142289711,4071163871,47981717,4129855581
+dimwishlist:item=2764074355&perks=4090651448,3142289711,3161816588,47981717,4129855581
+dimwishlist:item=2764074355&perks=4090651448,3142289711,4071163871,47981717,4129855581
+
+
+// A Sudden Death (Adept) - [Llama S26A3 Review] (god-pve)
+//notes: [Llama S26A3 Review] Unique combo with One-Two Punch + Trench Barrel, will go hard in EOF with Strand Titan Grapple Shotgun rotations. Crossing Over gives 3% more damage over the magazine compared to standard Aggressive frames. Gravity Well not as good. Repulsor Brace + Destabilizing Rounds is better on something like Lotus-Eater. Envious Assassin still gets overflowed mag removed with any loadout changes (including armour mods). Aggressives feel sluggish for a Discord + Redirection No Backup Plans build (try a Refusal of the Call or Slayer's Fang instead) but still works. https://youtu.be/VBMZPvE_eOg tags:god-pve
+dimwishlist:item=2764074355&perks=2679249093,2360754333,4129855581
+dimwishlist:item=2764074355&perks=2679249093,3201496230,4129855581
+dimwishlist:item=2764074355&perks=2679249093,2048641572,4129855581
+dimwishlist:item=2764074355&perks=3978468247,2360754333,4129855581
+dimwishlist:item=2764074355&perks=3978468247,3201496230,4129855581
+dimwishlist:item=2764074355&perks=3978468247,2048641572,4129855581
+dimwishlist:item=2764074355&perks=4071163871,2360754333,4129855581
+dimwishlist:item=2764074355&perks=4071163871,3201496230,4129855581
+dimwishlist:item=2764074355&perks=4071163871,2048641572,4129855581
+
+
 // A Sudden Death (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
 //notes: [Fallout S26A3 RotN Godrolls] Closing Time better on Slugs, so Opening Shot wins out here. One-Two Punch + Trench Barrel is unique here, other Shotguns only have them in the same column. Discord + Destabilzing Round is infinite ammo + room-go-boom. https://youtu.be/9BNsIO0FMO4 tags:pve
 dimwishlist:item=2764074355&perks=2679249093,2360754333
@@ -11231,6 +11582,27 @@ dimwishlist:item=2764074355&perks=3978468247,3201496230
 //notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. Has a bit of everything but still has good PvP combinations. https://youtu.be/2EeqvjOiXTU tags:pvp
 dimwishlist:item=2764074355&perks=3161816588,47981717
 dimwishlist:item=2764074355&perks=4071163871,47981717
+
+
+// A Sudden Death (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Kept most of its perks and added a couple of great ones. Aggressives increase Rate of Fire after a kill for faster follow-ups. Bit inconsistent but when it lands it shocks you how much damage it does; Aggressives have an oval spread pattern that matches a guardian's shape, so it's easier to miss landing all shots, but it does a bit more damage to compensate. Closing Time is not better than Opening Shot. https://youtu.be/O13_Z7NrzSg tags:pve
+dimwishlist:item=2764074355&perks=3978468247,3201496230
+
+
+// A Sudden Death (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] Kept most of its perks and added a couple of great ones. Aggressives increase Rate of Fire after a kill for faster follow-ups. Bit inconsistent but when it lands it shocks you how much damage it does; Aggressives have an oval spread pattern that matches a guardian's shape, so it's easier to miss landing all shots, but it does a bit more damage to compensate. Closing Time is not better than Opening Shot. https://youtu.be/O13_Z7NrzSg tags:pve
+dimwishlist:item=2764074355&perks=2679249093,2360754333
+
+
+// A Sudden Death (Adept) - [Aztecross S26A3 RotN Godrolls] (pvp)
+//notes: [Aztecross S26A3 RotN Godrolls] Kept most of its perks and added a couple of great ones. Aggressives increase Rate of Fire after a kill for faster follow-ups. Bit inconsistent but when it lands it shocks you how much damage it does; Aggressives have an oval spread pattern that matches a guardian's shape, so it's easier to miss landing all shots, but it does a bit more damage to compensate. Closing Time is not better than Opening Shot. https://youtu.be/O13_Z7NrzSg tags:pvp
+dimwishlist:item=2764074355&perks=3142289711,3161816588,47981717,4129855581
+
+
+// A Sudden Death (Adept) - [Aztecross S26A3 Review] (pve)
+//notes: [Aztecross S26A3 Review] Aggressives hits harder, shoots slower, but increase Rate of Fire after a kill, pretty unique. Lost 3 perks from previous iteration, quite few. One-Two Punch and Trench Barrel getting buffed in EOF with Melee stat giving melee damage boosts. Redirection is inconsistent, both in gaining and using stacks, potentially counting it per shot in a burst, likely a bug or oversight; maybe keep a roll (with Envious Assassin or Discord) and try it when it's fixed. Competes with Perfect Paradox and Unvoiced, with tradeoffs in shoot speed and crit forgiveness. Gravity Well has great utility, better than the buffs given by Crossing Over. https://youtu.be/RNEdz6a3mm8 tags:pve
+dimwishlist:item=2764074355&perks=791862061,776531651,2048641572
+dimwishlist:item=2764074355&perks=791862061,3978468247,2048641572
 
 
 // Nox Perennial V - [demonjoe S23 World Loot Guide] (god-pve)
@@ -11672,6 +12044,12 @@ dimwishlist:item=2855157553&perks=4071163871,4104185692
 dimwishlist:item=2856225832&perks=3643424744,3218042543
 dimwishlist:item=2856225832&perks=684456054,3218042543
 dimwishlist:item=2856225832&perks=2869569095,3218042543
+
+
+// Watchful Eye (Adept) - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Corrective Measure is better, but this is the only Arc Aggressive Frame. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=2856225832&perks=3643424744,3218042543
+dimwishlist:item=2856225832&perks=3643424744,557221067
 
 
 // Watchful Eye (Adept) - [Datto S26A1 Heresy Godrolls] (pve)
@@ -13004,6 +13382,13 @@ dimwishlist:item=3175851496&perks=2869569095,4104185692,82180537
 dimwishlist:item=3184681056&perks=1556840489,2360754333
 
 
+// New Pacific Epitaph (Adept) - [Llama S26A3 Review] (god-pve)
+//notes: [Llama S26A3 Review] Waveframe GLs were best-in-slot ad clears, since eclipsed by Rocket Sidearms and abilities in general, but this is still good. Chain Reaction on Stasis isn't as visually obvious but still does fine. Rimestealer can work as it breaks Stasis Crystals (and frozen enemies) in one go; you can get max stacks in one shot if set up correctly. For DPS rotations Envious Arsenal + Elemental Honing not as good, Liturgy does more damage in the same slot. Lead From Gold works with Gravity Well, Restoration Ritual not as useful. https://youtu.be/xEwV_JLOB_U tags:god-pve
+dimwishlist:item=3185151619&perks=1955165503,2396489472,59871045
+dimwishlist:item=3185151619&perks=1556840489,2396489472,59871045
+dimwishlist:item=3185151619&perks=3108830275,2396489472,59871045
+
+
 // New Pacific Epitaph (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
 //notes: [Fallout S26A3 RotN Godrolls] Most will run Lost Signal instead, but still some good ones here for Wave Frame lovers. https://youtu.be/9BNsIO0FMO4 tags:pve
 dimwishlist:item=3185151619&perks=1556840489,3201496230
@@ -13023,6 +13408,12 @@ dimwishlist:item=3185151619&perks=3523296417,3201496230
 //notes: [Aztecross S26A3 RotN Godrolls] Lost some useless perks and gained some good ones compared to the original from Ghosts. https://youtu.be/prtaBIVbZcg tags:pve
 dimwishlist:item=3185151619&perks=1556840489,2396489472
 dimwishlist:item=3185151619&perks=1556840489,3201496230
+
+
+// New Pacific Epitaph (Adept) - [Llama S26A3 Review] (pve)
+//notes: [Llama S26A3 Review] Waveframe GLs were best-in-slot ad clears, since eclipsed by Rocket Sidearms and abilities in general, but this is still good. Chain Reaction on Stasis isn't as visually obvious but still does fine. Rimestealer can work as it breaks Stasis Crystals (and frozen enemies) in one go; you can get max stacks in one shot if set up correctly. For DPS rotations Envious Arsenal + Elemental Honing not as good, Liturgy does more damage in the same slot. Lead From Gold works with Gravity Well, Restoration Ritual not as useful. https://youtu.be/xEwV_JLOB_U tags:pve
+dimwishlist:item=3185151619&perks=3523296417,11612903,59871045
+dimwishlist:item=3185151619&perks=3523296417,2396489472,59871045
 
 
 // Found Verdict - [Aegis S24A2 Endgame Analysis] (pve)
@@ -13349,6 +13740,29 @@ dimwishlist:item=3329218848&perks=3523296417,3215448563
 //notes: [Datto S26A3 RotN Godrolls] A lot of mid in the RotN weapons. Gravity Well might cut down on Shoot To Loot time but obviously need to use a RotN weapon for it. https://youtu.be/2EeqvjOiXTU tags:pvp
 dimwishlist:item=3329218848&perks=3161816588,47981717
 dimwishlist:item=3329218848&perks=3161816588,555281244
+
+
+// Judgment (Adept) - [Aztecross S26A3 RotN Godrolls] (pve)
+//notes: [Aztecross S26A3 RotN Godrolls] In PvE, it's a Stasis Handcannon. For PvP, it has scopes, but the feel is a bit divisive. 4th column has few outstanding PvP perks. https://youtu.be/O13_Z7NrzSg tags:pve
+dimwishlist:item=3329218848&perks=124408337,1955165503
+dimwishlist:item=3329218848&perks=124408337,1954620775
+dimwishlist:item=3329218848&perks=124408337,3215448563
+
+
+// Judgment (Adept) - [Aztecross S26A3 RotN Godrolls] (pvp)
+//notes: [Aztecross S26A3 RotN Godrolls] In PvE, it's a Stasis Handcannon. For PvP, it has scopes, but the feel is a bit divisive. 4th column has few outstanding PvP perks. https://youtu.be/O13_Z7NrzSg tags:pvp
+dimwishlist:item=3329218848&perks=1926090093,3142289711,3619207468,555281244
+dimwishlist:item=3329218848&perks=1926090093,3142289711,3619207468,47981717
+dimwishlist:item=3329218848&perks=1926090093,3142289711,3619207468,1954620775
+dimwishlist:item=3329218848&perks=1926090093,3142289711,2579169598,555281244
+dimwishlist:item=3329218848&perks=1926090093,3142289711,2579169598,47981717
+dimwishlist:item=3329218848&perks=1926090093,3142289711,2579169598,1954620775
+dimwishlist:item=3329218848&perks=1926090093,3142289711,247725512,555281244
+dimwishlist:item=3329218848&perks=1926090093,3142289711,247725512,47981717
+dimwishlist:item=3329218848&perks=1926090093,3142289711,247725512,1954620775
+dimwishlist:item=3329218848&perks=1926090093,3142289711,3161816588,555281244
+dimwishlist:item=3329218848&perks=1926090093,3142289711,3161816588,47981717
+dimwishlist:item=3329218848&perks=1926090093,3142289711,3161816588,1954620775
 
 
 // Aisha's Care (Adept) - [Aztecross S24A1 Review] (god-pvp)
@@ -13719,6 +14133,11 @@ dimwishlist:item=3433930495&perks=202670084,1885400500,2579169598,460017080,3404
 // Gridskipper - [Aztecross S25A2 Review] (god-pve)
 //notes: [Aztecross S25A2 Review] Repulsor Brace and Multikill Clip great on Gyrfalcon's builds, pairs well with Splicer Surge. https://youtu.be/pipsOmuBRiE tags:god-pve
 dimwishlist:item=3433930495&perks=776531651,2458213969,3404929162
+
+
+// Gridskipper - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Best primary perk combination for ad clearing. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=3433930495&perks=776531651,2048641572
 
 
 // Gridskipper - [itzTizzle S25A1 Splicer Godrolls] (pvp)
@@ -15001,6 +15420,11 @@ dimwishlist:item=3794274730&perks=243981275,3913600130,253121539
 dimwishlist:item=3794274730&perks=243981275,3708227201,253121539
 
 
+// Ill Omen - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Caster Frame Swords have great total DPS for long phases. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=3794274730&perks=1749209109,3913600130
+
+
 // Ill Omen - [Datto S24 Review] (pve)
 //notes: [Datto S24 Review] tags:pve
 dimwishlist:item=3794274730&perks=1749209109,3650930298
@@ -15161,6 +15585,12 @@ dimwishlist:item=3829285960&perks=1168162263,3523296417
 // Vantage Point - [Llama S25A1 Review] (god-pve)
 //notes: [Llama S25A1 Review] https://youtu.be/BmpDiV4aDGw tags:god-pve
 dimwishlist:item=3830941962&perks=1583705720,3966416502,2041432007
+
+
+// Vantage Point - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
+//notes: [Llama S26A3 S24-S26 Must-Haves] Feel so good to use, Dark Ether Reaper also gives extra damage, reload, and overflow. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=3830941962&perks=1583705720,3966416502,2041432007
+dimwishlist:item=3830941962&perks=684456054,3966416502,2041432007
 
 
 // Vantage Point - [Datto S25A1 Revenant Godrolls] (pve)

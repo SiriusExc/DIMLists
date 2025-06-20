@@ -1721,6 +1721,11 @@ dimwishlist:item=480368036&perks=981914802,106909392,1421772400,3708227201
 dimwishlist:item=480368036&perks=981914802,106909392,1421772400,4104185692
 
 
+// Tinasha's Mastery - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] If you run endgame content, this is almost mandatory. (No third column perks specified.) https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=480368036&perks=2978966579,3989629871
+
+
 // Rufus's Fury - [Aegis S22 Endgame Analysis] (god-pve)
 //notes: [Aegis S22 Endgame Analysis] Role: Add clear tags:god-pve
 dimwishlist:item=484515708&perks=3523296417,831391274,3186078099
@@ -2416,6 +2421,22 @@ dimwishlist:item=601574723&perks=692399809,2298656195
 dimwishlist:item=601574723&perks=923806249,960997401
 
 
+// Adamantite (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=601574723&perks=692399809,2298656195
+
+
+// Adamantite (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=601574723&perks=923806249,960997401
+dimwishlist:item=601574723&perks=923806249,831391274
+
+
+// Adamantite (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=601574723&perks=1820235745,4104185692
+
+
 // Zephyr - [itzTizzle S25A2 Dawning Godrolls] (pve)
 //notes: [itzTizzle S25A2 Dawning Godrolls] https://youtu.be/d3FG0Vpiwdw tags:pve
 dimwishlist:item=601948197&perks=3666208348,269888150,1749209109,3650930298
@@ -2943,6 +2964,11 @@ dimwishlist:item=704410186&perks=3987942396,4104185692
 dimwishlist:item=704410186&perks=2010801679,4104185692
 
 
+// Psychopomp (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Still not completely sold on Rolling Storm without the artifact buffs. Does have Envious Arsenal and Elemental Honing for damage rotations if you're set up for it. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=704410186&perks=3987942396,1089671869
+
+
 // Ascendancy - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 23/24 tags:pve
 dimwishlist:item=725408022&perks=951095735,3194351027
@@ -3120,6 +3146,11 @@ dimwishlist:item=825495813&perks=1119449540,3966416502,2041432007
 //notes: [CoolGuy S25A2 Review] More a PvE weapon, but has bad stats for 600 rpm SMG, you need to get around it with perks, and there aren't many PvP perks here. Shayura's is right there. https://youtu.be/SMoO7zym8fc tags:pvp
 dimwishlist:item=825495813&perks=1570042021,365154968
 dimwishlist:item=825495813&perks=1570042021,3425386926
+
+
+// Noxious Vetiver - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Pretty much only a Jolting Feedback play, everything else is available elsewhere. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=825495813&perks=1119449540,3966416502
 
 
 // The Inquisitor (Adept) - [Aegis S24A2 Endgame Analysis] (pve)
@@ -4730,6 +4761,13 @@ dimwishlist:item=1197771438&perks=1556840489,3523296417
 dimwishlist:item=1197771438&perks=1556840489,563069569
 
 
+// Lost Signal - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] First of the Area Denial GLs, a great archetype. Use Vorpal Weapon for boss damage rotations. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=1197771438&perks=3300816228,4049631843
+dimwishlist:item=1197771438&perks=3300816228,1546637391
+dimwishlist:item=1197771438&perks=3300816228,3523296417
+
+
 // Exalted Truth (Adept) - [Aztecross S26A1 Review] (god-pve)
 //notes: [Aztecross S26A1 Review] Destabilizing Rounds' Volatile AoE can discharge Bolt Charge. Void ties in with this season's artifact mods very well. Alacrity might be good for solo content. https://youtu.be/qm1y-xlCpPE tags:god-pve
 dimwishlist:item=1201528146&perks=106909392,2048641572,4049631843
@@ -5364,6 +5402,12 @@ dimwishlist:item=1298672084&perks=4071163871,2679249093
 dimwishlist:item=1298672084&perks=3142289711,3161816588,47981717
 
 
+// Perfect Paradox - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Trench Barrel is great especially for Warlocks that might be using Tractor Cannon in damage situations. Reload and Handling perks would be nice here. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=1298672084&perks=4071163871,2360754333
+dimwishlist:item=1298672084&perks=25606670,2360754333
+
+
 // Brigand's Law - Ad clear (god-pve)
 //notes: Ad clear tags:god-pve
 dimwishlist:item=1298815317&perks=1482024992,3142289711,2779035018,2173046394
@@ -5462,6 +5506,11 @@ dimwishlist:item=1303313141&perks=2726471870,1089671869
 dimwishlist:item=1303313141&perks=2726471870,557221067
 dimwishlist:item=1303313141&perks=2726471870,4198902903
 dimwishlist:item=1303313141&perks=2726471870,831391274
+
+
+// Unsworn - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Great Origin Trait. One of the best legendary Trace Rifles, perhaps better for support Warlocks. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=1303313141&perks=3700496672,4198902903
 
 
 // Dimensional Hypotrochoid - [Aegis S24A2 Endgame Analysis] (pve)
@@ -6503,6 +6552,11 @@ dimwishlist:item=1762785662&perks=3987942396,3078487919
 dimwishlist:item=1762785662&perks=3751912585,3078487919
 
 
+// VS Chill Inhibitor - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Pick it up from Banshee ASAP, or grind it out. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+
+
 // VS Velocity Baton - [CoolGuy S25A1 Review] (god-pve)
 //notes: [CoolGuy S25A1 Review] Attrition Orbs with Bray Legacy gives ability energy on just hits. Pair with Void Siphon to print orbs. Also best Frame for Destabilizing Rounds, proccing off DoT. tags:god-pve
 dimwishlist:item=1762785663&perks=1870851715,243981275,4139916815
@@ -6565,6 +6619,14 @@ dimwishlist:item=1762785663&perks=776531651,243981275
 
 // VS Velocity Baton - [Datto S26A1 SD/VH Godrolls] (pve)
 //notes: [Datto S26A1 Sundered/Vesper's Godrolls] Orb printer, can also do the Void classic Repulsor Brace + Destabilizing Rounds but that may be more for Primary weapons. https://youtu.be/fXgXtSwATJU tags:pve
+dimwishlist:item=1762785663&perks=776531651,2048641572
+
+
+// VS Velocity Baton - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Nice orb printer, but also Destabilizing Rounds has been buffed and is great here. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=1762785663&perks=3523296417,243981275
+dimwishlist:item=1762785663&perks=3523296417,2048641572
+dimwishlist:item=1762785663&perks=776531651,243981275
 dimwishlist:item=1762785663&perks=776531651,2048641572
 
 
@@ -8336,6 +8398,11 @@ dimwishlist:item=2130875369&perks=1482024992,791862061,3978468247,4293542123
 dimwishlist:item=2130875369&perks=1482024992,791862061,3978468247,4082225868
 
 
+// Sojourner's Tale - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Discord + Harmony is still a fun combo, and Discord is a bit slept on. Grab one if it's for you. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2130875369&perks=3978468247,438098033
+
+
 // Hero of Ages - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier E Rank 30/33 tags:pve
 dimwishlist:item=2139640995&perks=1749209109,1685431615
@@ -8547,6 +8614,11 @@ dimwishlist:item=2198166292&perks=691659142,4293542123
 dimwishlist:item=2198166292&perks=2010801679,4293542123
 
 
+// Aberrant Action - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Rocket Sidearms still arguably the best archetype in the game right now. Heal Clip is absolutely necessary. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+
+
 // Bygones - [Aztecross S25A1 Review] (god-pvp)
 //notes: [Aztecross S25A1 Review] Go for Range MW. Go for Counterbalance Mod (Don't need Arrowhead Brake). https://youtu.be/TT1dTWbbhpQ tags:god-pvp
 dimwishlist:item=2199554524&perks=3250034553,1885400500,2387244414,2319119708,515704826
@@ -8703,6 +8775,11 @@ dimwishlist:item=2226158470&perks=1840239774,1968497646,3824105627,3215448563
 dimwishlist:item=2226158470&perks=1840239774,1968497646,3824105627,2173046394
 
 
+// Unworthy - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Arc Scout that does Arc things, get it if you love Scouts. Is also my favourite Rapid-Fire frame. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2226158470&perks=3824105627,2173046394
+
+
 // Edge Transit - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier S Rank 1/21 tags:god-pve
 dimwishlist:item=2228325504&perks=968510818,3078487919,2489430594
@@ -8829,6 +8906,11 @@ dimwishlist:item=2265407516&perks=3643424744,3078487919
 dimwishlist:item=2265407516&perks=3643424744,1439600632
 dimwishlist:item=2265407516&perks=3643424744,1089671869
 dimwishlist:item=2265407516&perks=3643424744,3194351027
+
+
+// Hezen Vengeance - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] One of the best weapons in the game right now, get a Timelost version if you can, but at least get an Envious Arsenal + Bait And Switch roll. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2265407516&perks=3987942396,3078487919
 
 
 // Fire and Forget - [Aegis S24A2 Endgame Analysis] (pve)
@@ -9156,6 +9238,21 @@ dimwishlist:item=2328923181&perks=691659142,2109543898
 //notes: [Datto S24 Review] Very build dependent. tags:pve
 dimwishlist:item=2328923181&perks=923806249,831391274
 dimwishlist:item=2328923181&perks=923806249,2109543898
+
+
+// Breachlight - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Lots of fans, lots of build options here. Still a pretty potent primary damage option. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2328923181&perks=691659142,4082225868
+
+
+// Breachlight - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Lots of fans, lots of build options here. Still a pretty potent primary damage option. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2328923181&perks=3523296417,11612903
+
+
+// Breachlight - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Lots of fans, lots of build options here. Still a pretty potent primary damage option. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2328923181&perks=923806249,831391274
 
 
 // Corrective Measure (Timelost) - [Fallout S26A1 Redirection Rework] (pve)
@@ -9536,6 +9633,11 @@ dimwishlist:item=2450049485&perks=247725512,1771339417
 //notes: [Aegis S24A2 Endgame Analysis] Tier B Rank 6/15 tags:pve
 dimwishlist:item=2450049485&perks=2284787283,3078487919,2838996248
 dimwishlist:item=2450049485&perks=3993379141,3078487919,2838996248
+
+
+// Line in the Sand - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Vehicle combat continues to be a cope, might as well have this in the back pocket. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2450049485&perks=3993379141,3078487919
 
 
 // Uzume RR4 - [Aegis S23 Endgame Analysis/Weapon Meta Update] (pve)
@@ -10272,6 +10374,11 @@ dimwishlist:item=2584830733&perks=3523296417,11612903
 dimwishlist:item=2584830733&perks=3523296417,2109543898
 
 
+// Martyr's Retribution - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Access to Heal Clip and Incandescent for Waveframes. Not the best archetype right now but should make a comeback. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+
+
 // Compass Rose (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2591111628&perks=4090651448,791862061,2209918983,2360754333
@@ -10451,6 +10558,13 @@ dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
 dimwishlist:item=2599338624&perks=3032599245,2039302152,2396489472
 
 
+// Liturgy - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Double Fire GL, mostly used in Envious Arsenal damage rotations. Some Frost Armor mods in next season's artifact could pair well with Rimestealer. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2599338624&perks=3032599245,3987942396,2978966579
+dimwishlist:item=2599338624&perks=3032599245,1955165503,2978966579
+dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
+
+
 // Bitter/Sweet - [itzTizzle S25A1 Splicer Godrolls] (god-pve)
 //notes: [itzTizzle S25A1 Splicer Godrolls] Base mag only 5, use Mini Frags or Augmented Drum with Backup Mag for 8 in the mag. Jolting Feedback wasted on Heavy GLs. https://youtu.be/xvp3m7lVnEc tags:god-pve
 dimwishlist:item=2599338625&perks=332133599,3987942396,3078487919
@@ -10471,6 +10585,11 @@ dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3751912585
 dimwishlist:item=2599338625&perks=3987942396,3194351027
+
+
+// Bitter/Sweet - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Envious Arsenal + Bait And Switch still one of the best damage rotations around. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2599338625&perks=3987942396,3078487919
 
 
 // Jurassic Green - [CoolGuy S18 Review] More for PvE/6v6 than 3v3/Rumble (god-pve,god-pvp)
@@ -11064,6 +11183,16 @@ dimwishlist:item=2697143634&perks=880644845,2048641572,1281216113
 dimwishlist:item=2697143634&perks=880644845,4049631843,1281216113
 
 
+// Lotus-Eater (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Good damage- or Void-related rolls. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2697143634&perks=1523832109,4049631843
+dimwishlist:item=2697143634&perks=1523832109,2048641572
+dimwishlist:item=2697143634&perks=1523832109,1134488199
+dimwishlist:item=2697143634&perks=776531651,4049631843
+dimwishlist:item=2697143634&perks=776531651,2048641572
+dimwishlist:item=2697143634&perks=776531651,1134488199
+
+
 // BxR-55 Battler - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Oversoul Edict; Role: Add clear tags:pve
 dimwishlist:item=2708806099&perks=1906147653,2675184851,1260401931
@@ -11309,6 +11438,11 @@ dimwishlist:item=2761869150&perks=3032599245,1556840489,2319119708,3404929162
 dimwishlist:item=2761869150&perks=3301904089,1556840489,4104185692,3404929162
 dimwishlist:item=2761869150&perks=3301904089,1556840489,1546637391,3404929162
 dimwishlist:item=2761869150&perks=3301904089,1556840489,2319119708,3404929162
+
+
+// Ignition Code - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] People still like Slideshot Ignition Code, scoop one up if you're one of them. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2761869150&perks=3032599245,3161816588
 
 
 // Midnight Coup - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -12384,6 +12518,11 @@ dimwishlist:item=2913577176&perks=3978468247,2048641572,2041432007
 dimwishlist:item=2913577176&perks=3978468247,3708227201,2041432007
 
 
+// Scavenger's Fate - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Discord + Harmony is still a fun combo, and Discord is a bit slept on. Grab one if it's for you. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2913577176&perks=3978468247,438098033
+
+
 // Loaded Question (Adept) - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier B Rank 7/31 tags:pve
 dimwishlist:item=2914913838&perks=968510818,2594592626,1281216113
@@ -13047,6 +13186,11 @@ dimwishlist:item=3054597646&perks=2590710093,831391274
 // Abyssal Edge (Adept) - [itzTizzle S26A1 Heresy Godrolls] (pve)
 //notes: [itzTizzle S26A1 Heresy Godrolls] Both Origin Traits are strong. Many rolls have better alt weapons. https://youtu.be/6a7dDmo2BgY tags:pve
 dimwishlist:item=3054597646&perks=1749209109,3708227201
+
+
+// Abyssal Edge (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Strongholds tech with Flash Counter + Redirection. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3054597646&perks=2244851822,3201496230
 
 
 // Timelines' Vertex - [Aegis S24A2 Endgame Analysis] (pve)
@@ -13950,6 +14094,11 @@ dimwishlist:item=3360937899&perks=4090651448,3142289711,2579169598,1194056669
 dimwishlist:item=3360937899&perks=1482024992,3142289711,2579169598,1194056669
 
 
+// Unvoiced - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Redirection rework makes it great to pair with Bait And Switch, if you spend the time to build it up. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3360937899&perks=3987942396,3078487919
+
+
 // Bequest - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier S Rank 5/33 tags:god-pve
 dimwishlist:item=3366545721&perks=1749209109,3708227201,766321425
@@ -14196,6 +14345,11 @@ dimwishlist:item=3433930495&perks=2387244414,460017080,3404929162
 dimwishlist:item=3433930495&perks=2387244414,2458213969,3404929162
 dimwishlist:item=3433930495&perks=2579169598,460017080,3404929162
 dimwishlist:item=3433930495&perks=2579169598,2458213969,3404929162
+
+
+// Gridskipper - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Repulsor Brace + Destabilizing Rounds is here. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3433930495&perks=776531651,2048641572
 
 
 // Exalted Truth - [Aztecross S26A1 Review] (god-pve)
@@ -14889,6 +15043,11 @@ dimwishlist:item=3623686757&perks=3643424744,3078487919
 dimwishlist:item=3623686757&perks=3643424744,1439600632
 dimwishlist:item=3623686757&perks=3643424744,1089671869
 dimwishlist:item=3623686757&perks=3643424744,3194351027
+
+
+// Hezen Vengeance (Timelost) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] One of the best weapons in the game right now, get a Timelost version if you can, but at least get an Envious Arsenal + Bait And Switch roll. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3623686757&perks=3987942396,3078487919
 
 
 // Negative Space - [Aegis S24A2 Endgame Analysis] (pve)
@@ -15943,6 +16102,16 @@ dimwishlist:item=3922217119&perks=1523832109,2048641572
 dimwishlist:item=3922217119&perks=1523832109,4049631843
 dimwishlist:item=3922217119&perks=880644845,2048641572
 dimwishlist:item=3922217119&perks=880644845,4049631843
+
+
+// Lotus-Eater - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Good damage- or Void-related rolls. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3922217119&perks=776531651,2048641572
+dimwishlist:item=3922217119&perks=776531651,4049631843
+dimwishlist:item=3922217119&perks=776531651,1134488199
+dimwishlist:item=3922217119&perks=1523832109,2048641572
+dimwishlist:item=3922217119&perks=1523832109,4049631843
+dimwishlist:item=3922217119&perks=1523832109,1134488199
 
 
 // Parabellum - [Aegis S23 Endgame Analysis/Weapon Meta Update] (god-pve)
@@ -17495,6 +17664,11 @@ dimwishlist:item=4232480042&perks=684456054,3966416502
 dimwishlist:item=4232480042&perks=880644845,3966416502
 
 
+// VS Pyroelectric Propellant - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Strategist great for Hunters as well as Storm's Keep Titans. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=4232480042&perks=880644845,3966416502
+
+
 // Marcato-45 - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier A Rank 8/25 Demo/Tricorn LMG is interesting but this is on Strand, mostly useful for Titans only tags:god-pve
 dimwishlist:item=4233375372&perks=3523296417,95528736,4008116374
@@ -17825,6 +17999,21 @@ dimwishlist:item=2712683313&perks=2590710093,831391274
 dimwishlist:item=2712683313&perks=1749209109,3708227201
 
 
+// Abyssal Edge (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Strongholds tech with Flash Counter + Redirection. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2712683313&perks=2244851822,3201496230
+
+
+// Abyssal Edge - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Strongholds tech with Flash Counter + Redirection. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=4221591387&perks=2244851822,3201496230
+
+
+// Abyssal Edge - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Strongholds tech with Flash Counter + Redirection. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=547165496&perks=2244851822,3201496230
+
+
 // Adamantite - [Aztecross S26A1 Heresy Godrolls] (god-pve)
 //notes: [Aztecross S26A1 Heresy Godrolls] Not a slaying weapon, lean into the support aspects. Or at least the Strand aspect. Use Runneth Over if possible. https://youtu.be/vkC-oOTWSN0 tags:god-pve
 dimwishlist:item=3229982889&perks=692399809,2298656195
@@ -17919,6 +18108,54 @@ dimwishlist:item=2987244302&perks=692399809,4104185692
 // Adamantite - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
 //notes: [Llama S26A3 S24-S26 Must-Haves] Healing is always useful for contest content, this one being in Kinetic slot automatically makes it must-have, to free up your Energy slot. https://youtu.be/T_bD5nO8qSo tags:god-pve
 dimwishlist:item=3229982889&perks=692399809,4104185692
+
+
+// Adamantite (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3485029080&perks=692399809,2298656195
+
+
+// Adamantite (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3485029080&perks=923806249,960997401
+dimwishlist:item=3485029080&perks=923806249,831391274
+
+
+// Adamantite (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3485029080&perks=1820235745,4104185692
+
+
+// Adamantite - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2987244302&perks=692399809,2298656195
+
+
+// Adamantite - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2987244302&perks=923806249,960997401
+dimwishlist:item=2987244302&perks=923806249,831391274
+
+
+// Adamantite - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2987244302&perks=1820235745,4104185692
+
+
+// Adamantite - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3229982889&perks=692399809,2298656195
+
+
+// Adamantite - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3229982889&perks=923806249,960997401
+dimwishlist:item=3229982889&perks=923806249,831391274
+
+
+// Adamantite - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Kinetic Slot Support Auto, have one on reserve. Various ways of speccing it though. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3229982889&perks=1820235745,4104185692
 
 
 // Afterlight - [Aztecross S26A1 Heresy Godrolls] (god-pve)
@@ -18769,6 +19006,21 @@ dimwishlist:item=4028298892&perks=2010801679,3218042543
 
 // Psychopomp - [Llama S26A3 S24-S26 Must-Haves] (god-pve)
 //notes: [Llama S26A3 S24-S26 Must-Haves] Arc in damage rotations is a bit hard to come by in general, pair with, say, Liturgy and Hezen Vengeance (also with Elemental Honing). Rolling Storm for general Transcendence energy building. Use Runneth Over if available. https://youtu.be/T_bD5nO8qSo tags:god-pve
+dimwishlist:item=4028298892&perks=3987942396,1089671869
+
+
+// Psychopomp (Adept) - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Still not completely sold on Rolling Storm without the artifact buffs. Does have Envious Arsenal and Elemental Honing for damage rotations if you're set up for it. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=2553380021&perks=3987942396,1089671869
+
+
+// Psychopomp - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Still not completely sold on Rolling Storm without the artifact buffs. Does have Envious Arsenal and Elemental Honing for damage rotations if you're set up for it. https://youtu.be/1WsfD93ALPA tags:pve
+dimwishlist:item=3840794631&perks=3987942396,1089671869
+
+
+// Psychopomp - [Datto S26A3 S24-S26 Must-Haves] (pve)
+//notes: [Datto S26A3 S24-S26 Must-Haves] Still not completely sold on Rolling Storm without the artifact buffs. Does have Envious Arsenal and Elemental Honing for damage rotations if you're set up for it. https://youtu.be/1WsfD93ALPA tags:pve
 dimwishlist:item=4028298892&perks=3987942396,1089671869
 
 

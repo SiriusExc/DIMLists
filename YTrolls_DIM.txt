@@ -65,6 +65,22 @@ dimwishlist:item=42351395&perks=2010801679,1275731761
 dimwishlist:item=42351395&perks=2010801679,3523296417
 
 
+// Mint Retrograde - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] The first Rocket Assisted Pulse. Does comparable damage to some heavy weapons, very nice. Rewind Rounds procs from splash damage, and can empty your reserves without ever reloading. Master Of Arms requires 2 kills for 25% buff, while One For All just needs 3 hits for 35% buff; Hatchling also procs One For All. Enhanced Chain Reaction boosts reserves but seems to have a very low ceiling (18 rounds). Exhaust from Problem Solver takes 4 bursts and lasts for 5 seconds (Handling/Reload buffs last 10 seconds). Vanguard Determination is handy DR for not much work. Go for High Explosive Ordinance for reserves bump. Not much use in PvP without a kill perk, as with other Rocket frames. https://youtu.be/r47HtKqWw2Y tags:pve
+dimwishlist:item=42435996&perks=3418782618,3078487919
+dimwishlist:item=42435996&perks=3418782618,2396489472
+dimwishlist:item=42435996&perks=3418782618,923806249
+dimwishlist:item=42435996&perks=3418782618,1089671869
+dimwishlist:item=42435996&perks=3418782618,3081867624
+dimwishlist:item=42435996&perks=3418782618,4049631843
+
+
+// Mint Retrograde - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] The first Rocket Assisted Pulse. Does comparable damage to some heavy weapons, very nice. Rewind Rounds procs from splash damage, and can empty your reserves without ever reloading. Master Of Arms requires 2 kills for 25% buff, while One For All just needs 3 hits for 35% buff; Hatchling also procs One For All. Enhanced Chain Reaction boosts reserves but seems to have a very low ceiling (18 rounds). Exhaust from Problem Solver takes 4 bursts and lasts for 5 seconds (Handling/Reload buffs last 10 seconds). Vanguard Determination is handy DR for not much work. Go for High Explosive Ordinance for reserves bump. Not much use in PvP without a kill perk, as with other Rocket frames. https://youtu.be/r47HtKqWw2Y tags:pve
+dimwishlist:item=42435996&perks=831391274,2396489472
+dimwishlist:item=42435996&perks=831391274,4049631843
+
+
 // Uzume RR4 - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier C Rank 11/43 tags:pve
 dimwishlist:item=42874240&perks=1354429876,555281244,1281216113
@@ -1259,6 +1275,46 @@ dimwishlist:item=372697604&perks=699525795,1546637391
 dimwishlist:item=396910433&perks=1749209109,3708227201,4264904777
 dimwishlist:item=396910433&perks=1749209109,3913600130,4264904777
 dimwishlist:item=396910433&perks=1749209109,3650930298,4264904777
+
+
+// Ribbontail - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Tenacity gives +0.5% damage per surrounded kill, but this is a Trace Rifle. Coming off 3 great Trace Rifles last year, including also-Strand Unsworn, competition is fierce. Proximity Power worked for Phoneutria Fera but less obvious here. Redirection debuts on Trace Rifles here, but runs out so fast most will probably take Detonator Beam over it. So far Unsworn's Origin Trait is better. https://youtu.be/-h3ZMqCYE68 tags:pve
+dimwishlist:item=407150810&perks=1820235745,4198902903
+dimwishlist:item=407150810&perks=1820235745,557221067
+dimwishlist:item=407150810&perks=3987942396,4198902903
+dimwishlist:item=407150810&perks=3987942396,557221067
+
+
+// Ribbontail - [Datto S27A1 Rolls] (pve)
+//notes: [Datto S27A1 Rolls] I've been using it to pop Tangles, could replace it with Barrow Dyad or Quicksilver Storm. Unsworn has Shoot To Loot, this has Redirection, which stacks and purges super fast. Fun but not all that mandatory. https://youtu.be/5Ncdb1URP0s tags:pve
+dimwishlist:item=407150810&perks=1820235745,3201496230
+dimwishlist:item=407150810&perks=1820235745,4198902903
+dimwishlist:item=407150810&perks=1820235745,557221067
+dimwishlist:item=407150810&perks=1820235745,3708227201
+dimwishlist:item=407150810&perks=4190679284,3201496230
+dimwishlist:item=407150810&perks=4190679284,4198902903
+dimwishlist:item=407150810&perks=4190679284,557221067
+dimwishlist:item=407150810&perks=4190679284,3708227201
+
+
+// Ribbontail - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Tenacity gives +0.5% damage per surrounded kill, but this is a Trace Rifle. Coming off 3 great Trace Rifles last year, including also-Strand Unsworn, competition is fierce. Proximity Power worked for Phoneutria Fera but less obvious here. Redirection debuts on Trace Rifles here, but runs out so fast most will probably take Detonator Beam over it. So far Unsworn's Origin Trait is better. https://youtu.be/-h3ZMqCYE68 tags:pve
+dimwishlist:item=407150811&perks=1820235745,4198902903
+dimwishlist:item=407150811&perks=1820235745,557221067
+dimwishlist:item=407150811&perks=3987942396,4198902903
+dimwishlist:item=407150811&perks=3987942396,557221067
+
+
+// Ribbontail - [Datto S27A1 Rolls] (pve)
+//notes: [Datto S27A1 Rolls] I've been using it to pop Tangles, could replace it with Barrow Dyad or Quicksilver Storm. Unsworn has Shoot To Loot, this has Redirection, which stacks and purges super fast. Fun but not all that mandatory. https://youtu.be/5Ncdb1URP0s tags:pve
+dimwishlist:item=407150811&perks=1820235745,3201496230
+dimwishlist:item=407150811&perks=1820235745,4198902903
+dimwishlist:item=407150811&perks=1820235745,557221067
+dimwishlist:item=407150811&perks=1820235745,3708227201
+dimwishlist:item=407150811&perks=4190679284,3201496230
+dimwishlist:item=407150811&perks=4190679284,4198902903
+dimwishlist:item=407150811&perks=4190679284,557221067
+dimwishlist:item=407150811&perks=4190679284,3708227201
 
 
 // Song of Ir Yût (Adept) - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -2827,6 +2883,29 @@ dimwishlist:item=679281855&perks=1683379515,905869860
 dimwishlist:item=679281855&perks=1683379515,3244015567
 
 
+// Lance Ephemeral - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Great for damage with the perks here. Redirection is unique, pair with Fourth Time's The Charm. https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=688593230&perks=1354429876,3078487919
+dimwishlist:item=688593230&perks=1354429876,1089671869
+dimwishlist:item=688593230&perks=1354429876,3993379141
+dimwishlist:item=688593230&perks=3987942396,3078487919
+dimwishlist:item=688593230&perks=3987942396,1089671869
+dimwishlist:item=688593230&perks=3987942396,3993379141
+dimwishlist:item=688593230&perks=3418782618,3078487919
+dimwishlist:item=688593230&perks=3418782618,1089671869
+dimwishlist:item=688593230&perks=3418782618,3993379141
+
+
+// Lance Ephemeral - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Great for damage with the perks here. Redirection is unique, pair with Fourth Time's The Charm. https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=688593230&perks=1354429876,3201496230
+
+
+// Lance Ephemeral - [Aztecross S27A1 Godrolls] (pvp)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Great for damage with the perks here. Redirection is unique, pair with Fourth Time's The Charm. https://youtu.be/F5bwC-Ub_Lk tags:pvp
+dimwishlist:item=688593230&perks=957782887,1194056669
+
+
 // Jurassic Green - [Fallout S25A1 FotL Godrolls] (pve)
 //notes: [Fallout S25A1 FotL Godrolls] https://youtu.be/fQkzwZdQz1k tags:pve
 dimwishlist:item=689294985&perks=3017780555,4293542123
@@ -4247,6 +4326,17 @@ dimwishlist:item=1066598837&perks=3619207468,460017080,4129855581
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 14/31 tags:pve
 dimwishlist:item=1084190509&perks=3300816228,1546637391,3989629871
 dimwishlist:item=1084190509&perks=3978468247,1546637391,3989629871
+
+
+// The When and Where - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Stacked with damage perks. Reaper's Tithe is now the highest damage perk, stacks with Origin Trait. Chill Clip in the third column is unique. https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=1090936013&perks=2978966579,3078487919
+dimwishlist:item=1090936013&perks=2978966579,1089671869
+
+
+// The When and Where - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Stacked with damage perks. Reaper's Tithe is now the highest damage perk, stacks with Origin Trait. Chill Clip in the third column is unique. (No third column perks specified.) https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=1090936013&perks=113508675,2597494435
 
 
 // Oversoul Edict - [Aegis S23 Endgame Analysis] (god-pve)
@@ -5761,6 +5851,28 @@ dimwishlist:item=1432682459&perks=3619207468,831391274
 dimwishlist:item=1432682459&perks=3418782618,555281244
 
 
+// Antedate - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Jolt from Jolting Feedback doesn't discharge Bolt Charge, so Rolling Storm isn't at full potential. Go for Range MW, stats aren't bad but 900s not the best in PvP. https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=1435808083&perks=3418782618,3966416502
+dimwishlist:item=1435808083&perks=3418782618,4104185692
+dimwishlist:item=1435808083&perks=3418782618,3081867624
+dimwishlist:item=1435808083&perks=3418782618,3215448563
+dimwishlist:item=1435808083&perks=3218042543,3966416502
+dimwishlist:item=1435808083&perks=3218042543,4104185692
+dimwishlist:item=1435808083&perks=3218042543,3081867624
+dimwishlist:item=1435808083&perks=3218042543,3215448563
+dimwishlist:item=1435808083&perks=2848615171,3966416502
+dimwishlist:item=1435808083&perks=2848615171,4104185692
+dimwishlist:item=1435808083&perks=2848615171,3081867624
+dimwishlist:item=1435808083&perks=2848615171,3215448563
+
+
+// Antedate - [Aztecross S27A1 Godrolls] (pvp)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Jolt from Jolting Feedback doesn't discharge Bolt Charge, so Rolling Storm isn't at full potential. Go for Range MW, stats aren't bad but 900s not the best in PvP. https://youtu.be/F5bwC-Ub_Lk tags:pvp
+dimwishlist:item=1435808083&perks=3250034553,1885400500,2387244414,365154968
+dimwishlist:item=1435808083&perks=3250034553,1885400500,2387244414,3081867624
+
+
 // Subjunctive - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Role: Add clear; Alt: The Recluse (Enlightened Action/Repulsor Brace + Desperate Measures/Frenzy/Destabilizing Rounds). Not quite an IKELOS replacement, though it's a lightweight, but missing Frenzy. Origin trait is Restoration Ritual-lite, decent but needs more experience. tags:god-pve
 dimwishlist:item=1447836603&perks=4071163871,2173046394,19542588
@@ -6252,6 +6364,53 @@ dimwishlist:item=1509167284&perks=1482024992,3142289711,1195158366,4082225868
 dimwishlist:item=1509167284&perks=1482024992,3142289711,3400784728
 dimwishlist:item=1509167284&perks=1482024992,3142289711,1195158366
 dimwishlist:item=1509167284&perks=1482024992,3142289711,691659142
+
+
+// Opaque Hourglass - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] A whole new weapon type: Heavy Crossbow, and the only other bow in the heavy slot. All your bolts can be retrieved for essentially infinite ammo. You can also climb the bolts if fired into a wall. Persistence doesn't scale much (35 for 30 seconds, 65 for 39 seconds). Serrated Bolts' 2nd damage on bolt retrieval does half damage for all but one bolt. Charged Bolts' DOT doesn't stack but does highest overall damage. Heavy Bolts don't seem to be affected by gravity until very long distances (70m+) and does the most instaneous damage. Spring-Auger Bolts are mainly good for flinch, there's not much extra damage. Bolt Scavenger's Reload buff is about 9% faster than Impulse Amplifier, if you can retrieve your bolts consistently. Vorpal currently doing 32% extra damage as it's giving both the heavy and primary buffs. Firefly + Dragonfly is very rare, only on Doom of Chelchis. Does not work with Oathkeeper. With Heavy Bolts + Bolt Scavenger + Elemental Honing + Frame Of Reference and a Hierarchy ring, it does ~50% higher DPS and ~9% lower total damage compared to Leviathan's Breath with a Hierarchy ring. Can be used for boss DPS but more a Major buster or even ad clearing, it has high Ammo Gen to boot. Can one-shot in PvP with Radiant or Elemental Honing x1. https://youtu.be/uU1z3sg4UuE tags:pve
+dimwishlist:item=1553681400&perks=4088731040,1202133695,4042220767,1089671869
+dimwishlist:item=1553681400&perks=4088731040,1202133695,4042220767,4104185692
+dimwishlist:item=1553681400&perks=4088731040,1202133695,4042220767,1546637391
+dimwishlist:item=1553681400&perks=4088731040,1202133695,951095735,1089671869
+dimwishlist:item=1553681400&perks=4088731040,1202133695,951095735,4104185692
+dimwishlist:item=1553681400&perks=4088731040,1202133695,951095735,1546637391
+dimwishlist:item=1553681400&perks=4088731040,1069117426,4042220767,1089671869
+dimwishlist:item=1553681400&perks=4088731040,1069117426,4042220767,4104185692
+dimwishlist:item=1553681400&perks=4088731040,1069117426,4042220767,1546637391
+dimwishlist:item=1553681400&perks=4088731040,1069117426,951095735,1089671869
+dimwishlist:item=1553681400&perks=4088731040,1069117426,951095735,4104185692
+dimwishlist:item=1553681400&perks=4088731040,1069117426,951095735,1546637391
+dimwishlist:item=1553681400&perks=3786062476,1202133695,4042220767,1089671869
+dimwishlist:item=1553681400&perks=3786062476,1202133695,4042220767,4104185692
+dimwishlist:item=1553681400&perks=3786062476,1202133695,4042220767,1546637391
+dimwishlist:item=1553681400&perks=3786062476,1202133695,951095735,1089671869
+dimwishlist:item=1553681400&perks=3786062476,1202133695,951095735,4104185692
+dimwishlist:item=1553681400&perks=3786062476,1202133695,951095735,1546637391
+dimwishlist:item=1553681400&perks=3786062476,1069117426,4042220767,1089671869
+dimwishlist:item=1553681400&perks=3786062476,1069117426,4042220767,4104185692
+dimwishlist:item=1553681400&perks=3786062476,1069117426,4042220767,1546637391
+dimwishlist:item=1553681400&perks=3786062476,1069117426,951095735,1089671869
+dimwishlist:item=1553681400&perks=3786062476,1069117426,951095735,4104185692
+dimwishlist:item=1553681400&perks=3786062476,1069117426,951095735,1546637391
+
+
+// Opaque Hourglass - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] A whole new weapon type: Heavy Crossbow, and the only other bow in the heavy slot. All your bolts can be retrieved for essentially infinite ammo. You can also climb the bolts if fired into a wall. Persistence doesn't scale much (35 for 30 seconds, 65 for 39 seconds). Serrated Bolts' 2nd damage on bolt retrieval does half damage for all but one bolt. Charged Bolts' DOT doesn't stack but does highest overall damage. Heavy Bolts don't seem to be affected by gravity until very long distances (70m+) and does the most instaneous damage. Spring-Auger Bolts are mainly good for flinch, there's not much extra damage. Bolt Scavenger's Reload buff is about 9% faster than Impulse Amplifier, if you can retrieve your bolts consistently. Vorpal currently doing 32% extra damage as it's giving both the heavy and primary buffs. Firefly + Dragonfly is very rare, only on Doom of Chelchis. Does not work with Oathkeeper. With Heavy Bolts + Bolt Scavenger + Elemental Honing + Frame Of Reference and a Hierarchy ring, it does ~50% higher DPS and ~9% lower total damage compared to Leviathan's Breath with a Hierarchy ring. Can be used for boss DPS but more a Major buster or even ad clearing, it has high Ammo Gen to boot. Can one-shot in PvP with Radiant or Elemental Honing x1. https://youtu.be/uU1z3sg4UuE tags:pve
+dimwishlist:item=1553681400&perks=4088731040,1202133695,3824105627,2848615171
+dimwishlist:item=1553681400&perks=4088731040,1202133695,3218042543,2848615171
+dimwishlist:item=1553681400&perks=4088731040,1069117426,3824105627,2848615171
+dimwishlist:item=1553681400&perks=4088731040,1069117426,3218042543,2848615171
+dimwishlist:item=1553681400&perks=3786062476,1202133695,3824105627,2848615171
+dimwishlist:item=1553681400&perks=3786062476,1202133695,3218042543,2848615171
+dimwishlist:item=1553681400&perks=3786062476,1069117426,3824105627,2848615171
+dimwishlist:item=1553681400&perks=3786062476,1069117426,3218042543,2848615171
+
+
+// Opaque Hourglass - [Aztecross S27A1 Review] (pvp)
+//notes: [Aztecross S27A1 Review] A whole new weapon type: Heavy Crossbow, and the only other bow in the heavy slot. All your bolts can be retrieved for essentially infinite ammo. You can also climb the bolts if fired into a wall. Persistence doesn't scale much (35 for 30 seconds, 65 for 39 seconds). Serrated Bolts' 2nd damage on bolt retrieval does half damage for all but one bolt. Charged Bolts' DOT doesn't stack but does highest overall damage. Heavy Bolts don't seem to be affected by gravity until very long distances (70m+) and does the most instaneous damage. Spring-Auger Bolts are mainly good for flinch, there's not much extra damage. Bolt Scavenger's Reload buff is about 9% faster than Impulse Amplifier, if you can retrieve your bolts consistently. Vorpal currently doing 32% extra damage as it's giving both the heavy and primary buffs. Firefly + Dragonfly is very rare, only on Doom of Chelchis. Does not work with Oathkeeper. With Heavy Bolts + Bolt Scavenger + Elemental Honing + Frame Of Reference and a Hierarchy ring, it does ~50% higher DPS and ~9% lower total damage compared to Leviathan's Breath with a Hierarchy ring. Can be used for boss DPS but more a Major buster or even ad clearing, it has high Ammo Gen to boot. Can one-shot in PvP with Radiant or Elemental Honing x1. https://youtu.be/uU1z3sg4UuE tags:pvp
+dimwishlist:item=1553681400&perks=1202133695,951095735,1089671869
+dimwishlist:item=1553681400&perks=1202133695,951095735,3081867624
+dimwishlist:item=1553681400&perks=1202133695,951095735,2848615171
 
 
 // Recurrent Impact - [Aegis S24A2 Endgame Analysis] (pve)
@@ -11257,6 +11416,28 @@ dimwishlist:item=2720651699&perks=1645158859,1194056669
 dimwishlist:item=2721157927&perks=2284787283,4049631843,79448657
 
 
+// Intercalary - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Headstone in different column to One For All, would likely proc it being counted as weapon (not ability) damage. Built To Blast might be good for Bastion Titans. https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=2725426834&perks=124408337,4049631843
+dimwishlist:item=2725426834&perks=124408337,1955165503
+
+
+// Intercalary - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Headstone in different column to One For All, would likely proc it being counted as weapon (not ability) damage. Built To Blast might be good for Bastion Titans. https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=2725426834&perks=3418782618,95528736
+dimwishlist:item=2725426834&perks=3418782618,4049631843
+dimwishlist:item=2725426834&perks=1820235745,95528736
+dimwishlist:item=2725426834&perks=1820235745,4049631843
+
+
+// Intercalary - [Aztecross S27A1 Godrolls] (pvp)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Headstone in different column to One For All, would likely proc it being counted as weapon (not ability) damage. Built To Blast might be good for Bastion Titans. https://youtu.be/F5bwC-Ub_Lk tags:pvp
+dimwishlist:item=2725426834&perks=1561002382,1918398421,365154968
+dimwishlist:item=2725426834&perks=1561002382,1918398421,95528736
+dimwishlist:item=2725426834&perks=1885400500,1918398421,365154968
+dimwishlist:item=2725426834&perks=1885400500,1918398421,95528736
+
+
 // Glacioclasm - [Aztecross S23 Review] (god-pvp)
 //notes: [Aztecross S23 Review] For 1v1s need to reduce Charge Time. tags:god-pvp
 dimwishlist:item=2728851518&perks=1645158859,2213355989
@@ -13714,6 +13895,17 @@ dimwishlist:item=3232203524&perks=4071163871,47981717
 dimwishlist:item=3232203524&perks=3511092054,47981717
 
 
+// Finite Maybe - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Newish Aggressive Frame firing horizontal bolts for more ad clear role. I'd avoid DPS perks like Bait And Switch or Controlled Burst. https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=3241217409&perks=4293542123,3978468247
+dimwishlist:item=3241217409&perks=4293542123,2890807135
+
+
+// Finite Maybe - [Aztecross S27A1 Godrolls] (pve)
+//notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Newish Aggressive Frame firing horizontal bolts for more ad clear role. I'd avoid DPS perks like Bait And Switch or Controlled Burst. https://youtu.be/F5bwC-Ub_Lk tags:pve
+dimwishlist:item=3241217409&perks=1523832109,1427256713
+
+
 // Qullim's Terminus (Harrowed) - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 19/25 tags:pve
 dimwishlist:item=3248429089&perks=2621346526,3824105627,120721526
@@ -14642,6 +14834,30 @@ dimwishlist:item=3493494807&perks=2869569095,4104185692,3186078099
 dimwishlist:item=3493494807&perks=2869569095,4293542123,3186078099
 
 
+// Phoneutria Fera - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Kind of like a sawn-off shotgun, in Hand Cannon form. Range before fallout is 13m. Barrel Constrictor wasn't useful in PvP on special ammo Shotguns due to economy, but here it's on a primary weapon. Tenacity requires being surrounded so it's a great PvE perk but not that useful in PvP. Not a Shotgun so won't work with No Backup Plans, but does with Lucky Pants, best used by shooting body shots for multiple procs simultaneously. Try boost Reload Speed and Range. The Trials version better for PvP though. https://youtu.be/mkJu5Y6FNog tags:pve
+dimwishlist:item=3496887154&perks=4190679284,2679249093
+
+
+// Phoneutria Fera - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Kind of like a sawn-off shotgun, in Hand Cannon form. Range before fallout is 13m. Barrel Constrictor wasn't useful in PvP on special ammo Shotguns due to economy, but here it's on a primary weapon. Tenacity requires being surrounded so it's a great PvE perk but not that useful in PvP. Not a Shotgun so won't work with No Backup Plans, but does with Lucky Pants, best used by shooting body shots for multiple procs simultaneously. Try boost Reload Speed and Range. The Trials version better for PvP though. https://youtu.be/mkJu5Y6FNog tags:pve
+dimwishlist:item=3496887154&perks=4071163871,3708227201
+dimwishlist:item=3496887154&perks=4071163871,4293542123
+
+
+// Phoneutria Fera - [Datto S27A1 Rolls] (pve)
+//notes: [Datto S27A1 Rolls] Great for Wishful Ignorance Titans, pair with Tractor Cannon. If looking for Incandescent, go for another Hand Cannon, play into its archetype. https://youtu.be/5Ncdb1URP0s tags:pve
+dimwishlist:item=3496887154&perks=4190679284,2679249093
+dimwishlist:item=3496887154&perks=4190679284,4082225868
+dimwishlist:item=3496887154&perks=4190679284,3708227201
+dimwishlist:item=3496887154&perks=4071163871,2679249093
+dimwishlist:item=3496887154&perks=4071163871,4082225868
+dimwishlist:item=3496887154&perks=4071163871,3708227201
+dimwishlist:item=3496887154&perks=1126264488,2679249093
+dimwishlist:item=3496887154&perks=1126264488,4082225868
+dimwishlist:item=3496887154&perks=1126264488,3708227201
+
+
 // Defiance of Yasmin (Harrowed) - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 16/43 tags:pve
 dimwishlist:item=3503019618&perks=1556840489,1771339417,120721526
@@ -14833,6 +15049,26 @@ dimwishlist:item=3569407878&perks=1749209109,3913600130
 dimwishlist:item=3569407878&perks=2590710093,2396489472
 dimwishlist:item=3569407878&perks=2590710093,4049631843
 dimwishlist:item=3569407878&perks=2590710093,3913600130
+
+
+// Ribbontail - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Tenacity gives +0.5% damage per surrounded kill, but this is a Trace Rifle. Coming off 3 great Trace Rifles last year, including also-Strand Unsworn, competition is fierce. Proximity Power worked for Phoneutria Fera but less obvious here. Redirection debuts on Trace Rifles here, but runs out so fast most will probably take Detonator Beam over it. So far Unsworn's Origin Trait is better. https://youtu.be/-h3ZMqCYE68 tags:pve
+dimwishlist:item=3576134513&perks=1820235745,4198902903
+dimwishlist:item=3576134513&perks=1820235745,557221067
+dimwishlist:item=3576134513&perks=3987942396,4198902903
+dimwishlist:item=3576134513&perks=3987942396,557221067
+
+
+// Ribbontail - [Datto S27A1 Rolls] (pve)
+//notes: [Datto S27A1 Rolls] I've been using it to pop Tangles, could replace it with Barrow Dyad or Quicksilver Storm. Unsworn has Shoot To Loot, this has Redirection, which stacks and purges super fast. Fun but not all that mandatory. https://youtu.be/5Ncdb1URP0s tags:pve
+dimwishlist:item=3576134513&perks=1820235745,3201496230
+dimwishlist:item=3576134513&perks=1820235745,4198902903
+dimwishlist:item=3576134513&perks=1820235745,557221067
+dimwishlist:item=3576134513&perks=1820235745,3708227201
+dimwishlist:item=3576134513&perks=4190679284,3201496230
+dimwishlist:item=3576134513&perks=4190679284,4198902903
+dimwishlist:item=3576134513&perks=4190679284,557221067
+dimwishlist:item=3576134513&perks=4190679284,3708227201
 
 
 // Ros Arago IV - [Aegis S23 Endgame Analysis/Weapon Meta Update] (pve)
@@ -15607,6 +15843,54 @@ dimwishlist:item=3796510434&perks=1820235745,4049631843
 // The Messenger - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Stay Frosty; Role: Champs tags:pve
 dimwishlist:item=3796795102&perks=1870851715,3891536761
+
+
+// Phoneutria Fera - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Kind of like a sawn-off shotgun, in Hand Cannon form. Range before fallout is 13m. Barrel Constrictor wasn't useful in PvP on special ammo Shotguns due to economy, but here it's on a primary weapon. Tenacity requires being surrounded so it's a great PvE perk but not that useful in PvP. Not a Shotgun so won't work with No Backup Plans, but does with Lucky Pants, best used by shooting body shots for multiple procs simultaneously. Try boost Reload Speed and Range. The Trials version better for PvP though. https://youtu.be/mkJu5Y6FNog tags:pve
+dimwishlist:item=3804242792&perks=4190679284,2679249093
+
+
+// Phoneutria Fera - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Kind of like a sawn-off shotgun, in Hand Cannon form. Range before fallout is 13m. Barrel Constrictor wasn't useful in PvP on special ammo Shotguns due to economy, but here it's on a primary weapon. Tenacity requires being surrounded so it's a great PvE perk but not that useful in PvP. Not a Shotgun so won't work with No Backup Plans, but does with Lucky Pants, best used by shooting body shots for multiple procs simultaneously. Try boost Reload Speed and Range. The Trials version better for PvP though. https://youtu.be/mkJu5Y6FNog tags:pve
+dimwishlist:item=3804242792&perks=4071163871,3708227201
+dimwishlist:item=3804242792&perks=4071163871,4293542123
+
+
+// Phoneutria Fera - [Datto S27A1 Rolls] (pve)
+//notes: [Datto S27A1 Rolls] Great for Wishful Ignorance Titans, pair with Tractor Cannon. If looking for Incandescent, go for another Hand Cannon, play into its archetype. https://youtu.be/5Ncdb1URP0s tags:pve
+dimwishlist:item=3804242792&perks=4190679284,2679249093
+dimwishlist:item=3804242792&perks=4190679284,4082225868
+dimwishlist:item=3804242792&perks=4190679284,3708227201
+dimwishlist:item=3804242792&perks=4071163871,2679249093
+dimwishlist:item=3804242792&perks=4071163871,4082225868
+dimwishlist:item=3804242792&perks=4071163871,3708227201
+dimwishlist:item=3804242792&perks=1126264488,2679249093
+dimwishlist:item=3804242792&perks=1126264488,4082225868
+dimwishlist:item=3804242792&perks=1126264488,3708227201
+
+
+// Phoneutria Fera - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Kind of like a sawn-off shotgun, in Hand Cannon form. Range before fallout is 13m. Barrel Constrictor wasn't useful in PvP on special ammo Shotguns due to economy, but here it's on a primary weapon. Tenacity requires being surrounded so it's a great PvE perk but not that useful in PvP. Not a Shotgun so won't work with No Backup Plans, but does with Lucky Pants, best used by shooting body shots for multiple procs simultaneously. Try boost Reload Speed and Range. The Trials version better for PvP though. https://youtu.be/mkJu5Y6FNog tags:pve
+dimwishlist:item=3804242793&perks=4190679284,2679249093
+
+
+// Phoneutria Fera - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Kind of like a sawn-off shotgun, in Hand Cannon form. Range before fallout is 13m. Barrel Constrictor wasn't useful in PvP on special ammo Shotguns due to economy, but here it's on a primary weapon. Tenacity requires being surrounded so it's a great PvE perk but not that useful in PvP. Not a Shotgun so won't work with No Backup Plans, but does with Lucky Pants, best used by shooting body shots for multiple procs simultaneously. Try boost Reload Speed and Range. The Trials version better for PvP though. https://youtu.be/mkJu5Y6FNog tags:pve
+dimwishlist:item=3804242793&perks=4071163871,3708227201
+dimwishlist:item=3804242793&perks=4071163871,4293542123
+
+
+// Phoneutria Fera - [Datto S27A1 Rolls] (pve)
+//notes: [Datto S27A1 Rolls] Great for Wishful Ignorance Titans, pair with Tractor Cannon. If looking for Incandescent, go for another Hand Cannon, play into its archetype. https://youtu.be/5Ncdb1URP0s tags:pve
+dimwishlist:item=3804242793&perks=4190679284,2679249093
+dimwishlist:item=3804242793&perks=4190679284,4082225868
+dimwishlist:item=3804242793&perks=4190679284,3708227201
+dimwishlist:item=3804242793&perks=4071163871,2679249093
+dimwishlist:item=3804242793&perks=4071163871,4082225868
+dimwishlist:item=3804242793&perks=4071163871,3708227201
+dimwishlist:item=3804242793&perks=1126264488,2679249093
+dimwishlist:item=3804242793&perks=1126264488,4082225868
+dimwishlist:item=3804242793&perks=1126264488,3708227201
 
 
 // Sovereignty - [Datto S25A1 Revenant Godrolls] (pve)

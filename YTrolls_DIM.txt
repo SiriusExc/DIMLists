@@ -65,6 +65,12 @@ dimwishlist:item=42351395&perks=2010801679,1275731761
 dimwishlist:item=42351395&perks=2010801679,3523296417
 
 
+// Mint Retrograde - [Datto S27A1 Review] (god-pve)
+//notes: [Datto S27A1 Review] New archetype, most people will end up with Enhanced versions eventually (tier 2 and above). Beacon Rounds not needed, the tracking is pretty subtle. Hatchling is a bit weak even when built into. Recycled Energy loses to other perks here, as does Slice (unless that shows up in a tier 5 and is also there). Base mag of 5, easy to get 6, max of 8, but not really necessary; Rewind Rounds fully refunds the mag even if two full bursts missed. Stats For All + One For All is harder to recommend here with the low overall reserves and it's harder to hit 3 targets economically. Master Of Arms is up almost constantly, with x2 easy to proc, my suggestion for most people. Envious Arsenal + Bait And Switch is here but Rewind Rounds actually works better; Bait And Switch itself also is easy to forget or not bother activating. Rewind Rounds + Elemental Honing is great for Prismatic play if you can bother proccing it. Envious Arsenal and Chain Reaction each boost Ammo Generation by 20, worth thinking about especially with double special loadouts. https://youtu.be/VlFNtv56_fU tags:god-pve
+dimwishlist:item=42435996&perks=3418782618,3081867624,3454102905
+dimwishlist:item=42435996&perks=3418782618,1089671869,3454102905
+
+
 // Mint Retrograde - [Aztecross S27A1 Review] (pve)
 //notes: [Aztecross S27A1 Review] The first Rocket Assisted Pulse. Does comparable damage to some heavy weapons, very nice. Rewind Rounds procs from splash damage, and can empty your reserves without ever reloading. Master Of Arms requires 2 kills for 25% buff, while One For All just needs 3 hits for 35% buff; Hatchling also procs One For All. Enhanced Chain Reaction boosts reserves but seems to have a very low ceiling (18 rounds). Exhaust from Problem Solver takes 4 bursts and lasts for 5 seconds (Handling/Reload buffs last 10 seconds). Vanguard Determination is handy DR for not much work. Go for High Explosive Ordinance for reserves bump. Not much use in PvP without a kill perk, as with other Rocket frames. https://youtu.be/r47HtKqWw2Y tags:pve
 dimwishlist:item=42435996&perks=3418782618,3078487919
@@ -79,6 +85,11 @@ dimwishlist:item=42435996&perks=3418782618,4049631843
 //notes: [Aztecross S27A1 Review] The first Rocket Assisted Pulse. Does comparable damage to some heavy weapons, very nice. Rewind Rounds procs from splash damage, and can empty your reserves without ever reloading. Master Of Arms requires 2 kills for 25% buff, while One For All just needs 3 hits for 35% buff; Hatchling also procs One For All. Enhanced Chain Reaction boosts reserves but seems to have a very low ceiling (18 rounds). Exhaust from Problem Solver takes 4 bursts and lasts for 5 seconds (Handling/Reload buffs last 10 seconds). Vanguard Determination is handy DR for not much work. Go for High Explosive Ordinance for reserves bump. Not much use in PvP without a kill perk, as with other Rocket frames. https://youtu.be/r47HtKqWw2Y tags:pve
 dimwishlist:item=42435996&perks=831391274,2396489472
 dimwishlist:item=42435996&perks=831391274,4049631843
+
+
+// Mint Retrograde - [Datto S27A1 Review] (pve)
+//notes: [Datto S27A1 Review] New archetype, most people will end up with Enhanced versions eventually (tier 2 and above). Beacon Rounds not needed, the tracking is pretty subtle. Hatchling is a bit weak even when built into. Recycled Energy loses to other perks here, as does Slice (unless that shows up in a tier 5 and is also there). Base mag of 5, easy to get 6, max of 8, but not really necessary; Rewind Rounds fully refunds the mag even if two full bursts missed. Stats For All + One For All is harder to recommend here with the low overall reserves and it's harder to hit 3 targets economically. Master Of Arms is up almost constantly, with x2 easy to proc, my suggestion for most people. Envious Arsenal + Bait And Switch is here but Rewind Rounds actually works better; Bait And Switch itself also is easy to forget or not bother activating. Rewind Rounds + Elemental Honing is great for Prismatic play if you can bother proccing it. Envious Arsenal and Chain Reaction each boost Ammo Generation by 20, worth thinking about especially with double special loadouts. https://youtu.be/VlFNtv56_fU tags:pve
+dimwishlist:item=42435996&perks=3987942396,2396489472,3454102905
 
 
 // Uzume RR4 - [Aegis S24A2 Endgame Analysis] (pve)
@@ -12758,6 +12769,24 @@ dimwishlist:item=2943293195&perks=3523296417,2978966579,3363267119
 dimwishlist:item=2957367743&perks=4071163871,3300816228
 
 
+// Yeartide Apex - [Aztecross S27A1 Review] (god-pve)
+//notes: [Aztecross S27A1 Review] Low base mag size but can be increased. Is a legendary Huckleberry like Boondoggle. Incandescent good for lower level activity to ad clear, Burning Ambition great for chunkier targets (especially with the Temporal Blast volatile mod). The Reload Speed buffs from Tex Balanced Stock Origin Trait make it nice for PvE too. Lightweights have less Range than something like Shayura's Wrath but they're bullet hoses and great in their own right, go for Range. https://youtu.be/XT1c3byxPnU tags:god-pve
+dimwishlist:item=2965080304&perks=3017780555,4293542123,2437618208
+dimwishlist:item=2965080304&perks=3017780555,2890807135,2437618208
+dimwishlist:item=2965080304&perks=3017780555,3640170453,2437618208
+dimwishlist:item=2965080304&perks=243981275,4293542123,2437618208
+dimwishlist:item=2965080304&perks=243981275,2890807135,2437618208
+dimwishlist:item=2965080304&perks=243981275,3640170453,2437618208
+dimwishlist:item=2965080304&perks=3523296417,4293542123,2437618208
+dimwishlist:item=2965080304&perks=3523296417,2890807135,2437618208
+dimwishlist:item=2965080304&perks=3523296417,3640170453,2437618208
+
+
+// Yeartide Apex - [Aztecross S27A1 Review] (pvp)
+//notes: [Aztecross S27A1 Review] Low base mag size but can be increased. Is a legendary Huckleberry like Boondoggle. Incandescent good for lower level activity to ad clear, Burning Ambition great for chunkier targets (especially with the Temporal Blast volatile mod). The Reload Speed buffs from Tex Balanced Stock Origin Trait make it nice for PvE too. Lightweights have less Range than something like Shayura's Wrath but they're bullet hoses and great in their own right, go for Range. https://youtu.be/XT1c3byxPnU tags:pvp
+dimwishlist:item=2965080304&perks=2579169598,365154968
+
+
 // Judgment - [Aztecross S23 Prophecy Guide] (god-pvp)
 //notes: [Aztecross S23 Prophecy Guide] tags:god-pvp
 dimwishlist:item=2969415423&perks=1926090092,3142289711,588594999,1954620775,4129855581
@@ -13979,6 +14008,24 @@ dimwishlist:item=3292795429&perks=247725512,3891536761,4091460919
 dimwishlist:item=3292795429&perks=247725512,1048183818,4091460919
 dimwishlist:item=3292795429&perks=1870851715,3891536761,4091460919
 dimwishlist:item=3292795429&perks=1870851715,1048183818,4091460919
+
+
+// Yeartide Apex - [Aztecross S27A1 Review] (god-pve)
+//notes: [Aztecross S27A1 Review] Low base mag size but can be increased. Is a legendary Huckleberry like Boondoggle. Incandescent good for lower level activity to ad clear, Burning Ambition great for chunkier targets (especially with the Temporal Blast volatile mod). The Reload Speed buffs from Tex Balanced Stock Origin Trait make it nice for PvE too. Lightweights have less Range than something like Shayura's Wrath but they're bullet hoses and great in their own right, go for Range. https://youtu.be/XT1c3byxPnU tags:god-pve
+dimwishlist:item=3293207827&perks=3017780555,4293542123,2437618208
+dimwishlist:item=3293207827&perks=3017780555,2890807135,2437618208
+dimwishlist:item=3293207827&perks=3017780555,3640170453,2437618208
+dimwishlist:item=3293207827&perks=243981275,4293542123,2437618208
+dimwishlist:item=3293207827&perks=243981275,2890807135,2437618208
+dimwishlist:item=3293207827&perks=243981275,3640170453,2437618208
+dimwishlist:item=3293207827&perks=3523296417,4293542123,2437618208
+dimwishlist:item=3293207827&perks=3523296417,2890807135,2437618208
+dimwishlist:item=3293207827&perks=3523296417,3640170453,2437618208
+
+
+// Yeartide Apex - [Aztecross S27A1 Review] (pvp)
+//notes: [Aztecross S27A1 Review] Low base mag size but can be increased. Is a legendary Huckleberry like Boondoggle. Incandescent good for lower level activity to ad clear, Burning Ambition great for chunkier targets (especially with the Temporal Blast volatile mod). The Reload Speed buffs from Tex Balanced Stock Origin Trait make it nice for PvE too. Lightweights have less Range than something like Shayura's Wrath but they're bullet hoses and great in their own right, go for Range. https://youtu.be/XT1c3byxPnU tags:pvp
+dimwishlist:item=3293207827&perks=2579169598,365154968
 
 
 // PLUG ONE.1 - [itzTizzle S25A1 World/Playlist Godrolls] (god-pve)
@@ -16673,6 +16720,12 @@ dimwishlist:item=3969379530&perks=923806249,831391274
 dimwishlist:item=3969379530&perks=923806249,831391274
 
 
+// Festival Flight - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] First Strand Area Denial GL (4th ADGL), competes with Lost Signal and Witherhoard. Great for building up Darkness Transcendence. Blast Distributor stacks to 5 and gives 10 (11 Enhanced) Grenade stat per stack, great for grenade builds. Envious Arsenal also gives 20 Ammo Generation stat. There's Ambitious Assassin but no Runneth Over. Binary Orbit is easy 25% buff for 8.5 seconds (10.5 Enhanced), One For All also easy 35% buff. Attrition Orbs is a bit nerfed but still great. Hatchling is solid. Elemental Honing works if you're set up for it, otherwise One For All easier to proc. Vorpal is bad. Dream Work is great for team play, Suros Synergy isn't useful on GLs. Use Temporal Blast mod in Reclamation S27 as it's easy to build stacks and the damage is significant. Elemental Coalescence and Tangled Web Artifact Mods are great here too with the Temporal Loader mod. Lots to play with, see what synergises with your build. https://youtu.be/wpoZ0kCmUHU tags:pve
+dimwishlist:item=3977654524&perks=3523296417,4049631843,1380061575
+dimwishlist:item=3977654524&perks=1017229899,4049631843,1380061575
+
+
 // Rake Angle (Adept) - [itzTizzle S25A1 World/Playlist Godrolls] (god-pve)
 //notes: [itzTizzle S25A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:god-pve
 dimwishlist:item=3997086838&perks=594346985,1087426260,951095735,2978966579
@@ -17014,6 +17067,12 @@ dimwishlist:item=4005780578&perks=3300816228,1782407750,2988596335
 dimwishlist:item=4005780578&perks=3300816228,2173046394,2988596335
 
 
+// Festival Flight - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] First Strand Area Denial GL (4th ADGL), competes with Lost Signal and Witherhoard. Great for building up Darkness Transcendence. Blast Distributor stacks to 5 and gives 10 (11 Enhanced) Grenade stat per stack, great for grenade builds. Envious Arsenal also gives 20 Ammo Generation stat. There's Ambitious Assassin but no Runneth Over. Binary Orbit is easy 25% buff for 8.5 seconds (10.5 Enhanced), One For All also easy 35% buff. Attrition Orbs is a bit nerfed but still great. Hatchling is solid. Elemental Honing works if you're set up for it, otherwise One For All easier to proc. Vorpal is bad. Dream Work is great for team play, Suros Synergy isn't useful on GLs. Use Temporal Blast mod in Reclamation S27 as it's easy to build stacks and the damage is significant. Elemental Coalescence and Tangled Web Artifact Mods are great here too with the Temporal Loader mod. Lots to play with, see what synergises with your build. https://youtu.be/wpoZ0kCmUHU tags:pve
+dimwishlist:item=4019651319&perks=3523296417,4049631843,1380061575
+dimwishlist:item=4019651319&perks=1017229899,4049631843,1380061575
+
+
 // Staccato-46 - [Aztecross S23 World Drop Godrolls] (pve)
 //notes: [Aztecross S23 World Drop Godrolls] tags:pve
 dimwishlist:item=4019668921&perks=3700496672,4293542123
@@ -17113,6 +17172,106 @@ dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
 dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,4104185692
 dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294
 dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,4104185692
+
+
+// Returned Memory - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] You have Aberrant Action, but this can drop tier 5, use S27 volatile mods, and is part of the Avant Garde set. Impromptu Ammunition helps feed your ammo. There may be a bug with Blast Distributor, currently only procs on AOE damage, not direct damage. Incandescent is great for ad clear, but Burning Ambition is good for medium targets that you can Ignite. Wild Card is a nice Origin Trait even with a 6 second cool down. Tenacity is a phenomenal Origin Trait to buff damage and stats passively. Temporal Armament and Temporal Blast are great volatile mods to use with it, scales with the Weapon stat and procs with Scorch stacks/Ignition. Not a PvP weapon. https://youtu.be/ZzQgxnpJfdA tags:pve
+dimwishlist:item=4049127142&perks=1087426260,1017229899,4293542123,1050127423
+dimwishlist:item=4049127142&perks=1087426260,1017229899,4293542123,3911709647
+dimwishlist:item=4049127142&perks=1087426260,1017229899,2890807135,1050127423
+dimwishlist:item=4049127142&perks=1087426260,1017229899,2890807135,3911709647
+dimwishlist:item=4049127142&perks=1087426260,1017229899,4049631843,1050127423
+dimwishlist:item=4049127142&perks=1087426260,1017229899,4049631843,3911709647
+dimwishlist:item=4049127142&perks=1087426260,1017229899,3201496230,1050127423
+dimwishlist:item=4049127142&perks=1087426260,1017229899,3201496230,3911709647
+dimwishlist:item=4049127142&perks=1087426260,1556840489,4293542123,1050127423
+dimwishlist:item=4049127142&perks=1087426260,1556840489,4293542123,3911709647
+dimwishlist:item=4049127142&perks=1087426260,1556840489,2890807135,1050127423
+dimwishlist:item=4049127142&perks=1087426260,1556840489,2890807135,3911709647
+dimwishlist:item=4049127142&perks=1087426260,1556840489,4049631843,1050127423
+dimwishlist:item=4049127142&perks=1087426260,1556840489,4049631843,3911709647
+dimwishlist:item=4049127142&perks=1087426260,1556840489,3201496230,1050127423
+dimwishlist:item=4049127142&perks=1087426260,1556840489,3201496230,3911709647
+dimwishlist:item=4049127142&perks=1087426260,2360347339,4293542123,1050127423
+dimwishlist:item=4049127142&perks=1087426260,2360347339,4293542123,3911709647
+dimwishlist:item=4049127142&perks=1087426260,2360347339,2890807135,1050127423
+dimwishlist:item=4049127142&perks=1087426260,2360347339,2890807135,3911709647
+dimwishlist:item=4049127142&perks=1087426260,2360347339,4049631843,1050127423
+dimwishlist:item=4049127142&perks=1087426260,2360347339,4049631843,3911709647
+dimwishlist:item=4049127142&perks=1087426260,2360347339,3201496230,1050127423
+dimwishlist:item=4049127142&perks=1087426260,2360347339,3201496230,3911709647
+dimwishlist:item=4049127142&perks=1087426260,3017780555,4293542123,1050127423
+dimwishlist:item=4049127142&perks=1087426260,3017780555,4293542123,3911709647
+dimwishlist:item=4049127142&perks=1087426260,3017780555,2890807135,1050127423
+dimwishlist:item=4049127142&perks=1087426260,3017780555,2890807135,3911709647
+dimwishlist:item=4049127142&perks=1087426260,3017780555,4049631843,1050127423
+dimwishlist:item=4049127142&perks=1087426260,3017780555,4049631843,3911709647
+dimwishlist:item=4049127142&perks=1087426260,3017780555,3201496230,1050127423
+dimwishlist:item=4049127142&perks=1087426260,3017780555,3201496230,3911709647
+dimwishlist:item=4049127142&perks=106909392,1017229899,4293542123,1050127423
+dimwishlist:item=4049127142&perks=106909392,1017229899,4293542123,3911709647
+dimwishlist:item=4049127142&perks=106909392,1017229899,2890807135,1050127423
+dimwishlist:item=4049127142&perks=106909392,1017229899,2890807135,3911709647
+dimwishlist:item=4049127142&perks=106909392,1017229899,4049631843,1050127423
+dimwishlist:item=4049127142&perks=106909392,1017229899,4049631843,3911709647
+dimwishlist:item=4049127142&perks=106909392,1017229899,3201496230,1050127423
+dimwishlist:item=4049127142&perks=106909392,1017229899,3201496230,3911709647
+dimwishlist:item=4049127142&perks=106909392,1556840489,4293542123,1050127423
+dimwishlist:item=4049127142&perks=106909392,1556840489,4293542123,3911709647
+dimwishlist:item=4049127142&perks=106909392,1556840489,2890807135,1050127423
+dimwishlist:item=4049127142&perks=106909392,1556840489,2890807135,3911709647
+dimwishlist:item=4049127142&perks=106909392,1556840489,4049631843,1050127423
+dimwishlist:item=4049127142&perks=106909392,1556840489,4049631843,3911709647
+dimwishlist:item=4049127142&perks=106909392,1556840489,3201496230,1050127423
+dimwishlist:item=4049127142&perks=106909392,1556840489,3201496230,3911709647
+dimwishlist:item=4049127142&perks=106909392,2360347339,4293542123,1050127423
+dimwishlist:item=4049127142&perks=106909392,2360347339,4293542123,3911709647
+dimwishlist:item=4049127142&perks=106909392,2360347339,2890807135,1050127423
+dimwishlist:item=4049127142&perks=106909392,2360347339,2890807135,3911709647
+dimwishlist:item=4049127142&perks=106909392,2360347339,4049631843,1050127423
+dimwishlist:item=4049127142&perks=106909392,2360347339,4049631843,3911709647
+dimwishlist:item=4049127142&perks=106909392,2360347339,3201496230,1050127423
+dimwishlist:item=4049127142&perks=106909392,2360347339,3201496230,3911709647
+dimwishlist:item=4049127142&perks=106909392,3017780555,4293542123,1050127423
+dimwishlist:item=4049127142&perks=106909392,3017780555,4293542123,3911709647
+dimwishlist:item=4049127142&perks=106909392,3017780555,2890807135,1050127423
+dimwishlist:item=4049127142&perks=106909392,3017780555,2890807135,3911709647
+dimwishlist:item=4049127142&perks=106909392,3017780555,4049631843,1050127423
+dimwishlist:item=4049127142&perks=106909392,3017780555,4049631843,3911709647
+dimwishlist:item=4049127142&perks=106909392,3017780555,3201496230,1050127423
+dimwishlist:item=4049127142&perks=106909392,3017780555,3201496230,3911709647
+dimwishlist:item=4049127142&perks=3230963543,1017229899,4293542123,1050127423
+dimwishlist:item=4049127142&perks=3230963543,1017229899,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3230963543,1017229899,2890807135,1050127423
+dimwishlist:item=4049127142&perks=3230963543,1017229899,2890807135,3911709647
+dimwishlist:item=4049127142&perks=3230963543,1017229899,4049631843,1050127423
+dimwishlist:item=4049127142&perks=3230963543,1017229899,4049631843,3911709647
+dimwishlist:item=4049127142&perks=3230963543,1017229899,3201496230,1050127423
+dimwishlist:item=4049127142&perks=3230963543,1017229899,3201496230,3911709647
+dimwishlist:item=4049127142&perks=3230963543,1556840489,4293542123,1050127423
+dimwishlist:item=4049127142&perks=3230963543,1556840489,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3230963543,1556840489,2890807135,1050127423
+dimwishlist:item=4049127142&perks=3230963543,1556840489,2890807135,3911709647
+dimwishlist:item=4049127142&perks=3230963543,1556840489,4049631843,1050127423
+dimwishlist:item=4049127142&perks=3230963543,1556840489,4049631843,3911709647
+dimwishlist:item=4049127142&perks=3230963543,1556840489,3201496230,1050127423
+dimwishlist:item=4049127142&perks=3230963543,1556840489,3201496230,3911709647
+dimwishlist:item=4049127142&perks=3230963543,2360347339,4293542123,1050127423
+dimwishlist:item=4049127142&perks=3230963543,2360347339,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3230963543,2360347339,2890807135,1050127423
+dimwishlist:item=4049127142&perks=3230963543,2360347339,2890807135,3911709647
+dimwishlist:item=4049127142&perks=3230963543,2360347339,4049631843,1050127423
+dimwishlist:item=4049127142&perks=3230963543,2360347339,4049631843,3911709647
+dimwishlist:item=4049127142&perks=3230963543,2360347339,3201496230,1050127423
+dimwishlist:item=4049127142&perks=3230963543,2360347339,3201496230,3911709647
+dimwishlist:item=4049127142&perks=3230963543,3017780555,4293542123,1050127423
+dimwishlist:item=4049127142&perks=3230963543,3017780555,4293542123,3911709647
+dimwishlist:item=4049127142&perks=3230963543,3017780555,2890807135,1050127423
+dimwishlist:item=4049127142&perks=3230963543,3017780555,2890807135,3911709647
+dimwishlist:item=4049127142&perks=3230963543,3017780555,4049631843,1050127423
+dimwishlist:item=4049127142&perks=3230963543,3017780555,4049631843,3911709647
+dimwishlist:item=4049127142&perks=3230963543,3017780555,3201496230,1050127423
+dimwishlist:item=4049127142&perks=3230963543,3017780555,3201496230,3911709647
 
 
 // Hezen Vengeance - [Aegis S24A2 Endgame Analysis] (pve)

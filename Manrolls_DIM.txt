@@ -99,22 +99,25 @@ dimwishlist:item=-2809120022&perks=1476923954,1476923955
 
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Bear/Alpha Lupi
+//notes: [Stoicism Deleted rolls] Bear/Alpha Lupi + Eternal Warrior/Alpha Lupi
 dimwishlist:item=-266021826&perks=3573490505,3573490501
+dimwishlist:item=-266021826&perks=3573490511,3573490501
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Abeyant/Armamentarium + Hoarfrost/Armamentarium
+//notes: [Stoicism Deleted rolls] Abeyant/Armamentarium + Eternal Warrior/Armamentarium + Hoarfrost/Armamentarium
 dimwishlist:item=-266021826&perks=3573490510,3573490500
+dimwishlist:item=-266021826&perks=3573490511,3573490500
 dimwishlist:item=-266021826&perks=3573490508,3573490500
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Hoarfrost/Contact + Bear/Contact
-dimwishlist:item=-266021826&perks=3573490508,3573490504
+//notes: [Stoicism Deleted rolls] Bear/Contact + Hoarfrost/Contact
 dimwishlist:item=-266021826&perks=3573490505,3573490504
+dimwishlist:item=-266021826&perks=3573490508,3573490504
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Assassin/Horn + Eternal Warrior/Horn + Inmost/Horn + Ophidian/Horn
+//notes: [Stoicism Deleted rolls] Assassin/Horn + Bear/Horn + Eternal Warrior/Horn + Inmost/Horn + Ophidian/Horn
 dimwishlist:item=-266021826&perks=1476923952,3573490506
+dimwishlist:item=-266021826&perks=3573490505,3573490506
 dimwishlist:item=-266021826&perks=3573490511,3573490506
 dimwishlist:item=-266021826&perks=1476923953,3573490506
 dimwishlist:item=-266021826&perks=1476923954,3573490506
@@ -124,16 +127,23 @@ dimwishlist:item=-266021826&perks=1476923954,3573490506
 dimwishlist:item=-266021826&perks=3573490505,3573490507
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Hoarfrost/Star-Eater + Ophidian/Star-Eater
+//notes: [Stoicism Deleted rolls] Abeyant/Star-Eater + Hoarfrost/Star-Eater + Ophidian/Star-Eater
+dimwishlist:item=-266021826&perks=3573490510,1476923955
 dimwishlist:item=-266021826&perks=3573490508,1476923955
 dimwishlist:item=-266021826&perks=1476923954,1476923955
 
 // Stoicism - [Deleted rolls]
-//notes: [Stoicism Deleted rolls] Abeyant/Synthoceps + Eternal Warrior/Synthoceps + Hoarfrost/Synthoceps + Ophidian/Synthoceps
+//notes: [Stoicism Deleted rolls] Abeyant/Synthoceps + Bear/Synthoceps + Eternal Warrior/Synthoceps + Hoarfrost/Synthoceps + Ophidian/Synthoceps
 dimwishlist:item=-266021826&perks=3573490510,1476923956
+dimwishlist:item=-266021826&perks=3573490505,1476923956
 dimwishlist:item=-266021826&perks=3573490511,1476923956
 dimwishlist:item=-266021826&perks=3573490508,1476923956
 dimwishlist:item=-266021826&perks=1476923954,1476923956
+
+// Stoicism - [Deleted rolls]
+//notes: [Stoicism Deleted rolls] Eternal Warrior/Verity + Hoarfrost/Verity
+dimwishlist:item=-266021826&perks=3573490511,1476923957
+dimwishlist:item=-266021826&perks=3573490508,1476923957
 
 
 // Solipsism - [Datto Snap Everything Build] (pve)

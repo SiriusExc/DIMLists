@@ -2450,6 +2450,30 @@ dimwishlist:item=586671776&perks=1482024992,3142289711,3938834702,555281244
 dimwishlist:item=586671776&perks=1482024992,3142289711,247725512,555281244
 
 
+// Fortunate Star - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Very similar to Anamnesis. Best use is for printing ammo. Dragonfly in left column is exciting but Sword Logic doesn't scale its splash damage, unfortunately. Archer's Gambit only needs hip-fire to proc or extend timer, can ADS the remainder of the time for better precision. Repulsor Brace + Destabilizing Rounds is here, but Demoralize is a better fit; can get Volatile Rounds through subclass. Impromptu Ammunition is a great scalar, use mods to get Ammo Gen stat up to 100 then use Armor mods to scale it up. Use Dream Work in group content, and Veist Stinger in solo content. Go for Draw Time and Accuracy. Fast shooting in PvP is fun, but there are better PvP bows around. https://youtu.be/PVu23VX43rQ tags:pve
+dimwishlist:item=591672323&perks=776531651,1464081238
+dimwishlist:item=591672323&perks=776531651,2048641572
+
+
+// Fortunate Star - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Very similar to Anamnesis. Best use is for printing ammo. Dragonfly in left column is exciting but Sword Logic doesn't scale its splash damage, unfortunately. Archer's Gambit only needs hip-fire to proc or extend timer, can ADS the remainder of the time for better precision. Repulsor Brace + Destabilizing Rounds is here, but Demoralize is a better fit; can get Volatile Rounds through subclass. Impromptu Ammunition is a great scalar, use mods to get Ammo Gen stat up to 100 then use Armor mods to scale it up. Use Dream Work in group content, and Veist Stinger in solo content. Go for Draw Time and Accuracy. Fast shooting in PvP is fun, but there are better PvP bows around. https://youtu.be/PVu23VX43rQ tags:pve
+dimwishlist:item=591672323&perks=2360347339,3365897133
+dimwishlist:item=591672323&perks=2360347339,1464081238
+
+
+// Fortunate Star - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Very similar to Anamnesis. Best use is for printing ammo. Dragonfly in left column is exciting but Sword Logic doesn't scale its splash damage, unfortunately. Archer's Gambit only needs hip-fire to proc or extend timer, can ADS the remainder of the time for better precision. Repulsor Brace + Destabilizing Rounds is here, but Demoralize is a better fit; can get Volatile Rounds through subclass. Impromptu Ammunition is a great scalar, use mods to get Ammo Gen stat up to 100 then use Armor mods to scale it up. Use Dream Work in group content, and Veist Stinger in solo content. Go for Draw Time and Accuracy. Fast shooting in PvP is fun, but there are better PvP bows around. https://youtu.be/PVu23VX43rQ tags:pve
+dimwishlist:item=591672323&perks=2848615171,1464081238
+dimwishlist:item=591672323&perks=2848615171,3414324643
+
+
+// Fortunate Star - [CoolGuy S27A1 Review] (pve,pvp)
+//notes: [CoolGuy S27A1 Review] Very similar to Anamnesis. Best use is for printing ammo. Dragonfly in left column is exciting but Sword Logic doesn't scale its splash damage, unfortunately. Archer's Gambit only needs hip-fire to proc or extend timer, can ADS the remainder of the time for better precision. Repulsor Brace + Destabilizing Rounds is here, but Demoralize is a better fit; can get Volatile Rounds through subclass. Impromptu Ammunition is a great scalar, use mods to get Ammo Gen stat up to 100 then use Armor mods to scale it up. Use Dream Work in group content, and Veist Stinger in solo content. Go for Draw Time and Accuracy. Fast shooting in PvP is fun, but there are better PvP bows around. https://youtu.be/PVu23VX43rQ tags:pve,pvp
+dimwishlist:item=591672323&perks=2652708987,3414324643
+dimwishlist:item=591672323&perks=201365942,3414324643
+
+
 // Sojourner's Tale - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier D Rank 31/46 tags:pve
 dimwishlist:item=599895591&perks=3300816228,4104185692
@@ -11003,6 +11027,30 @@ dimwishlist:item=2603335652&perks=2450788523,2458213969
 // Jurassic Green - [CoolGuy S18 Review] (pve)
 //notes: [CoolGuy S18 Review] Arrowhead or Smallbore with Ricochet or Hi-Cal, MW Stability (w/ Counterbalance Mod) or Range tags:pve
 dimwishlist:item=2603335652&perks=2450788523,4293542123
+
+
+// Fortunate Star - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Very similar to Anamnesis. Best use is for printing ammo. Dragonfly in left column is exciting but Sword Logic doesn't scale its splash damage, unfortunately. Archer's Gambit only needs hip-fire to proc or extend timer, can ADS the remainder of the time for better precision. Repulsor Brace + Destabilizing Rounds is here, but Demoralize is a better fit; can get Volatile Rounds through subclass. Impromptu Ammunition is a great scalar, use mods to get Ammo Gen stat up to 100 then use Armor mods to scale it up. Use Dream Work in group content, and Veist Stinger in solo content. Go for Draw Time and Accuracy. Fast shooting in PvP is fun, but there are better PvP bows around. https://youtu.be/PVu23VX43rQ tags:pve
+dimwishlist:item=2631466936&perks=776531651,1464081238
+dimwishlist:item=2631466936&perks=776531651,2048641572
+
+
+// Fortunate Star - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Very similar to Anamnesis. Best use is for printing ammo. Dragonfly in left column is exciting but Sword Logic doesn't scale its splash damage, unfortunately. Archer's Gambit only needs hip-fire to proc or extend timer, can ADS the remainder of the time for better precision. Repulsor Brace + Destabilizing Rounds is here, but Demoralize is a better fit; can get Volatile Rounds through subclass. Impromptu Ammunition is a great scalar, use mods to get Ammo Gen stat up to 100 then use Armor mods to scale it up. Use Dream Work in group content, and Veist Stinger in solo content. Go for Draw Time and Accuracy. Fast shooting in PvP is fun, but there are better PvP bows around. https://youtu.be/PVu23VX43rQ tags:pve
+dimwishlist:item=2631466936&perks=2360347339,3365897133
+dimwishlist:item=2631466936&perks=2360347339,1464081238
+
+
+// Fortunate Star - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Very similar to Anamnesis. Best use is for printing ammo. Dragonfly in left column is exciting but Sword Logic doesn't scale its splash damage, unfortunately. Archer's Gambit only needs hip-fire to proc or extend timer, can ADS the remainder of the time for better precision. Repulsor Brace + Destabilizing Rounds is here, but Demoralize is a better fit; can get Volatile Rounds through subclass. Impromptu Ammunition is a great scalar, use mods to get Ammo Gen stat up to 100 then use Armor mods to scale it up. Use Dream Work in group content, and Veist Stinger in solo content. Go for Draw Time and Accuracy. Fast shooting in PvP is fun, but there are better PvP bows around. https://youtu.be/PVu23VX43rQ tags:pve
+dimwishlist:item=2631466936&perks=2848615171,1464081238
+dimwishlist:item=2631466936&perks=2848615171,3414324643
+
+
+// Fortunate Star - [CoolGuy S27A1 Review] (pve,pvp)
+//notes: [CoolGuy S27A1 Review] Very similar to Anamnesis. Best use is for printing ammo. Dragonfly in left column is exciting but Sword Logic doesn't scale its splash damage, unfortunately. Archer's Gambit only needs hip-fire to proc or extend timer, can ADS the remainder of the time for better precision. Repulsor Brace + Destabilizing Rounds is here, but Demoralize is a better fit; can get Volatile Rounds through subclass. Impromptu Ammunition is a great scalar, use mods to get Ammo Gen stat up to 100 then use Armor mods to scale it up. Use Dream Work in group content, and Veist Stinger in solo content. Go for Draw Time and Accuracy. Fast shooting in PvP is fun, but there are better PvP bows around. https://youtu.be/PVu23VX43rQ tags:pve,pvp
+dimwishlist:item=2631466936&perks=2652708987,3414324643
+dimwishlist:item=2631466936&perks=201365942,3414324643
 
 
 // The Inquisitor - [Aegis S24A2 Endgame Analysis] (pve)

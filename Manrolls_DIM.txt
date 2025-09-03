@@ -93,8 +93,16 @@ dimwishlist:item=-2273643087&perks=183430253,183430251
 
 
 // Relativism - [Deleted rolls]
-//notes: [Relativism Deleted rolls] Ophidian/Gyrfalcon, Ophidian/Star-Eater
+//notes: [Relativism Deleted rolls] Dragon/Cyrtarachne
+dimwishlist:item=-2809120022&perks=3751917999,3751917994
+
+// Relativism - [Deleted rolls]
+//notes: [Relativism Deleted rolls] Dragon/Gyrfalcon, Ophidian/Gyrfalcon
+dimwishlist:item=-2809120022&perks=3751917999,3751917993
 dimwishlist:item=-2809120022&perks=1476923954,3751917993
+
+// Relativism - [Deleted rolls]
+//notes: [Relativism Deleted rolls] Ophidian/Star-Eater
 dimwishlist:item=-2809120022&perks=1476923954,1476923955
 
 

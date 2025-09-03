@@ -3032,6 +3032,92 @@ dimwishlist:item=694500607&perks=691659142,2679249093
 dimwishlist:item=694500607&perks=691659142,3218042543
 
 
+// Auric Disabler - [Aztecross S27A1 Review] (god-pve)
+//notes: [Aztecross S27A1 Review] Strand 450rpm Precision with a number of good rolls, with best-in-class stats for Precision Autos. Dragonfly got a buff in Edge of Fate, Hatchling great when Threadlings are buffed by Strand Fragments, Slice's 40% reduced damage great for Mythic content. Desperate Measures gives a nice damage boost, and can be refreshed even with uncharged Melees. Tear gives Slice's effects without needing Class ability usage, but takes up 4th column perk. Temporal Blast Seasonal Mod scales with these damage buffs and works with splash damage. Onslaught pairs well with Actium War Rig. https://youtu.be/gFL71ayCfq4 tags:god-pve
+dimwishlist:item=702001725&perks=839105230,1431678320,2848615171,960997401
+dimwishlist:item=702001725&perks=839105230,1431678320,2848615171,2109543898
+dimwishlist:item=702001725&perks=839105230,1431678320,2848615171,95528736
+dimwishlist:item=702001725&perks=839105230,1431678320,831391274,960997401
+dimwishlist:item=702001725&perks=839105230,1431678320,831391274,2109543898
+dimwishlist:item=702001725&perks=839105230,1431678320,831391274,95528736
+dimwishlist:item=702001725&perks=839105230,1087426260,2848615171,960997401
+dimwishlist:item=702001725&perks=839105230,1087426260,2848615171,2109543898
+dimwishlist:item=702001725&perks=839105230,1087426260,2848615171,95528736
+dimwishlist:item=702001725&perks=839105230,1087426260,831391274,960997401
+dimwishlist:item=702001725&perks=839105230,1087426260,831391274,2109543898
+dimwishlist:item=702001725&perks=839105230,1087426260,831391274,95528736
+dimwishlist:item=702001725&perks=839105230,3230963543,2848615171,960997401
+dimwishlist:item=702001725&perks=839105230,3230963543,2848615171,2109543898
+dimwishlist:item=702001725&perks=839105230,3230963543,2848615171,95528736
+dimwishlist:item=702001725&perks=839105230,3230963543,831391274,960997401
+dimwishlist:item=702001725&perks=839105230,3230963543,831391274,2109543898
+dimwishlist:item=702001725&perks=839105230,3230963543,831391274,95528736
+dimwishlist:item=702001725&perks=839105230,679225683,2848615171,960997401
+dimwishlist:item=702001725&perks=839105230,679225683,2848615171,2109543898
+dimwishlist:item=702001725&perks=839105230,679225683,2848615171,95528736
+dimwishlist:item=702001725&perks=839105230,679225683,831391274,960997401
+dimwishlist:item=702001725&perks=839105230,679225683,831391274,2109543898
+dimwishlist:item=702001725&perks=839105230,679225683,831391274,95528736
+dimwishlist:item=702001725&perks=1840239774,1431678320,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,1431678320,2848615171,2109543898
+dimwishlist:item=702001725&perks=1840239774,1431678320,2848615171,95528736
+dimwishlist:item=702001725&perks=1840239774,1431678320,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,1431678320,831391274,2109543898
+dimwishlist:item=702001725&perks=1840239774,1431678320,831391274,95528736
+dimwishlist:item=702001725&perks=1840239774,1087426260,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,1087426260,2848615171,2109543898
+dimwishlist:item=702001725&perks=1840239774,1087426260,2848615171,95528736
+dimwishlist:item=702001725&perks=1840239774,1087426260,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,1087426260,831391274,2109543898
+dimwishlist:item=702001725&perks=1840239774,1087426260,831391274,95528736
+dimwishlist:item=702001725&perks=1840239774,3230963543,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,3230963543,2848615171,2109543898
+dimwishlist:item=702001725&perks=1840239774,3230963543,2848615171,95528736
+dimwishlist:item=702001725&perks=1840239774,3230963543,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,3230963543,831391274,2109543898
+dimwishlist:item=702001725&perks=1840239774,3230963543,831391274,95528736
+dimwishlist:item=702001725&perks=1840239774,679225683,2848615171,960997401
+dimwishlist:item=702001725&perks=1840239774,679225683,2848615171,2109543898
+dimwishlist:item=702001725&perks=1840239774,679225683,2848615171,95528736
+dimwishlist:item=702001725&perks=1840239774,679225683,831391274,960997401
+dimwishlist:item=702001725&perks=1840239774,679225683,831391274,2109543898
+dimwishlist:item=702001725&perks=1840239774,679225683,831391274,95528736
+dimwishlist:item=702001725&perks=1392496348,1431678320,2848615171,960997401
+dimwishlist:item=702001725&perks=1392496348,1431678320,2848615171,2109543898
+dimwishlist:item=702001725&perks=1392496348,1431678320,2848615171,95528736
+dimwishlist:item=702001725&perks=1392496348,1431678320,831391274,960997401
+dimwishlist:item=702001725&perks=1392496348,1431678320,831391274,2109543898
+dimwishlist:item=702001725&perks=1392496348,1431678320,831391274,95528736
+dimwishlist:item=702001725&perks=1392496348,1087426260,2848615171,960997401
+dimwishlist:item=702001725&perks=1392496348,1087426260,2848615171,2109543898
+dimwishlist:item=702001725&perks=1392496348,1087426260,2848615171,95528736
+dimwishlist:item=702001725&perks=1392496348,1087426260,831391274,960997401
+dimwishlist:item=702001725&perks=1392496348,1087426260,831391274,2109543898
+dimwishlist:item=702001725&perks=1392496348,1087426260,831391274,95528736
+dimwishlist:item=702001725&perks=1392496348,3230963543,2848615171,960997401
+dimwishlist:item=702001725&perks=1392496348,3230963543,2848615171,2109543898
+dimwishlist:item=702001725&perks=1392496348,3230963543,2848615171,95528736
+dimwishlist:item=702001725&perks=1392496348,3230963543,831391274,960997401
+dimwishlist:item=702001725&perks=1392496348,3230963543,831391274,2109543898
+dimwishlist:item=702001725&perks=1392496348,3230963543,831391274,95528736
+dimwishlist:item=702001725&perks=1392496348,679225683,2848615171,960997401
+dimwishlist:item=702001725&perks=1392496348,679225683,2848615171,2109543898
+dimwishlist:item=702001725&perks=1392496348,679225683,2848615171,95528736
+dimwishlist:item=702001725&perks=1392496348,679225683,831391274,960997401
+dimwishlist:item=702001725&perks=1392496348,679225683,831391274,2109543898
+dimwishlist:item=702001725&perks=1392496348,679225683,831391274,95528736
+
+
+// Auric Disabler - [Aztecross S27A1 Review] (god-pvp)
+//notes: [Aztecross S27A1 Review] Great weapon in theory with nice perks and stats, but current meta wants peek shooting with Hand Cannons and abilities, not 1v1 gun battles, it just needs a nudge. Go for Range, but Temporal Adapter great this season too. https://youtu.be/gFL71ayCfq4 tags:god-pvp
+dimwishlist:item=702001725&perks=3250034553,1561002382,2579169598,95528736
+dimwishlist:item=702001725&perks=3250034553,1561002382,2579169598,1015611457
+dimwishlist:item=702001725&perks=3250034553,1561002382,2579169598,365154968
+dimwishlist:item=702001725&perks=3250034553,1561002382,1359896290,95528736
+dimwishlist:item=702001725&perks=3250034553,1561002382,1359896290,1015611457
+dimwishlist:item=702001725&perks=3250034553,1561002382,1359896290,365154968
+
+
 // Psychopomp (Adept) - [Aztecross S26A1 Review] (god-pve)
 //notes: [Aztecross S26A1 Review] Area Denial GL is a great archetype. Ambitious Assassin's buff (timer removal) makes it better than Feeding Frenzy, Stats For All, Eddy Current, etc in most cases. Runneth Over stacks with Ambitious Assassin too. For the shiny god-godroll, need Rolling Storm, and your choice of the other damage perks. Go for Reload Speed. https://youtu.be/RXla7jmbBAw tags:god-pve
 dimwishlist:item=704410186&perks=3525010810,2822142346,2010801679,3218042543,120721526
@@ -3827,6 +3913,17 @@ dimwishlist:item=963710795&perks=1523832109,2978966579
 // Aurvandil FR6 - [Aztecross S23 World Drop Godrolls] (pvp)
 //notes: [Aztecross S23 World Drop Godrolls] tags:pvp
 dimwishlist:item=963710795&perks=280464955,3511092054
+
+
+// Giver's Blessing - [Aztecross S27A1 Review] (pve)
+//notes: [Aztecross S27A1 Review] Replacement for Chroma Rush. Kinetic Tremor out damages Multikill Clip, One For All, and builds Temporal Blast stacks (but won't accidentally fire it off). Exhaustive Research great for chunking beefier targets, also builds/fires off Temporal Blast. Shoot To Loot might be good with Crook and Flail (Trials Twofold Crown 2-piece Set Bonus); otherwise Techsec bonuses work great. Very sticky and stable in PvP. https://youtu.be/RbD7u-7zBj8 tags:pve
+dimwishlist:item=970034755&perks=3418782618,3891536761
+dimwishlist:item=970034755&perks=3700496672,3891536761
+
+
+// Giver's Blessing - [Aztecross S27A1 Review] (pvp)
+//notes: [Aztecross S27A1 Review] Replacement for Chroma Rush. Kinetic Tremor out damages Multikill Clip, One For All, and builds Temporal Blast stacks (but won't accidentally fire it off). Exhaustive Research great for chunking beefier targets, also builds/fires off Temporal Blast. Shoot To Loot might be good with Crook and Flail (Trials Twofold Crown 2-piece Set Bonus); otherwise Techsec bonuses work great. Very sticky and stable in PvP. https://youtu.be/RbD7u-7zBj8 tags:pvp
+dimwishlist:item=970034755&perks=1561002382,588594999,3891536761
 
 
 // Deafening Whisper - [Aegis S24A2 Endgame Analysis] (pve)
@@ -12616,6 +12713,34 @@ dimwishlist:item=2884596447&perks=3978468247,1354429876,1489048135
 dimwishlist:item=2886339027&perks=1354429876,3078487919,3363267119
 
 
+// Trachinus - [Aztecross S27A1 Playtest] (pve)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pve
+dimwishlist:item=2888021252&perks=791862061,1556840489,124408337
+dimwishlist:item=2888021252&perks=791862061,1556840489,2978966579
+dimwishlist:item=2888021252&perks=791862061,1955165503,124408337
+dimwishlist:item=2888021252&perks=791862061,1955165503,2978966579
+
+
+// Trachinus - [Aztecross S27A1 Playtest] (pvp)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pvp
+dimwishlist:item=2888021252&perks=2450788523,124408337
+dimwishlist:item=2888021252&perks=2450788523,4082225868
+
+
+// Trachinus - [Aztecross S27A1 Playtest] (pve)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pve
+dimwishlist:item=2888021253&perks=791862061,1556840489,124408337
+dimwishlist:item=2888021253&perks=791862061,1556840489,2978966579
+dimwishlist:item=2888021253&perks=791862061,1955165503,124408337
+dimwishlist:item=2888021253&perks=791862061,1955165503,2978966579
+
+
+// Trachinus - [Aztecross S27A1 Playtest] (pvp)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pvp
+dimwishlist:item=2888021253&perks=2450788523,124408337
+dimwishlist:item=2888021253&perks=2450788523,4082225868
+
+
 // The Slammer - [Aegis S24A2 Endgame Analysis] (god-pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier S Rank 4/33 Has Eager Edge; not craftable but Vortex frames propel you further than Adaptive frames, and Bungie may yet make non-raid Adepts become Enhanceable. Also has Cold Steel. tags:god-pve
 dimwishlist:item=2889501828&perks=2077819806,3650930298,1281216113
@@ -12833,6 +12958,27 @@ dimwishlist:item=2965080304&perks=3523296417,3640170453,2437618208
 // Yeartide Apex - [Aztecross S27A1 Review] (pvp)
 //notes: [Aztecross S27A1 Review] Low base mag size but can be increased. Is a legendary Huckleberry like Boondoggle. Incandescent good for lower level activity to ad clear, Burning Ambition great for chunkier targets (especially with the Temporal Blast volatile mod). The Reload Speed buffs from Tex Balanced Stock Origin Trait make it nice for PvE too. Lightweights have less Range than something like Shayura's Wrath but they're bullet hoses and great in their own right, go for Range. https://youtu.be/XT1c3byxPnU tags:pvp
 dimwishlist:item=2965080304&perks=2579169598,365154968
+
+
+// Yeartide Apex - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Not just a single godroll here. Tex Balanced Stock gives nice stats bumps. Three PvE rolls to look for, tying in to Solar builds perfectly. Heal Clip is a classic. Burning Ambition great when you have a Scorch build. Attrition Orbs works with Scorch ticks. Chaos Reshaped gives some healing and damage boost, pair with Heal Clip for bigger heal chunk. Recycled Energy might be useful but other perks are so much better. https://youtu.be/iIfd39Q4KiI tags:pve
+dimwishlist:item=2965080304&perks=3017780555,2890807135
+dimwishlist:item=2965080304&perks=3017780555,4293542123
+dimwishlist:item=2965080304&perks=3017780555,3640170453
+dimwishlist:item=2965080304&perks=3523296417,2890807135
+dimwishlist:item=2965080304&perks=3523296417,4293542123
+dimwishlist:item=2965080304&perks=3523296417,3640170453
+dimwishlist:item=2965080304&perks=243981275,2890807135
+dimwishlist:item=2965080304&perks=243981275,4293542123
+dimwishlist:item=2965080304&perks=243981275,3640170453
+
+
+// Yeartide Apex - [CoolGuy S27A1 Review] (pvp)
+//notes: [CoolGuy S27A1 Review] Other Lightweights do a bit better but something like Multimach CCX is in another slot. Target Lock gives a more reliable TTK. Chaos Reshaped is good for disciplined players, giving 35% damage boost. https://youtu.be/iIfd39Q4KiI tags:pvp
+dimwishlist:item=2965080304&perks=2579169598,365154968
+dimwishlist:item=2965080304&perks=2579169598,3640170453
+dimwishlist:item=2965080304&perks=3017780555,365154968
+dimwishlist:item=2965080304&perks=3017780555,3640170453
 
 
 // Judgment - [Aztecross S23 Prophecy Guide] (god-pvp)
@@ -14074,6 +14220,27 @@ dimwishlist:item=3293207827&perks=3523296417,3640170453,2437618208
 // Yeartide Apex - [Aztecross S27A1 Review] (pvp)
 //notes: [Aztecross S27A1 Review] Low base mag size but can be increased. Is a legendary Huckleberry like Boondoggle. Incandescent good for lower level activity to ad clear, Burning Ambition great for chunkier targets (especially with the Temporal Blast volatile mod). The Reload Speed buffs from Tex Balanced Stock Origin Trait make it nice for PvE too. Lightweights have less Range than something like Shayura's Wrath but they're bullet hoses and great in their own right, go for Range. https://youtu.be/XT1c3byxPnU tags:pvp
 dimwishlist:item=3293207827&perks=2579169598,365154968
+
+
+// Yeartide Apex - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Not just a single godroll here. Tex Balanced Stock gives nice stats bumps. Three PvE rolls to look for, tying in to Solar builds perfectly. Heal Clip is a classic. Burning Ambition great when you have a Scorch build. Attrition Orbs works with Scorch ticks. Chaos Reshaped gives some healing and damage boost, pair with Heal Clip for bigger heal chunk. Recycled Energy might be useful but other perks are so much better. https://youtu.be/iIfd39Q4KiI tags:pve
+dimwishlist:item=3293207827&perks=3017780555,2890807135
+dimwishlist:item=3293207827&perks=3017780555,4293542123
+dimwishlist:item=3293207827&perks=3017780555,3640170453
+dimwishlist:item=3293207827&perks=3523296417,2890807135
+dimwishlist:item=3293207827&perks=3523296417,4293542123
+dimwishlist:item=3293207827&perks=3523296417,3640170453
+dimwishlist:item=3293207827&perks=243981275,2890807135
+dimwishlist:item=3293207827&perks=243981275,4293542123
+dimwishlist:item=3293207827&perks=243981275,3640170453
+
+
+// Yeartide Apex - [CoolGuy S27A1 Review] (pvp)
+//notes: [CoolGuy S27A1 Review] Other Lightweights do a bit better but something like Multimach CCX is in another slot. Target Lock gives a more reliable TTK. Chaos Reshaped is good for disciplined players, giving 35% damage boost. https://youtu.be/iIfd39Q4KiI tags:pvp
+dimwishlist:item=3293207827&perks=2579169598,365154968
+dimwishlist:item=3293207827&perks=2579169598,3640170453
+dimwishlist:item=3293207827&perks=3017780555,365154968
+dimwishlist:item=3293207827&perks=3017780555,3640170453
 
 
 // PLUG ONE.1 - [itzTizzle S25A1 World/Playlist Godrolls] (god-pve)
@@ -15385,6 +15552,20 @@ dimwishlist:item=3623686757&perks=3987942396,3078487919
 //notes: [Aegis S24A2 Endgame Analysis] Tier B Rank 11/33 tags:pve
 dimwishlist:item=3629968765&perks=1749209109,3708227201
 dimwishlist:item=3629968765&perks=1749209109,3913600130
+
+
+// Trachinus - [Aztecross S27A1 Playtest] (pve)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pve
+dimwishlist:item=3635232671&perks=791862061,1556840489,124408337
+dimwishlist:item=3635232671&perks=791862061,1556840489,2978966579
+dimwishlist:item=3635232671&perks=791862061,1955165503,124408337
+dimwishlist:item=3635232671&perks=791862061,1955165503,2978966579
+
+
+// Trachinus - [Aztecross S27A1 Playtest] (pvp)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pvp
+dimwishlist:item=3635232671&perks=2450788523,124408337
+dimwishlist:item=3635232671&perks=2450788523,4082225868
 
 
 // Eye of Sol (Adept) - [Aegis S22 Endgame Analysis] (pve)
@@ -16774,6 +16955,37 @@ dimwishlist:item=3977654524&perks=3523296417,4049631843,1380061575
 dimwishlist:item=3977654524&perks=1017229899,4049631843,1380061575
 
 
+// Festival Flight - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Not just a single godroll here. Blast Distributor can get full 5x stack in one shot, giving +50 Grenade stat. Envious Arsenal gives Ammo Gen. As a Strand weapon it can get Unraveling Rounds, which ticks and spreads to others, at base. Demolitionist or Recycled Energy nice for Mataiodoxia, but lots of other rolls to fit your build. https://youtu.be/iIfd39Q4KiI tags:pve
+dimwishlist:item=3977654524&perks=1017229899,4049631843
+dimwishlist:item=3977654524&perks=1017229899,4104185692
+dimwishlist:item=3977654524&perks=1017229899,243981275
+dimwishlist:item=3977654524&perks=3523296417,4049631843
+dimwishlist:item=3977654524&perks=3523296417,4104185692
+dimwishlist:item=3977654524&perks=3523296417,243981275
+dimwishlist:item=3977654524&perks=3713215006,4049631843
+dimwishlist:item=3977654524&perks=3713215006,4104185692
+dimwishlist:item=3977654524&perks=3713215006,243981275
+
+
+// Festival Flight - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Not just a single godroll here. Blast Distributor can get full 5x stack in one shot, giving +50 Grenade stat. Envious Arsenal gives Ammo Gen. As a Strand weapon it can get Unraveling Rounds, which ticks and spreads to others, at base. Demolitionist or Recycled Energy nice for Mataiodoxia, but lots of other rolls to fit your build. https://youtu.be/iIfd39Q4KiI tags:pve
+dimwishlist:item=3977654524&perks=3987942396,243981275
+dimwishlist:item=3977654524&perks=3987942396,831391274
+
+
+// Aureus Neutralizer - [Aztecross S27A1 Review] (pvp)
+//notes: [Aztecross S27A1 Review] A disgusting build with Assassin's Cowl, Knock 'em Down, On Your Mark, Solace/Torches/Tempering/Ashes/Searing, Lightweight Knife, and 160 Health/140 Melee/100 Class stats. Shoot once and throw Knife. Go for Range, and pair with Temporal Adapter Seasonal Mod. https://youtu.be/EFeZrNEnLUA tags:pvp
+dimwishlist:item=3981920134&perks=4090651448,3142289711,2579169598,2360754333
+dimwishlist:item=3981920134&perks=4090651448,3142289711,2579169598,2679249093
+dimwishlist:item=3981920134&perks=4090651448,3142289711,2579169598,47981717
+dimwishlist:item=3981920134&perks=4090651448,3142289711,2579169598,3751912585
+dimwishlist:item=3981920134&perks=1482024992,3142289711,2579169598,2360754333
+dimwishlist:item=3981920134&perks=1482024992,3142289711,2579169598,2679249093
+dimwishlist:item=3981920134&perks=1482024992,3142289711,2579169598,47981717
+dimwishlist:item=3981920134&perks=1482024992,3142289711,2579169598,3751912585
+
+
 // Rake Angle (Adept) - [itzTizzle S25A1 World/Playlist Godrolls] (god-pve)
 //notes: [itzTizzle S25A1 World/Playlist Godrolls] First Kinetic slot Glaive, prefer consistency perks (Impulse Amplifier rather than Overflow). Only 3 in the mag at base so go for Appended Mag with Backup Mod to get it up to 5 for Chill Clip. https://youtu.be/wVLX5s_Eijg tags:god-pve
 dimwishlist:item=3997086838&perks=594346985,1087426260,951095735,2978966579
@@ -17119,6 +17331,25 @@ dimwishlist:item=4005780578&perks=3300816228,2173046394,2988596335
 //notes: [Aztecross S27A1 Review] First Strand Area Denial GL (4th ADGL), competes with Lost Signal and Witherhoard. Great for building up Darkness Transcendence. Blast Distributor stacks to 5 and gives 10 (11 Enhanced) Grenade stat per stack, great for grenade builds. Envious Arsenal also gives 20 Ammo Generation stat. There's Ambitious Assassin but no Runneth Over. Binary Orbit is easy 25% buff for 8.5 seconds (10.5 Enhanced), One For All also easy 35% buff. Attrition Orbs is a bit nerfed but still great. Hatchling is solid. Elemental Honing works if you're set up for it, otherwise One For All easier to proc. Vorpal is bad. Dream Work is great for team play, Suros Synergy isn't useful on GLs. Use Temporal Blast mod in Reclamation S27 as it's easy to build stacks and the damage is significant. Elemental Coalescence and Tangled Web Artifact Mods are great here too with the Temporal Loader mod. Lots to play with, see what synergises with your build. https://youtu.be/wpoZ0kCmUHU tags:pve
 dimwishlist:item=4019651319&perks=3523296417,4049631843,1380061575
 dimwishlist:item=4019651319&perks=1017229899,4049631843,1380061575
+
+
+// Festival Flight - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Not just a single godroll here. Blast Distributor can get full 5x stack in one shot, giving +50 Grenade stat. Envious Arsenal gives Ammo Gen. As a Strand weapon it can get Unraveling Rounds, which ticks and spreads to others, at base. Demolitionist or Recycled Energy nice for Mataiodoxia, but lots of other rolls to fit your build. https://youtu.be/iIfd39Q4KiI tags:pve
+dimwishlist:item=4019651319&perks=1017229899,4049631843
+dimwishlist:item=4019651319&perks=1017229899,4104185692
+dimwishlist:item=4019651319&perks=1017229899,243981275
+dimwishlist:item=4019651319&perks=3523296417,4049631843
+dimwishlist:item=4019651319&perks=3523296417,4104185692
+dimwishlist:item=4019651319&perks=3523296417,243981275
+dimwishlist:item=4019651319&perks=3713215006,4049631843
+dimwishlist:item=4019651319&perks=3713215006,4104185692
+dimwishlist:item=4019651319&perks=3713215006,243981275
+
+
+// Festival Flight - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] Not just a single godroll here. Blast Distributor can get full 5x stack in one shot, giving +50 Grenade stat. Envious Arsenal gives Ammo Gen. As a Strand weapon it can get Unraveling Rounds, which ticks and spreads to others, at base. Demolitionist or Recycled Energy nice for Mataiodoxia, but lots of other rolls to fit your build. https://youtu.be/iIfd39Q4KiI tags:pve
+dimwishlist:item=4019651319&perks=3987942396,243981275
+dimwishlist:item=4019651319&perks=3987942396,831391274
 
 
 // Staccato-46 - [Aztecross S23 World Drop Godrolls] (pve)
@@ -17512,6 +17743,32 @@ dimwishlist:item=4114929480&perks=280464955,2652708987
 // Snorri FR5 - [Aztecross S23 World Drop Godrolls] (pve)
 //notes: [Aztecross S23 World Drop Godrolls] Glaciocasm is a better Resevoir Burst fusion with Slideshot. tags:pve
 dimwishlist:item=4114929480&perks=1427256713,2839173408
+
+
+// Solemn Remembrance - [CoolGuy S27A1 Review] (pve)
+//notes: [CoolGuy S27A1 Review] One of the best Legendary weapons, up there with the OG Fatebringer in D1, goes with anything. Modelled after Not Forgotten, Stasis 140rpm. Headstone + Firefly is what you need, don't need to grind further if you get this; it's a roll unique to this weapon, less building into it compared to Psi Hermetic V. Stasis/Solar Siphon and Fever And Chill in Artifact Mods this season. Whisper of Shards+Fissures make this a grenade regen engine with wide AOE on headshots. Also great for Prismatic builds, like with Rime Coat Raiment, Masks of Bakris/Fealty, or Cadmus Ridge Lancecap. Impromptu Ammunition, Rimestealer also great. Barrels and Grip: Range, Handling, Stability, maybe some Reload (though Firefly has buffs here already). https://youtu.be/QCDvHPfCXgo tags:pve
+dimwishlist:item=4116518582&perks=124408337,3824105627
+dimwishlist:item=4116518582&perks=124408337,1955165503
+dimwishlist:item=4116518582&perks=2360347339,3824105627
+dimwishlist:item=4116518582&perks=2360347339,1955165503
+
+
+// Solemn Remembrance - [CoolGuy S27A1 Review] (pvp)
+//notes: [CoolGuy S27A1 Review] One of the best Legendary weapons, up there with the OG Fatebringer in D1, goes with anything. Modelled after Not Forgotten, Stasis 140rpm. A duelling weapon with some good feels to make it stand out from the other ~200 Hand Cannons. Great Stability, feels better than Luna's Howl. Lone Wolf + Keep Away is unique to this and Long Arm, and provides many benefits for duelling. Built To Blast is pretty broken if you bother to build into it, lingers 3 seconds after conditions wear off, and is like a front-loaded Zen Moment, feels like zero recoil and flinch; pair with Eye Of The Storm and it feels like you're on controller. Needs some Range (70+) and maybe Handling. https://youtu.be/QCDvHPfCXgo tags:pvp
+dimwishlist:item=4116518582&perks=2579169598,3619207468
+dimwishlist:item=4116518582&perks=2579169598,699525795
+dimwishlist:item=4116518582&perks=2579169598,555281244
+dimwishlist:item=4116518582&perks=2387244414,3619207468
+dimwishlist:item=4116518582&perks=2387244414,699525795
+dimwishlist:item=4116518582&perks=2387244414,555281244
+dimwishlist:item=4116518582&perks=588594999,3619207468
+dimwishlist:item=4116518582&perks=588594999,699525795
+dimwishlist:item=4116518582&perks=588594999,555281244
+
+
+// Solemn Remembrance - [CoolGuy S27A1 Review] (pvp)
+//notes: [CoolGuy S27A1 Review] One of the best Legendary weapons, up there with the OG Fatebringer in D1, goes with anything. Modelled after Not Forgotten, Stasis 140rpm. A duelling weapon with some good feels to make it stand out from the other ~200 Hand Cannons. Great Stability, feels better than Luna's Howl. Lone Wolf + Keep Away is unique to this and Long Arm, and provides many benefits for duelling. Built To Blast is pretty broken if you bother to build into it, lingers 3 seconds after conditions wear off, and is like a front-loaded Zen Moment, feels like zero recoil and flinch; pair with Eye Of The Storm and it feels like you're on controller. Needs some Range (70+) and maybe Handling. https://youtu.be/QCDvHPfCXgo tags:pvp
+dimwishlist:item=4116518582&perks=1918398421,699525795
 
 
 // Mirror Imago (Adept) - [Aztecross S26A1 Heresy Godrolls] (god-pve)

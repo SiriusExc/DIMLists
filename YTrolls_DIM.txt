@@ -1729,6 +1729,11 @@ dimwishlist:item=471518543&perks=1820235745,11612903
 dimwishlist:item=471518543&perks=1820235745,4049631843
 
 
+// Pre Astyanax IV - [Aztecross S27A1 Review] (god-pve)
+//notes: [Aztecross S27A1 Review] Yet another refresh, but this one surprised me. With Temporal Blast it does lots of damage, scaling with base damage and splash damage. Pair with Oathkeepers for even more damage buffs. Burning Ambition takes nearly twice as long as Yeartide Apex to proc an Ignition, not worth it. Wild Card builds Temporal Blast, and kills with the submunitions spread Incandescent Scorch. https://youtu.be/Nqti_Afmyx0 tags:god-pve
+dimwishlist:item=471764396&perks=2801223209,16392701,4293542123,1089671869,1050127423
+
+
 // Tinasha's Mastery - [Aztecross S25A2 Review] (god-pve)
 //notes: [Aztecross S25A2 Review] Best Rocket Sidearm but middle-of-the-road stats. Air Trigger gives extra ammo (base > AT > Enhanced: 39 > 49 > 51) and faster reloads. Deconstruct reloads for you and provides a 3rd-column damage perk. Impulse Amplifier makes it more like a hitscan weapon. Go for Velocity, and add Backup Mod for more Chill Clip. https://youtu.be/WxDBTy0BrIY tags:god-pve
 dimwishlist:item=480368036&perks=1380253176,1421772400,2978966579
@@ -4460,6 +4465,11 @@ dimwishlist:item=1084190509&perks=3300816228,1546637391,3989629871
 dimwishlist:item=1084190509&perks=3978468247,1546637391,3989629871
 
 
+// The When and Where - [Llama S27A1 Review] (god-pve)
+//notes: [Llama S27A1 Review] An actually good Stasis Rocket Launcher with more damage than Hezen Vengeance. Frame Of Reference Origin Trait pauses when weapon is stowed, can stack to 5 for 7% more damage, but stacks aren't shared with other weapons with the trait. Chill Clip in 3rd column is new, with 15% more damage if used; every 2nd rocket is auto-loaded with Temporal Loader Mod. Reaper's Tithe is a new perk on this weapon and Theodolite, synergises nicely with Frame Of Reference; stacks to 4 (single rocket with 4 kills procs it) for 40% damage buff, better than Elemental Honing. Temporal Blast adds nearly another rocket's worth of damage every 2nd rocket. Undisputed mag dump monster, just don't die and lose all your stacks. https://youtu.be/K0PSRCa0quI tags:god-pve
+dimwishlist:item=1090936013&perks=2284787283,113508675,2597494435
+
+
 // The When and Where - [Aztecross S27A1 Godrolls] (pve)
 //notes: [Aztecross S27A1 Godrolls] Origin Trait gives up to 5 stacks for 7% more damage for 8 seconds. Stacked with damage perks. Reaper's Tithe is now the highest damage perk, stacks with Origin Trait. Chill Clip in the third column is unique. https://youtu.be/F5bwC-Ub_Lk tags:pve
 dimwishlist:item=1090936013&perks=2978966579,3078487919
@@ -6498,6 +6508,12 @@ dimwishlist:item=1509167284&perks=1482024992,3142289711,1195158366
 dimwishlist:item=1509167284&perks=1482024992,3142289711,691659142
 
 
+// Opaque Hourglass - [Aztecross S27A1 Extra Testing] (god-pve)
+//notes: [Aztecross S27A1 Extra Testing] Explosive Bolts consistently procs Temporal Blast every shot. Vorpal Weapon being bugged puts it over Elemental Honing until it's fixed. https://youtu.be/tm6dhQ-HzSA tags:god-pve
+dimwishlist:item=1553681400&perks=3603807747,951095735,1546637391
+dimwishlist:item=1553681400&perks=3603807747,951095735,1089671869
+
+
 // Opaque Hourglass - [Aztecross S27A1 Review] (pve)
 //notes: [Aztecross S27A1 Review] A whole new weapon type: Heavy Crossbow, and the only other bow in the heavy slot. All your bolts can be retrieved for essentially infinite ammo. You can also climb the bolts if fired into a wall. Persistence doesn't scale much (35 for 30 seconds, 65 for 39 seconds). Serrated Bolts' 2nd damage on bolt retrieval does half damage for all but one bolt. Charged Bolts' DOT doesn't stack but does highest overall damage. Heavy Bolts don't seem to be affected by gravity until very long distances (70m+) and does the most instaneous damage. Spring-Auger Bolts are mainly good for flinch, there's not much extra damage. Bolt Scavenger's Reload buff is about 9% faster than Impulse Amplifier, if you can retrieve your bolts consistently. Vorpal currently doing 32% extra damage as it's giving both the heavy and primary buffs. Firefly + Dragonfly is very rare, only on Doom of Chelchis. Does not work with Oathkeeper. With Heavy Bolts + Bolt Scavenger + Elemental Honing + Frame Of Reference and a Hierarchy ring, it does ~50% higher DPS and ~9% lower total damage compared to Leviathan's Breath with a Hierarchy ring. Can be used for boss DPS but more a Major buster or even ad clearing, it has high Ammo Gen to boot. Can one-shot in PvP with Radiant or Elemental Honing x1. https://youtu.be/uU1z3sg4UuE tags:pve
 dimwishlist:item=1553681400&perks=4088731040,1202133695,4042220767,1089671869
@@ -7289,6 +7305,22 @@ dimwishlist:item=1821724780&perks=3300816228,1546637391
 dimwishlist:item=1821724780&perks=3300816228,2360754333
 dimwishlist:item=1821724780&perks=1556840489,1546637391
 dimwishlist:item=1821724780&perks=1556840489,2360754333
+
+
+// Synanceia - [Llama S27A1 Godrolls] (god-pve)
+//notes: [Llama S27A1 Godrolls] New gear with Eager Edge, but heavy attack on Wave Frame doesn't do anything, don't skate with it, just use light attack swipes. Relentless Strikes + Elemental Honing would be best Sword DPS option, if only there were more Sword DPS encounters besides Crota. https://youtu.be/sY_oZZyeIKs tags:god-pve
+dimwishlist:item=1823308496&perks=2077819806,3911709647
+dimwishlist:item=1823308496&perks=2077819806,1607056502
+
+
+// Synanceia - [Llama S27A1 Godrolls] (pve)
+//notes: [Llama S27A1 Godrolls] New gear with Eager Edge, but heavy attack on Wave Frame doesn't do anything, don't skate with it, just use light attack swipes. Relentless Strikes + Elemental Honing would be best Sword DPS option, if only there were more Sword DPS encounters besides Crota. https://youtu.be/sY_oZZyeIKs tags:pve
+dimwishlist:item=1823308496&perks=1749209109,1089671869
+dimwishlist:item=1823308496&perks=1749209109,3708227201
+dimwishlist:item=1823308496&perks=243981275,1089671869
+dimwishlist:item=1823308496&perks=243981275,3708227201
+dimwishlist:item=1823308496&perks=4132187021,1089671869
+dimwishlist:item=1823308496&perks=4132187021,3708227201
 
 
 // Albedo Wing - [itzTizzle S25A2 Dawning Godrolls] (pve)
@@ -12076,6 +12108,38 @@ dimwishlist:item=2764074355&perks=791862061,776531651,2048641572
 dimwishlist:item=2764074355&perks=791862061,3978468247,2048641572
 
 
+// Synanceia - [Llama S27A1 Godrolls] (god-pve)
+//notes: [Llama S27A1 Godrolls] New gear with Eager Edge, but heavy attack on Wave Frame doesn't do anything, don't skate with it, just use light attack swipes. Relentless Strikes + Elemental Honing would be best Sword DPS option, if only there were more Sword DPS encounters besides Crota. https://youtu.be/sY_oZZyeIKs tags:god-pve
+dimwishlist:item=2765451290&perks=2077819806,3911709647
+dimwishlist:item=2765451290&perks=2077819806,1607056502
+
+
+// Synanceia - [Llama S27A1 Godrolls] (pve)
+//notes: [Llama S27A1 Godrolls] New gear with Eager Edge, but heavy attack on Wave Frame doesn't do anything, don't skate with it, just use light attack swipes. Relentless Strikes + Elemental Honing would be best Sword DPS option, if only there were more Sword DPS encounters besides Crota. https://youtu.be/sY_oZZyeIKs tags:pve
+dimwishlist:item=2765451290&perks=1749209109,1089671869
+dimwishlist:item=2765451290&perks=1749209109,3708227201
+dimwishlist:item=2765451290&perks=243981275,1089671869
+dimwishlist:item=2765451290&perks=243981275,3708227201
+dimwishlist:item=2765451290&perks=4132187021,1089671869
+dimwishlist:item=2765451290&perks=4132187021,3708227201
+
+
+// Synanceia - [Llama S27A1 Godrolls] (god-pve)
+//notes: [Llama S27A1 Godrolls] New gear with Eager Edge, but heavy attack on Wave Frame doesn't do anything, don't skate with it, just use light attack swipes. Relentless Strikes + Elemental Honing would be best Sword DPS option, if only there were more Sword DPS encounters besides Crota. https://youtu.be/sY_oZZyeIKs tags:god-pve
+dimwishlist:item=2765451291&perks=2077819806,3911709647
+dimwishlist:item=2765451291&perks=2077819806,1607056502
+
+
+// Synanceia - [Llama S27A1 Godrolls] (pve)
+//notes: [Llama S27A1 Godrolls] New gear with Eager Edge, but heavy attack on Wave Frame doesn't do anything, don't skate with it, just use light attack swipes. Relentless Strikes + Elemental Honing would be best Sword DPS option, if only there were more Sword DPS encounters besides Crota. https://youtu.be/sY_oZZyeIKs tags:pve
+dimwishlist:item=2765451291&perks=1749209109,1089671869
+dimwishlist:item=2765451291&perks=1749209109,3708227201
+dimwishlist:item=2765451291&perks=243981275,1089671869
+dimwishlist:item=2765451291&perks=243981275,3708227201
+dimwishlist:item=2765451291&perks=4132187021,1089671869
+dimwishlist:item=2765451291&perks=4132187021,3708227201
+
+
 // Nox Perennial V - [demonjoe S23 World Loot Guide] (god-pve)
 //notes: [demonjoe S23 World Loot Guide] Good for long damage phases tags:god-pve
 dimwishlist:item=2767393525&perks=839105230,689005463,968510818,2594592626
@@ -12727,6 +12791,11 @@ dimwishlist:item=2888021252&perks=2450788523,124408337
 dimwishlist:item=2888021252&perks=2450788523,4082225868
 
 
+// Trachinus - [Llama S27A1 Godrolls] (pve)
+//notes: [Llama S27A1 Godrolls] New Rapid Slug Frame archetype, 90 rpm (Assault Mag raises it to 140 rpm), much faster than any previous Slug Shotguns. No sustain perks though. Chill Clip on Shotgun only takes 2 shots to Freeze, great with Temporal Loader Mod. More for damage though, 2 shots to proc Temporal Blast, with great DPS for a mag dump, though it's a one-mag pony without something like Hunter Dodge/Speedloader Slacks, somewhat niche; Rocket Pulse probably more useful in the same slot. https://youtu.be/sY_oZZyeIKs tags:pve
+dimwishlist:item=2888021252&perks=1556840489,555281244
+
+
 // Trachinus - [Aztecross S27A1 Playtest] (pve)
 //notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pve
 dimwishlist:item=2888021253&perks=791862061,1556840489,124408337
@@ -12739,6 +12808,11 @@ dimwishlist:item=2888021253&perks=791862061,1955165503,2978966579
 //notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pvp
 dimwishlist:item=2888021253&perks=2450788523,124408337
 dimwishlist:item=2888021253&perks=2450788523,4082225868
+
+
+// Trachinus - [Llama S27A1 Godrolls] (pve)
+//notes: [Llama S27A1 Godrolls] New Rapid Slug Frame archetype, 90 rpm (Assault Mag raises it to 140 rpm), much faster than any previous Slug Shotguns. No sustain perks though. Chill Clip on Shotgun only takes 2 shots to Freeze, great with Temporal Loader Mod. More for damage though, 2 shots to proc Temporal Blast, with great DPS for a mag dump, though it's a one-mag pony without something like Hunter Dodge/Speedloader Slacks, somewhat niche; Rocket Pulse probably more useful in the same slot. https://youtu.be/sY_oZZyeIKs tags:pve
+dimwishlist:item=2888021253&perks=1556840489,555281244
 
 
 // The Slammer - [Aegis S24A2 Endgame Analysis] (god-pve)
@@ -15566,6 +15640,11 @@ dimwishlist:item=3635232671&perks=791862061,1955165503,2978966579
 //notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pvp
 dimwishlist:item=3635232671&perks=2450788523,124408337
 dimwishlist:item=3635232671&perks=2450788523,4082225868
+
+
+// Trachinus - [Llama S27A1 Godrolls] (pve)
+//notes: [Llama S27A1 Godrolls] New Rapid Slug Frame archetype, 90 rpm (Assault Mag raises it to 140 rpm), much faster than any previous Slug Shotguns. No sustain perks though. Chill Clip on Shotgun only takes 2 shots to Freeze, great with Temporal Loader Mod. More for damage though, 2 shots to proc Temporal Blast, with great DPS for a mag dump, though it's a one-mag pony without something like Hunter Dodge/Speedloader Slacks, somewhat niche; Rocket Pulse probably more useful in the same slot. https://youtu.be/sY_oZZyeIKs tags:pve
+dimwishlist:item=3635232671&perks=1556840489,555281244
 
 
 // Eye of Sol (Adept) - [Aegis S22 Endgame Analysis] (pve)

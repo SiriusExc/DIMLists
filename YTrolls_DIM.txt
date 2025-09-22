@@ -3180,6 +3180,46 @@ dimwishlist:item=725408022&perks=951095735,3194351027
 dimwishlist:item=725408022&perks=2010801679,3194351027
 
 
+// Unfall - [Aztecross S27A2 Review] (god-pve)
+//notes: [Aztecross S27A2 Review] Seems to be German in name. A Rocket Sidearm that synergises with Sturm with Together Forever, secures kills faster than Drang. Fills in for Indebted Kindness for Seasonal Mod use. Multiple rapid kills fill in more Sturm Overchanged Shots than at 1:1, and increases Sturm's mag size until death (Sturm kills also fills Unfall's mag). Has Jolting Feedback versus Indebted's Joltshot; takes 4 shots to Jolt, and Jolt kills don't seem to fill Sturm's mag; more useful for higher level play. Also has Rolling Storm but we're not in a Bolt Charge meta. Deconstruct often gets overlooked but great for Threshers and other constructs. Vanguard's Determination provides 2% damage resist per stack. Temporal Blast is damage dependent, not very useful here, use Temporal Armaments. Can use Energy Acceleration Artifact Mod. A sidegrade to Indebted Kindness all in all. https://youtu.be/xslO3mFzRF8 tags:god-pve
+dimwishlist:item=738446555&perks=3525010810,106909392,1556840489,3966416502
+dimwishlist:item=738446555&perks=3525010810,106909392,1556840489,4049631843
+dimwishlist:item=738446555&perks=3525010810,106909392,1683379515,3966416502
+dimwishlist:item=738446555&perks=3525010810,106909392,1683379515,4049631843
+dimwishlist:item=738446555&perks=3525010810,106909392,951095735,3966416502
+dimwishlist:item=738446555&perks=3525010810,106909392,951095735,4049631843
+dimwishlist:item=738446555&perks=3525010810,1087426260,1556840489,3966416502
+dimwishlist:item=738446555&perks=3525010810,1087426260,1556840489,4049631843
+dimwishlist:item=738446555&perks=3525010810,1087426260,1683379515,3966416502
+dimwishlist:item=738446555&perks=3525010810,1087426260,1683379515,4049631843
+dimwishlist:item=738446555&perks=3525010810,1087426260,951095735,3966416502
+dimwishlist:item=738446555&perks=3525010810,1087426260,951095735,4049631843
+
+
+// Unfall - [CoolGuy S27A2 Review] (god-pve)
+//notes: [CoolGuy S27A2 Review] Together Forever for Sturm synergy, but stands on its own as a Rocket Sidearm. Vanguard's Determination gives 2% Damage Resist per stack. Lead From Gold gives a decent chunk of ammo from a Heavy brick, keeps it fed. Sleight Of Hand needs some buffs, does synergise with the Sturm refilling its mag but needs a specific build. Disruption Break great for swapping with Sturm, 50% more damage stacks with Sturm's Overcharged Shots (as well as other weapons like Outbreak Perfected's Nanites). Binary Orbit is a better Harmony, pair with Disruption Break to swap between Sturm. Lots of easy damage buffs, pair with reload perks, or lean into Jolt if you're building into it. https://youtu.be/V6dd6eYoO54 tags:god-pve
+dimwishlist:item=738446555&perks=1380253176,1556840489,3966416502
+dimwishlist:item=738446555&perks=1380253176,1556840489,1546142478
+dimwishlist:item=738446555&perks=1380253176,1556840489,4049631843
+dimwishlist:item=738446555&perks=1380253176,1556840489,3081867624
+dimwishlist:item=738446555&perks=1380253176,1556840489,3993379141
+dimwishlist:item=738446555&perks=1380253176,1683379515,3966416502
+dimwishlist:item=738446555&perks=1380253176,1683379515,1546142478
+dimwishlist:item=738446555&perks=1380253176,1683379515,4049631843
+dimwishlist:item=738446555&perks=1380253176,1683379515,3081867624
+dimwishlist:item=738446555&perks=1380253176,1683379515,3993379141
+dimwishlist:item=738446555&perks=3230963543,1556840489,3966416502
+dimwishlist:item=738446555&perks=3230963543,1556840489,1546142478
+dimwishlist:item=738446555&perks=3230963543,1556840489,4049631843
+dimwishlist:item=738446555&perks=3230963543,1556840489,3081867624
+dimwishlist:item=738446555&perks=3230963543,1556840489,3993379141
+dimwishlist:item=738446555&perks=3230963543,1683379515,3966416502
+dimwishlist:item=738446555&perks=3230963543,1683379515,1546142478
+dimwishlist:item=738446555&perks=3230963543,1683379515,4049631843
+dimwishlist:item=738446555&perks=3230963543,1683379515,3081867624
+dimwishlist:item=738446555&perks=3230963543,1683379515,3993379141
+
+
 // Prosecutor (Adept) - [Fallout S26A3 RotN Godrolls] (pve)
 //notes: [Fallout S26A3 RotN Godrolls] Replacement for Shadow Price. Target Lock only mildly makes it easier to kill, won't lower TTK. https://youtu.be/9BNsIO0FMO4 tags:pve
 dimwishlist:item=749483159&perks=2848615171,3218042543
@@ -3929,6 +3969,25 @@ dimwishlist:item=970034755&perks=3700496672,3891536761
 // Giver's Blessing - [Aztecross S27A1 Review] (pvp)
 //notes: [Aztecross S27A1 Review] Replacement for Chroma Rush. Kinetic Tremor out damages Multikill Clip, One For All, and builds Temporal Blast stacks (but won't accidentally fire it off). Exhaustive Research great for chunking beefier targets, also builds/fires off Temporal Blast. Shoot To Loot might be good with Crook and Flail (Trials Twofold Crown 2-piece Set Bonus); otherwise Techsec bonuses work great. Very sticky and stable in PvP. https://youtu.be/RbD7u-7zBj8 tags:pvp
 dimwishlist:item=970034755&perks=1561002382,588594999,3891536761
+
+
+// Burden of Guilt - [Legoleflash S27A2 Review] (god-pve)
+//notes: [Legoleflash S27A2 Review] Burden Of Guilt still has one of the best stat package Adaptive Fusion Rifles with ridiculous Range. Very customisable. The new Ammo Generation system makes Fusions great for ad-clearing now, instead of only for boss damage. Aggregate Charge isn't as easy to use as Elemental Honing or Controlled Burst, but works if you build into it. Go for Charge Time. https://youtu.be/0hpjtciImaQ tags:god-pve
+dimwishlist:item=976459525&perks=3250034553,2680121939,1955165503,2922950962
+
+
+// Burden of Guilt - [Legoleflash S27A2 Review] (god-pve)
+//notes: [Legoleflash S27A2 Review] Burden Of Guilt still has one of the best stat package Adaptive Fusion Rifles with ridiculous Range. Very customisable. The new Ammo Generation system makes Fusions great for ad-clearing now, instead of only for boss damage. Aggregate Charge isn't as easy to use as Elemental Honing or Controlled Burst, but works if you build into it. Go for Charge Time. https://youtu.be/0hpjtciImaQ tags:god-pve
+dimwishlist:item=976459525&perks=3250034553,2680121939,3987942396,2978966579
+dimwishlist:item=976459525&perks=3250034553,2680121939,3987942396,3764420437
+
+
+// Burden of Guilt - [Legoleflash S27A2 Review] (god-pvp)
+//notes: [Legoleflash S27A2 Review] Burden Of Guilt still has one of the best stat package Adaptive Fusion Rifles with ridiculous Range. Very customisable. Lone Wolf is for those relying on Aim Assist, Under Pressure is for everyone else. High-impact Reserves is outdated, just use Closing Time, and trust the Range to be 10m+. Enhanced Hammer-forged Rifling and Projection Fuse give +12 Range each. Go for Range (can get to near 100 with perks). If you want speed go for Zealot's Reward. If you get Accelerated Coil then use ~120 Weapon stat. Very sad there's no Discord in this PvP Special Ammo economy, but man is this still amazing to use. https://youtu.be/0hpjtciImaQ tags:god-pvp
+dimwishlist:item=976459525&perks=3250034553,2969185026,1645158859,1194056669
+dimwishlist:item=976459525&perks=3250034553,2969185026,2579169598,1194056669
+dimwishlist:item=976459525&perks=3250034553,689005463,1645158859,1194056669
+dimwishlist:item=976459525&perks=3250034553,689005463,2579169598,1194056669
 
 
 // Deafening Whisper - [Aegis S24A2 Endgame Analysis] (pve)
@@ -7906,6 +7965,22 @@ dimwishlist:item=1916287826&perks=4071163871,4104185692
 // Boudica-C - [Aegis S23 Endgame Analysis] (pve)
 //notes: [Aegis S23 Endgame Analysis] Alt for: Allied Demand; Role: Champs tags:pve
 dimwishlist:item=1916287826&perks=4071163871,4104185692,1607056502
+
+
+// Finite Impactor - [Aztecross S27A2 Playtest] (pvp)
+//notes: [Aztecross S27A2 Playtest] Same slot as Graviton Spike, not that good by comparison. Can try for a max Range roll though. Not much here for PvE. https://youtu.be/HVzLAaOJfMQ tags:pvp
+dimwishlist:item=1917334929&perks=3250034553,1885400500,2451262963,588594999
+dimwishlist:item=1917334929&perks=3250034553,1885400500,2451262963,591790007
+dimwishlist:item=1917334929&perks=3250034553,1885400500,2039302152,588594999
+dimwishlist:item=1917334929&perks=3250034553,1885400500,2039302152,591790007
+dimwishlist:item=1917334929&perks=3250034553,1885400500,11551321,588594999
+dimwishlist:item=1917334929&perks=3250034553,1885400500,11551321,591790007
+dimwishlist:item=1917334929&perks=1840239774,1885400500,2451262963,588594999
+dimwishlist:item=1917334929&perks=1840239774,1885400500,2451262963,591790007
+dimwishlist:item=1917334929&perks=1840239774,1885400500,2039302152,588594999
+dimwishlist:item=1917334929&perks=1840239774,1885400500,2039302152,591790007
+dimwishlist:item=1917334929&perks=1840239774,1885400500,11551321,588594999
+dimwishlist:item=1917334929&perks=1840239774,1885400500,11551321,591790007
 
 
 // Hezen Vengeance (Timelost) - [Aegis S24A2 Endgame Analysis] (pve)
@@ -12648,6 +12723,46 @@ dimwishlist:item=2856514843&perks=1347741687,2402480669
 dimwishlist:item=2857348871&perks=1749209109,3708227201
 
 
+// Everburning Glitz - [CoolGuy S27A2 Review] (god-pvp)
+//notes: [CoolGuy S27A2 Review] Kinetic 720rpm Rapid Fire Auto, pretty good; lowest Stability, middle Range, great Handling and Reload. No more Deterministic Recoil, and at 55 Recoil base, it's very vertical; 100 is almost laser-like. Accuracy Cone very important, so Dynamic Sway Reduction is the best 3rd column perk. To The Pain needs a rework. Tap The Trigger is great for stability on a Rapid Fire. Eye Of The Storm buffs Accuracy. Dynamic Sway + Zen Moment is quite rare on Rapid Fire Autos, gives great Stability and Accuracy for duelling, even more amazing on controller. Go for some Range and Stability, use Counterbalance Mod with Extended/Arrowhead Brake. https://youtu.be/0e4OWUu5R8Y tags:god-pvp
+dimwishlist:item=2857870254&perks=3250034553,1885400500,1359896290,2387244414,1673863459
+dimwishlist:item=2857870254&perks=3250034553,1885400500,1359896290,1890422124,1673863459
+dimwishlist:item=2857870254&perks=3250034553,1885400500,1359896290,3891536761,1673863459
+dimwishlist:item=2857870254&perks=3250034553,1885400500,2579169598,2387244414,1673863459
+dimwishlist:item=2857870254&perks=3250034553,1885400500,2579169598,1890422124,1673863459
+dimwishlist:item=2857870254&perks=3250034553,1885400500,2579169598,3891536761,1673863459
+dimwishlist:item=2857870254&perks=1482024992,1885400500,1359896290,2387244414,1673863459
+dimwishlist:item=2857870254&perks=1482024992,1885400500,1359896290,1890422124,1673863459
+dimwishlist:item=2857870254&perks=1482024992,1885400500,1359896290,3891536761,1673863459
+dimwishlist:item=2857870254&perks=1482024992,1885400500,2579169598,2387244414,1673863459
+dimwishlist:item=2857870254&perks=1482024992,1885400500,2579169598,1890422124,1673863459
+dimwishlist:item=2857870254&perks=1482024992,1885400500,2579169598,3891536761,1673863459
+dimwishlist:item=2857870254&perks=1467527085,1885400500,1359896290,2387244414,1673863459
+dimwishlist:item=2857870254&perks=1467527085,1885400500,1359896290,1890422124,1673863459
+dimwishlist:item=2857870254&perks=1467527085,1885400500,1359896290,3891536761,1673863459
+dimwishlist:item=2857870254&perks=1467527085,1885400500,2579169598,2387244414,1673863459
+dimwishlist:item=2857870254&perks=1467527085,1885400500,2579169598,1890422124,1673863459
+dimwishlist:item=2857870254&perks=1467527085,1885400500,2579169598,3891536761,1673863459
+dimwishlist:item=2857870254&perks=839105230,1885400500,1359896290,2387244414,1673863459
+dimwishlist:item=2857870254&perks=839105230,1885400500,1359896290,1890422124,1673863459
+dimwishlist:item=2857870254&perks=839105230,1885400500,1359896290,3891536761,1673863459
+dimwishlist:item=2857870254&perks=839105230,1885400500,2579169598,2387244414,1673863459
+dimwishlist:item=2857870254&perks=839105230,1885400500,2579169598,1890422124,1673863459
+dimwishlist:item=2857870254&perks=839105230,1885400500,2579169598,3891536761,1673863459
+
+
+// Everburning Glitz - [CoolGuy S27A2 Review] (pve)
+//notes: [CoolGuy S27A2 Review] Kinetic 720rpm Rapid Fire Auto, pretty good; lowest Stability, middle Range, great Handling and Reload. No more Deterministic Recoil, and at 55 Recoil base, it's very vertical; 100 is almost laser-like. Bewildering Burst is there in the background helping to disorient enemies, quite useful. Ancillary Ordinance is also a great, aggressively-tracking micro-missile. Both together is great ad-clearing, can pair with Void Khepri's Sting build. https://youtu.be/0e4OWUu5R8Y tags:pve
+dimwishlist:item=2857870254&perks=2289534249,1202584452
+
+
+// Everburning Glitz - [CoolGuy S27A2 Review] (pve)
+//notes: [CoolGuy S27A2 Review] Kinetic 720rpm Rapid Fire Auto, pretty good; lowest Stability, middle Range, great Handling and Reload. No more Deterministic Recoil, and at 55 Recoil base, it's very vertical; 100 is almost laser-like. Bewildering Burst is there in the background helping to disorient enemies, quite useful. Ancillary Ordinance is also a great, aggressively-tracking micro-missile. Both together is great ad-clearing, can pair with Void Khepri's Sting build. https://youtu.be/0e4OWUu5R8Y tags:pve
+dimwishlist:item=2857870254&perks=1820235745,3891536761
+dimwishlist:item=2857870254&perks=243981275,3891536761
+dimwishlist:item=2857870254&perks=2289534249,3891536761
+
+
 // BrayTech Werewolf - [CoolGuy S18 FotL Review] (god-pvp)
 //notes: [CoolGuy S18 FotL Review] Full Bore with Ricochet or Hi-Cal, MW Range or Recoil tags:god-pvp
 dimwishlist:item=2869466318&perks=202670084,1885400500,1359896290,1015611457
@@ -12777,18 +12892,20 @@ dimwishlist:item=2884596447&perks=3978468247,1354429876,1489048135
 dimwishlist:item=2886339027&perks=1354429876,3078487919,3363267119
 
 
-// Trachinus - [Aztecross S27A1 Playtest] (pve)
-//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pve
+// Trachinus - [Aztecross S27A1 Playtest/Review] (pve)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8
+[Aztecross S27A1 Review] A Rapid Fire Slug, Chill Clip freezes with 2 shots. Lots of good Enhanced perks with the upcoming buffs. Precision Instrument only gives 2 max-stack shots after building it up (8 total in the mag with mods). Temporal Blast Seasonal Mod getting nerfed, very significantly. Veist Stinger is not proccing for some reason. Assault Mag raising firing rate to 140rpm, hopefully not a bug to be fixed. https://youtu.be/SZHcqOEnGao tags:pve
 dimwishlist:item=2888021252&perks=791862061,1556840489,124408337
 dimwishlist:item=2888021252&perks=791862061,1556840489,2978966579
 dimwishlist:item=2888021252&perks=791862061,1955165503,124408337
 dimwishlist:item=2888021252&perks=791862061,1955165503,2978966579
 
 
-// Trachinus - [Aztecross S27A1 Playtest] (pvp)
-//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pvp
-dimwishlist:item=2888021252&perks=2450788523,124408337
-dimwishlist:item=2888021252&perks=2450788523,4082225868
+// Trachinus - [Aztecross S27A1 Playtest/Review] (pvp)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8
+[Aztecross S27A1 Review] Not much in the 4th column for PvP, at least Headstone gives you a crystal to work with. Does feel good to use though. https://youtu.be/SZHcqOEnGao tags:pvp
+dimwishlist:item=2888021252&perks=3250034553,3142289711,2450788523,124408337
+dimwishlist:item=2888021252&perks=3250034553,3142289711,2450788523,4082225868
 
 
 // Trachinus - [Llama S27A1 Godrolls] (pve)
@@ -12796,18 +12913,20 @@ dimwishlist:item=2888021252&perks=2450788523,4082225868
 dimwishlist:item=2888021252&perks=1556840489,555281244
 
 
-// Trachinus - [Aztecross S27A1 Playtest] (pve)
-//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pve
+// Trachinus - [Aztecross S27A1 Playtest/Review] (pve)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8
+[Aztecross S27A1 Review] A Rapid Fire Slug, Chill Clip freezes with 2 shots. Lots of good Enhanced perks with the upcoming buffs. Precision Instrument only gives 2 max-stack shots after building it up (8 total in the mag with mods). Temporal Blast Seasonal Mod getting nerfed, very significantly. Veist Stinger is not proccing for some reason. Assault Mag raising firing rate to 140rpm, hopefully not a bug to be fixed. https://youtu.be/SZHcqOEnGao tags:pve
 dimwishlist:item=2888021253&perks=791862061,1556840489,124408337
 dimwishlist:item=2888021253&perks=791862061,1556840489,2978966579
 dimwishlist:item=2888021253&perks=791862061,1955165503,124408337
 dimwishlist:item=2888021253&perks=791862061,1955165503,2978966579
 
 
-// Trachinus - [Aztecross S27A1 Playtest] (pvp)
-//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pvp
-dimwishlist:item=2888021253&perks=2450788523,124408337
-dimwishlist:item=2888021253&perks=2450788523,4082225868
+// Trachinus - [Aztecross S27A1 Playtest/Review] (pvp)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8
+[Aztecross S27A1 Review] Not much in the 4th column for PvP, at least Headstone gives you a crystal to work with. Does feel good to use though. https://youtu.be/SZHcqOEnGao tags:pvp
+dimwishlist:item=2888021253&perks=3250034553,3142289711,2450788523,124408337
+dimwishlist:item=2888021253&perks=3250034553,3142289711,2450788523,4082225868
 
 
 // Trachinus - [Llama S27A1 Godrolls] (pve)
@@ -15628,18 +15747,20 @@ dimwishlist:item=3629968765&perks=1749209109,3708227201
 dimwishlist:item=3629968765&perks=1749209109,3913600130
 
 
-// Trachinus - [Aztecross S27A1 Playtest] (pve)
-//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pve
+// Trachinus - [Aztecross S27A1 Playtest/Review] (pve)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8
+[Aztecross S27A1 Review] A Rapid Fire Slug, Chill Clip freezes with 2 shots. Lots of good Enhanced perks with the upcoming buffs. Precision Instrument only gives 2 max-stack shots after building it up (8 total in the mag with mods). Temporal Blast Seasonal Mod getting nerfed, very significantly. Veist Stinger is not proccing for some reason. Assault Mag raising firing rate to 140rpm, hopefully not a bug to be fixed. https://youtu.be/SZHcqOEnGao tags:pve
 dimwishlist:item=3635232671&perks=791862061,1556840489,124408337
 dimwishlist:item=3635232671&perks=791862061,1556840489,2978966579
 dimwishlist:item=3635232671&perks=791862061,1955165503,124408337
 dimwishlist:item=3635232671&perks=791862061,1955165503,2978966579
 
 
-// Trachinus - [Aztecross S27A1 Playtest] (pvp)
-//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8 tags:pvp
-dimwishlist:item=3635232671&perks=2450788523,124408337
-dimwishlist:item=3635232671&perks=2450788523,4082225868
+// Trachinus - [Aztecross S27A1 Playtest/Review] (pvp)
+//notes: [Aztecross S27A1 Playtest] Nearly out-damages Lord Of Wolves, Assault Mag is giving +50 rpm (90 to 140), Enhanced Veist Stinger maybe bugged and not doing anything. No PvP perks but great target acquisition and gets one hit kills. Not as far-reaching as Inquisitor but pretty close. https://youtu.be/RbD7u-7zBj8
+[Aztecross S27A1 Review] Not much in the 4th column for PvP, at least Headstone gives you a crystal to work with. Does feel good to use though. https://youtu.be/SZHcqOEnGao tags:pvp
+dimwishlist:item=3635232671&perks=3250034553,3142289711,2450788523,124408337
+dimwishlist:item=3635232671&perks=3250034553,3142289711,2450788523,4082225868
 
 
 // Trachinus - [Llama S27A1 Godrolls] (pve)

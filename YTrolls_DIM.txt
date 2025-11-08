@@ -140,6 +140,22 @@ dimwishlist:item=70083888&perks=2848615171,1720528630,1489048135
 dimwishlist:item=70083888&perks=2848615171,2173046394,1489048135
 
 
+// Gunburn - [Aztecross S27A2 Review] (god-pve)
+//notes: [Aztecross S27A2 Review] Basically Recluse 2.0, great Lightweight SMG. Disorienting blast (in Bewildering Burst) on a Primary is useful. Lead From Light gives a Special brick every 9 kills plus another brick after 7 kills after collecting six orbs; can pair with Attrition Orbs. Ancillary Ordinance great with current focus on debuffing builds, still harder to use than Kinetic Tremors though. Attrition Orbs needs 24 hits. https://youtu.be/2kaQsk13KQw tags:god-pve
+dimwishlist:item=72775246&perks=1570399071,3891536761
+dimwishlist:item=72775246&perks=1570399071,1202584452
+dimwishlist:item=72775246&perks=1570399071,243981275
+dimwishlist:item=72775246&perks=2289534249,3891536761
+dimwishlist:item=72775246&perks=2289534249,1202584452
+dimwishlist:item=72775246&perks=2289534249,243981275
+
+
+// Gunburn - [Aztecross S27A2 Review] (god-pvp)
+//notes: [Aztecross S27A2 Review] Basically Recluse 2.0, great Lightweight SMG, middle of the road stat-wise. Disgusting in PvP with its stickiness. Go for as much Range as you can without killing your other stats. https://youtu.be/2kaQsk13KQw tags:god-pvp
+dimwishlist:item=72775246&perks=1482024992,3142289711,2579169598,3891536761
+dimwishlist:item=72775246&perks=1482024992,3142289711,2579169598,365154968
+
+
 // Supercluster - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier B Rank 13/46 Also have Until Its Return, but nice perks here tags:pve
 dimwishlist:item=92459755&perks=1523832109,1546637391,3978094547
@@ -4900,6 +4916,26 @@ dimwishlist:item=1168625549&perks=691659142,2679249093,566815328
 dimwishlist:item=1168625549&perks=2209918983,2360754333
 
 
+// Hushed Whisper - [Aztecross S27A2 Review] (god-pve)
+//notes: [Aztecross S27A2 Review] Second (legendary) Strand bow, and only tiered one. Sever from Slice and Tear is a great debuff for higher power activities. Lead From Light reduces number of kills from 10 to 8 (bose to 6 stacks). Successful Warm-up requires a kill compared to Impulse Amplifier (which doesn't speed up Draw Time). Aggregate Charge stacks up to 3 and gives 33% damage buff; pairs with Slice/Tear's Sever but not the best on a bow. Hatchling great with Pack Tactics Artifact Mod. Precision Instrument has too tight a timing/accuracy requirement to feel good. Wild Card is a great Origin Trait. Great Strand synergy with the Artifact Mods. https://youtu.be/hKtOiUYS3VU tags:god-pve
+dimwishlist:item=1175295126&perks=2801223209,16392701,960997401,831391274
+dimwishlist:item=1175295126&perks=2801223209,16392701,923806249,831391274
+dimwishlist:item=1175295126&perks=2801223209,3827198035,960997401,831391274
+dimwishlist:item=1175295126&perks=2801223209,3827198035,923806249,831391274
+dimwishlist:item=1175295126&perks=2801223209,3429800428,960997401,831391274
+dimwishlist:item=1175295126&perks=2801223209,3429800428,923806249,831391274
+
+
+// Hushed Whisper - [Aztecross S27A2 Review] (pve)
+//notes: [Aztecross S27A2 Review] Second (legendary) Strand bow, and only tiered one. Sever from Slice and Tear is a great debuff for higher power activities. Lead From Light reduces number of kills from 10 to 8 (bose to 6 stacks). Successful Warm-up requires a kill compared to Impulse Amplifier (which doesn't speed up Draw Time). Aggregate Charge stacks up to 3 and gives 33% damage buff; pairs with Slice/Tear's Sever but not the best on a bow. Hatchling great with Pack Tactics Artifact Mod. Precision Instrument has too tight a timing/accuracy requirement to feel good. Wild Card is a great Origin Trait. Great Strand synergy with the Artifact Mods. https://youtu.be/hKtOiUYS3VU tags:pve
+dimwishlist:item=1175295126&perks=2801223209,16392701,960997401,3764420437
+dimwishlist:item=1175295126&perks=2801223209,16392701,960997401,3414324643
+dimwishlist:item=1175295126&perks=2801223209,3827198035,960997401,3764420437
+dimwishlist:item=1175295126&perks=2801223209,3827198035,960997401,3414324643
+dimwishlist:item=1175295126&perks=2801223209,3429800428,960997401,3764420437
+dimwishlist:item=1175295126&perks=2801223209,3429800428,960997401,3414324643
+
+
 // Felwinter's Lie - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier E Rank 40/46 tags:pve
 dimwishlist:item=1179141605&perks=3436462433,1546637391
@@ -6565,6 +6601,28 @@ dimwishlist:item=1509167284&perks=1482024992,3142289711,1195158366,4082225868
 dimwishlist:item=1509167284&perks=1482024992,3142289711,3400784728
 dimwishlist:item=1509167284&perks=1482024992,3142289711,1195158366
 dimwishlist:item=1509167284&perks=1482024992,3142289711,691659142
+
+
+// Seraphine Haze - [CoolGuy S27A2 Review] (pve)
+//notes: [CoolGuy S27A2 Review] Inherently low Stability due to archetype, but good Range. Enhanced Rimestealer is great. Adrenaline Junkie easier and better than Desperate Measure. Collective Pugilism gives more Melee energy than Pugilist if used with Synergy mod. Crystalline Corpsebloom is an easier Headstone for easier content, use with Stasis subclass synergy (still serviceable outside Stasis though). Vanguard Determination great for helping with reloading and more spraying. https://youtu.be/KykHB28fxOI tags:pve
+dimwishlist:item=1524387902&perks=3523296417,2922950962
+dimwishlist:item=1524387902&perks=1955165503,2922950962
+
+
+// Seraphine Haze - [CoolGuy S27A2 Review] (pve)
+//notes: [CoolGuy S27A2 Review] Inherently low Stability due to archetype, but good Range. Enhanced Rimestealer is great. Adrenaline Junkie easier and better than Desperate Measure. Collective Pugilism gives more Melee energy than Pugilist if used with Synergy mod. Crystalline Corpsebloom is an easier Headstone for easier content, use with Stasis subclass synergy (still serviceable outside Stasis though). Vanguard Determination great for helping with reloading and more spraying. https://youtu.be/KykHB28fxOI tags:pve
+dimwishlist:item=1524387902&perks=3523296417,1888882410
+
+
+// Seraphine Haze - [CoolGuy S27A2 Review] (pvp)
+//notes: [CoolGuy S27A2 Review] Inherently low Stability due to archetype, but good Range. More a PvE SMG, there are better PvE SMGs. Stay away from Hip-fire Grip; Dynamic Sway Reduction is better. Use higher Weapon stat. Go for high Range or Stability and try it out to see if it suits you. https://youtu.be/KykHB28fxOI tags:pvp
+dimwishlist:item=1524387902&perks=1359896290,365154968
+
+
+// Seraphine Haze - [Aztecross S27A2 Playtest] (pvp)
+//notes: [Aztecross S27A2 Playtest] With max Range stats, the reach is crazy. https://youtu.be/qtyRLFAU3Mg tags:pvp
+dimwishlist:item=1524387902&perks=3250034553,3142289711,1359896290,365154968
+dimwishlist:item=1524387902&perks=202670084,3142289711,1359896290,365154968
 
 
 // Opaque Hourglass - [Aztecross S27A1 Extra Testing] (god-pve)
@@ -12751,6 +12809,59 @@ dimwishlist:item=2857870254&perks=839105230,1885400500,2579169598,1890422124,167
 dimwishlist:item=2857870254&perks=839105230,1885400500,2579169598,3891536761,1673863459
 
 
+// Everburning Glitz - [Aztecross S27A2 Review] (god-pve)
+//notes: [Aztecross S27A2 Review] Bewildering Burst needs a reload but treat it as a passive trait, works well (procs One For All too). Ancillary Ordinance gives you a rocket after three elemental kills or one elementally-debuffed kill (a single ability killing after applying a debuff will fulfill this), stacks up to 5 missiles and affected by Weapon stat and Hazardous Propulsion damage buffs; Kinetic Tremors somehow seems easier though. Elemental Honing gets up to 40% on a Kinetic weapon but harder to proc with a Kinetic weapon. Rewind Rounds + Kinetic Tremors Giver's Blessing edges this one out though. https://youtu.be/73F-tFUiwhs tags:god-pve
+dimwishlist:item=2857870254&perks=839105230,1087426260,1820235745,3891536761
+dimwishlist:item=2857870254&perks=839105230,1087426260,243981275,3891536761
+dimwishlist:item=2857870254&perks=839105230,1087426260,2289534249,3891536761
+
+
+// Everburning Glitz - [Aztecross S27A2 Review] (god-pve)
+//notes: [Aztecross S27A2 Review] Bewildering Burst needs a reload but treat it as a passive trait, works well (procs One For All too). Ancillary Ordinance gives you a rocket after three elemental kills or one elementally-debuffed kill (a single ability killing after applying a debuff will fulfill this), stacks up to 5 missiles and affected by Weapon stat and Hazardous Propulsion damage buffs; Kinetic Tremors somehow seems easier though. Elemental Honing gets up to 40% on a Kinetic weapon but harder to proc with a Kinetic weapon. Rewind Rounds + Kinetic Tremors Giver's Blessing edges this one out though. https://youtu.be/73F-tFUiwhs tags:god-pve
+dimwishlist:item=2857870254&perks=839105230,1087426260,2289534249,4049631843
+dimwishlist:item=2857870254&perks=839105230,1087426260,2289534249,1202584452
+
+
+// Everburning Glitz - [Aztecross S27A2 Review] (god-pvp)
+//notes: [Aztecross S27A2 Review] Less Range/Stability/Aim Assist than Giver's Blessing, but more Handling/Reload/Airbone Effectiveness/Mag Size; more a closer range weapon as a Rapid Fire. Go for Range for 6s. Overall slightly better than Giver's Blessing. https://youtu.be/73F-tFUiwhs tags:god-pvp
+dimwishlist:item=2857870254&perks=4090651448,1561002382,2579169598,3891536761
+dimwishlist:item=2857870254&perks=4090651448,1561002382,2579169598,1890422124
+dimwishlist:item=2857870254&perks=4090651448,1561002382,2579169598,699525795
+dimwishlist:item=2857870254&perks=4090651448,1561002382,1359896290,3891536761
+dimwishlist:item=2857870254&perks=4090651448,1561002382,1359896290,1890422124
+dimwishlist:item=2857870254&perks=4090651448,1561002382,1359896290,699525795
+dimwishlist:item=2857870254&perks=4090651448,1885400500,2579169598,3891536761
+dimwishlist:item=2857870254&perks=4090651448,1885400500,2579169598,1890422124
+dimwishlist:item=2857870254&perks=4090651448,1885400500,2579169598,699525795
+dimwishlist:item=2857870254&perks=4090651448,1885400500,1359896290,3891536761
+dimwishlist:item=2857870254&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=2857870254&perks=4090651448,1885400500,1359896290,699525795
+dimwishlist:item=2857870254&perks=1482024992,1561002382,2579169598,3891536761
+dimwishlist:item=2857870254&perks=1482024992,1561002382,2579169598,1890422124
+dimwishlist:item=2857870254&perks=1482024992,1561002382,2579169598,699525795
+dimwishlist:item=2857870254&perks=1482024992,1561002382,1359896290,3891536761
+dimwishlist:item=2857870254&perks=1482024992,1561002382,1359896290,1890422124
+dimwishlist:item=2857870254&perks=1482024992,1561002382,1359896290,699525795
+dimwishlist:item=2857870254&perks=1482024992,1885400500,2579169598,3891536761
+dimwishlist:item=2857870254&perks=1482024992,1885400500,2579169598,1890422124
+dimwishlist:item=2857870254&perks=1482024992,1885400500,2579169598,699525795
+dimwishlist:item=2857870254&perks=1482024992,1885400500,1359896290,3891536761
+dimwishlist:item=2857870254&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=2857870254&perks=1482024992,1885400500,1359896290,699525795
+dimwishlist:item=2857870254&perks=3250034553,1561002382,2579169598,3891536761
+dimwishlist:item=2857870254&perks=3250034553,1561002382,2579169598,1890422124
+dimwishlist:item=2857870254&perks=3250034553,1561002382,2579169598,699525795
+dimwishlist:item=2857870254&perks=3250034553,1561002382,1359896290,3891536761
+dimwishlist:item=2857870254&perks=3250034553,1561002382,1359896290,1890422124
+dimwishlist:item=2857870254&perks=3250034553,1561002382,1359896290,699525795
+dimwishlist:item=2857870254&perks=3250034553,1885400500,2579169598,3891536761
+dimwishlist:item=2857870254&perks=3250034553,1885400500,2579169598,1890422124
+dimwishlist:item=2857870254&perks=3250034553,1885400500,2579169598,699525795
+dimwishlist:item=2857870254&perks=3250034553,1885400500,1359896290,3891536761
+dimwishlist:item=2857870254&perks=3250034553,1885400500,1359896290,1890422124
+dimwishlist:item=2857870254&perks=3250034553,1885400500,1359896290,699525795
+
+
 // Everburning Glitz - [CoolGuy S27A2 Review] (pve)
 //notes: [CoolGuy S27A2 Review] Kinetic 720rpm Rapid Fire Auto, pretty good; lowest Stability, middle Range, great Handling and Reload. No more Deterministic Recoil, and at 55 Recoil base, it's very vertical; 100 is almost laser-like. Bewildering Burst is there in the background helping to disorient enemies, quite useful. Ancillary Ordinance is also a great, aggressively-tracking micro-missile. Both together is great ad-clearing, can pair with Void Khepri's Sting build. https://youtu.be/0e4OWUu5R8Y tags:pve
 dimwishlist:item=2857870254&perks=2289534249,1202584452
@@ -12761,6 +12872,11 @@ dimwishlist:item=2857870254&perks=2289534249,1202584452
 dimwishlist:item=2857870254&perks=1820235745,3891536761
 dimwishlist:item=2857870254&perks=243981275,3891536761
 dimwishlist:item=2857870254&perks=2289534249,3891536761
+
+
+// Everburning Glitz - [Aztecross S27A2 Review] (pve)
+//notes: [Aztecross S27A2 Review] Bewildering Burst needs a reload but treat it as a passive trait, works well (procs One For All too). Ancillary Ordinance gives you a rocket after three elemental kills or one elementally-debuffed kill (a single ability killing after applying a debuff will fulfill this), stacks up to 5 missiles and affected by Weapon stat and Hazardous Propulsion damage buffs; Kinetic Tremors somehow seems easier though. Elemental Honing gets up to 40% on a Kinetic weapon but harder to proc with a Kinetic weapon. Rewind Rounds + Kinetic Tremors Giver's Blessing edges this one out though. https://youtu.be/73F-tFUiwhs tags:pve
+dimwishlist:item=2857870254&perks=839105230,1087426260,1820235745,1089671869
 
 
 // BrayTech Werewolf - [CoolGuy S18 FotL Review] (god-pvp)
@@ -14911,6 +15027,22 @@ dimwishlist:item=3428521585&perks=247725512,3431277734,3363267119
 dimwishlist:item=3428521585&perks=247725512,1048183818,3363267119
 
 
+// Gunburn - [Aztecross S27A2 Review] (god-pve)
+//notes: [Aztecross S27A2 Review] Basically Recluse 2.0, great Lightweight SMG. Disorienting blast (in Bewildering Burst) on a Primary is useful. Lead From Light gives a Special brick every 9 kills plus another brick after 7 kills after collecting six orbs; can pair with Attrition Orbs. Ancillary Ordinance great with current focus on debuffing builds, still harder to use than Kinetic Tremors though. Attrition Orbs needs 24 hits. https://youtu.be/2kaQsk13KQw tags:god-pve
+dimwishlist:item=3431536253&perks=1570399071,3891536761
+dimwishlist:item=3431536253&perks=1570399071,1202584452
+dimwishlist:item=3431536253&perks=1570399071,243981275
+dimwishlist:item=3431536253&perks=2289534249,3891536761
+dimwishlist:item=3431536253&perks=2289534249,1202584452
+dimwishlist:item=3431536253&perks=2289534249,243981275
+
+
+// Gunburn - [Aztecross S27A2 Review] (god-pvp)
+//notes: [Aztecross S27A2 Review] Basically Recluse 2.0, great Lightweight SMG, middle of the road stat-wise. Disgusting in PvP with its stickiness. Go for as much Range as you can without killing your other stats. https://youtu.be/2kaQsk13KQw tags:god-pvp
+dimwishlist:item=3431536253&perks=1482024992,3142289711,2579169598,3891536761
+dimwishlist:item=3431536253&perks=1482024992,3142289711,2579169598,365154968
+
+
 // Gridskipper - [itzTizzle S25A1 Splicer Godrolls] (god-pve)
 //notes: [itzTizzle S25A1 Splicer Godrolls] Has Deterministic Recoil with a weird pattern, check which you prefer. https://youtu.be/iyBjGAUK1yA tags:god-pve
 dimwishlist:item=3433930495&perks=839105230,1968497646,3523296417,4104185692,3404929162
@@ -15504,6 +15636,26 @@ dimwishlist:item=3569407878&perks=1749209109,3913600130
 dimwishlist:item=3569407878&perks=2590710093,2396489472
 dimwishlist:item=3569407878&perks=2590710093,4049631843
 dimwishlist:item=3569407878&perks=2590710093,3913600130
+
+
+// Hushed Whisper - [Aztecross S27A2 Review] (god-pve)
+//notes: [Aztecross S27A2 Review] Second (legendary) Strand bow, and only tiered one. Sever from Slice and Tear is a great debuff for higher power activities. Lead From Light reduces number of kills from 10 to 8 (bose to 6 stacks). Successful Warm-up requires a kill compared to Impulse Amplifier (which doesn't speed up Draw Time). Aggregate Charge stacks up to 3 and gives 33% damage buff; pairs with Slice/Tear's Sever but not the best on a bow. Hatchling great with Pack Tactics Artifact Mod. Precision Instrument has too tight a timing/accuracy requirement to feel good. Wild Card is a great Origin Trait. Great Strand synergy with the Artifact Mods. https://youtu.be/hKtOiUYS3VU tags:god-pve
+dimwishlist:item=3574168117&perks=2801223209,16392701,960997401,831391274
+dimwishlist:item=3574168117&perks=2801223209,16392701,923806249,831391274
+dimwishlist:item=3574168117&perks=2801223209,3827198035,960997401,831391274
+dimwishlist:item=3574168117&perks=2801223209,3827198035,923806249,831391274
+dimwishlist:item=3574168117&perks=2801223209,3429800428,960997401,831391274
+dimwishlist:item=3574168117&perks=2801223209,3429800428,923806249,831391274
+
+
+// Hushed Whisper - [Aztecross S27A2 Review] (pve)
+//notes: [Aztecross S27A2 Review] Second (legendary) Strand bow, and only tiered one. Sever from Slice and Tear is a great debuff for higher power activities. Lead From Light reduces number of kills from 10 to 8 (bose to 6 stacks). Successful Warm-up requires a kill compared to Impulse Amplifier (which doesn't speed up Draw Time). Aggregate Charge stacks up to 3 and gives 33% damage buff; pairs with Slice/Tear's Sever but not the best on a bow. Hatchling great with Pack Tactics Artifact Mod. Precision Instrument has too tight a timing/accuracy requirement to feel good. Wild Card is a great Origin Trait. Great Strand synergy with the Artifact Mods. https://youtu.be/hKtOiUYS3VU tags:pve
+dimwishlist:item=3574168117&perks=2801223209,16392701,960997401,3764420437
+dimwishlist:item=3574168117&perks=2801223209,16392701,960997401,3414324643
+dimwishlist:item=3574168117&perks=2801223209,3827198035,960997401,3764420437
+dimwishlist:item=3574168117&perks=2801223209,3827198035,960997401,3414324643
+dimwishlist:item=3574168117&perks=2801223209,3429800428,960997401,3764420437
+dimwishlist:item=3574168117&perks=2801223209,3429800428,960997401,3414324643
 
 
 // Ribbontail - [Aztecross S27A1 Review] (pve)

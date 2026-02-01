@@ -205,6 +205,38 @@ dimwishlist:item=72775246&perks=1482024992,3142289711,2579169598,3891536761
 dimwishlist:item=72775246&perks=1482024992,3142289711,2579169598,365154968
 
 
+// Duty Bound - [Aztecross S28A1 Review] (god-pvp)
+//notes: [Aztecross S28A1 Review] A Primary Auto Rifle, not exactly in the meta, and yet it feels quite good. Lone Wolf + Dynamic Sway Reduction makes it very consistent. Stopping Power gives a bit of forgiveness but you're giving up Zen Moment/Lone Wolf. Onslaught lowers TTK in 6v6, Rampage might also work (maybe paired with Stopping Power for 0.7s TTK). https://youtu.be/Aga6q95tQw8 tags:god-pvp
+dimwishlist:item=89693562&perks=839105230,3142289711,2387244414,3425386926
+dimwishlist:item=89693562&perks=839105230,3142289711,2387244414,95528736
+dimwishlist:item=89693562&perks=839105230,3142289711,2387244414,1359896290
+dimwishlist:item=89693562&perks=839105230,3142289711,2579169598,3425386926
+dimwishlist:item=89693562&perks=839105230,3142289711,2579169598,95528736
+dimwishlist:item=89693562&perks=839105230,3142289711,2579169598,1359896290
+dimwishlist:item=89693562&perks=839105230,3142289711,1517798362,3425386926
+dimwishlist:item=89693562&perks=839105230,3142289711,1517798362,95528736
+dimwishlist:item=89693562&perks=839105230,3142289711,1517798362,1359896290
+
+
+// Duty Bound - [Aztecross S28A1 Review] (pve)
+//notes: [Aztecross S28A1 Review] A Primary Auto Rifle, not exactly in the meta. Stopping Power gives an gradual increase in damage (7% at 34% health, up to 15% at 18% health). Onslaught increases effective DPS, and Rampage now degrades stacks instead of dropping off immediately. All-Star and Adhesive Ordnance are being bolstered while we have Kinetic Synthesis Artefact Mod. Good for spawning in Kinetic Ruptures though (min 15 shots to proc). https://youtu.be/Aga6q95tQw8 tags:pve
+dimwishlist:item=89693562&perks=1354429876,3400784728,3713579091
+dimwishlist:item=89693562&perks=1354429876,95528736,3713579091
+dimwishlist:item=89693562&perks=1354429876,3425386926,3713579091
+
+
+// Duty Bound - [Aztecross S28A1 Review] (pve)
+//notes: [Aztecross S28A1 Review] A Primary Auto Rifle, not exactly in the meta. Stopping Power gives an gradual increase in damage (7% at 34% health, up to 15% at 18% health). Onslaught increases effective DPS, and Rampage now degrades stacks instead of dropping off immediately. All-Star and Adhesive Ordnance are being bolstered while we have Kinetic Synthesis Artefact Mod. Good for spawning in Kinetic Ruptures though (min 15 shots to proc). https://youtu.be/Aga6q95tQw8 tags:pve
+dimwishlist:item=89693562&perks=3828510309,3425386926
+dimwishlist:item=89693562&perks=3828510309,95528736
+dimwishlist:item=89693562&perks=3828510309,1226351311
+dimwishlist:item=89693562&perks=3828510309,3252937884
+dimwishlist:item=89693562&perks=1517798362,3425386926
+dimwishlist:item=89693562&perks=1517798362,95528736
+dimwishlist:item=89693562&perks=1517798362,1226351311
+dimwishlist:item=89693562&perks=1517798362,3252937884
+
+
 // Supercluster - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier B Rank 13/46 Also have Until Its Return, but nice perks here tags:pve
 dimwishlist:item=92459755&perks=1523832109,1546637391,3978094547
@@ -497,6 +529,145 @@ dimwishlist:item=135029084&perks=1354429876,3418165135
 dimwishlist:item=135029084&perks=1354429876,1546637391
 dimwishlist:item=135029084&perks=1354429876,2402480669
 dimwishlist:item=135029084&perks=1354429876,2896038713
+
+
+// Psi Aeterna IV - [Aztecross S28A1 Review] (god-pve)
+//notes: [Aztecross S28A1 Review] Mint Retrograde was used almost 100% in Edge of Fate; now that Praxic Blade takes that spot, Psi Aeterna IV is here. Trickle Charge takes the place of Rewind Rounds, as inconsistent as it is in ammo refunds; pairs with Rolling Storm. Reverberation makes it easier to get follow-up kills, and Blast Distributor gives Grenade stat. Jolting Feedback requires 3 bursts. https://youtu.be/DQWCgScvCRU tags:god-pve
+dimwishlist:item=135971347&perks=1441682018,2420895100,1115162408,3966416502
+dimwishlist:item=135971347&perks=1441682018,2420895100,1115162408,3218042543
+dimwishlist:item=135971347&perks=1441682018,2420895100,1115162408,1089671869
+dimwishlist:item=135971347&perks=1441682018,2420895100,1017229899,3966416502
+dimwishlist:item=135971347&perks=1441682018,2420895100,1017229899,3218042543
+dimwishlist:item=135971347&perks=1441682018,2420895100,1017229899,1089671869
+dimwishlist:item=135971347&perks=1441682018,2420895100,684456054,3966416502
+dimwishlist:item=135971347&perks=1441682018,2420895100,684456054,3218042543
+dimwishlist:item=135971347&perks=1441682018,2420895100,684456054,1089671869
+dimwishlist:item=135971347&perks=1441682018,1087426260,1115162408,3966416502
+dimwishlist:item=135971347&perks=1441682018,1087426260,1115162408,3218042543
+dimwishlist:item=135971347&perks=1441682018,1087426260,1115162408,1089671869
+dimwishlist:item=135971347&perks=1441682018,1087426260,1017229899,3966416502
+dimwishlist:item=135971347&perks=1441682018,1087426260,1017229899,3218042543
+dimwishlist:item=135971347&perks=1441682018,1087426260,1017229899,1089671869
+dimwishlist:item=135971347&perks=1441682018,1087426260,684456054,3966416502
+dimwishlist:item=135971347&perks=1441682018,1087426260,684456054,3218042543
+dimwishlist:item=135971347&perks=1441682018,1087426260,684456054,1089671869
+dimwishlist:item=135971347&perks=1441682018,2822142346,1115162408,3966416502
+dimwishlist:item=135971347&perks=1441682018,2822142346,1115162408,3218042543
+dimwishlist:item=135971347&perks=1441682018,2822142346,1115162408,1089671869
+dimwishlist:item=135971347&perks=1441682018,2822142346,1017229899,3966416502
+dimwishlist:item=135971347&perks=1441682018,2822142346,1017229899,3218042543
+dimwishlist:item=135971347&perks=1441682018,2822142346,1017229899,1089671869
+dimwishlist:item=135971347&perks=1441682018,2822142346,684456054,3966416502
+dimwishlist:item=135971347&perks=1441682018,2822142346,684456054,3218042543
+dimwishlist:item=135971347&perks=1441682018,2822142346,684456054,1089671869
+dimwishlist:item=135971347&perks=1441682018,3230963543,1115162408,3966416502
+dimwishlist:item=135971347&perks=1441682018,3230963543,1115162408,3218042543
+dimwishlist:item=135971347&perks=1441682018,3230963543,1115162408,1089671869
+dimwishlist:item=135971347&perks=1441682018,3230963543,1017229899,3966416502
+dimwishlist:item=135971347&perks=1441682018,3230963543,1017229899,3218042543
+dimwishlist:item=135971347&perks=1441682018,3230963543,1017229899,1089671869
+dimwishlist:item=135971347&perks=1441682018,3230963543,684456054,3966416502
+dimwishlist:item=135971347&perks=1441682018,3230963543,684456054,3218042543
+dimwishlist:item=135971347&perks=1441682018,3230963543,684456054,1089671869
+dimwishlist:item=135971347&perks=1441682018,1431678320,1115162408,3966416502
+dimwishlist:item=135971347&perks=1441682018,1431678320,1115162408,3218042543
+dimwishlist:item=135971347&perks=1441682018,1431678320,1115162408,1089671869
+dimwishlist:item=135971347&perks=1441682018,1431678320,1017229899,3966416502
+dimwishlist:item=135971347&perks=1441682018,1431678320,1017229899,3218042543
+dimwishlist:item=135971347&perks=1441682018,1431678320,1017229899,1089671869
+dimwishlist:item=135971347&perks=1441682018,1431678320,684456054,3966416502
+dimwishlist:item=135971347&perks=1441682018,1431678320,684456054,3218042543
+dimwishlist:item=135971347&perks=1441682018,1431678320,684456054,1089671869
+dimwishlist:item=135971347&perks=3525010810,2420895100,1115162408,3966416502
+dimwishlist:item=135971347&perks=3525010810,2420895100,1115162408,3218042543
+dimwishlist:item=135971347&perks=3525010810,2420895100,1115162408,1089671869
+dimwishlist:item=135971347&perks=3525010810,2420895100,1017229899,3966416502
+dimwishlist:item=135971347&perks=3525010810,2420895100,1017229899,3218042543
+dimwishlist:item=135971347&perks=3525010810,2420895100,1017229899,1089671869
+dimwishlist:item=135971347&perks=3525010810,2420895100,684456054,3966416502
+dimwishlist:item=135971347&perks=3525010810,2420895100,684456054,3218042543
+dimwishlist:item=135971347&perks=3525010810,2420895100,684456054,1089671869
+dimwishlist:item=135971347&perks=3525010810,1087426260,1115162408,3966416502
+dimwishlist:item=135971347&perks=3525010810,1087426260,1115162408,3218042543
+dimwishlist:item=135971347&perks=3525010810,1087426260,1115162408,1089671869
+dimwishlist:item=135971347&perks=3525010810,1087426260,1017229899,3966416502
+dimwishlist:item=135971347&perks=3525010810,1087426260,1017229899,3218042543
+dimwishlist:item=135971347&perks=3525010810,1087426260,1017229899,1089671869
+dimwishlist:item=135971347&perks=3525010810,1087426260,684456054,3966416502
+dimwishlist:item=135971347&perks=3525010810,1087426260,684456054,3218042543
+dimwishlist:item=135971347&perks=3525010810,1087426260,684456054,1089671869
+dimwishlist:item=135971347&perks=3525010810,2822142346,1115162408,3966416502
+dimwishlist:item=135971347&perks=3525010810,2822142346,1115162408,3218042543
+dimwishlist:item=135971347&perks=3525010810,2822142346,1115162408,1089671869
+dimwishlist:item=135971347&perks=3525010810,2822142346,1017229899,3966416502
+dimwishlist:item=135971347&perks=3525010810,2822142346,1017229899,3218042543
+dimwishlist:item=135971347&perks=3525010810,2822142346,1017229899,1089671869
+dimwishlist:item=135971347&perks=3525010810,2822142346,684456054,3966416502
+dimwishlist:item=135971347&perks=3525010810,2822142346,684456054,3218042543
+dimwishlist:item=135971347&perks=3525010810,2822142346,684456054,1089671869
+dimwishlist:item=135971347&perks=3525010810,3230963543,1115162408,3966416502
+dimwishlist:item=135971347&perks=3525010810,3230963543,1115162408,3218042543
+dimwishlist:item=135971347&perks=3525010810,3230963543,1115162408,1089671869
+dimwishlist:item=135971347&perks=3525010810,3230963543,1017229899,3966416502
+dimwishlist:item=135971347&perks=3525010810,3230963543,1017229899,3218042543
+dimwishlist:item=135971347&perks=3525010810,3230963543,1017229899,1089671869
+dimwishlist:item=135971347&perks=3525010810,3230963543,684456054,3966416502
+dimwishlist:item=135971347&perks=3525010810,3230963543,684456054,3218042543
+dimwishlist:item=135971347&perks=3525010810,3230963543,684456054,1089671869
+dimwishlist:item=135971347&perks=3525010810,1431678320,1115162408,3966416502
+dimwishlist:item=135971347&perks=3525010810,1431678320,1115162408,3218042543
+dimwishlist:item=135971347&perks=3525010810,1431678320,1115162408,1089671869
+dimwishlist:item=135971347&perks=3525010810,1431678320,1017229899,3966416502
+dimwishlist:item=135971347&perks=3525010810,1431678320,1017229899,3218042543
+dimwishlist:item=135971347&perks=3525010810,1431678320,1017229899,1089671869
+dimwishlist:item=135971347&perks=3525010810,1431678320,684456054,3966416502
+dimwishlist:item=135971347&perks=3525010810,1431678320,684456054,3218042543
+dimwishlist:item=135971347&perks=3525010810,1431678320,684456054,1089671869
+dimwishlist:item=135971347&perks=3798852852,2420895100,1115162408,3966416502
+dimwishlist:item=135971347&perks=3798852852,2420895100,1115162408,3218042543
+dimwishlist:item=135971347&perks=3798852852,2420895100,1115162408,1089671869
+dimwishlist:item=135971347&perks=3798852852,2420895100,1017229899,3966416502
+dimwishlist:item=135971347&perks=3798852852,2420895100,1017229899,3218042543
+dimwishlist:item=135971347&perks=3798852852,2420895100,1017229899,1089671869
+dimwishlist:item=135971347&perks=3798852852,2420895100,684456054,3966416502
+dimwishlist:item=135971347&perks=3798852852,2420895100,684456054,3218042543
+dimwishlist:item=135971347&perks=3798852852,2420895100,684456054,1089671869
+dimwishlist:item=135971347&perks=3798852852,1087426260,1115162408,3966416502
+dimwishlist:item=135971347&perks=3798852852,1087426260,1115162408,3218042543
+dimwishlist:item=135971347&perks=3798852852,1087426260,1115162408,1089671869
+dimwishlist:item=135971347&perks=3798852852,1087426260,1017229899,3966416502
+dimwishlist:item=135971347&perks=3798852852,1087426260,1017229899,3218042543
+dimwishlist:item=135971347&perks=3798852852,1087426260,1017229899,1089671869
+dimwishlist:item=135971347&perks=3798852852,1087426260,684456054,3966416502
+dimwishlist:item=135971347&perks=3798852852,1087426260,684456054,3218042543
+dimwishlist:item=135971347&perks=3798852852,1087426260,684456054,1089671869
+dimwishlist:item=135971347&perks=3798852852,2822142346,1115162408,3966416502
+dimwishlist:item=135971347&perks=3798852852,2822142346,1115162408,3218042543
+dimwishlist:item=135971347&perks=3798852852,2822142346,1115162408,1089671869
+dimwishlist:item=135971347&perks=3798852852,2822142346,1017229899,3966416502
+dimwishlist:item=135971347&perks=3798852852,2822142346,1017229899,3218042543
+dimwishlist:item=135971347&perks=3798852852,2822142346,1017229899,1089671869
+dimwishlist:item=135971347&perks=3798852852,2822142346,684456054,3966416502
+dimwishlist:item=135971347&perks=3798852852,2822142346,684456054,3218042543
+dimwishlist:item=135971347&perks=3798852852,2822142346,684456054,1089671869
+dimwishlist:item=135971347&perks=3798852852,3230963543,1115162408,3966416502
+dimwishlist:item=135971347&perks=3798852852,3230963543,1115162408,3218042543
+dimwishlist:item=135971347&perks=3798852852,3230963543,1115162408,1089671869
+dimwishlist:item=135971347&perks=3798852852,3230963543,1017229899,3966416502
+dimwishlist:item=135971347&perks=3798852852,3230963543,1017229899,3218042543
+dimwishlist:item=135971347&perks=3798852852,3230963543,1017229899,1089671869
+dimwishlist:item=135971347&perks=3798852852,3230963543,684456054,3966416502
+dimwishlist:item=135971347&perks=3798852852,3230963543,684456054,3218042543
+dimwishlist:item=135971347&perks=3798852852,3230963543,684456054,1089671869
+dimwishlist:item=135971347&perks=3798852852,1431678320,1115162408,3966416502
+dimwishlist:item=135971347&perks=3798852852,1431678320,1115162408,3218042543
+dimwishlist:item=135971347&perks=3798852852,1431678320,1115162408,1089671869
+dimwishlist:item=135971347&perks=3798852852,1431678320,1017229899,3966416502
+dimwishlist:item=135971347&perks=3798852852,1431678320,1017229899,3218042543
+dimwishlist:item=135971347&perks=3798852852,1431678320,1017229899,1089671869
+dimwishlist:item=135971347&perks=3798852852,1431678320,684456054,3966416502
+dimwishlist:item=135971347&perks=3798852852,1431678320,684456054,3218042543
+dimwishlist:item=135971347&perks=3798852852,1431678320,684456054,1089671869
 
 
 // Shining Sphere - [Aegis S24A2 Endgame Analysis] (pve)
@@ -897,6 +1068,38 @@ dimwishlist:item=253196586&perks=3300816228,2213355989
 dimwishlist:item=254636484&perks=3523296417,4104185692,1250481499
 dimwishlist:item=254636484&perks=951095735,4104185692,1250481499
 dimwishlist:item=254636484&perks=1556840489,4104185692,1250481499
+
+
+// Duty Bound - [Aztecross S28A1 Review] (god-pvp)
+//notes: [Aztecross S28A1 Review] A Primary Auto Rifle, not exactly in the meta, and yet it feels quite good. Lone Wolf + Dynamic Sway Reduction makes it very consistent. Stopping Power gives a bit of forgiveness but you're giving up Zen Moment/Lone Wolf. Onslaught lowers TTK in 6v6, Rampage might also work (maybe paired with Stopping Power for 0.7s TTK). https://youtu.be/Aga6q95tQw8 tags:god-pvp
+dimwishlist:item=260532765&perks=839105230,3142289711,2387244414,3425386926
+dimwishlist:item=260532765&perks=839105230,3142289711,2387244414,95528736
+dimwishlist:item=260532765&perks=839105230,3142289711,2387244414,1359896290
+dimwishlist:item=260532765&perks=839105230,3142289711,2579169598,3425386926
+dimwishlist:item=260532765&perks=839105230,3142289711,2579169598,95528736
+dimwishlist:item=260532765&perks=839105230,3142289711,2579169598,1359896290
+dimwishlist:item=260532765&perks=839105230,3142289711,1517798362,3425386926
+dimwishlist:item=260532765&perks=839105230,3142289711,1517798362,95528736
+dimwishlist:item=260532765&perks=839105230,3142289711,1517798362,1359896290
+
+
+// Duty Bound - [Aztecross S28A1 Review] (pve)
+//notes: [Aztecross S28A1 Review] A Primary Auto Rifle, not exactly in the meta. Stopping Power gives an gradual increase in damage (7% at 34% health, up to 15% at 18% health). Onslaught increases effective DPS, and Rampage now degrades stacks instead of dropping off immediately. All-Star and Adhesive Ordnance are being bolstered while we have Kinetic Synthesis Artefact Mod. Good for spawning in Kinetic Ruptures though (min 15 shots to proc). https://youtu.be/Aga6q95tQw8 tags:pve
+dimwishlist:item=260532765&perks=1354429876,3400784728
+dimwishlist:item=260532765&perks=1354429876,95528736
+dimwishlist:item=260532765&perks=1354429876,3425386926
+
+
+// Duty Bound - [Aztecross S28A1 Review] (pve)
+//notes: [Aztecross S28A1 Review] A Primary Auto Rifle, not exactly in the meta. Stopping Power gives an gradual increase in damage (7% at 34% health, up to 15% at 18% health). Onslaught increases effective DPS, and Rampage now degrades stacks instead of dropping off immediately. All-Star and Adhesive Ordnance are being bolstered while we have Kinetic Synthesis Artefact Mod. Good for spawning in Kinetic Ruptures though (min 15 shots to proc). https://youtu.be/Aga6q95tQw8 tags:pve
+dimwishlist:item=260532765&perks=3828510309,3425386926
+dimwishlist:item=260532765&perks=3828510309,95528736
+dimwishlist:item=260532765&perks=3828510309,1226351311
+dimwishlist:item=260532765&perks=3828510309,3252937884
+dimwishlist:item=260532765&perks=1517798362,3425386926
+dimwishlist:item=260532765&perks=1517798362,95528736
+dimwishlist:item=260532765&perks=1517798362,1226351311
+dimwishlist:item=260532765&perks=1517798362,3252937884
 
 
 // Warden's Law (Adept) - [Aztecross' S22 Warden's Law Deep Dive] (god-pvp,pvp)
@@ -2837,6 +3040,63 @@ dimwishlist:item=617501162&perks=1570042021,957782887
 dimwishlist:item=617501162&perks=2610012052,2839173408
 
 
+// The Heron - [Llama S28A1 Arms Week Guide] (god-pve)
+//notes: [Llama S28A1 Arms Week Guide] Origin Trait gives 15% damage boost against shields. First tiered Glaive, Aggressive Frame, best Glaive archetype. Melee damage being coded as Kinetic means Disruption Break works with the glaive melee. https://youtu.be/PjigO8K_cxY tags:god-pve
+dimwishlist:item=617566156&perks=1683379515,1782407750
+dimwishlist:item=617566156&perks=1683379515,2048641572
+dimwishlist:item=617566156&perks=1556840489,1782407750
+dimwishlist:item=617566156&perks=1556840489,2048641572
+
+
+// The Heron - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Don't get distracted by Destabilizing Rounds and Repulsor Brace on a slow, Special weapon, focus on the projectile-melee loop. Other Disruption Break + Close To Melee glaives are Lightweights, not Aggressive. Go for Reload and Handling. https://youtu.be/B1IvOtF7C2A tags:god-pve
+dimwishlist:item=617566156&perks=1431678320,1683379515,1782407750
+dimwishlist:item=617566156&perks=1431678320,1683379515,1546142478
+
+
+// The Heron - [Legoleflash S28A1 Review] (pvp)
+//notes: [Legoleflash S28A1 Review] Disruption Break has a play here but not very ideal. https://youtu.be/B1IvOtF7C2A tags:pvp
+dimwishlist:item=617566156&perks=1683379515,1546142478
+
+
+// The Heron - [Llama S28A1 Arms Week Guide] (god-pve)
+//notes: [Llama S28A1 Arms Week Guide] Origin Trait gives 15% damage boost against shields. First tiered Glaive, Aggressive Frame, best Glaive archetype. Melee damage being coded as Kinetic means Disruption Break works with the glaive melee. https://youtu.be/PjigO8K_cxY tags:god-pve
+dimwishlist:item=617566158&perks=1683379515,1782407750
+dimwishlist:item=617566158&perks=1683379515,2048641572
+dimwishlist:item=617566158&perks=1556840489,1782407750
+dimwishlist:item=617566158&perks=1556840489,2048641572
+
+
+// The Heron - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Don't get distracted by Destabilizing Rounds and Repulsor Brace on a slow, Special weapon, focus on the projectile-melee loop. Other Disruption Break + Close To Melee glaives are Lightweights, not Aggressive. Go for Reload and Handling. https://youtu.be/B1IvOtF7C2A tags:god-pve
+dimwishlist:item=617566158&perks=1431678320,1683379515,1782407750
+dimwishlist:item=617566158&perks=1431678320,1683379515,1546142478
+
+
+// The Heron - [Legoleflash S28A1 Review] (pvp)
+//notes: [Legoleflash S28A1 Review] Disruption Break has a play here but not very ideal. https://youtu.be/B1IvOtF7C2A tags:pvp
+dimwishlist:item=617566158&perks=1683379515,1546142478
+
+
+// The Heron - [Llama S28A1 Arms Week Guide] (god-pve)
+//notes: [Llama S28A1 Arms Week Guide] Origin Trait gives 15% damage boost against shields. First tiered Glaive, Aggressive Frame, best Glaive archetype. Melee damage being coded as Kinetic means Disruption Break works with the glaive melee. https://youtu.be/PjigO8K_cxY tags:god-pve
+dimwishlist:item=617566159&perks=1683379515,1782407750
+dimwishlist:item=617566159&perks=1683379515,2048641572
+dimwishlist:item=617566159&perks=1556840489,1782407750
+dimwishlist:item=617566159&perks=1556840489,2048641572
+
+
+// The Heron - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Don't get distracted by Destabilizing Rounds and Repulsor Brace on a slow, Special weapon, focus on the projectile-melee loop. Other Disruption Break + Close To Melee glaives are Lightweights, not Aggressive. Go for Reload and Handling. https://youtu.be/B1IvOtF7C2A tags:god-pve
+dimwishlist:item=617566159&perks=1431678320,1683379515,1782407750
+dimwishlist:item=617566159&perks=1431678320,1683379515,1546142478
+
+
+// The Heron - [Legoleflash S28A1 Review] (pvp)
+//notes: [Legoleflash S28A1 Review] Disruption Break has a play here but not very ideal. https://youtu.be/B1IvOtF7C2A tags:pvp
+dimwishlist:item=617566159&perks=1683379515,1546142478
+
+
 // Eye of Sol - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier E Rank 36/43 tags:pve
 dimwishlist:item=627188188&perks=1821614984,1771339417,1050127423
@@ -3389,6 +3649,84 @@ dimwishlist:item=781498181&perks=3978468247,3400784728,744217850
 dimwishlist:item=781498181&perks=776531651,2319119708,744217850
 dimwishlist:item=781498181&perks=776531651,2048641572,744217850
 dimwishlist:item=781498181&perks=776531651,3400784728,744217850
+
+
+// King Orfeo - [Llama S28A1 Arms Week Guide] (god-pve)
+//notes: [Llama S28A1 Arms Week Guide] Origin Trait gives 15% damage boost against shields. Has some new-to-Bows perks. Meganeura is a better Dragonfly, and first Bow with Jolting Feedback (3 shots at base, 2 shots when Amplified, Explosive Head doesn't help). Go for Draw Time masterwork. https://youtu.be/PjigO8K_cxY tags:god-pve
+dimwishlist:item=784540300&perks=2801223209,16392701,201365942,3966416502
+
+
+// King Orfeo - [Aztecross S28A1 Review] (god-pve)
+//notes: [Aztecross S28A1 Review] Arc Bows are some of the best Bows in the game's history, this one is tiered. Meganeura bests Dragonfly's damage at 1 stack, just better. Precision Instrument is hard to keep up and unforgiving if you miss. Jolting Feedback does some extra damage every so often (more than max Precision Instrument, actually). Origin Trait gives 8% extra damage against shields and on breaking them, gives 8% Special Ammo progress. Kill Shot Seasonal Mod gives 250 splash damage and easily chains itself if you get kills each time. https://youtu.be/8GhjdVWIa0A tags:god-pve
+dimwishlist:item=784540300&perks=2801223209,16392701,201365942,3966416502
+dimwishlist:item=784540300&perks=2801223209,16392701,201365942,657025441
+dimwishlist:item=784540300&perks=2801223209,16392701,201365942,3218042543
+dimwishlist:item=784540300&perks=2801223209,16392701,201365942,555281244
+dimwishlist:item=784540300&perks=2801223209,16392701,3365897133,3966416502
+dimwishlist:item=784540300&perks=2801223209,16392701,3365897133,657025441
+dimwishlist:item=784540300&perks=2801223209,16392701,3365897133,3218042543
+dimwishlist:item=784540300&perks=2801223209,16392701,3365897133,555281244
+dimwishlist:item=784540300&perks=2801223209,16392701,951095735,3966416502
+dimwishlist:item=784540300&perks=2801223209,16392701,951095735,657025441
+dimwishlist:item=784540300&perks=2801223209,16392701,951095735,3218042543
+dimwishlist:item=784540300&perks=2801223209,16392701,951095735,555281244
+
+
+// King Orfeo - [Legoleflash S28A1 Review] (pve)
+//notes: [Legoleflash S28A1 Review] Many Precision Bows so this needs to stand out—which it does with Meganeura and Jolting Feedback. Meganeura is a bit slow but Jolting Feedback is nice for bigger targets. Run the Kill Shot Seasonal Mod with Jolting Feedback for triple Champion counters. Sights on this are bad for PvP that the mid perks don't make up for. https://youtu.be/B1IvOtF7C2A tags:pve
+dimwishlist:item=784540300&perks=201365942,3966416502
+
+
+// King Orfeo - [Llama S28A1 Arms Week Guide] (god-pve)
+//notes: [Llama S28A1 Arms Week Guide] Origin Trait gives 15% damage boost against shields. Has some new-to-Bows perks. Meganeura is a better Dragonfly, and first Bow with Jolting Feedback (3 shots at base, 2 shots when Amplified, Explosive Head doesn't help). Go for Draw Time masterwork. https://youtu.be/PjigO8K_cxY tags:god-pve
+dimwishlist:item=784540302&perks=2801223209,16392701,201365942,3966416502
+
+
+// King Orfeo - [Aztecross S28A1 Review] (god-pve)
+//notes: [Aztecross S28A1 Review] Arc Bows are some of the best Bows in the game's history, this one is tiered. Meganeura bests Dragonfly's damage at 1 stack, just better. Precision Instrument is hard to keep up and unforgiving if you miss. Jolting Feedback does some extra damage every so often (more than max Precision Instrument, actually). Origin Trait gives 8% extra damage against shields and on breaking them, gives 8% Special Ammo progress. Kill Shot Seasonal Mod gives 250 splash damage and easily chains itself if you get kills each time. https://youtu.be/8GhjdVWIa0A tags:god-pve
+dimwishlist:item=784540302&perks=2801223209,16392701,201365942,3966416502
+dimwishlist:item=784540302&perks=2801223209,16392701,201365942,657025441
+dimwishlist:item=784540302&perks=2801223209,16392701,201365942,3218042543
+dimwishlist:item=784540302&perks=2801223209,16392701,201365942,555281244
+dimwishlist:item=784540302&perks=2801223209,16392701,3365897133,3966416502
+dimwishlist:item=784540302&perks=2801223209,16392701,3365897133,657025441
+dimwishlist:item=784540302&perks=2801223209,16392701,3365897133,3218042543
+dimwishlist:item=784540302&perks=2801223209,16392701,3365897133,555281244
+dimwishlist:item=784540302&perks=2801223209,16392701,951095735,3966416502
+dimwishlist:item=784540302&perks=2801223209,16392701,951095735,657025441
+dimwishlist:item=784540302&perks=2801223209,16392701,951095735,3218042543
+dimwishlist:item=784540302&perks=2801223209,16392701,951095735,555281244
+
+
+// King Orfeo - [Legoleflash S28A1 Review] (pve)
+//notes: [Legoleflash S28A1 Review] Many Precision Bows so this needs to stand out—which it does with Meganeura and Jolting Feedback. Meganeura is a bit slow but Jolting Feedback is nice for bigger targets. Run the Kill Shot Seasonal Mod with Jolting Feedback for triple Champion counters. Sights on this are bad for PvP that the mid perks don't make up for. https://youtu.be/B1IvOtF7C2A tags:pve
+dimwishlist:item=784540302&perks=201365942,3966416502
+
+
+// King Orfeo - [Llama S28A1 Arms Week Guide] (god-pve)
+//notes: [Llama S28A1 Arms Week Guide] Origin Trait gives 15% damage boost against shields. Has some new-to-Bows perks. Meganeura is a better Dragonfly, and first Bow with Jolting Feedback (3 shots at base, 2 shots when Amplified, Explosive Head doesn't help). Go for Draw Time masterwork. https://youtu.be/PjigO8K_cxY tags:god-pve
+dimwishlist:item=784540303&perks=2801223209,16392701,201365942,3966416502
+
+
+// King Orfeo - [Aztecross S28A1 Review] (god-pve)
+//notes: [Aztecross S28A1 Review] Arc Bows are some of the best Bows in the game's history, this one is tiered. Meganeura bests Dragonfly's damage at 1 stack, just better. Precision Instrument is hard to keep up and unforgiving if you miss. Jolting Feedback does some extra damage every so often (more than max Precision Instrument, actually). Origin Trait gives 8% extra damage against shields and on breaking them, gives 8% Special Ammo progress. Kill Shot Seasonal Mod gives 250 splash damage and easily chains itself if you get kills each time. https://youtu.be/8GhjdVWIa0A tags:god-pve
+dimwishlist:item=784540303&perks=2801223209,16392701,201365942,3966416502
+dimwishlist:item=784540303&perks=2801223209,16392701,201365942,657025441
+dimwishlist:item=784540303&perks=2801223209,16392701,201365942,3218042543
+dimwishlist:item=784540303&perks=2801223209,16392701,201365942,555281244
+dimwishlist:item=784540303&perks=2801223209,16392701,3365897133,3966416502
+dimwishlist:item=784540303&perks=2801223209,16392701,3365897133,657025441
+dimwishlist:item=784540303&perks=2801223209,16392701,3365897133,3218042543
+dimwishlist:item=784540303&perks=2801223209,16392701,3365897133,555281244
+dimwishlist:item=784540303&perks=2801223209,16392701,951095735,3966416502
+dimwishlist:item=784540303&perks=2801223209,16392701,951095735,657025441
+dimwishlist:item=784540303&perks=2801223209,16392701,951095735,3218042543
+dimwishlist:item=784540303&perks=2801223209,16392701,951095735,555281244
+
+
+// King Orfeo - [Legoleflash S28A1 Review] (pve)
+//notes: [Legoleflash S28A1 Review] Many Precision Bows so this needs to stand out—which it does with Meganeura and Jolting Feedback. Meganeura is a bit slow but Jolting Feedback is nice for bigger targets. Run the Kill Shot Seasonal Mod with Jolting Feedback for triple Champion counters. Sights on this are bad for PvP that the mid perks don't make up for. https://youtu.be/B1IvOtF7C2A tags:pve
+dimwishlist:item=784540303&perks=201365942,3966416502
 
 
 // Insidious (Adept) - [Aegis S23 Endgame Analysis] (god-pve)
@@ -5988,6 +6326,20 @@ dimwishlist:item=1321626661&perks=1821614984,1771339417,1050127423
 dimwishlist:item=1321626661&perks=1821614984,1546637391,1050127423
 
 
+// Riptide - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Has just about everything. Highest DPS non-kill-prerequisite Fusion. Go for Charge Time. https://youtu.be/IvsMxN8ssuU tags:god-pve
+dimwishlist:item=1323862250&perks=3250034553,2680121939,1799762209,2594592626,3713579091
+dimwishlist:item=1323862250&perks=4090651448,2680121939,1799762209,2594592626,3713579091
+dimwishlist:item=1323862250&perks=1482024992,2680121939,1799762209,2594592626,3713579091
+
+
+// Riptide - [Legoleflash S28A1 Review] (god-pvp)
+//notes: [Legoleflash S28A1 Review] Low Range and low Aim Assist is still here, but a tier 5 gives more stats from Masterworking, enhanced Barrel/Batteries, and enhanced Weapon Mods (previous reserved for Adepts). Under Pressure is great but no longer necessary, Closing Time fills in nicely. Built To Blast also gives almost-passive specs for having certain elemental buffs. Go for Range, or Enhanced Counterbalance Mod if you can't get full Range. https://youtu.be/IvsMxN8ssuU tags:god-pvp
+dimwishlist:item=1323862250&perks=3250034553,2969185026,3643424744,1194056669,1050127423
+dimwishlist:item=1323862250&perks=3250034553,2969185026,1645158859,1194056669,1050127423
+dimwishlist:item=1323862250&perks=3250034553,2969185026,1918398421,1194056669,1050127423
+
+
 // Combined Action - [CoolGuy S22 Rare Rolls] (pvp)
 //notes: [CoolGuy S22 Rare Rolls] Adagio 120 hand cannons, 2-shot once perk procced tags:pvp
 dimwishlist:item=1331824604&perks=2866798147,3673922083
@@ -7863,6 +8215,80 @@ dimwishlist:item=1866778462&perks=3796465595,3977735242,3194351027
 dimwishlist:item=1866778462&perks=3796465595,3977735242,2284787283
 
 
+// Modified B-7 Pistol - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Dynamic Heat for extra 15%/32% damage to rank-and-file/minibosses. Comparable to Warden's Law, Thermal Atomization optimises it. Primaries suck right now but Crystalline Corpsebloom with Rime Stealer gives some synergy at least. Go for Reload Speed and reduced Heat Generated. https://youtu.be/Oc6bHfJCR3w tags:god-pve
+dimwishlist:item=1872906663&perks=4090651448,1092016998,1955165503,2922950962
+dimwishlist:item=1872906663&perks=4090651448,1092016998,1955165503,124408337
+dimwishlist:item=1872906663&perks=4090651448,1092016998,1955165503,3673922083
+dimwishlist:item=1872906663&perks=4090651448,1092016998,1955165503,1909124648
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3824105627,2922950962
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3824105627,124408337
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3824105627,3673922083
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3824105627,1909124648
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3523296417,2922950962
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3523296417,124408337
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3523296417,3673922083
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3523296417,1909124648
+dimwishlist:item=1872906663&perks=3250034553,1092016998,1955165503,2922950962
+dimwishlist:item=1872906663&perks=3250034553,1092016998,1955165503,124408337
+dimwishlist:item=1872906663&perks=3250034553,1092016998,1955165503,3673922083
+dimwishlist:item=1872906663&perks=3250034553,1092016998,1955165503,1909124648
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3824105627,2922950962
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3824105627,124408337
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3824105627,3673922083
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3824105627,1909124648
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3523296417,2922950962
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3523296417,124408337
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3523296417,3673922083
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3523296417,1909124648
+dimwishlist:item=1872906663&perks=1482024992,1092016998,1955165503,2922950962
+dimwishlist:item=1872906663&perks=1482024992,1092016998,1955165503,124408337
+dimwishlist:item=1872906663&perks=1482024992,1092016998,1955165503,3673922083
+dimwishlist:item=1872906663&perks=1482024992,1092016998,1955165503,1909124648
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3824105627,2922950962
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3824105627,124408337
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3824105627,3673922083
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3824105627,1909124648
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3523296417,2922950962
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3523296417,124408337
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3523296417,3673922083
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3523296417,1909124648
+
+
+// Modified B-7 Pistol - [Legoleflash S28A1 Review] (god-pvp)
+//notes: [Legoleflash S28A1 Review] Dynamic Heat for extra 2.5% damage in PvP. 55 Recoil but as a Precision has -20% horizontal recoil, so not too much of an issue. Able to 3-tap at base with high Weapon Stat, great for quick engagements. 2-taps available with Adagio, Overclocked Heatsink, and an Empowering Rift or Bakris Light Shift x2. Go for at least 54 Range (but as high as you can). https://youtu.be/Oc6bHfJCR3w tags:god-pvp
+dimwishlist:item=1872906663&perks=3250034553,1092016998,307683764,47981717
+dimwishlist:item=1872906663&perks=3250034553,1092016998,307683764,3673922083
+dimwishlist:item=1872906663&perks=3250034553,1092016998,307683764,699525795
+dimwishlist:item=1872906663&perks=3250034553,1092016998,307683764,124408337
+dimwishlist:item=1872906663&perks=3250034553,1092016998,307683764,1918398421
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3619207468,47981717
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3619207468,3673922083
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3619207468,699525795
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3619207468,124408337
+dimwishlist:item=1872906663&perks=3250034553,1092016998,3619207468,1918398421
+dimwishlist:item=1872906663&perks=1482024992,1092016998,307683764,47981717
+dimwishlist:item=1872906663&perks=1482024992,1092016998,307683764,3673922083
+dimwishlist:item=1872906663&perks=1482024992,1092016998,307683764,699525795
+dimwishlist:item=1872906663&perks=1482024992,1092016998,307683764,124408337
+dimwishlist:item=1872906663&perks=1482024992,1092016998,307683764,1918398421
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3619207468,47981717
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3619207468,3673922083
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3619207468,699525795
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3619207468,124408337
+dimwishlist:item=1872906663&perks=1482024992,1092016998,3619207468,1918398421
+dimwishlist:item=1872906663&perks=4090651448,1092016998,307683764,47981717
+dimwishlist:item=1872906663&perks=4090651448,1092016998,307683764,3673922083
+dimwishlist:item=1872906663&perks=4090651448,1092016998,307683764,699525795
+dimwishlist:item=1872906663&perks=4090651448,1092016998,307683764,124408337
+dimwishlist:item=1872906663&perks=4090651448,1092016998,307683764,1918398421
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3619207468,47981717
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3619207468,3673922083
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3619207468,699525795
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3619207468,124408337
+dimwishlist:item=1872906663&perks=4090651448,1092016998,3619207468,1918398421
+
+
 // Modified B-7 Pistol - [Datto S28A1 Heat Godrolls] (pve)
 //notes: [Datto S28A1 Heat Godrolls] Gift is the Firefly + Headstone roll, if you didn't get a Solemn Remembrance then here's your chance. https://youtu.be/nNUcFRj6cZ4 tags:pve
 dimwishlist:item=1872906663&perks=3824105627,124408337
@@ -9498,6 +9924,25 @@ dimwishlist:item=2241507890&perks=2579169598,1015611457
 dimwishlist:item=2241507890&perks=2579169598,460017080
 
 
+// The Heron - [Llama S28A1 Arms Week Guide] (god-pve)
+//notes: [Llama S28A1 Arms Week Guide] Origin Trait gives 15% damage boost against shields. First tiered Glaive, Aggressive Frame, best Glaive archetype. Melee damage being coded as Kinetic means Disruption Break works with the glaive melee. https://youtu.be/PjigO8K_cxY tags:god-pve
+dimwishlist:item=2246386812&perks=1683379515,1782407750
+dimwishlist:item=2246386812&perks=1683379515,2048641572
+dimwishlist:item=2246386812&perks=1556840489,1782407750
+dimwishlist:item=2246386812&perks=1556840489,2048641572
+
+
+// The Heron - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Don't get distracted by Destabilizing Rounds and Repulsor Brace on a slow, Special weapon, focus on the projectile-melee loop. Other Disruption Break + Close To Melee glaives are Lightweights, not Aggressive. Go for Reload and Handling. https://youtu.be/B1IvOtF7C2A tags:god-pve
+dimwishlist:item=2246386812&perks=1431678320,1683379515,1782407750
+dimwishlist:item=2246386812&perks=1431678320,1683379515,1546142478
+
+
+// The Heron - [Legoleflash S28A1 Review] (pvp)
+//notes: [Legoleflash S28A1 Review] Disruption Break has a play here but not very ideal. https://youtu.be/B1IvOtF7C2A tags:pvp
+dimwishlist:item=2246386812&perks=1683379515,1546142478
+
+
 // Patron of Lost Causes - [Datto S24 Review] (pve)
 //notes: [Datto S24 Review] tags:pve
 dimwishlist:item=2249996761&perks=247725512,3038247973
@@ -9558,6 +10003,20 @@ dimwishlist:item=2265407516&perks=3987942396,3078487919
 // Fire and Forget - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier C Rank 10/15 tags:pve
 dimwishlist:item=2272041093&perks=2869569095,4104185692,3988215619
+
+
+// Riptide - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Has just about everything. Highest DPS non-kill-prerequisite Fusion. Go for Charge Time. https://youtu.be/IvsMxN8ssuU tags:god-pve
+dimwishlist:item=2297554989&perks=3250034553,2680121939,1799762209,2594592626
+dimwishlist:item=2297554989&perks=4090651448,2680121939,1799762209,2594592626
+dimwishlist:item=2297554989&perks=1482024992,2680121939,1799762209,2594592626
+
+
+// Riptide - [Legoleflash S28A1 Review] (god-pvp)
+//notes: [Legoleflash S28A1 Review] Low Range and low Aim Assist is still here, but a tier 5 gives more stats from Masterworking, enhanced Barrel/Batteries, and enhanced Weapon Mods (previous reserved for Adepts). Under Pressure is great but no longer necessary, Closing Time fills in nicely. Built To Blast also gives almost-passive specs for having certain elemental buffs. Go for Range, or Enhanced Counterbalance Mod if you can't get full Range. https://youtu.be/IvsMxN8ssuU tags:god-pvp
+dimwishlist:item=2297554989&perks=3250034553,2969185026,3643424744,1194056669,1050127423
+dimwishlist:item=2297554989&perks=3250034553,2969185026,1645158859,1194056669,1050127423
+dimwishlist:item=2297554989&perks=3250034553,2969185026,1918398421,1194056669,1050127423
 
 
 // Rake Angle - [itzTizzle S25A1 World/Playlist Godrolls] (god-pve)
@@ -11580,6 +12039,31 @@ dimwishlist:item=2653171213&perks=4071163871,1546637391,2988596335
 dimwishlist:item=2653171213&perks=4071163871,3751912585,2988596335
 
 
+// Compact Defender - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Highest Legendary base DPS weapon for Primary burst damage. Lightweight frame gives half the Speed Booster movement speed intrinsically. Dynamic Heat for extra damage and pseudo Auto Reload. Go for minimal Heat Generation and Reload Speed. https://youtu.be/Ljg_7aSDdUU tags:god-pve
+dimwishlist:item=2659286158&perks=3250034553,1080094173,2048641572,776531651,3713579091
+dimwishlist:item=2659286158&perks=3250034553,1946186791,2048641572,776531651,3713579091
+dimwishlist:item=2659286158&perks=3250034553,769709866,2048641572,776531651,3713579091
+dimwishlist:item=2659286158&perks=1482024992,1080094173,2048641572,776531651,3713579091
+dimwishlist:item=2659286158&perks=1482024992,1946186791,2048641572,776531651,3713579091
+dimwishlist:item=2659286158&perks=1482024992,769709866,2048641572,776531651,3713579091
+dimwishlist:item=2659286158&perks=4090651448,1080094173,2048641572,776531651,3713579091
+dimwishlist:item=2659286158&perks=4090651448,1946186791,2048641572,776531651,3713579091
+dimwishlist:item=2659286158&perks=4090651448,769709866,2048641572,776531651,3713579091
+
+
+// Compact Defender - [Legoleflash S28A1 Review] (god-pvp)
+//notes: [Legoleflash S28A1 Review] Lightweight frame gives half the Speed Booster movement speed intrinsically. Dynamic Heat for extra damage and pseudo Auto Reload. Highest Stability and Ammo Gen Lightweight Sidearm, but worst Recoil Direction. Delicate Tuning is basically reverse Closing Time, but has decreased Accuracy Cone growth and not just Accuracy Cone size. Overclocked Heatsink allows easy first engagement to roll into chain kills but has some bugs, replace with 2 Void Surge Mods and 164 Weapon Stat until fixed. Go for 70 Stability/43 Range and Cooling Efficiency. https://youtu.be/Ljg_7aSDdUU tags:god-pvp
+dimwishlist:item=2659286158&perks=1482024992,1092016998,307683764,555281244
+dimwishlist:item=2659286158&perks=1482024992,807993149,307683764,555281244
+dimwishlist:item=2659286158&perks=1482024992,1080094173,307683764,555281244
+dimwishlist:item=2659286158&perks=1482024992,3868766766,307683764,555281244
+dimwishlist:item=2659286158&perks=4090651448,1092016998,307683764,555281244
+dimwishlist:item=2659286158&perks=4090651448,807993149,307683764,555281244
+dimwishlist:item=2659286158&perks=4090651448,1080094173,307683764,555281244
+dimwishlist:item=2659286158&perks=4090651448,3868766766,307683764,555281244
+
+
 // Compact Defender - [Datto S28A1 Heat Godrolls] (pve)
 //notes: [Datto S28A1 Heat Godrolls] First Void Sidearm since Episode 2. Destabilizing Rounds + Repulsor Brace is here. Proximity Power might have a play in Melee builds. https://youtu.be/nNUcFRj6cZ4 tags:pve
 dimwishlist:item=2659286158&perks=2048641572,776531651
@@ -12755,6 +13239,31 @@ dimwishlist:item=2817683783&perks=3250034553,3142289711,776531651,4290541820
 dimwishlist:item=2817683783&perks=3250034553,3142289711,776531651,2610012052
 
 
+// Compact Defender - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Highest Legendary base DPS weapon for Primary burst damage. Lightweight frame gives half the Speed Booster movement speed intrinsically. Dynamic Heat for extra damage and pseudo Auto Reload. Go for minimal Heat Generation and Reload Speed. https://youtu.be/Ljg_7aSDdUU tags:god-pve
+dimwishlist:item=2819552809&perks=3250034553,1080094173,2048641572,776531651
+dimwishlist:item=2819552809&perks=3250034553,1946186791,2048641572,776531651
+dimwishlist:item=2819552809&perks=3250034553,769709866,2048641572,776531651
+dimwishlist:item=2819552809&perks=1482024992,1080094173,2048641572,776531651
+dimwishlist:item=2819552809&perks=1482024992,1946186791,2048641572,776531651
+dimwishlist:item=2819552809&perks=1482024992,769709866,2048641572,776531651
+dimwishlist:item=2819552809&perks=4090651448,1080094173,2048641572,776531651
+dimwishlist:item=2819552809&perks=4090651448,1946186791,2048641572,776531651
+dimwishlist:item=2819552809&perks=4090651448,769709866,2048641572,776531651
+
+
+// Compact Defender - [Legoleflash S28A1 Review] (god-pvp)
+//notes: [Legoleflash S28A1 Review] Lightweight frame gives half the Speed Booster movement speed intrinsically. Dynamic Heat for extra damage and pseudo Auto Reload. Highest Stability and Ammo Gen Lightweight Sidearm, but worst Recoil Direction. Delicate Tuning is basically reverse Closing Time, but has decreased Accuracy Cone growth and not just Accuracy Cone size. Overclocked Heatsink allows easy first engagement to roll into chain kills but has some bugs, replace with 2 Void Surge Mods and 164 Weapon Stat until fixed. Go for 70 Stability/43 Range and Cooling Efficiency. https://youtu.be/Ljg_7aSDdUU tags:god-pvp
+dimwishlist:item=2819552809&perks=1482024992,1092016998,307683764,555281244
+dimwishlist:item=2819552809&perks=1482024992,807993149,307683764,555281244
+dimwishlist:item=2819552809&perks=1482024992,1080094173,307683764,555281244
+dimwishlist:item=2819552809&perks=1482024992,3868766766,307683764,555281244
+dimwishlist:item=2819552809&perks=4090651448,1092016998,307683764,555281244
+dimwishlist:item=2819552809&perks=4090651448,807993149,307683764,555281244
+dimwishlist:item=2819552809&perks=4090651448,1080094173,307683764,555281244
+dimwishlist:item=2819552809&perks=4090651448,3868766766,307683764,555281244
+
+
 // Compact Defender - [Datto S28A1 Heat Godrolls] (pve)
 //notes: [Datto S28A1 Heat Godrolls] First Void Sidearm since Episode 2. Destabilizing Rounds + Repulsor Brace is here. Proximity Power might have a play in Melee builds. https://youtu.be/nNUcFRj6cZ4 tags:pve
 dimwishlist:item=2819552809&perks=2048641572,776531651
@@ -13243,6 +13752,50 @@ dimwishlist:item=2869466318&perks=1359896290,1365187766
 dimwishlist:item=2869466318&perks=3161816588,1015611457
 dimwishlist:item=2869466318&perks=744594675,1015611457
 dimwishlist:item=2869466318&perks=691659142,1015611457
+
+
+// The Immortal - [Aztecross S28A1 Review] (god-pve)
+//notes: [Aztecross S28A1 Review] Has most of what made it good before, even has Elemental Honing now. Go with a Mag-boosting perk. https://youtu.be/0m7rJ7A0Kes tags:god-pve
+dimwishlist:item=2872063099&perks=831391274,365154968
+dimwishlist:item=2872063099&perks=831391274,3523296417
+dimwishlist:item=2872063099&perks=831391274,3081867624
+dimwishlist:item=2872063099&perks=831391274,1089671869
+dimwishlist:item=2872063099&perks=243981275,365154968
+dimwishlist:item=2872063099&perks=243981275,3523296417
+dimwishlist:item=2872063099&perks=243981275,3081867624
+dimwishlist:item=2872063099&perks=243981275,1089671869
+dimwishlist:item=2872063099&perks=923806249,365154968
+dimwishlist:item=2872063099&perks=923806249,3523296417
+dimwishlist:item=2872063099&perks=923806249,3081867624
+dimwishlist:item=2872063099&perks=923806249,1089671869
+
+
+// The Immortal - [Aztecross S28A1 Review] (god-pvp)
+//notes: [Aztecross S28A1 Review] Rangefinder now increases Range again. Target Lock good here and shifts TTK, but better on Antedate with Rewind Rounds. Elemental Honing x2 and x3 shifts TTK too. Lone Wolf usually found in 3rd column, but in 4th here. Intrinsically more stable on controller. Go for. https://youtu.be/0m7rJ7A0Kes tags:god-pvp
+dimwishlist:item=2872063099&perks=4090651448,1561002382,2846385770,1089671869
+dimwishlist:item=2872063099&perks=4090651448,1561002382,2846385770,365154968
+dimwishlist:item=2872063099&perks=4090651448,1561002382,2846385770,2579169598
+dimwishlist:item=2872063099&perks=4090651448,1561002382,1359896290,1089671869
+dimwishlist:item=2872063099&perks=4090651448,1561002382,1359896290,365154968
+dimwishlist:item=2872063099&perks=4090651448,1561002382,1359896290,2579169598
+dimwishlist:item=2872063099&perks=4090651448,1561002382,3619207468,1089671869
+dimwishlist:item=2872063099&perks=4090651448,1561002382,3619207468,365154968
+dimwishlist:item=2872063099&perks=4090651448,1561002382,3619207468,2579169598
+dimwishlist:item=2872063099&perks=4090651448,1561002382,923806249,1089671869
+dimwishlist:item=2872063099&perks=4090651448,1561002382,923806249,365154968
+dimwishlist:item=2872063099&perks=4090651448,1561002382,923806249,2579169598
+dimwishlist:item=2872063099&perks=1482024992,1561002382,2846385770,1089671869
+dimwishlist:item=2872063099&perks=1482024992,1561002382,2846385770,365154968
+dimwishlist:item=2872063099&perks=1482024992,1561002382,2846385770,2579169598
+dimwishlist:item=2872063099&perks=1482024992,1561002382,1359896290,1089671869
+dimwishlist:item=2872063099&perks=1482024992,1561002382,1359896290,365154968
+dimwishlist:item=2872063099&perks=1482024992,1561002382,1359896290,2579169598
+dimwishlist:item=2872063099&perks=1482024992,1561002382,3619207468,1089671869
+dimwishlist:item=2872063099&perks=1482024992,1561002382,3619207468,365154968
+dimwishlist:item=2872063099&perks=1482024992,1561002382,3619207468,2579169598
+dimwishlist:item=2872063099&perks=1482024992,1561002382,923806249,1089671869
+dimwishlist:item=2872063099&perks=1482024992,1561002382,923806249,365154968
+dimwishlist:item=2872063099&perks=1482024992,1561002382,923806249,2579169598
 
 
 // High Tyrant - [Llama S28A1 Equilibrium Godrolls] (god-pve)
@@ -14518,6 +15071,80 @@ dimwishlist:item=3138208275&perks=1890422124,1015611457
 dimwishlist:item=3138208275&perks=1890422124,3047969693
 
 
+// Modified B-7 Pistol - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] Dynamic Heat for extra 15%/32% damage to rank-and-file/minibosses. Comparable to Warden's Law, Thermal Atomization optimises it. Primaries suck right now but Crystalline Corpsebloom with Rime Stealer gives some synergy at least. Go for Reload Speed and reduced Heat Generated. https://youtu.be/Oc6bHfJCR3w tags:god-pve
+dimwishlist:item=3146657388&perks=4090651448,1092016998,1955165503,2922950962
+dimwishlist:item=3146657388&perks=4090651448,1092016998,1955165503,124408337
+dimwishlist:item=3146657388&perks=4090651448,1092016998,1955165503,3673922083
+dimwishlist:item=3146657388&perks=4090651448,1092016998,1955165503,1909124648
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3824105627,2922950962
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3824105627,124408337
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3824105627,3673922083
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3824105627,1909124648
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3523296417,2922950962
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3523296417,124408337
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3523296417,3673922083
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3523296417,1909124648
+dimwishlist:item=3146657388&perks=3250034553,1092016998,1955165503,2922950962
+dimwishlist:item=3146657388&perks=3250034553,1092016998,1955165503,124408337
+dimwishlist:item=3146657388&perks=3250034553,1092016998,1955165503,3673922083
+dimwishlist:item=3146657388&perks=3250034553,1092016998,1955165503,1909124648
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3824105627,2922950962
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3824105627,124408337
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3824105627,3673922083
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3824105627,1909124648
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3523296417,2922950962
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3523296417,124408337
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3523296417,3673922083
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3523296417,1909124648
+dimwishlist:item=3146657388&perks=1482024992,1092016998,1955165503,2922950962
+dimwishlist:item=3146657388&perks=1482024992,1092016998,1955165503,124408337
+dimwishlist:item=3146657388&perks=1482024992,1092016998,1955165503,3673922083
+dimwishlist:item=3146657388&perks=1482024992,1092016998,1955165503,1909124648
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3824105627,2922950962
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3824105627,124408337
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3824105627,3673922083
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3824105627,1909124648
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3523296417,2922950962
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3523296417,124408337
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3523296417,3673922083
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3523296417,1909124648
+
+
+// Modified B-7 Pistol - [Legoleflash S28A1 Review] (god-pvp)
+//notes: [Legoleflash S28A1 Review] Dynamic Heat for extra 2.5% damage in PvP. 55 Recoil but as a Precision has -20% horizontal recoil, so not too much of an issue. Able to 3-tap at base with high Weapon Stat, great for quick engagements. 2-taps available with Adagio, Overclocked Heatsink, and an Empowering Rift or Bakris Light Shift x2. Go for at least 54 Range (but as high as you can). https://youtu.be/Oc6bHfJCR3w tags:god-pvp
+dimwishlist:item=3146657388&perks=3250034553,1092016998,307683764,47981717
+dimwishlist:item=3146657388&perks=3250034553,1092016998,307683764,3673922083
+dimwishlist:item=3146657388&perks=3250034553,1092016998,307683764,699525795
+dimwishlist:item=3146657388&perks=3250034553,1092016998,307683764,124408337
+dimwishlist:item=3146657388&perks=3250034553,1092016998,307683764,1918398421
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3619207468,47981717
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3619207468,3673922083
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3619207468,699525795
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3619207468,124408337
+dimwishlist:item=3146657388&perks=3250034553,1092016998,3619207468,1918398421
+dimwishlist:item=3146657388&perks=1482024992,1092016998,307683764,47981717
+dimwishlist:item=3146657388&perks=1482024992,1092016998,307683764,3673922083
+dimwishlist:item=3146657388&perks=1482024992,1092016998,307683764,699525795
+dimwishlist:item=3146657388&perks=1482024992,1092016998,307683764,124408337
+dimwishlist:item=3146657388&perks=1482024992,1092016998,307683764,1918398421
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3619207468,47981717
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3619207468,3673922083
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3619207468,699525795
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3619207468,124408337
+dimwishlist:item=3146657388&perks=1482024992,1092016998,3619207468,1918398421
+dimwishlist:item=3146657388&perks=4090651448,1092016998,307683764,47981717
+dimwishlist:item=3146657388&perks=4090651448,1092016998,307683764,3673922083
+dimwishlist:item=3146657388&perks=4090651448,1092016998,307683764,699525795
+dimwishlist:item=3146657388&perks=4090651448,1092016998,307683764,124408337
+dimwishlist:item=3146657388&perks=4090651448,1092016998,307683764,1918398421
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3619207468,47981717
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3619207468,3673922083
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3619207468,699525795
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3619207468,124408337
+dimwishlist:item=3146657388&perks=4090651448,1092016998,3619207468,1918398421
+
+
 // Modified B-7 Pistol - [Datto S28A1 Heat Godrolls] (pve)
 //notes: [Datto S28A1 Heat Godrolls] Gift is the Firefly + Headstone roll, if you didn't get a Solemn Remembrance then here's your chance. https://youtu.be/nNUcFRj6cZ4 tags:pve
 dimwishlist:item=3146657388&perks=3824105627,124408337
@@ -14675,6 +15302,39 @@ dimwishlist:item=3197270240&perks=3436462433,2679249093
 dimwishlist:item=3197270240&perks=3300816228,4104185692
 dimwishlist:item=3197270240&perks=3300816228,3523296417
 dimwishlist:item=3197270240&perks=3300816228,2679249093
+
+
+// Monody-44 - [Legoleflash S28A1 Review] (god-pve)
+//notes: [Legoleflash S28A1 Review] A niche High Impact Fusion, very good for what it's good for. Go for Charge Time. https://youtu.be/MwXEgxCnF18 tags:god-pve
+dimwishlist:item=3201200906&perks=1840239774,2680121939,3978468247,3708227201
+dimwishlist:item=3201200906&perks=1840239774,2680121939,3978468247,2048641572
+dimwishlist:item=3201200906&perks=1840239774,2680121939,3978468247,1134488199
+dimwishlist:item=3201200906&perks=1840239774,2680121939,3978468247,2594592626
+dimwishlist:item=3201200906&perks=1840239774,2680121939,1799762209,3708227201
+dimwishlist:item=3201200906&perks=1840239774,2680121939,1799762209,2048641572
+dimwishlist:item=3201200906&perks=1840239774,2680121939,1799762209,1134488199
+dimwishlist:item=3201200906&perks=1840239774,2680121939,1799762209,2594592626
+dimwishlist:item=3201200906&perks=1840239774,2680121939,776531651,3708227201
+dimwishlist:item=3201200906&perks=1840239774,2680121939,776531651,2048641572
+dimwishlist:item=3201200906&perks=1840239774,2680121939,776531651,1134488199
+dimwishlist:item=3201200906&perks=1840239774,2680121939,776531651,2594592626
+dimwishlist:item=3201200906&perks=839105230,2680121939,3978468247,3708227201
+dimwishlist:item=3201200906&perks=839105230,2680121939,3978468247,2048641572
+dimwishlist:item=3201200906&perks=839105230,2680121939,3978468247,1134488199
+dimwishlist:item=3201200906&perks=839105230,2680121939,3978468247,2594592626
+dimwishlist:item=3201200906&perks=839105230,2680121939,1799762209,3708227201
+dimwishlist:item=3201200906&perks=839105230,2680121939,1799762209,2048641572
+dimwishlist:item=3201200906&perks=839105230,2680121939,1799762209,1134488199
+dimwishlist:item=3201200906&perks=839105230,2680121939,1799762209,2594592626
+dimwishlist:item=3201200906&perks=839105230,2680121939,776531651,3708227201
+dimwishlist:item=3201200906&perks=839105230,2680121939,776531651,2048641572
+dimwishlist:item=3201200906&perks=839105230,2680121939,776531651,1134488199
+dimwishlist:item=3201200906&perks=839105230,2680121939,776531651,2594592626
+
+
+// Monody-44 - [Legoleflash S28A1 Review] (god-pvp)
+//notes: [Legoleflash S28A1 Review] A niche High Impact Fusion, very good for what it's good for. High Impacts get Accuracy Cone growth buffs for ADS and slow movement speeds. It has worse stats compared to other High Impacts but get stat buffs from being tiered. The perks are also better than older Fusions. Lone Wolf is a bit of a bait for an Under Pressure stand-in; Discord is the stand-in. Go for Charge Time and Range. https://youtu.be/MwXEgxCnF18 tags:god-pvp
+dimwishlist:item=3201200906&perks=3250034553,2969185026,3978468247,1194056669
 
 
 // Cold Front - [Aegis S23 Endgame Analysis/WR/Dawning Update] (pve)
@@ -15660,6 +16320,32 @@ dimwishlist:item=3473290087&perks=1556840489,1546637391,4091460919
 dimwishlist:item=3473290087&perks=1556840489,3523296417,4091460919
 
 
+// King Orfeo - [Llama S28A1 Arms Week Guide] (god-pve)
+//notes: [Llama S28A1 Arms Week Guide] Origin Trait gives 15% damage boost against shields. Has some new-to-Bows perks. Meganeura is a better Dragonfly, and first Bow with Jolting Feedback (3 shots at base, 2 shots when Amplified, Explosive Head doesn't help). Go for Draw Time masterwork. https://youtu.be/PjigO8K_cxY tags:god-pve
+dimwishlist:item=3481382332&perks=2801223209,16392701,201365942,3966416502
+
+
+// King Orfeo - [Aztecross S28A1 Review] (god-pve)
+//notes: [Aztecross S28A1 Review] Arc Bows are some of the best Bows in the game's history, this one is tiered. Meganeura bests Dragonfly's damage at 1 stack, just better. Precision Instrument is hard to keep up and unforgiving if you miss. Jolting Feedback does some extra damage every so often (more than max Precision Instrument, actually). Origin Trait gives 8% extra damage against shields and on breaking them, gives 8% Special Ammo progress. Kill Shot Seasonal Mod gives 250 splash damage and easily chains itself if you get kills each time. https://youtu.be/8GhjdVWIa0A tags:god-pve
+dimwishlist:item=3481382332&perks=2801223209,16392701,201365942,3966416502
+dimwishlist:item=3481382332&perks=2801223209,16392701,201365942,657025441
+dimwishlist:item=3481382332&perks=2801223209,16392701,201365942,3218042543
+dimwishlist:item=3481382332&perks=2801223209,16392701,201365942,555281244
+dimwishlist:item=3481382332&perks=2801223209,16392701,3365897133,3966416502
+dimwishlist:item=3481382332&perks=2801223209,16392701,3365897133,657025441
+dimwishlist:item=3481382332&perks=2801223209,16392701,3365897133,3218042543
+dimwishlist:item=3481382332&perks=2801223209,16392701,3365897133,555281244
+dimwishlist:item=3481382332&perks=2801223209,16392701,951095735,3966416502
+dimwishlist:item=3481382332&perks=2801223209,16392701,951095735,657025441
+dimwishlist:item=3481382332&perks=2801223209,16392701,951095735,3218042543
+dimwishlist:item=3481382332&perks=2801223209,16392701,951095735,555281244
+
+
+// King Orfeo - [Legoleflash S28A1 Review] (pve)
+//notes: [Legoleflash S28A1 Review] Many Precision Bows so this needs to stand out—which it does with Meganeura and Jolting Feedback. Meganeura is a bit slow but Jolting Feedback is nice for bigger targets. Run the Kill Shot Seasonal Mod with Jolting Feedback for triple Champion counters. Sights on this are bad for PvP that the mid perks don't make up for. https://youtu.be/B1IvOtF7C2A tags:pve
+dimwishlist:item=3481382332&perks=201365942,3966416502
+
+
 // Mistral Lift - [Aztecross S25A2 Review] (god-pve)
 //notes: [Aztecross S25A2 Review] Veist Stinger doesn't work on overflowed mag. Precision Instrument nerfed, Bait And Switch better now, though PI works better with Withering Gaze than BnS for Champions. Go for Charge Time MW and Backup Mod. https://youtu.be/KbAKYiOxrSM tags:god-pve
 dimwishlist:item=3483485727&perks=2680121939,3987942396,3078487919,3988215619
@@ -15871,6 +16557,145 @@ dimwishlist:item=3503560035&perks=2579169598,588594999
 // Coriolis Force - [Aegis S24A2 Endgame Analysis] (pve)
 //notes: [Aegis S24A2 Endgame Analysis] Tier F Rank 31/31 tags:pve
 dimwishlist:item=3512349612&perks=2010801679,4049631843
+
+
+// Psi Aeterna IV - [Aztecross S28A1 Review] (god-pve)
+//notes: [Aztecross S28A1 Review] Mint Retrograde was used almost 100% in Edge of Fate; now that Praxic Blade takes that spot, Psi Aeterna IV is here. Trickle Charge takes the place of Rewind Rounds, as inconsistent as it is in ammo refunds; pairs with Rolling Storm. Reverberation makes it easier to get follow-up kills, and Blast Distributor gives Grenade stat. Jolting Feedback requires 3 bursts. https://youtu.be/DQWCgScvCRU tags:god-pve
+dimwishlist:item=3556730800&perks=1441682018,2420895100,1115162408,3966416502
+dimwishlist:item=3556730800&perks=1441682018,2420895100,1115162408,3218042543
+dimwishlist:item=3556730800&perks=1441682018,2420895100,1115162408,1089671869
+dimwishlist:item=3556730800&perks=1441682018,2420895100,1017229899,3966416502
+dimwishlist:item=3556730800&perks=1441682018,2420895100,1017229899,3218042543
+dimwishlist:item=3556730800&perks=1441682018,2420895100,1017229899,1089671869
+dimwishlist:item=3556730800&perks=1441682018,2420895100,684456054,3966416502
+dimwishlist:item=3556730800&perks=1441682018,2420895100,684456054,3218042543
+dimwishlist:item=3556730800&perks=1441682018,2420895100,684456054,1089671869
+dimwishlist:item=3556730800&perks=1441682018,1087426260,1115162408,3966416502
+dimwishlist:item=3556730800&perks=1441682018,1087426260,1115162408,3218042543
+dimwishlist:item=3556730800&perks=1441682018,1087426260,1115162408,1089671869
+dimwishlist:item=3556730800&perks=1441682018,1087426260,1017229899,3966416502
+dimwishlist:item=3556730800&perks=1441682018,1087426260,1017229899,3218042543
+dimwishlist:item=3556730800&perks=1441682018,1087426260,1017229899,1089671869
+dimwishlist:item=3556730800&perks=1441682018,1087426260,684456054,3966416502
+dimwishlist:item=3556730800&perks=1441682018,1087426260,684456054,3218042543
+dimwishlist:item=3556730800&perks=1441682018,1087426260,684456054,1089671869
+dimwishlist:item=3556730800&perks=1441682018,2822142346,1115162408,3966416502
+dimwishlist:item=3556730800&perks=1441682018,2822142346,1115162408,3218042543
+dimwishlist:item=3556730800&perks=1441682018,2822142346,1115162408,1089671869
+dimwishlist:item=3556730800&perks=1441682018,2822142346,1017229899,3966416502
+dimwishlist:item=3556730800&perks=1441682018,2822142346,1017229899,3218042543
+dimwishlist:item=3556730800&perks=1441682018,2822142346,1017229899,1089671869
+dimwishlist:item=3556730800&perks=1441682018,2822142346,684456054,3966416502
+dimwishlist:item=3556730800&perks=1441682018,2822142346,684456054,3218042543
+dimwishlist:item=3556730800&perks=1441682018,2822142346,684456054,1089671869
+dimwishlist:item=3556730800&perks=1441682018,3230963543,1115162408,3966416502
+dimwishlist:item=3556730800&perks=1441682018,3230963543,1115162408,3218042543
+dimwishlist:item=3556730800&perks=1441682018,3230963543,1115162408,1089671869
+dimwishlist:item=3556730800&perks=1441682018,3230963543,1017229899,3966416502
+dimwishlist:item=3556730800&perks=1441682018,3230963543,1017229899,3218042543
+dimwishlist:item=3556730800&perks=1441682018,3230963543,1017229899,1089671869
+dimwishlist:item=3556730800&perks=1441682018,3230963543,684456054,3966416502
+dimwishlist:item=3556730800&perks=1441682018,3230963543,684456054,3218042543
+dimwishlist:item=3556730800&perks=1441682018,3230963543,684456054,1089671869
+dimwishlist:item=3556730800&perks=1441682018,1431678320,1115162408,3966416502
+dimwishlist:item=3556730800&perks=1441682018,1431678320,1115162408,3218042543
+dimwishlist:item=3556730800&perks=1441682018,1431678320,1115162408,1089671869
+dimwishlist:item=3556730800&perks=1441682018,1431678320,1017229899,3966416502
+dimwishlist:item=3556730800&perks=1441682018,1431678320,1017229899,3218042543
+dimwishlist:item=3556730800&perks=1441682018,1431678320,1017229899,1089671869
+dimwishlist:item=3556730800&perks=1441682018,1431678320,684456054,3966416502
+dimwishlist:item=3556730800&perks=1441682018,1431678320,684456054,3218042543
+dimwishlist:item=3556730800&perks=1441682018,1431678320,684456054,1089671869
+dimwishlist:item=3556730800&perks=3525010810,2420895100,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3525010810,2420895100,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3525010810,2420895100,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3525010810,2420895100,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3525010810,2420895100,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3525010810,2420895100,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3525010810,2420895100,684456054,3966416502
+dimwishlist:item=3556730800&perks=3525010810,2420895100,684456054,3218042543
+dimwishlist:item=3556730800&perks=3525010810,2420895100,684456054,1089671869
+dimwishlist:item=3556730800&perks=3525010810,1087426260,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3525010810,1087426260,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3525010810,1087426260,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3525010810,1087426260,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3525010810,1087426260,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3525010810,1087426260,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3525010810,1087426260,684456054,3966416502
+dimwishlist:item=3556730800&perks=3525010810,1087426260,684456054,3218042543
+dimwishlist:item=3556730800&perks=3525010810,1087426260,684456054,1089671869
+dimwishlist:item=3556730800&perks=3525010810,2822142346,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3525010810,2822142346,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3525010810,2822142346,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3525010810,2822142346,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3525010810,2822142346,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3525010810,2822142346,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3525010810,2822142346,684456054,3966416502
+dimwishlist:item=3556730800&perks=3525010810,2822142346,684456054,3218042543
+dimwishlist:item=3556730800&perks=3525010810,2822142346,684456054,1089671869
+dimwishlist:item=3556730800&perks=3525010810,3230963543,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3525010810,3230963543,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3525010810,3230963543,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3525010810,3230963543,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3525010810,3230963543,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3525010810,3230963543,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3525010810,3230963543,684456054,3966416502
+dimwishlist:item=3556730800&perks=3525010810,3230963543,684456054,3218042543
+dimwishlist:item=3556730800&perks=3525010810,3230963543,684456054,1089671869
+dimwishlist:item=3556730800&perks=3525010810,1431678320,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3525010810,1431678320,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3525010810,1431678320,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3525010810,1431678320,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3525010810,1431678320,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3525010810,1431678320,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3525010810,1431678320,684456054,3966416502
+dimwishlist:item=3556730800&perks=3525010810,1431678320,684456054,3218042543
+dimwishlist:item=3556730800&perks=3525010810,1431678320,684456054,1089671869
+dimwishlist:item=3556730800&perks=3798852852,2420895100,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3798852852,2420895100,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3798852852,2420895100,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3798852852,2420895100,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3798852852,2420895100,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3798852852,2420895100,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3798852852,2420895100,684456054,3966416502
+dimwishlist:item=3556730800&perks=3798852852,2420895100,684456054,3218042543
+dimwishlist:item=3556730800&perks=3798852852,2420895100,684456054,1089671869
+dimwishlist:item=3556730800&perks=3798852852,1087426260,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3798852852,1087426260,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3798852852,1087426260,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3798852852,1087426260,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3798852852,1087426260,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3798852852,1087426260,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3798852852,1087426260,684456054,3966416502
+dimwishlist:item=3556730800&perks=3798852852,1087426260,684456054,3218042543
+dimwishlist:item=3556730800&perks=3798852852,1087426260,684456054,1089671869
+dimwishlist:item=3556730800&perks=3798852852,2822142346,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3798852852,2822142346,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3798852852,2822142346,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3798852852,2822142346,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3798852852,2822142346,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3798852852,2822142346,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3798852852,2822142346,684456054,3966416502
+dimwishlist:item=3556730800&perks=3798852852,2822142346,684456054,3218042543
+dimwishlist:item=3556730800&perks=3798852852,2822142346,684456054,1089671869
+dimwishlist:item=3556730800&perks=3798852852,3230963543,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3798852852,3230963543,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3798852852,3230963543,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3798852852,3230963543,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3798852852,3230963543,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3798852852,3230963543,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3798852852,3230963543,684456054,3966416502
+dimwishlist:item=3556730800&perks=3798852852,3230963543,684456054,3218042543
+dimwishlist:item=3556730800&perks=3798852852,3230963543,684456054,1089671869
+dimwishlist:item=3556730800&perks=3798852852,1431678320,1115162408,3966416502
+dimwishlist:item=3556730800&perks=3798852852,1431678320,1115162408,3218042543
+dimwishlist:item=3556730800&perks=3798852852,1431678320,1115162408,1089671869
+dimwishlist:item=3556730800&perks=3798852852,1431678320,1017229899,3966416502
+dimwishlist:item=3556730800&perks=3798852852,1431678320,1017229899,3218042543
+dimwishlist:item=3556730800&perks=3798852852,1431678320,1017229899,1089671869
+dimwishlist:item=3556730800&perks=3798852852,1431678320,684456054,3966416502
+dimwishlist:item=3556730800&perks=3798852852,1431678320,684456054,3218042543
+dimwishlist:item=3556730800&perks=3798852852,1431678320,684456054,1089671869
 
 
 // BrayTech Werewolf - [CoolGuy S25A1 Review] (god-pve)
